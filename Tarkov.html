@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>EFT Mini Wiki by Exe</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet" />
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #000;
+      /* Schwarzer Hintergrund */
+      color: #fff;
+      /* Weiße Schrift */
+      font-family: 'Oswald', sans-serif;
+    }
+
+    h1 {
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    h2,
+    label {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .map-container {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      padding: 20px;
+      margin-top: 10px;
+    }
+
+    .map-item {
+      background-color: #111;
+      border: 1px solid #444;
+      text-align: center;
+      padding: 10px;
+      transition: transform 0.2s ease;
+    }
+
+
+    .map-item:hover {
+      transform: scale(1.05);
+      border-color: #888;
+    }
+
+    .map-item img {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+      display: block;
+      margin: 0 auto 10px;
+      border: 1px solid #333;
+    }
+
+    .map-item h2 {
+      margin: 0;
+      font-size: 1.1rem;
+      line-height: 1.4;
+    }
+
+    .map-item a {
+      text-decoration: none;
+      color: #fff;
+    }
+
+    .map-item a:hover {
+      text-decoration: underline;
+    }
+
+    .link-generator {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 300px;
+      background-color: #000;
+      border: 1px solid #444; /* bis hier alles entfernbar, falls Dynamic gewünscht */
+      padding: 10px;
+    }
+
+    .link-generator label {
+      display: inline-block;
+      margin-bottom: 8px;
+    }
+
+    .link-generator input[type="text"] {
+      width: 250px;
+      padding: 5px;
+      margin-bottom: 10px;
+      font-family: 'Oswald', sans-serif;
+      border: 1px solid #444;
+      background-color: #222;
+      color: #fff;
+    }
+
+    #wiki-link {
+      display: inline-block;
+      margin-top: 5px;
+      text-decoration: none;
+      color: #0f9;
+      border-bottom: 1px dashed #0f9;
+      padding-bottom: 2px;
+      transition: color 0.2s ease;
+    }
+
+    #wiki-link:hover {
+      color: #0cf;
+      border-bottom-color: #0cf;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #444;
+      margin: 20px;
+    }
+
+    .WeaponSmith {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 300px;
+      background-color: #000;
+      border: 1px solid #444; /* bis hier alles entfernbar, falls Dynamic gewünscht */
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="link-generator">
+    <h2>Wiki-Link-Generator</h2>
+    <p>
+      Quest Link Generator.<br />
+      Gebe einfach den Questnamen ein.
+    </p>
+    <input type="text" id="wiki-input" placeholder="Text eingeben..." oninput="updateLink()" /><br />
+
+    <a id="wiki-link" href="" target="_blank">Bitte Text eingeben</a>
+  </div>
+
+  <script>
+    function updateLink() {
+      const inputValue = document.getElementById("wiki-input").value.trim();
+      // Leerzeichen durch Unterstriche ersetzen
+      const replacedValue = inputValue.replace(/\s+/g, "_");
+      const link = "https://escapefromtarkov.fandom.com/wiki/" + replacedValue;
+
+      const anchor = document.getElementById("wiki-link");
+      anchor.href = link;
+      anchor.textContent = link;
+    }
+  </script>
+
+<div class="WeaponSmith">
+  <h2 style="text-align: center;">
+    <a href="https://tarkovgunsmith.com/moddedweaponbuilder" style="text-decoration: none; color: inherit;">
+      WeaponSmith
+    </a>
+  </h2>
+</div>
+
+
+  <h1 style="text-align:center; padding-top: 20px;">EFT Mini Wiki</h1>
+
+  <h1 style="text-align:center; padding-top: 80px;">Tarkov Maps</h1>
+  <div class="map-container">
+    <!-- Customs Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/55/CustomsLargeExpansionGloryMonki.png/revision/latest?cb=20240623114630"
+        target="_blank">
+        <!-- Bild von externem Link -->
+        <img src="./Pictures/CustomsSmall.webp" alt="Customs" />
+      </a>
+      <h2>Customs</h2>
+    </div>
+
+    <!-- Factory Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/Factory2DMapbyRe3mr.jpg/revision/latest?cb=20241227175554"
+        target="_blank">
+        <img src="./Pictures/FactorySmall.webp" alt="Factory" />
+      </a>
+      <h2>Factory</h2>
+    </div>
+
+    <!-- Interchange Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/InterchangeMapByre3mr.jpg/revision/latest?cb=20241218130135"
+        target="_blank">
+        <img src="./Pictures/InterchangeSmall.webp" alt="Interchange" />
+      </a>
+      <h2>Interchange</h2>
+    </div>
+
+    <!-- Shoreline Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/Shoreline2DMapByMonkiUpdatedByJindouz.png/revision/latest?cb=20241231213400"
+        target="_blank">
+        <img src="./Pictures/ShorelineSmall.webp" alt="Shoreline" />
+      </a>
+      <h2>Shoreline</h2>
+    </div>
+
+    <!-- Woods Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/Glory4lyfeWoods_map_v4_marked.png/revision/latest?cb=20250308181810"
+        target="_blank">
+        <img src="./Pictures/WoodsSmall.webp" alt="Woods" />
+      </a>
+      <h2>Woods</h2>
+    </div>
+
+    <!-- 6. Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/JindouzReserve_v1_2dmap.png/revision/latest?cb=20241231214828"
+        target="_blank">
+        <img src="./Pictures/ReserveSmall.webp" alt="Reserve" />
+      </a>
+      <h2>Reserve</h2>
+    </div>
+
+    <!-- Lighthouse Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/13/Jindouz_Lighthouse_Map_V1.png/revision/latest?cb=20241227152630"
+        target="_blank">
+        <img src="./Pictures/LighthouseSmall.webp" alt="Lighthouse" />
+      </a>
+      <h2>Lighthouse</h2>
+    </div>
+
+    <!-- The Lab Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/LabsMapByMonkimonkimonk.png/revision/latest?cb=20230327101655"
+        target="_blank">
+        <img src="./Pictures/LabsSmall.webp" alt="The Lab" />
+      </a>
+      <h2>The Lab</h2>
+    </div>
+
+    <!-- Streets of Tarkov Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/StreetsOfTarkov2DMapByJindouz.png/revision/latest?cb=20250112144205"
+        target="_blank">
+        <img src="./Pictures/StreetsOfTarkovSmall.webp" alt="Streets of Tarkov" />
+      </a>
+      <h2>Streets of Tarkov</h2>
+    </div>
+
+    <!-- Ground Zero Kachel -->
+    <div class="map-item">
+      <a href="https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/GroundZeroByxTycho.png/revision/latest?cb=20241228065556"
+        target="_blank">
+        <img src="./Pictures/GroundZeroSmall.webp" alt="Ground Zero" />
+      </a>
+      <h2>Ground Zero</h2>
+    </div>
+  </div>
+
+
+</body>
+
+</html>
