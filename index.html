@@ -13,9 +13,9 @@
       margin: 0;
       padding: 0;
       background-color: #000;
-      /* Schwarzer Hintergrund */
+      /* Schwarz */
       color: #fff;
-      /* Weiße Schrift */
+      /* Weiß */
       font-family: 'Oswald', sans-serif;
     }
 
@@ -31,6 +31,7 @@
       letter-spacing: 1px;
     }
 
+    /* Grid für die Maps */
     .map-container {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
@@ -46,7 +47,6 @@
       padding: 10px;
       transition: transform 0.2s ease;
     }
-
 
     .map-item:hover {
       transform: scale(1.05);
@@ -77,39 +77,152 @@
       text-decoration: underline;
     }
 
-    .link-generator {
-      position: absolute;
-      top: 20px;
-      left: 20px;
+    /* Zweispalten-Layout: Links Suche, rechts Details */
+    .main-container {
+      display: flex;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    /* Linke Spalte: Questsuche */
+    .quest-search {
       width: 300px;
-      background-color: #000;
-      border: 1px solid #444; /* bis hier alles entfernbar, falls Dynamic gewünscht */
+      background: #111;
+      border: 1px solid #444;
+      padding: 10px;
+      position: relative;
+    }
+
+    .quest-search h2 {
+      margin-top: 0;
+    }
+
+    .quest-search input {
+      width: 100%;
+      padding: 5px;
+      background: #222;
+      color: #fff;
+      border: 1px solid #444;
+      box-sizing: border-box;
+      margin-bottom: 10px;
+    }
+
+    .suggestions {
+      position: absolute;
+      top: 100px;
+      /* ggf. anpassen */
+      width: 100%;
+      background: #222;
+      border: 1px solid #666;
+      max-height: 200px;
+      overflow-y: auto;
+      display: none;
+      z-index: 10;
+    }
+
+    .suggestions div {
+      padding: 5px;
+      cursor: pointer;
+      color: #0f9;
+    }
+
+    .suggestions div:hover {
+      background-color: #333;
+    }
+
+    .suggestions .selected {
+      background-color: #333;
+    }
+
+    .quest-details {
+      flex: 1;
+      background: #111;
+      border: 1px solid #444;
       padding: 10px;
     }
 
-    .link-generator label {
-      display: inline-block;
-      margin-bottom: 8px;
-    }
-
-    .link-generator input[type="text"] {
-      width: 250px;
-      padding: 5px;
-      margin-bottom: 10px;
-      font-family: 'Oswald', sans-serif;
-      border: 1px solid #444;
-      background-color: #222;
-      color: #fff;
-    }
-
-    #wiki-link {
-      display: inline-block;
-      margin-top: 5px;
+    .quest-details a {
       text-decoration: none;
       color: #0f9;
-      border-bottom: 1px dashed #0f9;
-      padding-bottom: 2px;
-      transition: color 0.2s ease;
+    }
+
+    /* Trader-Header: Bild, Überschrift, Kappa in einer Zeile */
+    .trader-header {
+      display: flex;
+      align-items: flex-start;
+      /* Bild + Überschrift oben ausrichten */
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    img[src=""] {
+      display: none;
+    }
+
+
+    .heading-section {
+      flex: 1;
+    }
+
+    .trader-header img {
+      width: 80px;
+      height: auto;
+      object-fit: cover;
+      border: 1px solid #333;
+    }
+
+    .kappa-indicator {
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+    .kappa-yes {
+      color: lime;
+    }
+
+    .kappa-no {
+      color: red;
+    }
+
+    /* Layout in Questdetails */
+    .quest-details h2 {
+      margin: 10px 0 5px 0;
+      font-size: 1.4rem;
+    }
+
+    .quest-details h2 a {
+      text-decoration: none;
+      color: #0f9;
+    }
+
+    .quest-objective a {
+      text-decoration: none;
+      color: #0f9;
+    }
+
+    .quest-reward a {
+      text-decoration: none;
+      color: #0f9;
+    }
+
+    .quest-objective {
+      margin-bottom: 10px;
+    }
+
+    .quest-reward {
+      margin-bottom: 10px;
+    }
+
+    .quest-links {
+      margin-bottom: 10px;
+    }
+
+    /* Link-Generator-URL */
+    #wiki-link {
+      text-decoration: none;
+      color: #0f9;
+      display: inline-block;
+      margin-top: 5px;
     }
 
     #wiki-link:hover {
@@ -124,12 +237,8 @@
     }
 
     .WeaponSmith {
-      position: absolute;
-      top: 20px;
-      right: 20px;
-      width: 300px;
       background-color: #000;
-      border: 1px solid #444; /* bis hier alles entfernbar, falls Dynamic gewünscht */
+      border: 1px solid #444;
       padding: 10px;
     }
   </style>
@@ -137,48 +246,47 @@
 
 <body>
 
-  <div class="link-generator">
-    <h2>Wiki-Link-Generator</h2>
-    <p>
-      Quest Link Generator.<br />
-      Gebe einfach den Questnamen ein.
-    </p>
-    <input type="text" id="wiki-input" placeholder="Text eingeben..." oninput="updateLink()" /><br />
+  <!-- Hauptbereich mit 2 Spalten -->
+  <div class="main-container">
 
-    <a id="wiki-link" href="" target="_blank">Bitte Text eingeben</a>
+    <!-- LINKE SPALTE: Questsuche -->
+    <div class="quest-search">
+      <h2>Quest-Suche</h2>
+      <input type="text" id="wiki-input" placeholder="Quest eingeben..." autocomplete="off" />
+      <div class="suggestions" id="suggestions"></div>
+      <a id="wiki-link" href="" target="_blank"></a>
+    </div>
+
+    <!-- RECHTE SPALTE: Questdetails -->
+    <div class="quest-details" id="quest-details">
+      <!-- Trader-Header: Bild, Überschrift, Kappa -->
+      <div class="trader-header">
+        <img id="trader-img" src="" alt="Trader" />
+
+        <!-- Überschrift plus evtl. Untertitel in einer "heading-section" -->
+        <div class="heading-section">
+          <h2 id="quest-title">Bitte eine Quest auswählen</h2>
+        </div>
+
+        <span id="kappa-indicator" class="kappa-indicator">???</span>
+      </div>
+
+      <div class="quest-objective" id="quest-objective"></div>
+      <div class="quest-reward" id="quest-reward"></div>
+      <div class="quest-links" id="quest-links"></div>
+    </div>
+
   </div>
 
-  <script>
-    function updateLink() {
-      const inputValue = document.getElementById("wiki-input").value.trim();
-      // Leerzeichen durch Unterstriche ersetzen
-      const replacedValue = inputValue.replace(/\s+/g, "_");
-      const link = "https://escapefromtarkov.fandom.com/wiki/" + replacedValue;
+  <!-- Dein Script, z.B. Fuzzy-Suche und Detail-Anzeige -->
+  <script src="quests.js"></script>
 
-      const anchor = document.getElementById("wiki-link");
-      anchor.href = link;
-      anchor.textContent = link;
-    }
-  </script>
+  <h1 style="text-align:center;">Tarkov Maps</h1>
 
-<div class="WeaponSmith">
-  <h2 style="text-align: center;">
-    <a href="https://tarkovgunsmith.com/moddedweaponbuilder" style="text-decoration: none; color: inherit;">
-      WeaponSmith
-    </a>
-  </h2>
-</div>
-
-
-  <h1 style="text-align:center; padding-top: 20px;">EFT Mini Wiki</h1>
-
-  <h1 style="text-align:center; padding-top: 80px;">Tarkov Maps</h1>
   <div class="map-container">
     <!-- Customs Kachel -->
     <div class="map-item">
-      <a href="./Pictures/CustomsLarge.webp"
-        target="_blank">
-        <!-- Bild von externem Link -->
+      <a href="./Pictures/CustomsLarge.webp" target="_blank">
         <img src="./Pictures/CustomsSmall.webp" alt="Customs" />
       </a>
       <h2>Customs</h2>
@@ -186,8 +294,7 @@
 
     <!-- Factory Kachel -->
     <div class="map-item">
-      <a href="./Pictures/FactoryLarge.webp"
-        target="_blank">
+      <a href="./Pictures/FactoryLarge.webp" target="_blank">
         <img src="./Pictures/FactorySmall.webp" alt="Factory" />
       </a>
       <h2>Factory</h2>
@@ -195,8 +302,7 @@
 
     <!-- Interchange Kachel -->
     <div class="map-item">
-      <a href="./Pictures/InterchangeLarge.webp"
-        target="_blank">
+      <a href="./Pictures/InterchangeLarge.webp" target="_blank">
         <img src="./Pictures/InterchangeSmall.webp" alt="Interchange" />
       </a>
       <h2>Interchange</h2>
@@ -204,8 +310,7 @@
 
     <!-- Shoreline Kachel -->
     <div class="map-item">
-      <a href="./Pictures/ShorelineLarge.webp"
-        target="_blank">
+      <a href="./Pictures/ShorelineLarge.webp" target="_blank">
         <img src="./Pictures/ShorelineSmall.webp" alt="Shoreline" />
       </a>
       <h2>Shoreline</h2>
@@ -213,8 +318,7 @@
 
     <!-- Woods Kachel -->
     <div class="map-item">
-      <a href="./Pictures/WoodsLarge.webp"
-        target="_blank">
+      <a href="./Pictures/WoodsLarge.webp" target="_blank">
         <img src="./Pictures/WoodsSmall.webp" alt="Woods" />
       </a>
       <h2>Woods</h2>
@@ -222,8 +326,7 @@
 
     <!-- 6. Kachel -->
     <div class="map-item">
-      <a href="./Pictures/ReserveLarge.webp"
-        target="_blank">
+      <a href="./Pictures/ReserveLarge.webp" target="_blank">
         <img src="./Pictures/ReserveSmall.webp" alt="Reserve" />
       </a>
       <h2>Reserve</h2>
@@ -231,8 +334,7 @@
 
     <!-- Lighthouse Kachel -->
     <div class="map-item">
-      <a href="./Pictures/LighthouseLarge.webp"
-        target="_blank">
+      <a href="./Pictures/LighthouseLarge.webp" target="_blank">
         <img src="./Pictures/LighthouseSmall.webp" alt="Lighthouse" />
       </a>
       <h2>Lighthouse</h2>
@@ -240,8 +342,7 @@
 
     <!-- The Lab Kachel -->
     <div class="map-item">
-      <a href="./Pictures/LabsLarge.webp"
-        target="_blank">
+      <a href="./Pictures/LabsLarge.webp" target="_blank">
         <img src="./Pictures/LabsSmall.webp" alt="The Lab" />
       </a>
       <h2>The Lab</h2>
@@ -249,8 +350,7 @@
 
     <!-- Streets of Tarkov Kachel -->
     <div class="map-item">
-      <a href="./Pictures/StreetsOfTarkovLarge.webp"
-        target="_blank">
+      <a href="./Pictures/StreetsOfTarkovLarge.webp" target="_blank">
         <img src="./Pictures/StreetsOfTarkovSmall.webp" alt="Streets of Tarkov" />
       </a>
       <h2>Streets of Tarkov</h2>
@@ -258,15 +358,20 @@
 
     <!-- Ground Zero Kachel -->
     <div class="map-item">
-      <a href="./Pictures/GroundZeroLarge.webp"
-        target="_blank">
+      <a href="./Pictures/GroundZeroLarge.webp" target="_blank">
         <img src="./Pictures/GroundZeroSmall.webp" alt="Ground Zero" />
       </a>
       <h2>Ground Zero</h2>
     </div>
   </div>
 
-
+  <div class="WeaponSmith">
+    <h2 style="text-align: center;">
+      <a href="https://tarkovgunsmith.com/moddedweaponbuilder" style="text-decoration: none; color: inherit;">
+        WeaponSmith
+      </a>
+    </h2>
+  </div>
 </body>
 
 </html>
