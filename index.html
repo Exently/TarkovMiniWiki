@@ -13,9 +13,7 @@
       margin: 0;
       padding: 0;
       background-color: #000;
-      /* Schwarz */
       color: #fff;
-      /* Weiß */
       font-family: 'Oswald', sans-serif;
     }
 
@@ -31,7 +29,6 @@
       letter-spacing: 1px;
     }
 
-    /* Grid für die Maps */
     .map-container {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
@@ -77,14 +74,12 @@
       text-decoration: underline;
     }
 
-    /* Zweispalten-Layout: Links Suche, rechts Details */
     .main-container {
       display: flex;
       gap: 20px;
       padding: 20px;
     }
 
-    /* Linke Spalte: Questsuche */
     .quest-search {
       width: 300px;
       background: #111;
@@ -104,13 +99,11 @@
       color: #fff;
       border: 1px solid #444;
       box-sizing: border-box;
-      margin-bottom: 10px;
     }
 
     .suggestions {
       position: absolute;
       top: 100px;
-      /* ggf. anpassen */
       width: 100%;
       background: #222;
       border: 1px solid #666;
@@ -126,12 +119,33 @@
       color: #0f9;
     }
 
-    .suggestions div:hover {
+    .suggestions div:hover,
+    .suggestions .selected {
       background-color: #333;
     }
 
-    .suggestions .selected {
-      background-color: #333;
+    .clear-btn {
+      background-color: #330000;
+      border: 1px solid #550000;
+      color: #fff;
+      padding: 5px 5px;
+      cursor: pointer;
+      font-family: 'Oswald', sans-serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-left: auto;
+      border-radius: 5px;
+    }
+
+    .clear-btn:hover {
+      background-color: #440000;
+      border-color: #660000;
+    }
+
+    .input-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
     }
 
     .quest-details {
@@ -141,24 +155,20 @@
       padding: 10px;
     }
 
-    .quest-details a {
-      text-decoration: none;
-      color: #0f9;
-    }
-
-    /* Trader-Header: Bild, Überschrift, Kappa in einer Zeile */
     .trader-header {
       display: flex;
       align-items: flex-start;
-      /* Bild + Überschrift oben ausrichten */
       gap: 10px;
       margin-bottom: 10px;
+    }
+
+    .quest-title a:hover {
+      text-decoration: underline;
     }
 
     img[src=""] {
       display: none;
     }
-
 
     .heading-section {
       flex: 1;
@@ -169,6 +179,12 @@
       height: auto;
       object-fit: cover;
       border: 1px solid #333;
+    }
+
+    .kappa-text {
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 1.2rem;
     }
 
     .kappa-indicator {
@@ -184,56 +200,28 @@
       color: red;
     }
 
-    /* Layout in Questdetails */
+    .kappa-container {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
     .quest-details h2 {
       margin: 10px 0 5px 0;
       font-size: 1.4rem;
     }
 
-    .quest-details h2 a {
+    .quest-objective a,
+    .quest-reward a,
+    .quest-title a {
       text-decoration: none;
       color: #0f9;
-    }
-
-    .quest-objective a {
-      text-decoration: none;
-      color: #0f9;
-    }
-
-    .quest-reward a {
-      text-decoration: none;
-      color: #0f9;
-    }
-
-    .quest-objective {
-      margin-bottom: 10px;
-    }
-
-    .quest-reward {
-      margin-bottom: 10px;
-    }
-
-    .quest-links {
-      margin-bottom: 10px;
-    }
-
-    /* Link-Generator-URL */
-    #wiki-link {
-      text-decoration: none;
-      color: #0f9;
-      display: inline-block;
-      margin-top: 5px;
-    }
-
-    #wiki-link:hover {
-      color: #0cf;
-      border-bottom-color: #0cf;
     }
 
     hr {
       border: none;
       border-top: 1px solid #444;
-      margin: 20px;
+      margin: 5px;
     }
 
     .WeaponSmith {
@@ -241,50 +229,91 @@
       border: 1px solid #444;
       padding: 10px;
     }
+
+    .quest-objective-container {
+      flex: 65%;
+      background: #111;
+      border: 1px solid #444;
+      padding-left: 10px;
+      padding-bottom: 10px;
+
+      border-radius: 5px;
+      min-width: 0;
+    }
+
+    .quest-reward-container {
+      flex: auto;
+      background: #111;
+      border: 1px solid #444;
+      padding-left: 10px;
+      padding-bottom: 10px;
+      border-radius: 5px;
+      min-width: 0;
+    }
+
+    .quest-objective-container h3,
+    .quest-reward-container h3 {
+      color: #0f9;
+      margin-bottom: 10px;
+    }
+
+    .quest-info-container {
+      display: flex;
+      gap: 5px;
+      margin-top: 5px;
+      margin-bottom: 10px;
+      min-width: none;
+    }
   </style>
 </head>
 
 <body>
 
-  <!-- Hauptbereich mit 2 Spalten -->
   <div class="main-container">
 
-    <!-- LINKE SPALTE: Questsuche -->
     <div class="quest-search">
-      <h2>Quest-Suche</h2>
-      <input type="text" id="wiki-input" placeholder="Quest eingeben..." autocomplete="off" />
+      <h2>Quest-Search</h2>
+      <div class="input-row">
+        <input type="text" id="wiki-input" placeholder="Input Questname..." autocomplete="off" />
+        <a class="clear-btn" id="clear-btn">Clear</a>
+      </div>
       <div class="suggestions" id="suggestions"></div>
-      <a id="wiki-link" href="" target="_blank"></a>
     </div>
 
-    <!-- RECHTE SPALTE: Questdetails -->
     <div class="quest-details" id="quest-details">
-      <!-- Trader-Header: Bild, Überschrift, Kappa -->
       <div class="trader-header">
         <img id="trader-img" src="" alt="Trader" />
-
-        <!-- Überschrift plus evtl. Untertitel in einer "heading-section" -->
         <div class="heading-section">
-          <h2 id="quest-title">Bitte eine Quest auswählen</h2>
+          <h2 id="quest-title" class="quest-title">Search a quest for detailed infos.</h2>
+        </div>
+        <div class="kappa-container">
+          <span id="kappa-text" class="kappa-text">Needed for Kappa:</span>
+          <span id="kappa-indicator" class="kappa-indicator">???</span>
         </div>
 
-        <span id="kappa-indicator" class="kappa-indicator">???</span>
       </div>
+      <hr />
+      <div class="quest-info-container">
+        <div class="quest-objective-container">
+          <h3>Quest Objective:</h3>
+          <div id="quest-objective" class="quest-objective"></div>
+        </div>
 
-      <div class="quest-objective" id="quest-objective"></div>
-      <div class="quest-reward" id="quest-reward"></div>
-      <div class="quest-links" id="quest-links"></div>
+        <div class="quest-reward-container">
+          <h3>Quest Rewards:</h3>
+          <div id="quest-reward" class="quest-reward"></div>
+        </div>
+      </div>
     </div>
+  </div>
 
   </div>
 
-  <!-- Dein Script, z.B. Fuzzy-Suche und Detail-Anzeige -->
   <script src="quests.js"></script>
 
   <h1 style="text-align:center;">Tarkov Maps</h1>
 
   <div class="map-container">
-    <!-- Customs Kachel -->
     <div class="map-item">
       <a href="./Pictures/CustomsLarge.webp" target="_blank">
         <img src="./Pictures/CustomsSmall.webp" alt="Customs" />
@@ -292,7 +321,6 @@
       <h2>Customs</h2>
     </div>
 
-    <!-- Factory Kachel -->
     <div class="map-item">
       <a href="./Pictures/FactoryLarge.webp" target="_blank">
         <img src="./Pictures/FactorySmall.webp" alt="Factory" />
@@ -300,7 +328,6 @@
       <h2>Factory</h2>
     </div>
 
-    <!-- Interchange Kachel -->
     <div class="map-item">
       <a href="./Pictures/InterchangeLarge.webp" target="_blank">
         <img src="./Pictures/InterchangeSmall.webp" alt="Interchange" />
@@ -308,7 +335,6 @@
       <h2>Interchange</h2>
     </div>
 
-    <!-- Shoreline Kachel -->
     <div class="map-item">
       <a href="./Pictures/ShorelineLarge.webp" target="_blank">
         <img src="./Pictures/ShorelineSmall.webp" alt="Shoreline" />
@@ -316,7 +342,6 @@
       <h2>Shoreline</h2>
     </div>
 
-    <!-- Woods Kachel -->
     <div class="map-item">
       <a href="./Pictures/WoodsLarge.webp" target="_blank">
         <img src="./Pictures/WoodsSmall.webp" alt="Woods" />
@@ -324,7 +349,6 @@
       <h2>Woods</h2>
     </div>
 
-    <!-- 6. Kachel -->
     <div class="map-item">
       <a href="./Pictures/ReserveLarge.webp" target="_blank">
         <img src="./Pictures/ReserveSmall.webp" alt="Reserve" />
@@ -332,7 +356,6 @@
       <h2>Reserve</h2>
     </div>
 
-    <!-- Lighthouse Kachel -->
     <div class="map-item">
       <a href="./Pictures/LighthouseLarge.webp" target="_blank">
         <img src="./Pictures/LighthouseSmall.webp" alt="Lighthouse" />
@@ -340,7 +363,6 @@
       <h2>Lighthouse</h2>
     </div>
 
-    <!-- The Lab Kachel -->
     <div class="map-item">
       <a href="./Pictures/LabsLarge.webp" target="_blank">
         <img src="./Pictures/LabsSmall.webp" alt="The Lab" />
@@ -348,7 +370,6 @@
       <h2>The Lab</h2>
     </div>
 
-    <!-- Streets of Tarkov Kachel -->
     <div class="map-item">
       <a href="./Pictures/StreetsOfTarkovLarge.webp" target="_blank">
         <img src="./Pictures/StreetsOfTarkovSmall.webp" alt="Streets of Tarkov" />
@@ -356,7 +377,6 @@
       <h2>Streets of Tarkov</h2>
     </div>
 
-    <!-- Ground Zero Kachel -->
     <div class="map-item">
       <a href="./Pictures/GroundZeroLarge.webp" target="_blank">
         <img src="./Pictures/GroundZeroSmall.webp" alt="Ground Zero" />
