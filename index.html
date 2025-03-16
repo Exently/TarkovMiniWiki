@@ -124,23 +124,6 @@
       background-color: #333;
     }
 
-    .clear-btn {
-      background-color: #330000;
-      border: 1px solid #550000;
-      color: #fff;
-      padding: 5px 5px;
-      cursor: pointer;
-      font-family: 'Oswald', sans-serif;
-      letter-spacing: 1px;
-      text-transform: uppercase;
-      margin-left: auto;
-      border-radius: 5px;
-    }
-
-    .clear-btn:hover {
-      background-color: #440000;
-      border-color: #660000;
-    }
 
     .input-row {
       display: flex;
@@ -264,6 +247,197 @@
       margin-bottom: 10px;
       min-width: none;
     }
+
+    .notiz-button {
+      background-color: #0f9;
+      color: #000;
+      border: 1px solid #0a5;
+      padding: 10px 15px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      font-family: 'Oswald', sans-serif;
+      text-transform: uppercase;
+      position: absolute;
+      margin-left: 20px;
+      border-radius: 5px;
+      transition: 0.2s;
+      left: 5px;
+    }
+
+    .notiz-button:hover {
+      background-color: #0c6;
+      border-color: #0a4;
+    }
+
+    /* Modal-Styling */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    .modal-content {
+      background-color: #111;
+      color: #fff;
+      margin: 10% auto;
+      padding: 20px;
+      border-radius: 8px;
+      width: 80%;
+      max-width: 800px;
+      text-align: center;
+      border: 2px solid #0f9;
+    }
+
+    textarea {
+      width: 95%;
+      max-width: 750px;
+      height: 150px;
+      padding: 10px;
+      font-size: 16px;
+      background: #222;
+      color: #0f9;
+      border: 1px solid #0a5;
+      font-family: 'Oswald', sans-serif;
+    }
+
+    .button-container {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 10px;
+    }
+
+    .clear-btn {
+      background-color: #330000;
+      border: 1px solid #550000;
+      color: #fff;
+      padding: 5px 5px;
+      cursor: pointer;
+      font-family: 'Oswald', sans-serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-left: auto;
+      border-radius: 5px;
+    }
+
+    .clear-btn:hover {
+      background-color: #440000;
+      border-color: #660000;
+    }
+
+    .save-btn,
+    .close-btn {
+      background-color: #330000;
+      border: 1px solid #550000;
+      color: white;
+      padding: 10px;
+      cursor: pointer;
+      font-family: 'Oswald', sans-serif;
+      text-transform: uppercase;
+      border-radius: 5px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+
+    .save-btn:hover,
+    .close-btn:hover {
+      background-color: #440000;
+      border-color: #660000;
+    }
+
+    .notesContainer {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      padding: 20px;
+      position: relative;
+    }
+
+    .notes-list {
+      text-align: left;
+      margin-top: 10px;
+    }
+
+    .note-item {
+      background: #222;
+      padding: 10px;
+      margin-top: 5px;
+      border-radius: 5px;
+      border: 1px solid #0a5;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .note-item button {
+      border: none;
+      color: white;
+      padding: 5px;
+      cursor: pointer;
+      font-family: 'Oswald', sans-serif;
+      text-transform: uppercase;
+      border-radius: 5px;
+    }
+
+
+    .notesContainer h1 {
+      flex-grow: 1;
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin: 0;
+    }
+
+    #notesListContainer {
+      max-height: 200px;
+      overflow-y: auto;
+      border-top: 1px solid #0a5;
+      padding-top: 10px;
+    }
+
+    .delete-note {
+      background-color: #330000;
+      border: 1px solid #550000;
+      color: white;
+      border: none;
+      padding: 5px;
+      cursor: pointer;
+      font-family: 'Oswald', sans-serif;
+      text-transform: uppercase;
+      border-radius: 5px;
+    }
+
+    .delete-note:hover {
+      background-color: #440000;
+      border-color: #660000;
+    }
+
+    .note-item input {
+      background: #222;
+      color: #0f9;
+      border: 1px solid #0a5;
+      font-family: 'Oswald', sans-serif;
+      font-size: 14px;
+      padding: 5px;
+      flex-grow: 1;
+      margin-right: 5px;
+    }
+
+    .note-item .edit-btn {
+      background: #0f9;
+      color: #000;
+      margin-right: 5px;
+    }
+
+    .note-item .edit-btn:hover {
+      background: #0c6;
+    }
   </style>
 </head>
 
@@ -311,7 +485,31 @@
 
   <script src="quests.js"></script>
 
-  <h1 style="text-align:center;">Tarkov Maps</h1>
+
+
+  <div id="notizModal" class="modal">
+    <div class="modal-content">
+      <h3>📓 Your notes</h3>
+      <textarea id="notizfeld" placeholder="Write some notes..."></textarea>
+      <button class="save-btn" onclick="saveNote()">➕ Save Note</button>
+
+      <div id="notesListContainer">
+        <div id="notesList" class="notes-list"></div>
+      </div>
+
+      <button class="close-btn" onclick="closeModal()">Close</button>
+    </div>
+  </div>
+
+  <script src="notes.js"></script>
+
+
+  <div class="notesContainer">
+    <button class="notiz-button" onclick="openModal()">📓 Notes</button>
+    <h1 style="text-align:center;">Tarkov Maps</h1>
+  </div>
+
+
 
   <div class="map-container">
     <div class="map-item">
