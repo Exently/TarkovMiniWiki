@@ -12,7 +12,7 @@ localStorage.setItem("notes", JSON.stringify(notes));
 function saveNote() {
     let title = document.getElementById("noteTitle").value.trim();
     let content = document.getElementById("notizfeld").value.trim();
-    document.querySelector(".save-btn").textContent = editingIndex !== null ? "💾 Update Note" : "➕ Save Note";
+    
     if (!title && !content) return;
 
     if (editingIndex !== null) {
@@ -32,9 +32,8 @@ function saveNote() {
     document.querySelector(".modal-content").appendChild(status);
     setTimeout(() => status.remove(), 1500);
     updateNotesList();
+    document.querySelector(".save-btn").textContent = editingIndex !== null ? "💾 Update Note" : "➕ Save Note";
 }
-
-
 
 function deleteNote(index) {
     notes.splice(index, 1);
@@ -44,16 +43,19 @@ function deleteNote(index) {
 
 function editNote(index) {
     const note = notes[index];
-    document.querySelector(".save-btn").textContent = editingIndex !== null ? "💾 Update Note" : "➕ Save Note";
     document.getElementById("noteTitle").value = note.title;
     document.getElementById("notizfeld").value = note.content;
     editingIndex = index;
+    document.querySelector(".save-btn").textContent = editingIndex !== null ? "💾 Update Note" : "➕ Save Note";
+    document.getElementById("cancel-btn").style.display = "inline-block";
 }
 
 function cancelEdit() {
     editingIndex = null;
     document.getElementById("noteTitle").value = "";
     document.getElementById("notizfeld").value = "";
+    document.querySelector(".save-btn").textContent = "➕ Save Note";
+    document.getElementById("cancel-btn").style.display = "none";
 }
 
 function updateNotesList() {

@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>EFT Mini Wiki by Exe</title>
-  <link rel="icon" href="./assets/webSiteHeader.png" type="image/png" />
+  <link rel="icon" href="./assets/favicon_book.ico" type="image/ico" />
   <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles/main.css" />
@@ -77,6 +77,7 @@
         style="width: 95%; max-width: 750px; padding: 10px; font-size: 16px; background: #222; color: #0f9; border: 1px solid #0a5; font-family: 'Oswald', sans-serif; margin-bottom: 10px;">
       <textarea id="notizfeld" placeholder="Write some notes..."></textarea>
       <button class="save-btn" onclick="saveNote()">➕ Save Note</button>
+      <button id="cancel-btn" class="close-btn" onclick="cancelEdit()" style="display: none;">❌ Cancel</button>
 
       <div id="notesListContainer">
         <div id="notesList" class="notes-list"></div>
