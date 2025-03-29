@@ -177,6 +177,37 @@
     </h2>
   </div>
 
+  <div id="introModal" class="modal">
+    <div class="modal-content">
+      <h2>👋 Welcome to the EFT Mini Wiki</h2>
+      <p></p>
+      <ul style="text-align: left; max-width: 600px; margin: 0 auto; padding-left: 20px;">
+        <li><strong>🔍 Search:</strong> Quick search for every quest as a quick guidance.</li>
+        <li><strong>🗺️ Maps:</strong> Quick Map overview, just one click for the whole map.</li>
+        <li><strong>📓 Notes:</strong> Input your own notes for quests items or specific barters or what you could think of.</li>
+        <li><strong>🕒 Clock:</strong> Ingame Tarkov Raidtimes at the top of the screen.</li>
+      </ul>
+      <button class="save-btn" onclick="closeIntroModal()">Let's go! 🚀</button>
+    </div>
+  </div>
+  
+  <script>
+    function closeIntroModal() {
+      const modal = document.getElementById("introModal");
+      modal.classList.remove("visible");
+      modal.style.display = "none";
+      localStorage.setItem("efwikiIntroSeen", "true");
+    }
+  
+    window.addEventListener("DOMContentLoaded", () => {
+      if (!localStorage.getItem("efwikiIntroSeen")) {
+        const modal = document.getElementById("introModal");
+        modal.style.display = "block";
+        setTimeout(() => modal.classList.add("visible"), 10);
+      }
+    });
+  </script>
+
   <script src="scripts/clock.js"></script>
   <script src="scripts/notes.js"></script>
   <script src="scripts/quests.js"></script>
