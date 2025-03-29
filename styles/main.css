@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+h2,
+label {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+.main-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #444;
+  margin: 5px;
+}

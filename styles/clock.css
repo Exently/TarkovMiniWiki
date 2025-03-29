@@ -1,0 +1,21 @@
+.clock {
+    position: flex;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .clock #tarkov-clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    font-size: 1.2em;
+    background: #0f0f0f;
+    color: #0f9;
+    padding: 8px 16px;
+    border-radius: 6px;
+  }

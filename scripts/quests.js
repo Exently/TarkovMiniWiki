@@ -2,15 +2,6 @@ let allQuests = [];
 let currentIndex = -1;
 let filteredQuests = [];
 
-window.addEventListener("load", () => {
-    setTimeout(() => {
-        const input = document.getElementById("wiki-input");
-        if (input) {
-            input.addEventListener("input", onInput);
-        }
-    }, 100);
-});
-
 document.addEventListener("DOMContentLoaded", () => {
     fetch("all_quests.json")
         .then(res => res.json())
@@ -139,7 +130,6 @@ function showQuestDetails(quest) {
     const titleEl = document.getElementById("quest-title");
     const objEl = document.getElementById("quest-objective");
     const rewEl = document.getElementById("quest-reward");
-    const linksEl = document.getElementById("quest-links");
 
     traderImgEl.src = getTraderImage(quest.Questgeber);
 
@@ -163,7 +153,6 @@ function showQuestDetails(quest) {
     const rawRew = quest.Reward || "";
     objEl.innerHTML = transformToLinks(rawObj, quest.AdditionalLinks);
     rewEl.innerHTML = transformToLinks(rawRew, quest.AdditionalLinks);
-    linksEl.innerHTML = "";
 }
 
 function transformToLinks(originalText, linkObjs) {
