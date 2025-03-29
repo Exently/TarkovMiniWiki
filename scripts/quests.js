@@ -2,6 +2,15 @@ let allQuests = [];
 let currentIndex = -1;
 let filteredQuests = [];
 
+window.addEventListener("load", () => {
+    setTimeout(() => {
+        const input = document.getElementById("wiki-input");
+        if (input) {
+            input.addEventListener("input", onInput);
+        }
+    }, 100);
+});
+
 document.addEventListener("DOMContentLoaded", () => {
     fetch("all_quests.json")
         .then(res => res.json())
@@ -55,12 +64,12 @@ document.addEventListener("DOMContentLoaded", () => {
     clearBtn.addEventListener("click", () => {
         // Eingabe leeren
         inputEl.value = "";
-    
+
         // Vorschläge ausblenden
         suggestionsEl.style.display = "none";
         suggestionsEl.innerHTML = "";
         currentIndex = -1;
-    filteredQuests = [];
+        filteredQuests = [];
     });
 
     inputEl.addEventListener("keydown", (e) => {
@@ -184,9 +193,9 @@ function transformToLinks(originalText, linkObjs) {
 
 function getTraderImage(traderName) {
     if (traderName === "BTRDriver") {
-        return "./Pictures/BTR_Driver_Portrait.webp";
+        return "./assets/Pictures/BTR_Driver_Portrait.webp";
     }
-    return `./Pictures/${traderName}_Portrait.webp`;
+    return `./assets/Pictures/${traderName}_Portrait.webp`;
 }
 
 

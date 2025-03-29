@@ -1,5 +1,9 @@
 const tarkovRatio = 7;
 
+window.addEventListener("load", () => {
+    setTimeout(() => setInterval(updateClock, 1000), 100);
+  });
+
 function hrs(num) {
     return 1000 * 60 * 60 * num;
 }
