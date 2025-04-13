@@ -1,61 +1,31 @@
 # 🎯 EFT Mini Wiki by Exe
 
-Willkommen zur **EFT Mini Wiki** – ein kompaktes, visuelles Wiki für das Spiel *Escape from Tarkov*.  
-Diese Seite hilft dir dabei, schnell auf Karten, Quest-Infos und Notizen zuzugreifen – egal ob im Raid oder bei der Vorbereitung.
+Welcome to the **EFT Mini Wiki** – a compact, visual wiki for *Escape from Tarkov*.  
+This page provides quick access to maps, quests, personal notes, and Goon tracking – perfect for raid planning or on-the-fly usage.
 
 ## 🔧 Features
 
-- 🗺️ Übersichtliche Map-Sektion mit Vorschaubildern und großen Karten zum Zoomen
-- 🔍 Live-Suche für Tarkov-Quests
-- 📓 Eigene Notizen speichern, bearbeiten und löschen (persistiert im Browser über `localStorage`)
-- 🕒 Live-Raid-Uhr
-- 🛠️ Verlinkung zum WeaponBuilder (tarkovgunsmith.com)
-
-## 🧱 Projektstruktur
-
-```bash
-.
-├── index.html
-├── styles/
-│   └── main.css
-├── scripts/
-│   ├── clock.js
-│   ├── notes.js
-│   └── quests.js
-├── components/
-│   ├── header.html
-│   ├── maps.html
-│   └── footer.html
-└── assets/
-    └── Pictures/
-```
+- 🗺️ **Map overview** with previews and high-res zoomable maps
+- 🔍 **Live quest search** with info on objectives, rewards & Kappa relevance
+- 📓 **Note system** with edit/delete & persistent storage via `localStorage`
+- 🕒 **Live raid timer**
+- 🧟‍♂️ **Goon tracker** powered by TarkovPal API
+- 🛠️ **WeaponBuilder link** to [tarkovgunsmith.com](https://tarkovgunsmith.com/moddedweaponbuilder)
 
 ## 🚀 Deployment
 
-Diese Seite wird direkt auf **GitHub Pages** gehostet.
+This project is deployed via **GitHub Pages** and publicly accessible anytime.
 
-## 🛠️ Lokale Nutzung
+## ⚠️ Notes
 
-Falls du lokal arbeiten willst:
+- Notes are stored **locally in your browser**
+- Goon data is updated via a **Render.com proxy** every 5 minutes
+- Timestamps from the API are based on **Eastern Standard Time (EST / UTC-5)** and converted locally
 
-1. Klone das Repository:
-   ```bash
-   git clone https://github.com/deinname/efwiki.git
-   ```
-2. Öffne den Ordner in einem Code-Editor (z. B. VS Code)
-3. Starte Live Server oder öffne `index.html` direkt im Browser
+## 🧠 License
 
-## 💡 Hinweise
-
-- Alle Daten bleiben **nur im Browser gespeichert** – deine Notizen sind lokal.
-- Quests können in `quests.json` gepflegt werden.
-- Das Design ist voll responsive.
-
-
-## 🧠 Lizenz
-
-Dieses Projekt ist Open Source unter der [MIT Lizenz](LICENSE).
+This project is open source under the [MIT License](LICENSE).
 
 ---
 
-> Made with ❤️ by Exe
+> Made by Exe
