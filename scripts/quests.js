@@ -70,14 +70,14 @@ document.addEventListener("DOMContentLoaded", () => {
             e.preventDefault();
             currentIndex++;
             if (currentIndex >= filteredQuests.length) {
-                currentIndex = filteredQuests.lenght - 1;
+                currentIndex = 0;
             }
             highlightSuggestion();
         } else if (e.key === "ArrowUp") {
             e.preventDefault();
             currentIndex--;
             if (currentIndex < 0) {
-                currentIndex = 0;
+                currentIndex = filteredQuests.length - 1;
             }
             highlightSuggestion();
         } else if (e.key === "Enter") {
