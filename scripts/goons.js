@@ -56,7 +56,7 @@ async function fetchGoonData() {
     
         if (returnDateObject) return utcDate;
     
-        return utcDate.toLocaleString(undefined, {
+        return utcDate.toLocaleString("en-EN", {
             timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
             year: "numeric",
             month: "long",
