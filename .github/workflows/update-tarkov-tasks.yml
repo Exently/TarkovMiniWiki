@@ -32,6 +32,6 @@ jobs:
 
       - name: 📤 Commit and Push
         run: |
-          git add .data/tarkov_tasks.json
+          git add data/tarkov_tasks.json
           git commit -m "🔄 Auto-update tarkov_tasks.json [$(date +'%Y-%m-%d %H:%M')]" || echo "No changes to commit"
           git push
