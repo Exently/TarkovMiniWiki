@@ -19,8 +19,7 @@ jobs:
           node-version: 18
 
       - name: 📥 Install node-fetch
-        run: npm install node-fetch
-
+        run: npm install node-fetch@2
       - name: 🔄 Update .data/tarkov_tasks.json
         run: |
           node scripts/fetchTasks.js
