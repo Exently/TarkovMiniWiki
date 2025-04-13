@@ -1,0 +1,34 @@
+name: Update Tarkov Tasks JSON
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Täglich um 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: 📥 Install node-fetch
+        run: npm install node-fetch
+
+      - name: 🔄 Update .data/tarkov_tasks.json
+        run: |
+          node scripts/fetchTasks.js
+
+      - name: 📤 Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .data/tarkov_tasks.json
+          git commit -m "🔄 Auto-update tarkov_tasks.json [$(date +'%Y-%m-%d %H:%M')]"
+          git push

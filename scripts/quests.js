@@ -3,7 +3,7 @@ let currentIndex = -1;
 let filteredQuests = [];
 
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("all_quests.json")
+    fetch("./data/all_quests.json")
         .then(res => res.json())
         .then(data => {
             allQuests = data;
