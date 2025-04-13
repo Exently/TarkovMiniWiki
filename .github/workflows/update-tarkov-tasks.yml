@@ -2,7 +2,7 @@ name: Update Tarkov Tasks JSON
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Täglich um 00:00 UTC
+    - cron: '0 0 * * *'  # Täglich um 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -18,16 +18,20 @@ jobs:
         with:
           node-version: 18
 
-      - name: 📥 Install node-fetch
+      - name: 📥 Install node-fetch v2
         run: npm install node-fetch@2
-      - name: 🔄 Update .data/tarkov_tasks.json
+
+      - name: 🔄 Run fetch script
+        run: node scripts/fetchTasks.js
+
+      - name: 🔐 Setup GitHub token auth
         run: |
-          node scripts/fetchTasks.js
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
       - name: 📤 Commit and Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .data/tarkov_tasks.json
-          git commit -m "🔄 Auto-update tarkov_tasks.json [$(date +'%Y-%m-%d %H:%M')]"
+          git commit -m "🔄 Auto-update tarkov_tasks.json [$(date +'%Y-%m-%d %H:%M')]" || echo "No changes to commit"
           git push
