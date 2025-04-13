@@ -49,7 +49,7 @@ async function fetchAndSave() {
   });
 
   const json = await res.json();
-  const outputDir = path.join(".data");
+  const outputDir = path.join("data");
   const outputPath = path.join(outputDir, "tarkov_tasks.json");
 
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
