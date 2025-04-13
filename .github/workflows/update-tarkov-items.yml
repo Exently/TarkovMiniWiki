@@ -1,0 +1,37 @@
+name: Update Tarkov Items JSON (hourly)
+
+on:
+  schedule:
+    - cron: '30 * * * *'  # jede Stunde um Minute 30
+  workflow_dispatch:
+
+jobs:
+  update-items:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: 📥 Install node-fetch v2
+        run: npm install node-fetch@2
+
+      - name: 🔄 Fetch tarkov_items.json
+        run: node scripts/fetchItems.js
+
+      - name: 🔐 Setup GitHub token auth
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+      - name: 📤 Commit and Push
+        run: |
+          git add data/tarkov_items.json
+          git commit -m "🔄 Auto-update tarkov_items.json [$(date +'%Y-%m-%d %H:%M')]" || echo "✅ No changes"
+          git push
