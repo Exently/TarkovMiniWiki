@@ -12,11 +12,18 @@
   <link rel="stylesheet" href="styles/questSearch.css" />
   <link rel="stylesheet" href="styles/waeponSmith.css" />
   <link rel="stylesheet" href="styles/notes.css" />
-  <link rel="stylesheet" href="styles/clock.css" />
+  <link rel="stylesheet" href="styles/topbar.css" />
 </head>
 
 <body>
-  <div class="clock">
+  <div class="top-bar">
+    <div id="goon-tracker">
+      <span style="font-size: 1.2em; color: #777; padding-right: 5px;">Goons:</span>
+      <span id="goon-status">⏳ Lädt...</span>
+    </div>
+  
+    <div class="spacer"></div>
+  
     <div id="tarkov-clock"
       style="font-family: monospace; background: #0f0f0f; padding: 8px 16px; border-radius: 6px; display: flex; gap: 24px; font-size: 1.2em;">
       <div>
@@ -87,15 +94,10 @@
     </div>
   </div>
 
-
-
-
   <div class="notesContainer">
     <button class="notiz-button" onclick="openModal()">📓 Notes</button>
     <h1 style="text-align:center;">Tarkov Maps</h1>
   </div>
-
-
 
   <div class="map-container">
     <div class="map-item">
@@ -211,6 +213,7 @@
   <script src="scripts/clock.js"></script>
   <script src="scripts/notes.js"></script>
   <script src="scripts/quests.js"></script>
+  <script src="scripts/goons.js"></script>
 </body>
 
 </html>
