@@ -9,7 +9,7 @@ const query = `
     name
     normalizedName
     wikiLink
-    trader { name }
+    trader { name, imageLink, image4xLink }
     map { name }
     experience
     kappaRequired
