@@ -140,7 +140,6 @@ function showQuestDetails(quest) {
     const objEl = document.getElementById("quest-objective");
     const rewEl = document.getElementById("quest-reward");
     const mapEl = document.getElementById("quest-map");
-    const imgEl = document.getElementById("quest-image");
   
     // Trader-Bild
     traderImgEl.src = getTraderImage(quest.trader?.name || "Unknown");
@@ -179,12 +178,6 @@ function showQuestDetails(quest) {
       mapEl.textContent = `Map: ${quest.map.name}`;
     }
   
-    // Bild
-    if (imgEl && quest.taskImageLink) {
-      imgEl.src = quest.taskImageLink;
-      imgEl.alt = quest.name;
-      imgEl.style.display = "block";
-    }
   
     // Objectives
     objEl.innerHTML = quest.objectives

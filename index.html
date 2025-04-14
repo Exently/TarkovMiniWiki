@@ -56,6 +56,7 @@
         <h2 id="Search-Header">Quest-Search</h2>
         <div class="input-row">
           <input type="text" id="wiki-input" placeholder="Search for quests..." autocomplete="off" />
+          <span class="WARNING" id="WARNING"></span>
           <a class="clear-btn" id="clear-btn">Clear</a>
         </div>
         <div class="suggestions" id="suggestions"></div>
@@ -70,14 +71,18 @@
         <div class="heading-section">
           <h2 id="quest-title" class="quest-title">Search a quest for detailed infos.</h2>
           <div id="quest-map"></div>
-          <img id="quest-image" style="display:none; max-width: 300px;" />
         </div>
         <div class="kappa-container">
-          <span id="kappa-text" class="kappa-text">Needed for Kappa:</span>
-          <span id="kappa-indicator" class="kappa-indicator">???</span>
-          <span id="lightkeeper-text" class="kappa-text">Needed for Lightkeeper:</span>
-          <div id="lightkeeper-indicator" class="lightkeeper-indicator">???</div>
+          <div class="kappa-row">
+            <span id="kappa-text" class="kappa-text">Needed for Kappa:</span>
+            <span id="kappa-indicator" class="kappa-indicator">???</span>
+          </div>
+          <div class="kappa-row">
+            <span id="lightkeeper-text" class="kappa-text">Needed for Lightkeeper:</span>
+            <span id="lightkeeper-indicator" class="lightkeeper-indicator">???
+          </div>
         </div>
+
 
       </div>
       <hr />

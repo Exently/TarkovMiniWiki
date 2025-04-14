@@ -42,8 +42,12 @@ img[src=""] {
   font-size: 1.2rem;
 }
 
-.kappa-yes, .lk-yes  {
+.kappa-yes  {
   color: lime;
+}
+
+.lk-yes {
+  color: 	#0ff;
 }
 
 .kappa-no, .lk-no{
@@ -52,9 +56,22 @@ img[src=""] {
 
 .kappa-container {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 5px;
+  gap: 6px;  
 }
+
+.kappa-container span {
+  display: inline-block;
+}
+
+.kappa-row {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+
 
 .quest-details h2 {
   margin: 5px 0 5px 0;
