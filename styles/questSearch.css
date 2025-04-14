@@ -1,164 +1,137 @@
-.quest-search {
-    width: 300px;
-    background: #111;
-    border: 1px solid #444;
-    padding: 10px;
-    position: relative;
-  }
-  
-  .quest-search h2 {
-    margin-top: 0;
-  }
-  
-  .quest-search input {
-    width: 100%;
-    padding: 5px;
-    background: #222;
-    color: #fff;
-    border: 1px solid #444;
-    box-sizing: border-box;
-  }
-  
-  .suggestions {
-    position: absolute;
-    top: 100px;
-    width: 100%;
-    background: #222;
-    border: 1px solid #666;
-    max-height: 200px;
-    overflow-y: auto;
-    display: none;
-    z-index: 10;
-  }
-  
-  .suggestions div {
-    padding: 5px;
-    cursor: pointer;
-    color: #0f9;
-  }
-  
-  .suggestions div:hover,
-  .suggestions .selected {
-    background-color: #333;
-  }
+.quest-details {
+  flex: 1;
+  background: #111;
+  border: 1px solid #444;
+  padding: 10px;
+}
 
-  .suggestions::-webkit-scrollbar {
-    width: 4px;
-  }
-  
-  .suggestions::-webkit-scrollbar-thumb {
-    background-color: #0a5;
-    border-radius: 10px;
-  }
-  
-  
-  .input-row {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  
-  .quest-details {
-    flex: 1;
-    background: #111;
-    border: 1px solid #444;
-    padding: 10px;
-  }
-  
-  .trader-header {
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-    margin-bottom: 10px;
-  }
-  
-  .quest-title a:hover {
-    text-decoration: underline;
-  }
-  
-  img[src=""] {
-    display: none;
-  }
-  
-  .heading-section {
-    flex: 1;
-  }
-  
-  .trader-header img {
-    width: 80px;
-    height: auto;
-    object-fit: cover;
-    border: 1px solid #333;
-  }
-  
-  .kappa-text {
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1.2rem;
-  }
-  
-  .kappa-indicator {
-    font-weight: bold;
-    font-size: 1.2rem;
-  }
-  
-  .kappa-yes {
-    color: lime;
-  }
-  
-  .kappa-no {
-    color: red;
-  }
-  
-  .kappa-container {
-    display: flex;
-    align-items: center;
-    gap: 5px;
-  }
-  
-  .quest-details h2 {
-    margin: 5px 0 5px 0;
-    font-size: 1.4rem;
-  }
-  
-  .quest-objective a,
-  .quest-reward a,
-  .quest-title a {
-    text-decoration: none;
-    color: #0f9;
-  }
+.trader-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 10px;
+}
 
-  .quest-objective-container {
-    flex: 65%;
-    background: #111;
-    border: 1px solid #444;
-    padding-left: 10px;
-    padding-bottom: 10px;
-  
-    border-radius: 5px;
-    min-width: 0;
-  }
-  
-  .quest-reward-container {
-    flex: auto;
-    background: #111;
-    border: 1px solid #444;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    border-radius: 5px;
-    min-width: 0;
-  }
-  
-  .quest-objective-container h3,
-  .quest-reward-container h3 {
-    color: #0f9;
-    margin-bottom: 5px;
-  }
-  
-  .quest-info-container {
-    display: flex;
-    gap: 5px;
-    margin-top: 1px;
-    margin-bottom: 1px;
-    min-width: none;
-  }
+.quest-title a:hover {
+  text-decoration: underline;
+}
+
+img[src=""] {
+  display: none;
+}
+
+.heading-section {
+  flex: 1;
+}
+
+.trader-header img {
+  width: 80px;
+  height: auto;
+  object-fit: cover;
+  border: 1px solid #333;
+}
+
+.kappa-text {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.kappa-indicator, .lightkeeper-indicator {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.kappa-yes, .lk-yes  {
+  color: lime;
+}
+
+.kappa-no, .lk-no{
+  color: red;
+}
+
+.kappa-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.quest-details h2 {
+  margin: 5px 0 5px 0;
+  font-size: 1.4rem;
+}
+
+.quest-objective a,
+.quest-reward a,
+.quest-title a {
+  text-decoration: none;
+  color: #0f9;
+}
+
+.quest-objective-container {
+  flex: 65%;
+  background: #111;
+  border: 1px solid #444;
+  padding-left: 10px;
+  padding-bottom: 10px;
+
+  border-radius: 5px;
+  min-width: 0;
+}
+
+.quest-reward-container {
+  flex: auto;
+  background: #111;
+  border: 1px solid #444;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  min-width: 0;
+}
+
+.quest-objective-container h3,
+.quest-reward-container h3 {
+  color: #0f9;
+  margin-bottom: 5px;
+}
+
+.quest-info-container {
+  display: flex;
+  gap: 5px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  min-width: none;
+}
+
+.item-tooltip-wrapper {
+  position: relative;
+  cursor: pointer;
+}
+
+.item-tooltip {
+  display: none;
+  position: absolute;
+  background: #111;
+  color: #0f9;
+  padding: 8px;
+  border: 1px solid #0f9;
+  border-radius: 6px;
+  font-size: 0.8em;
+  white-space: nowrap;
+  top: 110%;
+  left: 0;
+  z-index: 10;
+  box-shadow: 0 0 5px rgba(0,0,0,0.6);
+}
+
+.item-tooltip img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.item-tooltip-wrapper:hover .item-tooltip {
+  display: block;
+}

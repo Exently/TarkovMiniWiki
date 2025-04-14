@@ -13,6 +13,8 @@
   <link rel="stylesheet" href="styles/waeponSmith.css" />
   <link rel="stylesheet" href="styles/notes.css" />
   <link rel="stylesheet" href="styles/topbar.css" />
+  <link rel="stylesheet" href="styles/topSearch.css">
+  <link rel="stylesheet" href="styles/suggestion.css" />
 </head>
 
 <body>
@@ -21,9 +23,9 @@
       <span style="font-size: 1.2em; color: #777; padding-right: 5px;">Goons:</span>
       <span id="goon-status">⏳ Lädt...</span>
     </div>
-  
+
     <div class="spacer"></div>
-  
+
     <div id="tarkov-clock"
       style="font-family: monospace; background: #0f0f0f; padding: 8px 16px; border-radius: 6px; display: flex; gap: 24px; font-size: 1.2em;">
       <div>
@@ -40,24 +42,41 @@
 
 
   <div class="main-container">
-    <div class="quest-search">
-      <h2>Quest-Search</h2>
-      <div class="input-row">
-        <input type="text" id="wiki-input" placeholder="Input Questname..." autocomplete="off" />
-        <a class="clear-btn" id="clear-btn">Clear</a>
+    <div class="search-section">
+      <div class="toggle-wrapper">
+        <span class="toggle-label">Quests</span>
+        <label class="toggle-switch-clean">
+          <input type="checkbox" id="searchToggle" onchange="toggleSearch()">
+          <span class="slider"></span>
+        </label>
+        <span class="toggle-label">Items</span>
       </div>
-      <div class="suggestions" id="suggestions"></div>
+      <!-- Quest-Search -->
+      <div class="search">
+        <h2 id="Search-Header">Quest-Search</h2>
+        <div class="input-row">
+          <input type="text" id="wiki-input" placeholder="Search for quests..." autocomplete="off" />
+          <a class="clear-btn" id="clear-btn">Clear</a>
+        </div>
+        <div class="suggestions" id="suggestions"></div>
+      </div>
     </div>
+
+
 
     <div class="quest-details" id="quest-details">
       <div class="trader-header">
         <img id="trader-img" src="" alt="Trader" />
         <div class="heading-section">
           <h2 id="quest-title" class="quest-title">Search a quest for detailed infos.</h2>
+          <div id="quest-map"></div>
+          <img id="quest-image" style="display:none; max-width: 300px;" />
         </div>
         <div class="kappa-container">
           <span id="kappa-text" class="kappa-text">Needed for Kappa:</span>
           <span id="kappa-indicator" class="kappa-indicator">???</span>
+          <span id="lightkeeper-text" class="kappa-text">Needed for Lightkeeper:</span>
+          <div id="lightkeeper-indicator" class="lightkeeper-indicator">???</div>
         </div>
 
       </div>
@@ -186,13 +205,14 @@
       <ul style="text-align: left; max-width: 600px; margin: 0 auto; padding-left: 20px;">
         <li><strong>🔍 Search:</strong> Quick search for every quest as a quick guidance.</li>
         <li><strong>🗺️ Maps:</strong> Quick Map overview, just one click for the whole map.</li>
-        <li><strong>📓 Notes:</strong> Input your own notes for quests items or specific barters or what you could think of.</li>
+        <li><strong>📓 Notes:</strong> Input your own notes for quests items or specific barters or what you could think
+          of.</li>
         <li><strong>🕒 Clock:</strong> Ingame Tarkov Raidtimes at the top of the screen.</li>
       </ul>
       <button class="save-btn" onclick="closeIntroModal()">Let's go! 🚀</button>
     </div>
   </div>
-  
+
   <script>
     function closeIntroModal() {
       const modal = document.getElementById("introModal");
@@ -200,7 +220,7 @@
       modal.style.display = "none";
       localStorage.setItem("efwikiIntroSeen", "true");
     }
-  
+
     window.addEventListener("DOMContentLoaded", () => {
       if (!localStorage.getItem("efwikiIntroSeen")) {
         const modal = document.getElementById("introModal");
@@ -214,6 +234,7 @@
   <script src="scripts/notes.js"></script>
   <script src="scripts/quests.js"></script>
   <script src="scripts/goons.js"></script>
+  <script src="scripts/switchSearch.js"></script>
 </body>
 
 </html>

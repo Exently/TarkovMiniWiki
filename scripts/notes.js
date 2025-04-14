@@ -12,7 +12,7 @@ localStorage.setItem("notes", JSON.stringify(notes));
 function saveNote() {
     let title = document.getElementById("noteTitle").value.trim();
     let content = document.getElementById("notizfeld").value.trim();
-    
+
     if (!title && !content) return;
 
     if (editingIndex !== null) {

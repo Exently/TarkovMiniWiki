@@ -9,6 +9,7 @@ const query = `
     name
     normalizedName
     wikiLink
+    taskImageLink
     trader { name, imageLink, image4xLink }
     map { name }
     experience

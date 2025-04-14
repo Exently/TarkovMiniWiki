@@ -1,9 +1,17 @@
 let allQuests = [];
 let currentIndex = -1;
 let filteredQuests = [];
+let itemData = [];
 
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("./data/all_quests.json")
+    fetch("./data/tarkov_items.json")
+        .then(res => res.json())
+        .then(data => {
+            itemData = data;
+            console.log("📦 Items geladen:", itemData.length);
+        });
+
+    fetch("./data/tarkov_tasks.json")
         .then(res => res.json())
         .then(data => {
             allQuests = data;
@@ -27,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const lowerVal = inputValue.toLowerCase();
         filteredQuests = allQuests.filter(q =>
-            q.Questname.toLowerCase().includes(lowerVal)
+            q.name.toLowerCase().includes(lowerVal)
         );
 
         if (filteredQuests.length === 0) {
@@ -38,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             suggestionsEl.style.display = "block";
             suggestionsEl.innerHTML = filteredQuests
-                .map((q, i) => `<div data-index="${i}">${q.Questname}</div>`)
+                .map((q, i) => `<div data-index="${i}">${q.name}</div>`)
                 .join("");
             currentIndex = 0;
             highlightSuggestion()
@@ -114,7 +122,7 @@ function selectQuest(i) {
     const suggestionsEl = document.getElementById("suggestions");
 
     const quest = filteredQuests[i];
-    inputEl.value = quest.Questname;
+    inputEl.value = quest.name;
 
     suggestionsEl.innerHTML = "";
     suggestionsEl.style.display = "none";
@@ -127,57 +135,107 @@ function selectQuest(i) {
 function showQuestDetails(quest) {
     const traderImgEl = document.getElementById("trader-img");
     const kappaEl = document.getElementById("kappa-indicator");
+    const lightkeeperEl = document.getElementById("lightkeeper-indicator");
     const titleEl = document.getElementById("quest-title");
     const objEl = document.getElementById("quest-objective");
     const rewEl = document.getElementById("quest-reward");
-
-    traderImgEl.src = getTraderImage(quest.Questgeber);
-
-    if (quest["Required for Kappa"] === "Yes") {
-        kappaEl.textContent = "YES";
-        kappaEl.classList.remove("kappa-no");
-        kappaEl.classList.add("kappa-yes");
+    const mapEl = document.getElementById("quest-map");
+    const imgEl = document.getElementById("quest-image");
+  
+    // Trader-Bild
+    traderImgEl.src = getTraderImage(quest.trader?.name || "Unknown");
+  
+    // Kappa
+    if (quest.kappaRequired) {
+      kappaEl.textContent = "YES";
+      kappaEl.classList.remove("kappa-no");
+      kappaEl.classList.add("kappa-yes");
     } else {
-        kappaEl.textContent = "NO";
-        kappaEl.classList.remove("kappa-yes");
-        kappaEl.classList.add("kappa-no");
+      kappaEl.textContent = "NO";
+      kappaEl.classList.remove("kappa-yes");
+      kappaEl.classList.add("kappa-no");
     }
-
+  
+    // Lightkeeper
+    if (lightkeeperEl) {
+      if (quest.lightkeeperRequired) {
+        lightkeeperEl.textContent = "YES";
+        lightkeeperEl.classList.remove("lk-no");
+        lightkeeperEl.classList.add("lk-yes");
+      } else {
+        lightkeeperEl.textContent = "NO";
+        lightkeeperEl.classList.remove("lk-yes");
+        lightkeeperEl.classList.add("lk-no");
+      }
+    }
+  
+    // Titel
     titleEl.innerHTML = `
-  <a href="${quest.WikiLink}" target="_blank";">
-    ${quest.Questname}
-  </a>
-`;
+      <a href="${quest.wikiLink}" target="_blank">${quest.name}</a>
+    `;
+  
+    // Map
+    if (mapEl && quest.map?.name) {
+      mapEl.textContent = `Map: ${quest.map.name}`;
+    }
+  
+    // Bild
+    if (imgEl && quest.taskImageLink) {
+      imgEl.src = quest.taskImageLink;
+      imgEl.alt = quest.name;
+      imgEl.style.display = "block";
+    }
+  
+    // Objectives
+    objEl.innerHTML = quest.objectives
+      .map(obj => {
+        let text = `• ${obj.description}`;
+        if (obj.count && obj.items?.length) {
+          const items = obj.items.map(i => {
+            const item = getItemInfo(i.name);
+            if (!item) return i.name;
+  
+            return `
+              <span class="item-tooltip-wrapper">
+                <a href="${item.wikiLink}" target="_blank">${item.name}</a>
+                <span class="item-tooltip">
+                  <img src="${item.iconLink}" alt="${item.name}" />
+                  <div>${item.name}</div>
+                </span>
+              </span>
+            `;
+          }).join(", ");
+          text += ` (${obj.count}x ${items})`;
+        }
+        return text;
+      })
+      .join("<br>");
+  
+    // Rewards
+    rewEl.innerHTML = quest.finishRewards?.items?.map(r => {
+      const item = getItemInfo(r.item.name);
+      if (!item) return `${r.count}x ${r.item.name}`;
+  
+      return `
+        ${r.count}x 
+        <span class="item-tooltip-wrapper">
+          <a href="${item.wikiLink}" target="_blank">${item.name}</a>
+          <span class="item-tooltip">
+            <img src="${item.iconLink}" alt="${item.name}" />
+            <div>${item.name}</div>
+          </span>
+        </span>
+      `;
+    }).join("<br>") || "–";
+  }
 
-    const rawObj = quest.Objective || "";
-    const rawRew = quest.Reward || "";
-    objEl.innerHTML = transformToLinks(rawObj, quest.AdditionalLinks);
-    rewEl.innerHTML = transformToLinks(rawRew, quest.AdditionalLinks);
+function getItemWikiLink(itemName) {
+    const match = itemData.find(i => i.name === itemName);
+    return match?.wikiLink || null;
 }
 
-function transformToLinks(originalText, linkObjs) {
-    if (!linkObjs || linkObjs.length === 0) {
-        return originalText;
-    }
-
-    let text = originalText;
-
-    linkObjs.forEach(({ text: linkText, url }) => {
-        const safeSearch = linkText.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        const pattern = new RegExp(`\\b${safeSearch}\\b`, 'g');
-
-        const linkHTML = `<a href="${url}" target="_blank">${linkText}</a>`;
-        text = text.replace(pattern, linkHTML);
-    });
-
-    text = text.replace(/\n/g, "<br>");
-    if (text.startsWith("<br>")) {
-        text = text.slice(4);
-    }
-    if (text.endsWith("<br>")) {
-        text = text.slice(0, -4);
-    }
-    return text;
+function getItemInfo(itemName) {
+    return itemData.find(i => i.name === itemName) || null;
 }
 
 function getTraderImage(traderName) {
