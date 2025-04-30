@@ -26905,7 +26905,7 @@
           },
           {
             "id": "5cde77a9d7f00c000f261009",
-            "name": "M700 AB Arms MOD*X buffer tube side folder adapter"
+            "name": "M700 AB Arms MOD*X buffer tube adapter"
           },
           {
             "id": "5cde739cd7f00c0010373bd3",
@@ -27081,7 +27081,7 @@
           },
           {
             "id": "5c5db6f82e2216003a0fe914",
-            "name": "MPX/MCX PMM ULSS foldable stock"
+            "name": "MPX/MCX PMM ULSS stock"
           },
           {
             "id": "56083a334bdc2dc8488b4571",
@@ -40195,7 +40195,7 @@
           },
           {
             "id": "5cde77a9d7f00c000f261009",
-            "name": "M700 AB Arms MOD*X buffer tube side folder adapter"
+            "name": "M700 AB Arms MOD*X buffer tube adapter"
           },
           {
             "id": "5cde739cd7f00c0010373bd3",
@@ -40371,7 +40371,7 @@
           },
           {
             "id": "5c5db6f82e2216003a0fe914",
-            "name": "MPX/MCX PMM ULSS foldable stock"
+            "name": "MPX/MCX PMM ULSS stock"
           },
           {
             "id": "56083a334bdc2dc8488b4571",
@@ -53485,7 +53485,7 @@
           },
           {
             "id": "5cde77a9d7f00c000f261009",
-            "name": "M700 AB Arms MOD*X buffer tube side folder adapter"
+            "name": "M700 AB Arms MOD*X buffer tube adapter"
           },
           {
             "id": "5cde739cd7f00c0010373bd3",
@@ -53661,7 +53661,7 @@
           },
           {
             "id": "5c5db6f82e2216003a0fe914",
-            "name": "MPX/MCX PMM ULSS foldable stock"
+            "name": "MPX/MCX PMM ULSS stock"
           },
           {
             "id": "56083a334bdc2dc8488b4571",
@@ -68169,7 +68169,7 @@
           },
           {
             "id": "5cde77a9d7f00c000f261009",
-            "name": "M700 AB Arms MOD*X buffer tube side folder adapter"
+            "name": "M700 AB Arms MOD*X buffer tube adapter"
           },
           {
             "id": "5cde739cd7f00c0010373bd3",
@@ -68345,7 +68345,7 @@
           },
           {
             "id": "5c5db6f82e2216003a0fe914",
-            "name": "MPX/MCX PMM ULSS foldable stock"
+            "name": "MPX/MCX PMM ULSS stock"
           },
           {
             "id": "56083a334bdc2dc8488b4571",
@@ -76741,7 +76741,7 @@
     ],
     "objectives": [
       {
-        "description": "Hand over the found in raid 6B13 assault armor in 0-50% durability",
+        "description": "Hand over the 6B43 assault armor in 0-75% durability",
         "count": 1,
         "items": [
           {
@@ -76755,7 +76755,7 @@
         ]
       },
       {
-        "description": "Hand over the found in raid 6B13 assault armor in 50-100% durability",
+        "description": "Hand over the 6B43 assault armor in 75-100% durability",
         "count": 1,
         "items": [
           {
