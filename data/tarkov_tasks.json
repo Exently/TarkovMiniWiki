@@ -2614,7 +2614,6 @@
     "normalizedName": "easy-money-part-1",
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Easy_Money_-_Part_1",
     "taskImageLink": "https://assets.tarkov.dev/66058cb22cee99303f1ba067.webp",
-    "map": null,
     "experience": 4500,
     "kappaRequired": false,
     "lightkeeperRequired": false,
@@ -2623,11 +2622,15 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
           "complete",
-          "failed"
+          "failed",
+          "active"
         ],
         "task": {
           "id": "657315e270bb0b8dba00cc48",
@@ -2765,41 +2768,177 @@
     "objectives": [
       {
         "description": "Hand over the found in raid items from the Drinks category",
-        "count": 2,
+        "count": 5,
         "items": [
+          {
+            "id": "5c0fa877d174af02a012e1cf",
+            "name": "Aquamari water bottle with filter"
+          },
+          {
+            "id": "575062b524597720a31c09a1",
+            "name": "Can of Ice Green tea"
+          },
+          {
+            "id": "57513f07245977207e26a311",
+            "name": "Pack of apple juice"
+          },
+          {
+            "id": "57513f9324597720a7128161",
+            "name": "Pack of Grand juice"
+          },
+          {
+            "id": "57513fcc24597720a31c09a6",
+            "name": "Pack of Vita juice"
+          },
+          {
+            "id": "5751435d24597720a27126d1",
+            "name": "Can of Max Energy energy drink"
+          },
+          {
+            "id": "575146b724597720a27126d5",
+            "name": "Pack of milk"
+          },
+          {
+            "id": "57514643245977207f2c2d09",
+            "name": "Can of TarCola soda"
+          },
+          {
+            "id": "5751496424597720a27126da",
+            "name": "Can of Hot Rod energy drink"
+          },
+          {
+            "id": "62a09f32621468534a797acb",
+            "name": "Bottle of Pevko Light beer"
+          },
+          {
+            "id": "5e8f3423fd7471236e6e3b64",
+            "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
+          },
+          {
+            "id": "60b0f93284c20f0feb453da7",
+            "name": "Can of RatCola soda"
+          },
+          {
+            "id": "60098b1705871270cd5352a1",
+            "name": "Emergency Water Ration"
+          },
+          {
+            "id": "5d403f9186f7743cac3f229b",
+            "name": "Bottle of Dan Jackiel whiskey"
+          },
+          {
+            "id": "5d1b376e86f774252519444e",
+            "name": "Bottle of Fierce Hatchling moonshine"
+          },
+          {
+            "id": "5d1b33a686f7742523398398",
+            "name": "Canister with purified water"
+          },
           {
             "id": "5d40407c86f774318526545a",
             "name": "Bottle of Tarkovskaya vodka"
+          },
+          {
+            "id": "544fb62a4bdc2dfb738b4568",
+            "name": "Pack of Russian Army pineapple juice"
+          },
+          {
+            "id": "5448fee04bdc2dbc018b4567",
+            "name": "Bottle of water (0.6L)"
           }
         ]
       },
       {
         "description": "Hand over the found in raid items from the Food category",
-        "count": 7,
-        "items": [
-          {
-            "id": "62a09f32621468534a797acb",
-            "name": "Bottle of Pevko Light beer"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Alyonka chocolate bar",
-        "count": 2,
+        "count": 5,
         "items": [
           {
             "id": "57505f6224597709a92585a9",
             "name": "Alyonka chocolate bar"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Pack of Tarker dried meat",
-        "count": 5,
-        "items": [
+          },
+          {
+            "id": "57347da92459774491567cf5",
+            "name": "Can of beef stew (Large)"
+          },
+          {
+            "id": "57347d3d245977448f7b7f61",
+            "name": "Rye croutons"
+          },
+          {
+            "id": "57347d7224597744596b4e72",
+            "name": "Can of beef stew (Small)"
+          },
+          {
+            "id": "5734773724597737fd047c14",
+            "name": "Can of condensed milk"
+          },
+          {
+            "id": "5751487e245977207e26a315",
+            "name": "Emelya rye croutons"
+          },
+          {
+            "id": "57347d9c245977448b40fa85",
+            "name": "Can of herring"
+          },
+          {
+            "id": "57347d5f245977448b40fa81",
+            "name": "Can of humpback salmon"
+          },
+          {
+            "id": "5673de654bdc2d180f8b456d",
+            "name": "Can of pacific saury"
+          },
+          {
+            "id": "5bc9b156d4351e00367fbce9",
+            "name": "Jar of DevilDog mayo"
+          },
+          {
+            "id": "590c5f0d86f77413997acfab",
+            "name": "MRE ration pack"
+          },
+          {
+            "id": "656df4fec921ad01000481a2",
+            "name": "Pack of instant noodles"
+          },
+          {
+            "id": "590c5d4b86f774784e1b9c45",
+            "name": "Iskra ration pack"
+          },
+          {
+            "id": "635a758bfefc88a93f021b8a",
+            "name": "Salty Dog beef sausage"
+          },
           {
             "id": "65815f0e647e3d7246384e14",
             "name": "Pack of Tarker dried meat"
+          },
+          {
+            "id": "5bc9c29cd4351e003562b8a3",
+            "name": "Can of sprats"
+          },
+          {
+            "id": "59e3577886f774176a362503",
+            "name": "Pack of sugar"
+          },
+          {
+            "id": "57347d90245977448f7b7f65",
+            "name": "Pack of oat flakes"
+          },
+          {
+            "id": "57347d692459774491567cf1",
+            "name": "Can of green peas"
+          },
+          {
+            "id": "544fb6cc4bdc2d34748b456e",
+            "name": "Slickers chocolate bar"
+          },
+          {
+            "id": "57347d8724597744596b4e76",
+            "name": "Can of squash spread"
+          },
+          {
+            "id": "5448ff904bdc2d6f028b456e",
+            "name": "Army crackers"
           }
         ]
       }
@@ -2807,7 +2946,7 @@
     "finishRewards": {
       "items": [
         {
-          "count": 26,
+          "count": 52,
           "item": {
             "name": "GP coin"
           }
@@ -2821,6 +2960,7 @@
     "normalizedName": "balancing-part-1",
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_1",
     "taskImageLink": "https://assets.tarkov.dev/66058cb7c7f3584787181476.webp",
+    "map": null,
     "experience": 5100,
     "kappaRequired": false,
     "lightkeeperRequired": false,
@@ -2833,9 +2973,6 @@
       "name": "Ref",
       "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
       "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": {
-      "name": "Interchange"
     },
     "taskRequirements": [
       {
@@ -2853,13 +2990,7 @@
         {
           "count": 2,
           "item": {
-            "name": "HK G36 5.56x45 assault rifle Default"
-          }
-        },
-        {
-          "count": 2,
-          "item": {
-            "name": "NFM THOR Concealable Reinforced Vest body armor Default"
+            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
           }
         }
       ]
@@ -2867,7 +2998,7 @@
     "finishRewards": {
       "items": [
         {
-          "count": 26,
+          "count": 45,
           "item": {
             "name": "GP coin"
           }
@@ -2875,25 +3006,25 @@
         {
           "count": 1,
           "item": {
-            "name": "Death Shadow lightweight armored mask"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "name": "HK G36 5.56x45 assault rifle CompM4"
+            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
           }
         },
         {
           "count": 3,
           "item": {
-            "name": "HK G36 5.56x45 30-round magazine"
+            "name": "5.56x45mm M856 ammo pack (50 pcs)"
           }
         },
         {
-          "count": 120,
+          "count": 3,
           "item": {
-            "name": "5.56x45mm M856"
+            "name": "Steyr AUG 5.56x45 30-round magazine"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Death Shadow lightweight armored mask"
           }
         }
       ]
@@ -2905,6 +3036,7 @@
     "normalizedName": "balancing-part-2",
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_2",
     "taskImageLink": "https://assets.tarkov.dev/66058cb9e8e4f17985230805.webp",
+    "map": null,
     "experience": 7000,
     "kappaRequired": false,
     "lightkeeperRequired": false,
@@ -2917,9 +3049,6 @@
       "name": "Ref",
       "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
       "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -2937,12 +3066,6 @@
         {
           "count": 2,
           "item": {
-            "name": "Kalashnikov AKS-74UB 5.45x39 assault rifle Default"
-          }
-        },
-        {
-          "count": 2,
-          "item": {
             "name": "PACA Soft Armor"
           }
         }
@@ -2951,27 +3074,15 @@
     "finishRewards": {
       "items": [
         {
-          "count": 28,
+          "count": 45,
           "item": {
             "name": "GP coin"
           }
         },
         {
-          "count": 1,
+          "count": 2,
           "item": {
-            "name": "Kalashnikov AKS-74UB 5.45x39 assault rifle EKP-1S-03"
-          }
-        },
-        {
-          "count": 3,
-          "item": {
-            "name": "AK-74 Delta-Tek Saiga 545 5.45x39 20-round magazine"
-          }
-        },
-        {
-          "count": 80,
-          "item": {
-            "name": "5.45x39mm T gs"
+            "name": "Death Shadow lightweight armored mask"
           }
         }
       ]
@@ -3222,17 +3333,23 @@
           "complete"
         ],
         "task": {
-          "id": "66058cbf2f19c31a5a1337ec",
-          "name": "Create a Distraction - Part 2"
+          "id": "66058cb7c7f3584787181476",
+          "name": "Balancing - Part 1"
         }
       }
     ],
     "finishRewards": {
       "items": [
         {
-          "count": 32,
+          "count": 75,
           "item": {
             "name": "GP coin"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Lega Medal"
           }
         },
         {
@@ -3248,9 +3365,9 @@
           }
         },
         {
-          "count": 30,
+          "count": 2,
           "item": {
-            "name": "7.62x51mm TCW SP"
+            "name": "7.62x51mm TCW SP ammo pack (20 pcs)"
           }
         }
       ]
@@ -3380,6 +3497,119 @@
           "count": 40,
           "item": {
             "name": "7.62x51mm TCW SP"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "675c15fbf7da9792a4059871",
+    "name": "Provide Viewership",
+    "normalizedName": "provide-viewership",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Provide_Viewership",
+    "taskImageLink": "https://assets.tarkov.dev/unknown-task.webp",
+    "experience": 32000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "active",
+          "complete"
+        ],
+        "task": {
+          "id": "66058cb5ae4719735349b9e8",
+          "name": "Easy Money - Part 2"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "description": "Install the first WI-FI Camera inside the industrial plant on Customs",
+        "count": 1,
+        "items": [
+          {
+            "id": "5b4391a586f7745321235ab2",
+            "name": "WI-FI Camera"
+          }
+        ]
+      },
+      {
+        "description": "Install the second WI-FI Camera inside the industrial plant on Customs",
+        "count": 1,
+        "items": [
+          {
+            "id": "5b4391a586f7745321235ab2",
+            "name": "WI-FI Camera"
+          }
+        ]
+      },
+      {
+        "description": "Install the third WI-FI Camera inside the industrial plant on Customs",
+        "count": 1,
+        "items": [
+          {
+            "id": "5b4391a586f7745321235ab2",
+            "name": "WI-FI Camera"
+          }
+        ]
+      },
+      {
+        "description": "Install the fourth WI-FI Camera inside the industrial plant on Customs",
+        "count": 1,
+        "items": [
+          {
+            "id": "5b4391a586f7745321235ab2",
+            "name": "WI-FI Camera"
+          }
+        ]
+      },
+      {
+        "description": "Eliminate any target inside the industrial plant on Customs"
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "count": 4,
+          "item": {
+            "name": "WI-FI Camera"
+          }
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "count": 45,
+          "item": {
+            "name": "GP coin"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Lone Star TX-15 DML 5.56x45 carbine Default"
+          }
+        },
+        {
+          "count": 3,
+          "item": {
+            "name": "AR-15 5.56x45 HK 30 STANAG polymer 30-round magazine"
+          }
+        },
+        {
+          "count": 3,
+          "item": {
+            "name": "5.56x45mm M855A1 ammo pack (50 pcs)"
           }
         }
       ]
@@ -7937,7 +8167,7 @@
         {
           "count": 2,
           "item": {
-            "name": "Colt M45A1 .45 ACP pistol Default"
+            "name": "Colt M45A1 .45 ACP pistol Mew-mew"
           }
         },
         {
@@ -12029,9 +12259,6 @@
     "startRewards": {
       "items": []
     },
-    "finishRewards": {
-      "items": []
-    },
     "trader": {
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
@@ -12079,7 +12306,17 @@
           }
         ]
       }
-    ]
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 6,
+          "item": {
+            "name": "2A2-(b-TG) stimulant injector"
+          }
+        }
+      ]
+    }
   },
   {
     "id": "669fa38fad7f1eac2607ed46",
