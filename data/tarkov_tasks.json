@@ -17,6 +17,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "objectives": [
       {
         "description": "Locate the Emercom station on Ground Zero"
@@ -257,9 +260,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -291,6 +291,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "finishRewards": {
       "items": [
         {
@@ -312,9 +315,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -336,6 +336,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Ground Zero"
     },
     "startRewards": {
       "items": [
@@ -362,9 +365,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -402,6 +402,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "finishRewards": {
       "items": [
         {
@@ -423,9 +426,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -616,6 +616,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Ground Zero"
+    },
     "finishRewards": {
       "items": [
         {
@@ -643,9 +646,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -677,6 +677,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "objectives": [
       {
         "description": "Locate and obtain the bronze pocket watch on Customs"
@@ -716,9 +719,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -1056,6 +1056,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "finishRewards": {
       "items": [
         {
@@ -1077,9 +1080,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -1293,6 +1293,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Woods"
+    },
     "finishRewards": {
       "items": [
         {
@@ -1302,9 +1305,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -1418,6 +1418,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Woods"
+    },
     "finishRewards": {
       "items": [
         {
@@ -1439,9 +1442,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -1472,6 +1472,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Woods"
+    },
     "objectives": [
       {
         "description": "Stash an Iskra ration pack in the ZB-016 bunker on Woods",
@@ -1535,9 +1538,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -1678,6 +1678,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Woods"
+    },
     "finishRewards": {
       "items": [
         {
@@ -1699,9 +1702,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -1873,6 +1873,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "objectives": [
       {
         "description": "Locate and neutralize Reshala"
@@ -1931,9 +1934,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2141,6 +2141,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "finishRewards": {
       "items": [
         {
@@ -2162,9 +2165,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2200,6 +2200,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Woods"
+    },
     "finishRewards": {
       "items": [
         {
@@ -2227,9 +2230,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -2265,6 +2265,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Factory"
+    },
     "finishRewards": {
       "items": [
         {
@@ -2280,9 +2283,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -2415,6 +2415,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "objectives": [
       {
         "description": "Obtain the special item to extract through the secret exfil",
@@ -2445,9 +2448,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2478,6 +2478,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "objectives": [
       {
         "description": "Eliminate Scavs at the old gas station on Customs"
@@ -2523,9 +2526,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2570,6 +2570,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Factory"
+    },
     "finishRewards": {
       "items": [
         {
@@ -2603,9 +2606,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -2635,6 +2635,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "objectives": [
       {
         "description": "Plant the Bison vs Undertaker poster in the living quarters at the Scav base on Customs",
@@ -2666,9 +2669,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2704,6 +2704,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Woods"
+    },
     "finishRewards": {
       "items": [
         {
@@ -2731,9 +2734,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -3272,6 +3272,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "finishRewards": {
       "items": [
         {
@@ -3299,9 +3302,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -3528,6 +3528,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "objectives": [
       {
         "description": "Install the first WI-FI Camera inside the industrial plant on Customs",
@@ -3610,9 +3613,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -3643,6 +3643,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Factory"
+    },
     "objectives": [
       {
         "description": "Find a Gas analyzer in raid",
@@ -3680,9 +3683,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -3793,6 +3793,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Woods"
+    },
     "finishRewards": {
       "items": [
         {
@@ -3814,9 +3817,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -3986,6 +3986,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "objectives": [
       {
         "description": "Scout the Shestyorochka store at Nikitskaya street"
@@ -4037,9 +4040,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -4084,6 +4084,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "startRewards": {
       "items": [
         {
@@ -4109,9 +4112,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -4144,6 +4144,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "startRewards": {
       "items": [
         {
@@ -4169,9 +4172,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -4210,6 +4210,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "finishRewards": {
       "items": [
         {
@@ -4231,9 +4234,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -4351,6 +4351,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "finishRewards": {
       "items": [
         {
@@ -4372,9 +4375,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -4476,6 +4476,9 @@
         }
       }
     ],
+    "map": {
+      "name": "Customs"
+    },
     "finishRewards": {
       "items": [
         {
@@ -4509,9 +4512,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -4662,6 +4662,28 @@
         }
       }
     ],
+    "objectives": [
+      {
+        "description": "Find Secure Flash drives in raid",
+        "count": 2,
+        "items": [
+          {
+            "id": "590c621186f774138d11ea29",
+            "name": "Secure Flash drive"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the Flash drives",
+        "count": 2,
+        "items": [
+          {
+            "id": "590c621186f774138d11ea29",
+            "name": "Secure Flash drive"
+          }
+        ]
+      }
+    ],
     "finishRewards": {
       "items": [
         {
@@ -4689,29 +4711,7 @@
           }
         }
       ]
-    },
-    "objectives": [
-      {
-        "description": "Find Secure Flash drives in raid",
-        "count": 2,
-        "items": [
-          {
-            "id": "590c621186f774138d11ea29",
-            "name": "Secure Flash drive"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the Flash drives",
-        "count": 2,
-        "items": [
-          {
-            "id": "590c621186f774138d11ea29",
-            "name": "Secure Flash drive"
-          }
-        ]
-      }
-    ]
+    }
   },
   {
     "id": "5969f90786f77420d2328015",
