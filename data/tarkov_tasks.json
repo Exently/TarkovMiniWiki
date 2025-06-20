@@ -17,9 +17,6 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
-    "map": {
-      "name": "Ground Zero"
-    },
     "objectives": [
       {
         "description": "Locate the Emercom station on Ground Zero"
@@ -260,6 +257,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Ground Zero"
     }
   },
   {
@@ -291,9 +291,6 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
-    "map": {
-      "name": "Ground Zero"
-    },
     "finishRewards": {
       "items": [
         {
@@ -315,6 +312,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Ground Zero"
     }
   },
   {
@@ -336,9 +336,6 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
-    },
-    "map": {
-      "name": "Ground Zero"
     },
     "startRewards": {
       "items": [
@@ -365,6 +362,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Ground Zero"
     }
   },
   {
@@ -402,9 +402,6 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
-    "map": {
-      "name": "Ground Zero"
-    },
     "finishRewards": {
       "items": [
         {
@@ -426,6 +423,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Ground Zero"
     }
   },
   {
@@ -616,9 +616,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Ground Zero"
-    },
     "finishRewards": {
       "items": [
         {
@@ -646,6 +643,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Ground Zero"
     }
   },
   {
@@ -677,9 +677,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Locate and obtain the bronze pocket watch on Customs"
@@ -719,6 +716,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -1056,9 +1056,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -1080,6 +1077,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -1293,9 +1293,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -1305,6 +1302,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -1418,9 +1418,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -1442,6 +1439,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -1472,9 +1472,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "objectives": [
       {
         "description": "Stash an Iskra ration pack in the ZB-016 bunker on Woods",
@@ -1538,6 +1535,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -1678,9 +1678,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -1702,6 +1699,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -1873,9 +1873,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Locate and neutralize Reshala"
@@ -1934,6 +1931,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -2141,9 +2141,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -2165,6 +2162,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -2200,9 +2200,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -2230,6 +2227,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -2265,9 +2265,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -2283,6 +2280,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -2415,9 +2415,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Obtain the special item to extract through the secret exfil",
@@ -2448,6 +2445,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -2478,9 +2478,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Eliminate Scavs at the old gas station on Customs"
@@ -2526,6 +2523,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -2570,9 +2570,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -2606,6 +2603,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -2635,9 +2635,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Plant the Bison vs Undertaker poster in the living quarters at the Scav base on Customs",
@@ -2669,6 +2666,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -2704,9 +2704,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -2734,6 +2731,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -3272,9 +3272,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -3302,6 +3299,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -3528,9 +3528,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Install the first WI-FI Camera inside the industrial plant on Customs",
@@ -3613,6 +3610,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -3643,9 +3643,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "objectives": [
       {
         "description": "Find a Gas analyzer in raid",
@@ -3683,6 +3680,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -3793,9 +3793,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -3817,6 +3814,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -3986,9 +3986,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "objectives": [
       {
         "description": "Scout the Shestyorochka store at Nikitskaya street"
@@ -4040,6 +4037,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -4084,9 +4084,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "startRewards": {
       "items": [
         {
@@ -4112,6 +4109,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -4144,9 +4144,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "startRewards": {
       "items": [
         {
@@ -4172,6 +4169,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -4210,9 +4210,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -4234,6 +4231,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -4351,9 +4351,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -4375,6 +4372,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -4476,9 +4476,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -4512,6 +4509,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -4832,9 +4832,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "startRewards": {
       "items": [
         {
@@ -4872,6 +4869,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -4991,9 +4991,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "objectives": [
       {
         "description": "Find AK-74 5.45x39 6L31 60-round magazines in raid",
@@ -5050,6 +5047,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -5273,9 +5273,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -5303,6 +5300,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -5335,9 +5335,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "startRewards": {
       "items": [
         {
@@ -5369,6 +5366,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -5413,9 +5413,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -5437,6 +5434,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -5467,9 +5467,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Locate and obtain any information about the deputy chief’s past life on Customs"
@@ -5516,6 +5513,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -5557,9 +5557,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -5581,6 +5578,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -5608,9 +5608,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "objectives": [
       {
         "description": "Locate the boat hidden next to the breakwater on Shoreline"
@@ -5670,6 +5667,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -5982,9 +5982,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -6012,6 +6009,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -6053,9 +6053,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "startRewards": {
       "items": [
         {
@@ -6087,6 +6084,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -6132,9 +6132,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -6156,6 +6153,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -6200,9 +6200,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -6224,6 +6221,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -6262,9 +6262,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -6280,6 +6277,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -6692,9 +6692,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -6716,6 +6713,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -6766,9 +6766,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -6790,6 +6787,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -6828,9 +6828,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "startRewards": {
       "items": [
         {
@@ -6856,6 +6853,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -6897,9 +6897,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -6915,6 +6912,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -6956,9 +6956,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -6980,6 +6977,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -7225,9 +7225,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "objectives": [
       {
         "description": "Locate and mark the first UN truck with an MS2000 Marker"
@@ -7283,6 +7280,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -7367,9 +7367,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "objectives": [
       {
         "description": "Fix the first control board with a Toolset on Factory",
@@ -7416,6 +7413,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -7457,9 +7457,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -7475,6 +7472,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -7513,9 +7513,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -7537,6 +7534,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -7572,9 +7572,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -7608,6 +7605,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -7646,9 +7646,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -7664,6 +7661,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -7705,9 +7705,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -7723,6 +7720,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -7874,9 +7874,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -7892,6 +7889,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -7930,9 +7930,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -7948,6 +7945,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -8153,9 +8153,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -8183,6 +8180,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -8224,9 +8224,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -8248,6 +8245,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -8286,9 +8286,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -8304,6 +8301,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -8701,9 +8701,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -8719,6 +8716,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -8757,9 +8757,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -8769,6 +8766,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -8799,9 +8799,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Locate the hidden recording studio on Lighthouse"
@@ -8838,6 +8835,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -8879,9 +8879,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -8909,6 +8906,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -8953,9 +8953,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -8989,6 +8986,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -9057,9 +9057,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -9081,6 +9078,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -9116,9 +9116,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -9134,6 +9131,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -9172,9 +9172,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "startRewards": {
       "items": [
         {
@@ -9206,6 +9203,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -9233,9 +9233,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "objectives": [
       {
         "description": "Install a WI-FI Camera in the first crane's cockpit on Factory",
@@ -9305,6 +9302,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -9343,9 +9343,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -9361,6 +9358,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -9544,9 +9544,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -9562,6 +9559,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -9601,9 +9601,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "objectives": [
       {
         "description": "Locate and neutralize Tagilla"
@@ -9652,6 +9649,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -9751,9 +9751,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "objectives": [
       {
         "description": "Fix the first reactor mixer with a Toolset on Factory",
@@ -9813,6 +9810,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -9854,9 +9854,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -9872,6 +9869,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -9957,9 +9957,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "objectives": [
       {
         "description": "Locate and neutralize Shturman"
@@ -10006,6 +10003,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -10137,9 +10137,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10155,6 +10152,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -10190,9 +10190,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10208,6 +10205,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -10249,9 +10249,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10267,6 +10264,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -10305,9 +10305,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10323,6 +10320,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -10364,9 +10364,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10382,6 +10379,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -10420,9 +10420,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10438,6 +10435,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -10476,9 +10476,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10494,6 +10491,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -10532,9 +10532,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10550,6 +10547,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -10881,9 +10881,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10905,6 +10902,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -10943,9 +10943,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -10967,6 +10964,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -11012,9 +11012,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11024,6 +11021,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -11107,9 +11107,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Ground Zero"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11125,6 +11122,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Ground Zero"
     }
   },
   {
@@ -11160,9 +11160,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11172,6 +11169,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -11213,9 +11213,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11231,6 +11228,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -11281,9 +11281,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11317,6 +11314,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -11361,9 +11361,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11391,6 +11388,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -11429,9 +11429,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11453,6 +11450,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -11489,9 +11489,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11513,6 +11510,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -11554,9 +11554,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "startRewards": {
       "items": [
         {
@@ -11588,6 +11585,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -11623,9 +11623,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11635,6 +11632,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -11673,9 +11673,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11703,6 +11700,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -11739,9 +11739,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -11763,6 +11760,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -11901,9 +11901,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "objectives": [
       {
         "description": "Locate the cause of the signal jamming on Streets of Tarkov"
@@ -11959,6 +11956,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -12006,9 +12006,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -12030,6 +12027,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -12220,9 +12220,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -12244,6 +12241,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -12472,9 +12472,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -12502,6 +12499,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -13100,9 +13100,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Labyrinth"
-    },
     "objectives": [
       {
         "description": "Locate the lab area with the prototype weapon inside The Labyrinth"
@@ -13155,6 +13152,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "The Labyrinth"
     }
   },
   {
@@ -13185,9 +13185,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Labyrinth"
-    },
     "objectives": [
       {
         "description": "Locate and obtain the special storage module inside The Labyrinth"
@@ -13259,6 +13256,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "The Labyrinth"
     }
   },
   {
@@ -13300,9 +13300,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Labyrinth"
-    },
     "finishRewards": {
       "items": [
         {
@@ -13336,6 +13333,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "The Labyrinth"
     }
   },
   {
@@ -13374,9 +13374,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Labyrinth"
-    },
     "finishRewards": {
       "items": [
         {
@@ -13404,6 +13401,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "The Labyrinth"
     }
   },
   {
@@ -13439,9 +13439,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Labyrinth"
-    },
     "finishRewards": {
       "items": [
         {
@@ -13463,6 +13460,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "The Labyrinth"
     }
   },
   {
@@ -13556,9 +13556,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Labyrinth"
-    },
     "objectives": [
       {
         "description": "Stash a Cultist knife in the first special place inside The Labyrinth",
@@ -13618,6 +13615,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "The Labyrinth"
     }
   },
   {
@@ -13659,9 +13659,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -13683,6 +13680,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -13727,9 +13727,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -13739,6 +13736,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -13784,9 +13784,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -13796,6 +13793,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -13831,9 +13831,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -13849,6 +13846,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -13947,9 +13947,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -13965,6 +13962,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -14015,9 +14015,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14033,6 +14030,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -14068,9 +14068,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14098,6 +14095,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -14137,9 +14137,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14149,6 +14146,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -14187,9 +14187,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14199,6 +14196,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -14237,9 +14237,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14255,6 +14252,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -14438,9 +14438,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14456,6 +14453,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -14506,9 +14506,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14524,6 +14521,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -14565,9 +14565,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14583,6 +14580,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -14621,9 +14621,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14639,6 +14636,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -14758,9 +14758,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "startRewards": {
       "items": [
         {
@@ -14786,6 +14783,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -14824,9 +14824,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14842,6 +14839,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -14880,9 +14880,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -14898,6 +14895,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -14925,9 +14925,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Stash a DVL-10 sniper rifle at the specified spot on Customs",
@@ -15027,6 +15024,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -15080,9 +15080,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15104,6 +15101,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -15154,9 +15154,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15178,6 +15175,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -15231,9 +15231,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15249,6 +15246,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -15308,9 +15308,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15338,6 +15335,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -15377,9 +15377,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "objectives": [
       {
         "description": "Stash a Ghost balaclava at the sawmill docks on Woods",
@@ -15455,6 +15452,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -15490,9 +15490,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15514,6 +15511,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -15601,9 +15601,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "objectives": [
       {
         "description": "Eliminate Scavs while using a suppressed weapon on Reserve"
@@ -15672,6 +15669,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -15713,9 +15713,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15737,6 +15734,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -15772,9 +15772,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15784,6 +15781,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -15828,9 +15828,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15852,6 +15849,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -15902,9 +15902,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -15932,6 +15929,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -16018,9 +16018,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16036,6 +16033,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -16258,9 +16258,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16276,6 +16273,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -16320,9 +16320,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16344,6 +16341,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -16382,9 +16382,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16418,6 +16415,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -16453,9 +16453,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16465,6 +16462,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -16506,9 +16506,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16524,6 +16521,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -16642,9 +16642,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16672,6 +16669,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16713,9 +16713,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16743,6 +16740,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16784,9 +16784,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16802,6 +16799,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16840,9 +16840,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16852,6 +16849,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16890,9 +16890,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -16908,6 +16905,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16938,9 +16938,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Eliminate Scavs while using a 12ga shotgun on Lighthouse"
@@ -16984,6 +16981,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -17239,9 +17239,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -17257,6 +17254,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -17301,9 +17301,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -17325,6 +17322,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -17412,9 +17412,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Night Factory"
-    },
     "objectives": [
       {
         "description": "Locate the drop spot on night-time Factory"
@@ -17445,6 +17442,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Night Factory"
     }
   },
   {
@@ -17480,9 +17480,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -17504,6 +17501,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -17585,9 +17585,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -17621,6 +17618,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -17663,9 +17663,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -17675,6 +17672,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -17713,9 +17713,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "finishRewards": {
       "items": [
         {
@@ -17731,6 +17728,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -17775,9 +17775,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -17799,6 +17796,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -17834,9 +17834,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -17858,6 +17855,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -17946,9 +17946,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "objectives": [
       {
         "description": "Locate and mark the spare BTR wheels with an MS2000 Marker on Reserve",
@@ -17988,6 +17985,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -58767,9 +58767,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "objectives": [
       {
         "description": "Stash the first metal fuel tank at the smugglers' base on Shoreline",
@@ -58807,6 +58804,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -59059,9 +59059,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -59083,6 +59080,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -59121,9 +59121,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Ground Zero"
-    },
     "finishRewards": {
       "items": [
         {
@@ -59139,6 +59136,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Ground Zero"
     }
   },
   {
@@ -59294,9 +59294,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -59312,6 +59309,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -59342,9 +59342,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "objectives": [
       {
         "description": "Stash a VOG-25 Khattabka grenade at the first RPG ammo crate on Woods",
@@ -59404,6 +59401,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -59440,9 +59440,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -59458,6 +59455,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -59493,9 +59493,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -59511,6 +59508,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -59624,9 +59624,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "startRewards": {
       "items": [
         {
@@ -59664,6 +59661,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -59694,9 +59694,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "objectives": [
       {
         "description": "Locate the bunker under the mountain on Woods"
@@ -60083,6 +60080,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -73451,9 +73451,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -73481,6 +73478,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -73528,9 +73528,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -73558,6 +73555,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -73605,9 +73605,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -73623,6 +73620,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -73901,9 +73901,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -73925,6 +73922,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -73969,9 +73969,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -73999,6 +73996,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -74146,9 +74146,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -74170,6 +74167,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -74197,9 +74197,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "objectives": [
       {
         "description": "Mark the medical container at the Health Resort with an MS2000 Marker on Shoreline",
@@ -74272,6 +74269,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -74307,9 +74307,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -74337,6 +74334,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -74372,9 +74372,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -74402,6 +74399,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -74437,9 +74437,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -74461,6 +74458,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -74699,9 +74699,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -74711,6 +74708,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -74824,9 +74824,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -74854,6 +74851,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -74892,9 +74892,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -74904,6 +74901,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75228,9 +75228,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -75258,6 +75255,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75296,9 +75296,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -75326,6 +75323,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75367,9 +75367,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -75397,6 +75394,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75444,9 +75444,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -75468,6 +75465,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -75521,9 +75521,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -75551,6 +75548,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -75589,9 +75589,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -75607,6 +75604,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75706,9 +75706,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "objectives": [
       {
         "description": "Locate and neutralize Kollontay"
@@ -75754,6 +75751,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75805,9 +75805,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Lab"
-    },
     "finishRewards": {
       "items": [
         {
@@ -75835,6 +75832,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "The Lab"
     }
   },
   {
@@ -75879,9 +75879,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -75897,6 +75894,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -76119,9 +76119,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -76161,6 +76158,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -76329,9 +76329,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "finishRewards": {
       "items": [
         {
@@ -76347,6 +76344,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -76929,9 +76929,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -76941,6 +76938,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -77216,9 +77216,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Locate and obtain the false flash drive at the specified spot on Customs"
@@ -77262,6 +77259,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -77559,9 +77559,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -77595,6 +77592,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -77633,9 +77633,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -77657,6 +77654,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -77751,9 +77751,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -77769,6 +77766,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -78009,9 +78009,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -78033,6 +78030,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -78071,9 +78071,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -78083,6 +78080,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -78127,9 +78127,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -78145,6 +78142,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -78226,9 +78226,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Locate the hidden drug lab on Lighthouse"
@@ -78271,6 +78268,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -78304,9 +78304,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "startRewards": {
       "items": [
         {
@@ -78356,6 +78353,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -78394,9 +78394,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -78412,6 +78409,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -78699,9 +78699,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Lab"
-    },
     "startRewards": {
       "items": [
         {
@@ -78733,6 +78730,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "The Lab"
     }
   },
   {
@@ -78765,9 +78765,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "startRewards": {
       "items": [
         {
@@ -78799,6 +78796,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -78895,9 +78895,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -78925,6 +78922,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -79047,9 +79047,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -79077,6 +79074,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -79367,9 +79367,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -79385,6 +79382,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -79583,9 +79583,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "finishRewards": {
       "items": [
         {
@@ -79607,6 +79604,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -79684,9 +79684,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -79696,6 +79693,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -79869,9 +79869,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "objectives": [
       {
         "description": "Stash the ComTac II headsets in the specified place on Interchange",
@@ -79919,6 +79916,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -80045,9 +80045,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Eliminate BEAR PMC operatives on Lighthouse"
@@ -80098,6 +80095,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -80221,9 +80221,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -80239,6 +80236,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -80407,9 +80407,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -80419,6 +80416,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -80450,9 +80450,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Eliminate USEC PMC operatives on Lighthouse"
@@ -80491,6 +80488,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -80755,9 +80755,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -80773,6 +80770,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -80965,9 +80965,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "startRewards": {
       "items": [
         {
@@ -81011,6 +81008,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -81043,9 +81043,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "startRewards": {
       "items": [
         {
@@ -81083,6 +81080,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -81179,9 +81179,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "objectives": [
       {
         "description": "Locate and neutralize Killa"
@@ -81248,6 +81245,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -81435,9 +81435,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -81447,6 +81444,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -81539,9 +81539,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -81569,6 +81566,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -81605,9 +81605,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -81629,6 +81626,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -81659,9 +81659,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "objectives": [
       {
         "description": "Eliminate any target while wearing a Bomber beanie and RayBench Hipster Reserve sunglasses on Streets of Tarkov"
@@ -81702,6 +81699,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -81854,9 +81854,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -81872,6 +81869,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -81916,9 +81916,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "startRewards": {
       "items": [
         {
@@ -81928,6 +81925,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -82050,9 +82050,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Lab"
-    },
     "objectives": [
       {
         "description": "Eliminate Raiders in The Lab"
@@ -82087,7 +82084,10 @@
           }
         ]
       }
-    ]
+    ],
+    "map": {
+      "name": "The Lab"
+    }
   },
   {
     "id": "625d70031ed3bb5bcc5bd9e5",
@@ -82120,9 +82120,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Hand over the found in raid Piece of plexiglass",
@@ -82180,7 +82177,10 @@
       {
         "description": "Hand over the Radio transmitter body"
       }
-    ]
+    ],
+    "map": {
+      "name": "Lighthouse"
+    }
   },
   {
     "id": "625d7005a4eb80027c4f2e09",
@@ -82218,9 +82218,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "startRewards": {
       "items": [
         {
@@ -82230,6 +82227,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -82263,9 +82263,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Obtain the V3 Flash drive on Lighthouse"
@@ -82286,7 +82283,10 @@
       {
         "description": "Visit the Lighthouse building"
       }
-    ]
+    ],
+    "map": {
+      "name": "Lighthouse"
+    }
   },
   {
     "id": "626148251ed3bb5bcc5bd9ed",
@@ -82418,9 +82418,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -82436,6 +82433,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -82469,9 +82469,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Obtain the V3 Flash drive on Lighthouse"
@@ -82492,7 +82489,10 @@
       {
         "description": "Visit the Lighthouse building"
       }
-    ]
+    ],
+    "map": {
+      "name": "Lighthouse"
+    }
   },
   {
     "id": "63966faeea19ac7ed845db2c",
@@ -82596,9 +82596,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -82608,6 +82605,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -82721,9 +82721,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -82751,6 +82748,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -82781,9 +82781,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "objectives": [
       {
         "description": "Eliminate PMC operatives around the mountain area on Woods"
@@ -82818,6 +82815,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -82848,9 +82848,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "objectives": [
       {
         "description": "Eliminate any target around the Kiba Arms store while using an ASh-12 on Interchange"
@@ -82904,6 +82901,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -82991,9 +82991,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "objectives": [
       {
         "description": "Locate a good sniping position in Concordia overlooking the construction site"
@@ -83034,6 +83031,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -83135,9 +83135,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "finishRewards": {
       "items": [
         {
@@ -83147,6 +83144,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -83334,9 +83334,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "objectives": [
       {
         "description": "Place a WI-FI Camera at the yellow bus on the southern bridge approaching the water treatment plant",
@@ -83378,7 +83375,10 @@
           }
         ]
       }
-    ]
+    ],
+    "map": {
+      "name": "Lighthouse"
+    }
   },
   {
     "id": "62614836f7308432be1d44cc",
@@ -83550,9 +83550,6 @@
         }
       }
     ],
-    "map": {
-      "name": "The Lab"
-    },
     "objectives": [
       {
         "description": "Place a WI-FI Camera inside the quarantine zone in The Lab",
@@ -83564,7 +83561,10 @@
           }
         ]
       }
-    ]
+    ],
+    "map": {
+      "name": "The Lab"
+    }
   },
   {
     "id": "6391d9144b15ca31f76bc323",
@@ -83669,9 +83669,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Lighthouse"
-    },
     "finishRewards": {
       "items": [
         {
@@ -83699,6 +83696,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Lighthouse"
     }
   },
   {
@@ -83984,9 +83984,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Streets of Tarkov"
-    },
     "startRewards": {
       "items": [
         {
@@ -84006,6 +84003,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     }
   },
   {
@@ -85150,9 +85150,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -85162,6 +85159,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -85351,9 +85351,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -85381,6 +85378,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -85887,9 +85887,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Shoreline"
-    },
     "startRewards": {
       "items": [
         {
@@ -85927,6 +85924,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Shoreline"
     }
   },
   {
@@ -85959,9 +85959,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Factory"
-    },
     "startRewards": {
       "items": [
         {
@@ -85999,6 +85996,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Factory"
     }
   },
   {
@@ -86031,9 +86031,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "startRewards": {
       "items": [
         {
@@ -86059,6 +86056,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
@@ -86788,9 +86788,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Reserve"
-    },
     "finishRewards": {
       "items": [
         {
@@ -86800,6 +86797,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Reserve"
     }
   },
   {
@@ -86835,9 +86835,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Interchange"
-    },
     "finishRewards": {
       "items": [
         {
@@ -86853,6 +86850,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Interchange"
     }
   },
   {
@@ -88264,9 +88264,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Woods"
-    },
     "finishRewards": {
       "items": [
         {
@@ -88288,6 +88285,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Woods"
     }
   },
   {
@@ -88446,9 +88446,6 @@
         }
       }
     ],
-    "map": {
-      "name": "Customs"
-    },
     "objectives": [
       {
         "description": "Stash a Trijicon REAP-IR scope under the base of the yellow crane at the construction site on Customs",
@@ -88480,6 +88477,9 @@
           }
         }
       ]
+    },
+    "map": {
+      "name": "Customs"
     }
   },
   {
