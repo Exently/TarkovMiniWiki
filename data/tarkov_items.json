@@ -33185,7 +33185,7 @@
     "description": "A short rail cover for the URX 3/3.1 handguards, manufactured by Knight's Armament Company.",
     "basePrice": 1200,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KAC_URX_3/3.1_short_panel",
     "iconLink": "https://assets.tarkov.dev/5d123a3cd7ad1a004e476058-icon.webp",
     "types": [
@@ -57313,7 +57313,7 @@
     "description": "A standard-issue pistol grip for Kalashnikov Machine gun. Manufactured by V.A. Degtyarev Plant.",
     "basePrice": 764,
     "avg24hPrice": null,
-    "lastLowPrice": 22999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PK_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/646371779f5f0ea59a04c204-icon.webp",
     "types": [
@@ -72153,7 +72153,7 @@
     "description": "A rear sight modeled after the popular Heckler & Koch iron sights, manufactured by Chaos.",
     "basePrice": 1245,
     "avg24hPrice": null,
-    "lastLowPrice": 9968,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chaos_HK_Style_rear_sight",
     "iconLink": "https://assets.tarkov.dev/674fe8cf4472d471fb0f07df-icon.webp",
     "types": [
