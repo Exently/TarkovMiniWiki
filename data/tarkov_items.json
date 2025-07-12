@@ -16761,7 +16761,7 @@
     "description": "A plus-size rear sight for Glock pistols family, manufactured by ZEV Technologies.",
     "basePrice": 2000,
     "avg24hPrice": null,
-    "lastLowPrice": 21210,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Glock_ZEV_Tech_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5a71e0fb8dc32e00094b97f2-icon.webp",
     "types": [
@@ -17446,7 +17446,7 @@
     "description": "A rear sight for Glock series pistols with tritium bars for precision aiming, manufactured by TruGlo.",
     "basePrice": 1818,
     "avg24hPrice": null,
-    "lastLowPrice": 2000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Glock_TruGlo_TFX_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5a7d912f159bd400165484f3-icon.webp",
     "types": [
@@ -50318,7 +50318,7 @@
     "description": "A standard factory-produced 600mm barrel with a front sight for MP-18 7.62x54R hunting rifles.",
     "basePrice": 4100,
     "avg24hPrice": null,
-    "lastLowPrice": 5000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-18_7.62x54R_600mm_barrel",
     "iconLink": "https://assets.tarkov.dev/61f4012adfc9f01a816adda1-icon.webp",
     "types": [
