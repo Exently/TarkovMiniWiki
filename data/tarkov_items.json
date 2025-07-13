@@ -8787,7 +8787,7 @@
     "description": "A charging handle with one latch for the MPX SMG. Manufactured by SIG Sauer.",
     "basePrice": 700,
     "avg24hPrice": null,
-    "lastLowPrice": 19990,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX_single_latch_charging_handle",
     "iconLink": "https://assets.tarkov.dev/58949fac86f77409483e16aa-icon.webp",
     "types": [
@@ -24660,7 +24660,7 @@
     "description": "A detachable base for the Izhmash-manufactured rear sight for the RPK-16 LMG.",
     "basePrice": 800,
     "avg24hPrice": null,
-    "lastLowPrice": 2000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RPK-16_rear_sight_base",
     "iconLink": "https://assets.tarkov.dev/5beec9450db83400970084fd-icon.webp",
     "types": [
@@ -26309,7 +26309,7 @@
     "description": "The TRU-DOT Night rear sight for P226 pistols with tritium bars for precision aiming, manufactured by Meprolight.",
     "basePrice": 1400,
     "avg24hPrice": null,
-    "lastLowPrice": 30000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/P226_Meprolight_TRU-DOT_Night_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5c07b3850db834002330045b-icon.webp",
     "types": [
@@ -33219,7 +33219,7 @@
     "description": "A stopper panel for the URX 3/3.1 handguards, manufactured by Knight's Armament Company.",
     "basePrice": 2850,
     "avg24hPrice": null,
-    "lastLowPrice": 13999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KAC_URX_3/3.1_stopper_panel",
     "iconLink": "https://assets.tarkov.dev/5d123b7dd7ad1a004f01b262-icon.webp",
     "types": [
@@ -40309,7 +40309,7 @@
     "description": "A classical-looking polymer stock for Mossberg 590A1 shotguns with a rubber butt-plate.",
     "basePrice": 1500,
     "avg24hPrice": null,
-    "lastLowPrice": 5000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mossberg_590A1_polymer_stock",
     "iconLink": "https://assets.tarkov.dev/5e87116b81c4ed43e83cefdd-icon.webp",
     "types": [
@@ -57331,7 +57331,7 @@
     "description": "A standard-issue wooden stock for Kalashnikov Machine gun. Manufactured by V.A. Degtyarev Plant.",
     "basePrice": 1847,
     "avg24hPrice": null,
-    "lastLowPrice": 14444,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PKM_wooden_stock",
     "iconLink": "https://assets.tarkov.dev/646371a9f2404ab67905c8e6-icon.webp",
     "types": [
