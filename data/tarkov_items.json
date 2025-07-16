@@ -16898,7 +16898,7 @@
     "description": "A 660mm 12 gauge barrel with a vent rib for the Remington Model 870 shotgun.",
     "basePrice": 14215,
     "avg24hPrice": null,
-    "lastLowPrice": 14000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M870_12ga_660mm_vent_rib_barrel",
     "iconLink": "https://assets.tarkov.dev/5a787fadc5856700155a6ca1-icon.webp",
     "types": [
@@ -37484,7 +37484,7 @@
     "description": "A standard-issue foldable stock for the MP9 SMG. Manufactured by Brügger & Thomet.",
     "basePrice": 2350,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP9_stock",
     "iconLink": "https://assets.tarkov.dev/5de910da8b6c4240ba2651b5-icon.webp",
     "types": [
@@ -46508,7 +46508,7 @@
     "description": "A standard-issue buttpad for MP-43 shotguns.",
     "basePrice": 1200,
     "avg24hPrice": null,
-    "lastLowPrice": 1200,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-43-1C_buttpad",
     "iconLink": "https://assets.tarkov.dev/611a31ce5b7ffe001b4649d1-icon.webp",
     "types": [
@@ -50830,7 +50830,7 @@
     "description": "A polymer hand stop for the G36. Manufactured by Heckler & Koch.",
     "basePrice": 500,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_hand_stop",
     "iconLink": "https://assets.tarkov.dev/622f16a1a5958f63c67f1737-icon.webp",
     "types": [
@@ -57089,7 +57089,7 @@
     "description": "A standard-issue handguard for the 9A-91 assault rifle. Manufactured by Tula KPB Instrument Design Bureau.",
     "basePrice": 1652,
     "avg24hPrice": null,
-    "lastLowPrice": 200,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9A-91_handguard",
     "iconLink": "https://assets.tarkov.dev/644675573d52156624001fc9-icon.webp",
     "types": [
@@ -71505,7 +71505,7 @@
     "description": "A medium length handguard rail for installing additional equipment on the TRG series sniper rifles. Manufactured by Sako.",
     "basePrice": 1777,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sako_TRG_medium_length_rail",
     "iconLink": "https://assets.tarkov.dev/673dd617912f68467c0615b6-icon.webp",
     "types": [
