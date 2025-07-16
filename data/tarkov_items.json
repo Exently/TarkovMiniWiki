@@ -76201,58 +76201,7 @@
       "noFlea"
     ],
     "gridImageLink": "https://assets.tarkov.dev/67d0576f29f580ebc10efd08-grid-image.webp",
-    "craftsFor": [
-      {
-        "id": "6839a4b18b47de9b76007028",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Set of files \"Master\""
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Toolset"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "RPK-16 5.45x39 light machine gun"
-            }
-          },
-          {
-            "count": 5,
-            "item": {
-              "name": "Metal spare parts"
-            }
-          },
-          {
-            "count": 10,
-            "item": {
-              "name": "Weapon parts"
-            }
-          },
-          {
-            "count": 2,
-            "item": {
-              "name": "Tube of Poxeram cold welding"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Insulating tape"
-            }
-          }
-        ]
-      }
-    ]
+    "craftsFor": []
   },
   {
     "id": "67d3ed3271c17ff82e0a5b0b",
@@ -76708,6 +76657,75 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/6841b6b674a3c16f5e03d653-grid-image.webp",
     "craftsFor": []
+  },
+  {
+    "id": "707265736574000000000000",
+    "name": "TheAKGuy AK-50 .50 BMG sniper rifle Default",
+    "shortName": "AK-50 Default",
+    "normalizedName": "theakguy-ak-50-50-bmg-sniper-rifle-default",
+    "description": null,
+    "basePrice": 229656,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/707265736574000000000000-icon.webp",
+    "types": [
+      "noFlea",
+      "preset"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/707265736574000000000000-grid-image.webp",
+    "craftsFor": [
+      {
+        "id": "6839a4b18b47de9b76007028",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Set of files \"Master\""
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Toolset"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "RPK-16 5.45x39 light machine gun"
+            }
+          },
+          {
+            "count": 5,
+            "item": {
+              "name": "Metal spare parts"
+            }
+          },
+          {
+            "count": 10,
+            "item": {
+              "name": "Weapon parts"
+            }
+          },
+          {
+            "count": 2,
+            "item": {
+              "name": "Tube of Poxeram cold welding"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Insulating tape"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "707265736574000000000035",
