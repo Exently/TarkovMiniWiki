@@ -15549,7 +15549,7 @@
     "description": null,
     "basePrice": 56939,
     "avg24hPrice": null,
-    "lastLowPrice": 35000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Serdyukov_SR-1MP_Gyurza_9x21_pistol",
     "iconLink": "https://assets.tarkov.dev/5a327f7286f7747668661419-icon.webp",
     "types": [
@@ -16085,7 +16085,7 @@
     "description": "A standard-issue stock with a folding shoulder piece for the TOZ-106 hunting shotgun.",
     "basePrice": 1702,
     "avg24hPrice": null,
-    "lastLowPrice": 2222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TOZ-106_stock",
     "iconLink": "https://assets.tarkov.dev/5a38ef1fc4a282000b1521f6-icon.webp",
     "types": [
@@ -27624,26 +27624,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5c0fa877d174af02a012e1cf-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ec521d41954d4f09a9c8",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 5,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Aquapeps water purification tablets"
-            }
-          }
-        ]
-      },
-      {
         "id": "61c77c830f3639492721e99c",
         "station": {
           "name": "Nutrition Unit"
@@ -27671,6 +27651,26 @@
             "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67f4ec521d41954d4f09a9c8",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 5,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Aquapeps water purification tablets"
             }
           }
         ]
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "5de021b30f6d581e965bcde7",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Molot Arms VPO-209 .366 TKM carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Leatherman Multitool"
-            }
-          }
-        ]
-      },
-      {
         "id": "615c3d800d3afc358a55405e",
         "station": {
           "name": "Workbench"
@@ -34226,6 +34206,26 @@
             "count": 1,
             "item": {
               "name": "Flat screwdriver"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5de021b30f6d581e965bcde7",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Molot Arms VPO-209 .366 TKM carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Leatherman Multitool"
             }
           }
         ]
@@ -49754,7 +49754,7 @@
     "description": null,
     "basePrice": 176039,
     "avg24hPrice": null,
-    "lastLowPrice": 180000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR-L_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/619e61e70459e93c12392ba7-icon.webp",
     "types": [
@@ -55239,7 +55239,7 @@
     "description": "A standard-issue pistol grip for SR-2M \"Veresk\". Manufactured by TsNIItochmash. Black version.",
     "basePrice": 900,
     "avg24hPrice": null,
-    "lastLowPrice": 20420,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SR-2M_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/637ba29bf7ca6372bf2613db-icon.webp",
     "types": [
@@ -60435,7 +60435,7 @@
     "description": "A standard-issue barrel thread protector for the RPD machine gun. Manufactured by V.A. Degtyarev Plant.",
     "basePrice": 764,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RPD_barrel_thread_protector",
     "iconLink": "https://assets.tarkov.dev/6513f0f5e63f29908d0ffab8-icon.webp",
     "types": [
@@ -67383,6 +67383,26 @@
     "gridImageLink": "https://assets.tarkov.dev/665732e7ac60f009f270d1ef-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d5035be7fc94c806dee9",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked weapon crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
         "id": "66575197464c4b4ba4671004",
         "station": {
           "name": "Workbench"
@@ -67413,26 +67433,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "67c9d5035be7fc94c806dee9",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked weapon crate (Rare)"
-            }
-          }
-        ]
       }
     ]
   },
@@ -67452,6 +67452,26 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/665732f4464c4b4ba4670fa9-grid-image.webp",
     "craftsFor": [
+      {
+        "id": "67c9d4b251ce173bff01eec7",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked supply crate (Rare)"
+            }
+          }
+        ]
+      },
       {
         "id": "6666d829a8298779fc40e537",
         "station": {
@@ -67483,26 +67503,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "67c9d4b251ce173bff01eec7",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked supply crate (Rare)"
-            }
-          }
-        ]
       }
     ]
   },
@@ -67522,26 +67522,6 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/66573310a1657263d816a139-grid-image.webp",
     "craftsFor": [
-      {
-        "id": "67c9d447b53b0fcf1d0bb0ab",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked valuables crate (Rare)"
-            }
-          }
-        ]
-      },
       {
         "id": "6666d7ea0b734650a91d0a42",
         "station": {
@@ -67564,6 +67544,26 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67c9d447b53b0fcf1d0bb0ab",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
             }
           },
           {
@@ -77344,7 +77344,7 @@
     "description": null,
     "basePrice": 193748,
     "avg24hPrice": null,
-    "lastLowPrice": 300000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AS_VAL_9x39_special_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/707265736574000000000064-icon.webp",
     "types": [
@@ -77378,7 +77378,7 @@
     "description": null,
     "basePrice": 117989,
     "avg24hPrice": null,
-    "lastLowPrice": 99999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst)",
     "iconLink": "https://assets.tarkov.dev/707265736574000000000066-icon.webp",
     "types": [
