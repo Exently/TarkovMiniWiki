@@ -20284,7 +20284,7 @@
     "description": "A standard stock for MTs 20-01 hunting rifles, but can be also installed on various different shotguns including the bolt-action TOZ-106.",
     "basePrice": 2453,
     "avg24hPrice": null,
-    "lastLowPrice": 2575,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MTs_20-01_stock",
     "iconLink": "https://assets.tarkov.dev/5adf23995acfc400185c2aeb-icon.webp",
     "types": [
@@ -37604,7 +37604,7 @@
     "description": "A standard aluminum body for the T-5000M bolt-action sniper rifle, manufactured by ORSIS.",
     "basePrice": 13200,
     "avg24hPrice": null,
-    "lastLowPrice": 60000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ORSIS_T-5000M_aluminium_body",
     "iconLink": "https://assets.tarkov.dev/5df35e59c41b2312ea3334d5-icon.webp",
     "types": [
@@ -55222,7 +55222,7 @@
     "description": "A standard-issue SR-2M \"Veresk\" polymer handguard for burn protection. Manufactured by TsNIItochmash. Black version.",
     "basePrice": 2850,
     "avg24hPrice": null,
-    "lastLowPrice": 3106,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SR-2M_polymer_handguard",
     "iconLink": "https://assets.tarkov.dev/637ba19df7ca6372bf2613d7-icon.webp",
     "types": [
@@ -66288,7 +66288,7 @@
     "description": "An aluminium railed handguard for the M60E4 Mod 1 light machine gun. Manufactured by U.S Ordnance.",
     "basePrice": 6453,
     "avg24hPrice": null,
-    "lastLowPrice": 22555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M60E4_Mod_1_handguard",
     "iconLink": "https://assets.tarkov.dev/66012d64c752a02bbe05e69b-icon.webp",
     "types": [
@@ -66768,7 +66768,7 @@
     "description": "An aluminium railed handguard for the M60E4 Mod 1 light machine gun. Manufactured by U.S Ordnance. Flat Dark Earth version.",
     "basePrice": 10246,
     "avg24hPrice": null,
-    "lastLowPrice": 25000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M60E4_Mod_1_handguard",
     "iconLink": "https://assets.tarkov.dev/661fbe066751ee51930b01f2-icon.webp",
     "types": [
