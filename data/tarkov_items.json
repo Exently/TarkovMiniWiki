@@ -27624,6 +27624,26 @@
     "gridImageLink": "https://assets.tarkov.dev/5c0fa877d174af02a012e1cf-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67f4ec521d41954d4f09a9c8",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 5,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Aquapeps water purification tablets"
+            }
+          }
+        ]
+      },
+      {
         "id": "61c77c830f3639492721e99c",
         "station": {
           "name": "Nutrition Unit"
@@ -27651,26 +27671,6 @@
             "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67f4ec521d41954d4f09a9c8",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 5,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Aquapeps water purification tablets"
             }
           }
         ]
@@ -29307,7 +29307,7 @@
     "description": "A standard-issue metal dust cover for VPO-101 Vepr-Hunter carbines, manufactured by Molot Arms.",
     "basePrice": 1020,
     "avg24hPrice": null,
-    "lastLowPrice": 18888,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPO-101_dust_cover",
     "iconLink": "https://assets.tarkov.dev/5c503d0a2e221602b542b7ef-icon.webp",
     "types": [
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "615c3d800d3afc358a55405e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "TOZ Simonov SKS 7.62x39 carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Flat screwdriver"
-            }
-          }
-        ]
-      },
-      {
         "id": "5de021b30f6d581e965bcde7",
         "station": {
           "name": "Workbench"
@@ -34226,6 +34206,26 @@
             "count": 1,
             "item": {
               "name": "Leatherman Multitool"
+            }
+          }
+        ]
+      },
+      {
+        "id": "615c3d800d3afc358a55405e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "TOZ Simonov SKS 7.62x39 carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Flat screwdriver"
             }
           }
         ]
@@ -37536,7 +37536,7 @@
     "description": "A 660mm long match-grade barrel manufactured by ORSIS for the T-5000M 7.62x51 bolt-action sniper rifle.",
     "basePrice": 17672,
     "avg24hPrice": null,
-    "lastLowPrice": 11111,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ORSIS_T-5000M_7.62x51_660mm_barrel",
     "iconLink": "https://assets.tarkov.dev/5df256570dee1b22f862e9c4-icon.webp",
     "types": [
@@ -37689,7 +37689,7 @@
     "description": "A standard-issue padded grip for the T-5000M sniper rifle, manufactured by ORSIS.",
     "basePrice": 1850,
     "avg24hPrice": null,
-    "lastLowPrice": 2127,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ORSIS_T-5000M_padded_handguard_grip",
     "iconLink": "https://assets.tarkov.dev/5df36948bb49d91fb446d5ad-icon.webp",
     "types": [
@@ -54200,7 +54200,7 @@
     "description": "A standard charging handle for AUG A3. Manufactured by Steyr-Daimler-Puch.",
     "basePrice": 1700,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A3_charging_handle",
     "iconLink": "https://assets.tarkov.dev/62ebbc53e3c1e1ec7c02c44f-icon.webp",
     "types": [
@@ -57209,7 +57209,7 @@
     "description": "A standard-issue 180mm barrel for the VSK-94 marksman rifle. Manufactured by Tula KPB Instrument Design Bureau.",
     "basePrice": 7900,
     "avg24hPrice": null,
-    "lastLowPrice": 8610,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSK-94_9x39_barrel",
     "iconLink": "https://assets.tarkov.dev/645123013d52156624001fd1-icon.webp",
     "types": [
@@ -60452,7 +60452,7 @@
     "description": "A standard-issue wooden pistol grip for the RPD machine gun. Manufactured by V.A. Degtyarev Plant.",
     "basePrice": 842,
     "avg24hPrice": null,
-    "lastLowPrice": 500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RPD_wooden_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/6513f13a8cb24472490ee32f-icon.webp",
     "types": [
@@ -60470,7 +60470,7 @@
     "description": "A standard-issue rear sight for the RPD machine gun. Manufactured by V.A. Degtyarev Plant.",
     "basePrice": 576,
     "avg24hPrice": null,
-    "lastLowPrice": 200,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RPD_rear_sight",
     "iconLink": "https://assets.tarkov.dev/6513f153e63f29908d0ffaba-icon.webp",
     "types": [
@@ -66271,7 +66271,7 @@
     "description": "A standard-issue railed handguard for the M60E6 light machine gun. Manufactured by U.S Ordnance.",
     "basePrice": 8567,
     "avg24hPrice": null,
-    "lastLowPrice": 16420,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M60E6_handguard",
     "iconLink": "https://assets.tarkov.dev/66012d003dff5074ed002e2c-icon.webp",
     "types": [
@@ -67383,26 +67383,6 @@
     "gridImageLink": "https://assets.tarkov.dev/665732e7ac60f009f270d1ef-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67c9d5035be7fc94c806dee9",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked weapon crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
         "id": "66575197464c4b4ba4671004",
         "station": {
           "name": "Workbench"
@@ -67433,6 +67413,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "67c9d5035be7fc94c806dee9",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked weapon crate (Rare)"
+            }
+          }
+        ]
       }
     ]
   },
@@ -67452,26 +67452,6 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/665732f4464c4b4ba4670fa9-grid-image.webp",
     "craftsFor": [
-      {
-        "id": "67c9d4b251ce173bff01eec7",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked supply crate (Rare)"
-            }
-          }
-        ]
-      },
       {
         "id": "6666d829a8298779fc40e537",
         "station": {
@@ -67503,6 +67483,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "67c9d4b251ce173bff01eec7",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked supply crate (Rare)"
+            }
+          }
+        ]
       }
     ]
   },
@@ -67522,6 +67522,26 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/66573310a1657263d816a139-grid-image.webp",
     "craftsFor": [
+      {
+        "id": "67c9d447b53b0fcf1d0bb0ab",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ]
+      },
       {
         "id": "6666d7ea0b734650a91d0a42",
         "station": {
@@ -67544,26 +67564,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked valuables crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67c9d447b53b0fcf1d0bb0ab",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
