@@ -6014,7 +6014,7 @@
     "description": "A standard-issue Sb.0-2 dust cover for Saiga 12, manufactured by Izhmash.",
     "basePrice": 1195,
     "avg24hPrice": null,
-    "lastLowPrice": 500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SOK-12_dust_cover",
     "iconLink": "https://assets.tarkov.dev/57616c112459773cce774d66-icon.webp",
     "types": [
@@ -6600,7 +6600,7 @@
     "description": "A standard-issue fixed rear sight for SOK-12, manufactured by Izhmash.",
     "basePrice": 400,
     "avg24hPrice": null,
-    "lastLowPrice": 419,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SOK-12_rear_sight",
     "iconLink": "https://assets.tarkov.dev/57a9b9ce2459770ee926038d-icon.webp",
     "types": [
@@ -33083,7 +33083,7 @@
     "description": "A rubber eyecup for the KMZ 1P59 scope.",
     "basePrice": 576,
     "avg24hPrice": null,
-    "lastLowPrice": 9999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KMZ_1P59_scope_eyecup",
     "iconLink": "https://assets.tarkov.dev/5d0b5cd3d7ad1a3fe32ad263-icon.webp",
     "types": [
@@ -37587,7 +37587,7 @@
     "description": "A universal standard-issue stock for T-5000M sniper rifles, manufactured by ORSIS.",
     "basePrice": 3150,
     "avg24hPrice": null,
-    "lastLowPrice": 2222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ORSIS_T-5000M_stock",
     "iconLink": "https://assets.tarkov.dev/5df35ddddfc58d14537c2036-icon.webp",
     "types": [
@@ -49669,7 +49669,7 @@
     "description": null,
     "basePrice": 31750,
     "avg24hPrice": null,
-    "lastLowPrice": 21000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_USP_.45_ACP_pistol",
     "iconLink": "https://assets.tarkov.dev/619d26ccc7791e3af27ae3cd-icon.webp",
     "types": [
@@ -49686,7 +49686,7 @@
     "description": null,
     "basePrice": 24750,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_USP_.45_ACP_pistol",
     "iconLink": "https://assets.tarkov.dev/619d270836b5be1f3236f9c5-icon.webp",
     "types": [
@@ -50352,7 +50352,7 @@
     "description": "A wooden handguard for MP-18 hunting rifles. Manufactured by IzhMekh.",
     "basePrice": 2000,
     "avg24hPrice": null,
-    "lastLowPrice": 21000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-18_wooden_handguard",
     "iconLink": "https://assets.tarkov.dev/61f7b85367ddd414173fdb36-icon.webp",
     "types": [
@@ -52250,7 +52250,7 @@
     "description": null,
     "basePrice": 51452,
     "avg24hPrice": null,
-    "lastLowPrice": 100000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Remington_Model_870_12ga_pump-action_shotgun",
     "iconLink": "https://assets.tarkov.dev/628750420828252c7a28b944-icon.webp",
     "types": [
@@ -54881,7 +54881,7 @@
     "description": "A standard wooden gas tube cover for the SKS carbine, manufactured by Tula Arms.",
     "basePrice": 812,
     "avg24hPrice": null,
-    "lastLowPrice": 44444,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SKS_gas_tube_cover",
     "iconLink": "https://assets.tarkov.dev/634f08a21f9f536910079b5a-icon.webp",
     "types": [
@@ -57106,7 +57106,7 @@
     "description": "A standard-issue handguard for the VSK-94 marksman rifle. Manufactured by Tula KPB Instrument Design Bureau.",
     "basePrice": 1734,
     "avg24hPrice": null,
-    "lastLowPrice": 5000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSK-94_handguard",
     "iconLink": "https://assets.tarkov.dev/6448f2f6d4928d46d30be3f6-icon.webp",
     "types": [
@@ -77603,7 +77603,7 @@
     "description": null,
     "basePrice": 198547,
     "avg24hPrice": null,
-    "lastLowPrice": 120000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ASh-12_12.7x55_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/ash12tac0000000000000001-icon.webp",
     "types": [
