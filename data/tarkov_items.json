@@ -159,6 +159,20 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Water Collector"
+        }
+      },
+      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "requiredItems": [
           {
@@ -176,20 +190,6 @@
         ],
         "station": {
           "name": "Nutrition Unit"
-        }
-      },
-      {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Water Collector"
         }
       }
     ]
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "615c3d800d3afc358a55405e",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "TOZ Simonov SKS 7.62x39 carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Flat screwdriver"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
         "id": "5de021b30f6d581e965bcde7",
         "requiredItems": [
           {
@@ -34223,6 +34203,26 @@
             "count": 1,
             "item": {
               "name": "Leatherman Multitool"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
+        "id": "615c3d800d3afc358a55405e",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "TOZ Simonov SKS 7.62x39 carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Flat screwdriver"
             }
           }
         ],
