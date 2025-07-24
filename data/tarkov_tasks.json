@@ -15456,6 +15456,59 @@
     }
   },
   {
+    "id": "61904daa7d0d857927447b9c",
+    "name": "The Hermit",
+    "normalizedName": "the-hermit",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Hermit",
+    "taskImageLink": "https://assets.tarkov.dev/61904daa7d0d857927447b9c.webp",
+    "experience": 12000,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "objectives": [
+      {
+        "description": "Locate the hideout of Jaeger's friend on Lighthouse"
+      },
+      {
+        "description": "Find and obtain the message for Jaeger"
+      },
+      {
+        "description": "Hand over the message"
+      }
+    ],
+    "trader": {
+      "name": "Jaeger",
+      "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
+      "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d25cf2686f77443e75488d4",
+          "name": "The Survivalist Path - Tough Guy"
+        }
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 55000,
+          "item": {
+            "name": "Roubles"
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "5d25e4d586f77443e625e388",
     "name": "Reserve",
     "normalizedName": "reserve",
@@ -16671,60 +16724,6 @@
           "count": 2,
           "item": {
             "name": "Can of thermite"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "61904daa7d0d857927447b9c",
-    "name": "The Hermit",
-    "normalizedName": "the-hermit",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Hermit",
-    "taskImageLink": "https://assets.tarkov.dev/61904daa7d0d857927447b9c.webp",
-    "experience": 12000,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "startRewards": {
-      "items": []
-    },
-    "objectives": [
-      {
-        "description": "Locate the hideout of Jaeger's friend on Lighthouse"
-      },
-      {
-        "description": "Find and obtain the message for Jaeger"
-      },
-      {
-        "description": "Hand over the message"
-      }
-    ],
-    "trader": {
-      "name": "Jaeger",
-      "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
-      "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
-    },
-    "map": {
-      "name": "Lighthouse"
-    },
-    "taskRequirements": [
-      {
-        "status": [
-          "active",
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e48186f77443e625e386",
-          "name": "Courtesy Visit"
-        }
-      }
-    ],
-    "finishRewards": {
-      "items": [
-        {
-          "count": 55000,
-          "item": {
-            "name": "Roubles"
           }
         }
       ]
