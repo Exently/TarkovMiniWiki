@@ -2702,7 +2702,7 @@
     "description": "The SIG Sauer Mk25 blued slide for P226R 9x19 pistols.",
     "basePrice": 3210,
     "avg24hPrice": null,
-    "lastLowPrice": 2500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/P226R_MK25_pistol_slide",
     "iconLink": "https://assets.tarkov.dev/56d5a407d2720bb3418b456b-icon.webp",
     "types": [
@@ -11702,7 +11702,7 @@
     "description": "A standard rear sight for PP-19-01 Vityaz SMG produced by Izhmash.",
     "basePrice": 414,
     "avg24hPrice": null,
-    "lastLowPrice": 333,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PP-19-01_Vityaz_rear_sight",
     "iconLink": "https://assets.tarkov.dev/599860e986f7743bb57573a6-icon.webp",
     "types": [
@@ -17650,7 +17650,7 @@
     "description": null,
     "basePrice": 46354,
     "avg24hPrice": null,
-    "lastLowPrice": 45000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Glock_17_9x19_pistol",
     "iconLink": "https://assets.tarkov.dev/5a88b1f686f774159949926e-icon.webp",
     "types": [
@@ -19466,7 +19466,7 @@
     "description": "A standard Izhmash-produced muzzle brake and compensator for the AK-101 and weapon systems based on it.",
     "basePrice": 600,
     "avg24hPrice": null,
-    "lastLowPrice": 9999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-101_5.56x45_muzzle_brake-compensator",
     "iconLink": "https://assets.tarkov.dev/5ac72e615acfc43f67248aa0-icon.webp",
     "types": [
@@ -22613,7 +22613,7 @@
     "description": "The original Austrian handguard for FAL series rifles manufactured by Fabrique Nationale Herstal.",
     "basePrice": 2400,
     "avg24hPrice": null,
-    "lastLowPrice": 4444,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FAL_original_handguard",
     "iconLink": "https://assets.tarkov.dev/5b7bed205acfc400161d08cc-icon.webp",
     "types": [
@@ -41936,7 +41936,7 @@
     "description": "The Lomount front sight for the M45A1 pistol, manufactured by Novak.",
     "basePrice": 750,
     "avg24hPrice": null,
-    "lastLowPrice": 1111,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M45A1_Novak_Lomount_front_sight",
     "iconLink": "https://assets.tarkov.dev/5f3e78a7fbf956000b716b8e-icon.webp",
     "types": [
@@ -44628,7 +44628,7 @@
     "description": "A regular magazine well for the Soyuz-TM STM-9 carbine.",
     "basePrice": 1276,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/STM-9_magwell",
     "iconLink": "https://assets.tarkov.dev/602f85fd9b513876d4338d9c-icon.webp",
     "types": [
@@ -51000,7 +51000,7 @@
     "description": "A standard polymer 2-vent handguard with a heatshield for the G36 assault rifle. Manufactured by Heckler & Koch.",
     "basePrice": 2500,
     "avg24hPrice": null,
-    "lastLowPrice": 25000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_2-vent_handguard",
     "iconLink": "https://assets.tarkov.dev/62386b2adf47d66e835094b2-icon.webp",
     "types": [
@@ -51446,7 +51446,7 @@
     "description": "Benelli M3 black synthetic forend with firing mode switch is constructed from polymer with grooved checkering for an easy grip, manufactured by Benelli.",
     "basePrice": 2000,
     "avg24hPrice": null,
-    "lastLowPrice": 2099,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Benelli_M3_forend",
     "iconLink": "https://assets.tarkov.dev/6259c4347d6aab70bc23a190-icon.webp",
     "types": [
