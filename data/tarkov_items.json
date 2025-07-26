@@ -159,6 +159,20 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          }
+        ]
+      },
+      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "station": {
           "name": "Nutrition Unit"
@@ -174,20 +188,6 @@
             "count": 1,
             "item": {
               "name": "Silicone tube"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Bottle of water (0.6L)"
             }
           }
         ]
@@ -16915,7 +16915,7 @@
     "description": "A sawed-off 325mm barrel for the Remington Model 870 12 gauge shotgun.",
     "basePrice": 5593,
     "avg24hPrice": null,
-    "lastLowPrice": 2,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M870_12ga_sawed-off_325mm_barrel",
     "iconLink": "https://assets.tarkov.dev/5a787fdfc5856700142fdd9a-icon.webp",
     "types": [
@@ -33202,7 +33202,7 @@
     "description": "A long rail cover for the URX 3/3.1 handguards, manufactured by Knight's Armament Company.",
     "basePrice": 1750,
     "avg24hPrice": null,
-    "lastLowPrice": 9999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KAC_URX_3/3.1_long_panel",
     "iconLink": "https://assets.tarkov.dev/5d123b70d7ad1a0ee35e0754-icon.webp",
     "types": [
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "615c3d800d3afc358a55405e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "TOZ Simonov SKS 7.62x39 carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Flat screwdriver"
-            }
-          }
-        ]
-      },
-      {
         "id": "5de021b30f6d581e965bcde7",
         "station": {
           "name": "Workbench"
@@ -34226,6 +34206,26 @@
             "count": 1,
             "item": {
               "name": "Leatherman Multitool"
+            }
+          }
+        ]
+      },
+      {
+        "id": "615c3d800d3afc358a55405e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "TOZ Simonov SKS 7.62x39 carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Flat screwdriver"
             }
           }
         ]
@@ -40275,7 +40275,7 @@
     "description": "A Ghost Ring type front sight for 590 pump-action shotguns, manufactured by Mossberg.",
     "basePrice": 700,
     "avg24hPrice": null,
-    "lastLowPrice": 25000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mossberg_590_Ghost_Ring_front_sight",
     "iconLink": "https://assets.tarkov.dev/5e8708d4ae379e67d22e0102-icon.webp",
     "types": [
@@ -40292,7 +40292,7 @@
     "description": "A Ghost Ring type rear sight for 590 pump-action shotguns, manufactured by Mossberg.",
     "basePrice": 800,
     "avg24hPrice": null,
-    "lastLowPrice": 25000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mossberg_590_Ghost_Ring_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5e87114fe2db31558c75a120-icon.webp",
     "types": [
@@ -43794,7 +43794,7 @@
     "description": "A side rail for the UMP SMG handguard, allows installation of additional tactical devices.",
     "basePrice": 1033,
     "avg24hPrice": null,
-    "lastLowPrice": 17999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_UMP_side_handguard_rail",
     "iconLink": "https://assets.tarkov.dev/5fc5396e900b1d5091531e72-icon.webp",
     "types": [
@@ -49020,7 +49020,7 @@
     "description": "An adapter for the USP pistol that allows the installation of additional tactical equipment. Manufactured by Heckler & Koch.",
     "basePrice": 1500,
     "avg24hPrice": null,
-    "lastLowPrice": 30000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_USP_rail_adapter",
     "iconLink": "https://assets.tarkov.dev/6196255558ef8c428c287d1c-icon.webp",
     "types": [
@@ -49703,7 +49703,7 @@
     "description": null,
     "basePrice": 30450,
     "avg24hPrice": null,
-    "lastLowPrice": 22900,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_USP_.45_ACP_pistol",
     "iconLink": "https://assets.tarkov.dev/619d272b0f9e4513744e7699-icon.webp",
     "types": [
@@ -51497,7 +51497,7 @@
     "description": "A standard charging handle for Benelli M3 S90. Simplifies bolt handling.",
     "basePrice": 1300,
     "avg24hPrice": null,
-    "lastLowPrice": 1364,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Benelli_M3_Super_90_charging_handle",
     "iconLink": "https://assets.tarkov.dev/625ec45bb14d7326ac20f572-icon.webp",
     "types": [
@@ -60018,7 +60018,7 @@
     "id": "64cbe20d5aa0a53ad12f96c9",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
     "description": null,
     "basePrice": 177750,
     "avg24hPrice": null,
@@ -60036,7 +60036,7 @@
     "id": "64ccaa66ad8a0956023901b6",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
     "description": null,
     "basePrice": 176637,
     "avg24hPrice": null,
@@ -69197,7 +69197,7 @@
     "description": "An L5 slide for the Desert Eagle pistol chambered in .357 Magnum, manufactured by Magnum Research.",
     "basePrice": 3794,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Desert_Eagle_L5_.357_pistol_slide",
     "iconLink": "https://assets.tarkov.dev/669fa5127a09bc295603b499-icon.webp",
     "types": [
