@@ -159,20 +159,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Water Collector"
-        }
-      },
-      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "requiredItems": [
           {
@@ -190,6 +176,20 @@
         ],
         "station": {
           "name": "Nutrition Unit"
+        }
+      },
+      {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Water Collector"
         }
       }
     ]
@@ -67313,6 +67313,26 @@
     "gridImageLink": "https://assets.tarkov.dev/665730fa4de4820934746c48-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d54b017035dd060bff5e",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked equipment crate (Rare)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
         "id": "6666d899eb78191c502350b2",
         "requiredItems": [
           {
@@ -67331,26 +67351,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked equipment crate (Rare)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
-        "id": "67c9d54b017035dd060bff5e",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
@@ -67453,26 +67453,6 @@
     "gridImageLink": "https://assets.tarkov.dev/665732f4464c4b4ba4670fa9-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67c9d4b251ce173bff01eec7",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked supply crate (Rare)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
         "id": "6666d829a8298779fc40e537",
         "requiredItems": [
           {
@@ -67491,6 +67471,26 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked supply crate (Rare)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
+        "id": "67c9d4b251ce173bff01eec7",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
             }
           },
           {
@@ -67523,6 +67523,26 @@
     "gridImageLink": "https://assets.tarkov.dev/66573310a1657263d816a139-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d447b53b0fcf1d0bb0ab",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
         "id": "6666d7ea0b734650a91d0a42",
         "requiredItems": [
           {
@@ -67541,26 +67561,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked valuables crate (Rare)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
-        "id": "67c9d447b53b0fcf1d0bb0ab",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
