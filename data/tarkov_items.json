@@ -159,6 +159,20 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          }
+        ]
+      },
+      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "station": {
           "name": "Nutrition Unit"
@@ -174,20 +188,6 @@
             "count": 1,
             "item": {
               "name": "Silicone tube"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Bottle of water (0.6L)"
             }
           }
         ]
@@ -1654,7 +1654,7 @@
     "description": "A wooden stock for MP-133 and MP-153 shotguns with a rubber butt-plate manufactured by Izhmekh.",
     "basePrice": 1499,
     "avg24hPrice": null,
-    "lastLowPrice": 2222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-133/153_wooden_stock",
     "iconLink": "https://assets.tarkov.dev/56083cba4bdc2de22e8b456f-icon.webp",
     "types": [
@@ -2050,7 +2050,7 @@
     "description": "An Izhmash-manufactured 6P1 Sb.8V bakelite pistol grip for the AK automatic rifle and compatible weapon systems.",
     "basePrice": 764,
     "avg24hPrice": null,
-    "lastLowPrice": 1000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_bakelite_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/5649ad3f4bdc2df8348b4585-icon.webp",
     "types": [
@@ -2104,7 +2104,7 @@
     "description": "A standard-issue 6P1 0-1 dust cover for AK-74 automatic rifles, manufactured by Izhmash.",
     "basePrice": 1042,
     "avg24hPrice": null,
-    "lastLowPrice": 1000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_dust_cover",
     "iconLink": "https://assets.tarkov.dev/5649af094bdc2df8348b4586-icon.webp",
     "types": [
@@ -7189,7 +7189,7 @@
     "description": "A ZMZ-produced polymer pistol grip for PP-91 Kedr family weapons.",
     "basePrice": 1319,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PP-91_Kedr_polymer_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/57d152ec245977144076ccdf-icon.webp",
     "types": [
@@ -8333,7 +8333,7 @@
     "description": "A standard factory-produced 660mm barrel for MP-153 12 gauge shotguns.",
     "basePrice": 7179,
     "avg24hPrice": null,
-    "lastLowPrice": 8000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_660mm_barrel",
     "iconLink": "https://assets.tarkov.dev/588200c224597743990da9ed-icon.webp",
     "types": [
@@ -8350,7 +8350,7 @@
     "description": "A standard factory-produced 710mm barrel for MP-153 12 gauge shotguns.",
     "basePrice": 7481,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_710mm_barrel",
     "iconLink": "https://assets.tarkov.dev/588200cf2459774414733d55-icon.webp",
     "types": [
@@ -11859,7 +11859,7 @@
     "description": "A standard 6P20 Sb.1-2 gas tube for AK-74 automatic rifles. Gas tubes channel the travel direction of gas piston.",
     "basePrice": 2073,
     "avg24hPrice": null,
-    "lastLowPrice": 2000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_gas_tube",
     "iconLink": "https://assets.tarkov.dev/59c6633186f7740cf0493bb9-icon.webp",
     "types": [
@@ -13962,7 +13962,7 @@
     "description": "A 6P4 Sb.1-19 folding shoulder piece assembly for AKMS automatic rifles, manufactured by Izhmash.",
     "basePrice": 1557,
     "avg24hPrice": null,
-    "lastLowPrice": 29999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKMS_folding_stock",
     "iconLink": "https://assets.tarkov.dev/59ff3b6a86f77477562ff5ed-icon.webp",
     "types": [
@@ -16016,7 +16016,7 @@
     "description": "A 20/70 gauge shell loaded with 7.5mm buckshot.",
     "basePrice": 24,
     "avg24hPrice": null,
-    "lastLowPrice": 25,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/20/70_7.5mm_buckshot",
     "iconLink": "https://assets.tarkov.dev/5a38ebd9c4a282000d722a5b-icon.webp",
     "types": [
@@ -21048,7 +21048,7 @@
     "description": "A 114mm long barrel with a mounted compensator for Glock 18C automatic pistols.",
     "basePrice": 3184,
     "avg24hPrice": null,
-    "lastLowPrice": 2222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Glock_18C_9x19_114mm_compensated_barrel",
     "iconLink": "https://assets.tarkov.dev/5b1fa9ea5acfc40018633c0a-icon.webp",
     "types": [
@@ -21065,7 +21065,7 @@
     "description": "A standard-issue slide for Glock 18C 9x19 pistols.",
     "basePrice": 6537,
     "avg24hPrice": null,
-    "lastLowPrice": 4444,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Glock_18C_pistol_slide",
     "iconLink": "https://assets.tarkov.dev/5b1faa0f5acfc40dc528aeb5-icon.webp",
     "types": [
@@ -26692,7 +26692,7 @@
     "description": null,
     "basePrice": 27447,
     "avg24hPrice": null,
-    "lastLowPrice": 80000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mosin_7.62x54R_bolt-action_rifle_(Sniper)",
     "iconLink": "https://assets.tarkov.dev/5c0c202e86f77448687e0368-icon.webp",
     "types": [
@@ -27624,6 +27624,26 @@
     "gridImageLink": "https://assets.tarkov.dev/5c0fa877d174af02a012e1cf-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67f4ec521d41954d4f09a9c8",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 5,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Aquapeps water purification tablets"
+            }
+          }
+        ]
+      },
+      {
         "id": "61c77c830f3639492721e99c",
         "station": {
           "name": "Nutrition Unit"
@@ -27651,26 +27671,6 @@
             "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67f4ec521d41954d4f09a9c8",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 5,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Aquapeps water purification tablets"
             }
           }
         ]
@@ -36360,32 +36360,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d6fc87386f77449db3db94e-grid-image.webp",
     "craftsFor": [
       {
-        "id": "5dd3c9c8449c0c31795b0f0b",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Gunpowder \"Kite\""
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Gunpowder \"Eagle\""
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Classic matches"
-            }
-          }
-        ]
-      },
-      {
         "id": "5dd3c5a67da3785e63275437",
         "station": {
           "name": "Workbench"
@@ -36407,6 +36381,32 @@
             "count": 1,
             "item": {
               "name": "Ratchet wrench"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5dd3c9c8449c0c31795b0f0b",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Gunpowder \"Kite\""
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Gunpowder \"Eagle\""
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Classic matches"
             }
           }
         ]
@@ -37450,7 +37450,7 @@
     "description": "A bottom rail that allows installation of additional equipment on the MP9 SMG. Manufactured by Brügger & Thomet.",
     "basePrice": 1200,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP9_bottom_rail",
     "iconLink": "https://assets.tarkov.dev/5de8fbf2b74cd90030650c79-icon.webp",
     "types": [
@@ -43214,7 +43214,7 @@
     "description": "An upper receiver for the first generation MCX assault rifles manufactured by SIG Sauer. Features a mount for attaching additional equipment.",
     "basePrice": 3509,
     "avg24hPrice": null,
-    "lastLowPrice": 100000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MCX_GEN1_.300_BLK_upper_receiver",
     "iconLink": "https://assets.tarkov.dev/5fbcc3e4d6fa9c00c571bb58-icon.webp",
     "types": [
@@ -43439,7 +43439,7 @@
     "description": "A lightweight 18 inch long M-LOK-compatible handguard for the Mk-18 rifle. Manufactured by SWORD International.",
     "basePrice": 16400,
     "avg24hPrice": null,
-    "lastLowPrice": 88888,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mk-18_18_inch_handguard",
     "iconLink": "https://assets.tarkov.dev/5fc235db2770a0045c59c683-icon.webp",
     "types": [
@@ -43490,7 +43490,7 @@
     "description": "A 24 inch (610mm) barrel for Mk-18 .338 LM sniper rifle, manufactured by SWORD International.",
     "basePrice": 63567,
     "avg24hPrice": null,
-    "lastLowPrice": 548000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mk-18_.338_LM_24_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/5fc23678ab884124df0cd590-icon.webp",
     "types": [
@@ -43777,7 +43777,7 @@
     "description": "A bottom rail for the UMP SMG handguard, allows installation of various tactical foregrips.",
     "basePrice": 1573,
     "avg24hPrice": null,
-    "lastLowPrice": 80000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_UMP_bottom_handguard_rail",
     "iconLink": "https://assets.tarkov.dev/5fc53954f8b6a877a729eaeb-icon.webp",
     "types": [
@@ -45685,7 +45685,7 @@
     "description": "A Monte Carlo-style wooden walnut stock for MP-155 shotguns with a rubber butt-plate. Manufactured by Izhmekh.",
     "basePrice": 1299,
     "avg24hPrice": null,
-    "lastLowPrice": 1363,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-155_walnut_stock",
     "iconLink": "https://assets.tarkov.dev/607d5a891246154cad35d6aa-icon.webp",
     "types": [
@@ -47395,7 +47395,7 @@
     "description": "A receiver extension buffer tube for installation of Mil-Spec buttstocks, fits both HK417 and G28.",
     "basePrice": 1300,
     "avg24hPrice": null,
-    "lastLowPrice": 33333,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G28_buffer_tube",
     "iconLink": "https://assets.tarkov.dev/617153016c780c1e710c9a2f-icon.webp",
     "types": [
@@ -48609,7 +48609,7 @@
     "description": null,
     "basePrice": 94849,
     "avg24hPrice": null,
-    "lastLowPrice": 60000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR-L_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/6193e108c1982475fa2a7f16-icon.webp",
     "types": [
@@ -48850,7 +48850,7 @@
     "description": "A standard-issue rear sight for the USP pistol, manufactured by Heckler & Koch.",
     "basePrice": 700,
     "avg24hPrice": null,
-    "lastLowPrice": 9999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_USP_rear_sight",
     "iconLink": "https://assets.tarkov.dev/6194f2912d2c397d6600348d-icon.webp",
     "types": [
@@ -50711,7 +50711,7 @@
     "description": "A standard-issue magwell for the G36 assault rifle, manufactured by Heckler & Koch.",
     "basePrice": 1000,
     "avg24hPrice": null,
-    "lastLowPrice": 2000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_magwell",
     "iconLink": "https://assets.tarkov.dev/622f02437762f55aaa68ac85-icon.webp",
     "types": [
@@ -51017,7 +51017,7 @@
     "description": "A standard polymer 4-vent handguard with a heatshield for the G36 assault rifle. Manufactured by Heckler & Koch.",
     "basePrice": 4000,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_4-vent_handguard",
     "iconLink": "https://assets.tarkov.dev/62386b7153757417e93a4e9f-icon.webp",
     "types": [
@@ -54053,7 +54053,7 @@
     "description": "A standard charging handle for AUG A1. Manufactured by Steyr-Daimler-Puch.",
     "basePrice": 1000,
     "avg24hPrice": null,
-    "lastLowPrice": 199999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A1_charging_handle",
     "iconLink": "https://assets.tarkov.dev/62e7c880f68e7a0676050c7c-icon.webp",
     "types": [
@@ -58862,7 +58862,7 @@
     "description": "The B-50 66mm mount for Kalashnikov Machine gun. Features a Weaver rail for installation of various scopes. Manufactured by Zenit.",
     "basePrice": 1875,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PK_Zenit_B-50_66mm_top_mount",
     "iconLink": "https://assets.tarkov.dev/6492c8bba6e68e06fb0bae87-icon.webp",
     "types": [
@@ -60504,7 +60504,7 @@
     "description": "A standard-issue polymer handguard for the SR-3M assault rifle.",
     "basePrice": 1623,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SR-3M_polymer_handguard",
     "iconLink": "https://assets.tarkov.dev/65144f546ddb773afa0e35e1-icon.webp",
     "types": [
@@ -66559,7 +66559,7 @@
     "description": "A standard-issue lightweight pistol grip for the M60E6 light machine gun. Manufactured by U.S Ordnance.",
     "basePrice": 4865,
     "avg24hPrice": null,
-    "lastLowPrice": 30420,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M60E6_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/66152060a031cbb5570e3466-icon.webp",
     "types": [
@@ -67056,7 +67056,7 @@
     "gridImageLink": "https://assets.tarkov.dev/66507eabf5ddb0818b085b68-grid-image.webp",
     "craftsFor": [
       {
-        "id": "6671d4fef3bee343f5000703",
+        "id": "66509e8c9398c9c9e10a31bb",
         "station": {
           "name": "Medstation"
         },
@@ -67088,7 +67088,7 @@
         ]
       },
       {
-        "id": "66509e8c9398c9c9e10a31bb",
+        "id": "6671d4fef3bee343f5000703",
         "station": {
           "name": "Medstation"
         },
@@ -67313,26 +67313,6 @@
     "gridImageLink": "https://assets.tarkov.dev/665730fa4de4820934746c48-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67c9d54b017035dd060bff5e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked equipment crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
         "id": "6666d899eb78191c502350b2",
         "station": {
           "name": "Workbench"
@@ -67354,6 +67334,26 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked equipment crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67c9d54b017035dd060bff5e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
             }
           },
           {
@@ -67523,6 +67523,26 @@
     "gridImageLink": "https://assets.tarkov.dev/66573310a1657263d816a139-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d447b53b0fcf1d0bb0ab",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
         "id": "6666d7ea0b734650a91d0a42",
         "station": {
           "name": "Workbench"
@@ -67544,26 +67564,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked valuables crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67c9d447b53b0fcf1d0bb0ab",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
@@ -71175,7 +71175,7 @@
     "description": "A vertical foregrip for the Steyr AUG assault rifle. Black version.",
     "basePrice": 2135,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_vertical_foregrip",
     "iconLink": "https://assets.tarkov.dev/671883292e2eeb98d406f3b8-icon.webp",
     "types": [
@@ -71369,7 +71369,7 @@
     "description": "A .338 Lapua Magnum bolt assembly for the Sako TRG M10 sniper rifle.",
     "basePrice": 15500,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sako_TRG_M10_.338_LM_bolt_assembly",
     "iconLink": "https://assets.tarkov.dev/673cb4054ff4aa8f86076f4a-icon.webp",
     "types": [
@@ -71403,7 +71403,7 @@
     "description": "A universal rail for mounting various sights on the TRG M10 sniper rifle. Manufactured by Sako.",
     "basePrice": 2256,
     "avg24hPrice": null,
-    "lastLowPrice": 2222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sako_TRG_M10_scope_mount",
     "iconLink": "https://assets.tarkov.dev/673cb51e093e0ea7fd0b8746-icon.webp",
     "types": [
@@ -77916,7 +77916,7 @@
     "description": null,
     "basePrice": 155262,
     "avg24hPrice": null,
-    "lastLowPrice": 250000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DS_Arms_SA58_7.62x51_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/sa58xfal0000000000000001-icon.webp",
     "types": [
