@@ -9488,26 +9488,6 @@
     "gridImageLink": "https://assets.tarkov.dev/590a3b0486f7743954552bdb-grid-image.webp",
     "craftsFor": [
       {
-        "id": "5ffcac4e1285295b7441ee01",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Gas analyzer"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Screwdriver"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
         "id": "5de951483c52683d810b4a10",
         "requiredItems": [
           {
@@ -9520,6 +9500,26 @@
             "count": 1,
             "item": {
               "name": "Flat screwdriver"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
+        "id": "5ffcac4e1285295b7441ee01",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Gas analyzer"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Screwdriver"
             }
           }
         ],
@@ -13793,7 +13793,7 @@
     "shortName": "0.2BTC",
     "normalizedName": "physical-bitcoin",
     "description": "A physical equivalent of the Bitcoin cryptocurrency (0.2 BTC value).",
-    "basePrice": 1501308,
+    "basePrice": 1490882,
     "avg24hPrice": null,
     "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Physical_Bitcoin",
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "615c3d800d3afc358a55405e",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "TOZ Simonov SKS 7.62x39 carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Flat screwdriver"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
         "id": "5de021b30f6d581e965bcde7",
         "requiredItems": [
           {
@@ -34223,6 +34203,26 @@
             "count": 1,
             "item": {
               "name": "Leatherman Multitool"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
+        "id": "615c3d800d3afc358a55405e",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "TOZ Simonov SKS 7.62x39 carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Flat screwdriver"
             }
           }
         ],
@@ -36360,32 +36360,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d6fc87386f77449db3db94e-grid-image.webp",
     "craftsFor": [
       {
-        "id": "5dd3c9c8449c0c31795b0f0b",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Gunpowder \"Kite\""
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Gunpowder \"Eagle\""
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Classic matches"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
         "id": "5dd3c5a67da3785e63275437",
         "requiredItems": [
           {
@@ -36404,6 +36378,32 @@
             "count": 1,
             "item": {
               "name": "Ratchet wrench"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
+        "id": "5dd3c9c8449c0c31795b0f0b",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Gunpowder \"Kite\""
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Gunpowder \"Eagle\""
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Classic matches"
             }
           }
         ],
@@ -44236,26 +44236,6 @@
     "gridImageLink": "https://assets.tarkov.dev/60098b1705871270cd5352a1-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ec82690e0a541a021d3d",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Pack of Grand juice"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Silicone tube"
-            }
-          }
-        ],
-        "station": {
-          "name": "Water Collector"
-        }
-      },
-      {
         "id": "61c77cc6fcc1673f08540e9b",
         "requiredItems": [
           {
@@ -44279,6 +44259,26 @@
         ],
         "station": {
           "name": "Nutrition Unit"
+        }
+      },
+      {
+        "id": "67f4ec82690e0a541a021d3d",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Pack of Grand juice"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Silicone tube"
+            }
+          }
+        ],
+        "station": {
+          "name": "Water Collector"
         }
       }
     ]
@@ -67056,7 +67056,7 @@
     "gridImageLink": "https://assets.tarkov.dev/66507eabf5ddb0818b085b68-grid-image.webp",
     "craftsFor": [
       {
-        "id": "6671d4fef3bee343f5000703",
+        "id": "66509e8c9398c9c9e10a31bb",
         "requiredItems": [
           {
             "count": 1,
@@ -67088,7 +67088,7 @@
         }
       },
       {
-        "id": "66509e8c9398c9c9e10a31bb",
+        "id": "6671d4fef3bee343f5000703",
         "requiredItems": [
           {
             "count": 1,
@@ -67313,6 +67313,26 @@
     "gridImageLink": "https://assets.tarkov.dev/665730fa4de4820934746c48-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d54b017035dd060bff5e",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked equipment crate (Rare)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
         "id": "6666d899eb78191c502350b2",
         "requiredItems": [
           {
@@ -67331,26 +67351,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked equipment crate (Rare)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
-        "id": "67c9d54b017035dd060bff5e",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
@@ -67453,6 +67453,26 @@
     "gridImageLink": "https://assets.tarkov.dev/665732f4464c4b4ba4670fa9-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d4b251ce173bff01eec7",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked supply crate (Rare)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
         "id": "6666d829a8298779fc40e537",
         "requiredItems": [
           {
@@ -67471,26 +67491,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked supply crate (Rare)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
-        "id": "67c9d4b251ce173bff01eec7",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
