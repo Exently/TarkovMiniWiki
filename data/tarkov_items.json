@@ -2719,7 +2719,7 @@
     "description": "A standard-issue front sight for the P226 pistol, manufactured by SIG Sauer.",
     "basePrice": 500,
     "avg24hPrice": null,
-    "lastLowPrice": 500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/P226_front_sight",
     "iconLink": "https://assets.tarkov.dev/56d5a661d2720bd8418b456b-icon.webp",
     "types": [
@@ -2736,7 +2736,7 @@
     "description": "A standard-issue rear sight for the P226 pistol, manufactured by SIG Sauer.",
     "basePrice": 605,
     "avg24hPrice": null,
-    "lastLowPrice": 500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/P226_rear_sight",
     "iconLink": "https://assets.tarkov.dev/56d5a77ed2720b90418b4568-icon.webp",
     "types": [
@@ -8196,7 +8196,7 @@
     "description": "A standard-issue threaded barrel for SIG Sauer P226 9x19 pistols.",
     "basePrice": 1562,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/P226_9x19_112mm_threaded_barrel",
     "iconLink": "https://assets.tarkov.dev/587de4282459771bca0ec90b-icon.webp",
     "types": [
@@ -8418,7 +8418,7 @@
     "description": "A 5-shell magazine extension tube for MP-153 12 gauge shotguns.",
     "basePrice": 902,
     "avg24hPrice": null,
-    "lastLowPrice": 777,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_5-shell_magazine",
     "iconLink": "https://assets.tarkov.dev/5882163e24597758206fee8c-icon.webp",
     "types": [
@@ -10908,7 +10908,7 @@
     "description": "A standard rear sight for MP5 SMGs, manufactured by Heckler & Koch.",
     "basePrice": 2100,
     "avg24hPrice": null,
-    "lastLowPrice": 3000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_Drum_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5926d2be86f774134d668e4e-icon.webp",
     "types": [
@@ -11910,7 +11910,7 @@
     "description": "A standard 6P26 Sb.1-2 gas tube for AKS-74U automatic rifles. Gas tubes channel the travel direction of gas piston.",
     "basePrice": 2001,
     "avg24hPrice": null,
-    "lastLowPrice": 23000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKS-74U_gas_tube",
     "iconLink": "https://assets.tarkov.dev/59d36a0086f7747e673f3946-icon.webp",
     "types": [
@@ -21648,7 +21648,7 @@
     "description": "A blue identification armband.",
     "basePrice": 573,
     "avg24hPrice": null,
-    "lastLowPrice": 75000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Armband_(Blue)",
     "iconLink": "https://assets.tarkov.dev/5b3f3af486f774679e752c1f-icon.webp",
     "types": [
@@ -30850,7 +30850,7 @@
     "description": "A standard threaded barrel for the Beretta M9A3 9x19 pistol.",
     "basePrice": 1660,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M9A3_9x19_127mm_threaded_barrel",
     "iconLink": "https://assets.tarkov.dev/5cadc1c6ae9215000f2775a4-icon.webp",
     "types": [
@@ -34873,7 +34873,7 @@
     "description": "A regular slide for the Five-seveN MK2 pistol, manufactured by Fabrique Nationale Herstal.",
     "basePrice": 4210,
     "avg24hPrice": null,
-    "lastLowPrice": 15250,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_Five-seveN_MK2_pistol_slide",
     "iconLink": "https://assets.tarkov.dev/5d3eb44aa4b93650d64e4979-icon.webp",
     "types": [
@@ -44490,7 +44490,7 @@
     "description": "A standard barrel for the PL-15 pistol, chambered in 9x19.",
     "basePrice": 2563,
     "avg24hPrice": null,
-    "lastLowPrice": 2790,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PL-15_9x19_112mm_barrel",
     "iconLink": "https://assets.tarkov.dev/602a95edda11d6478d5a06da-icon.webp",
     "types": [
@@ -44713,7 +44713,7 @@
     "description": "The Militia Series Ambidextrous Battle charging handle for AR-15 and compatible systems, manufactured by MASP Industries.",
     "basePrice": 2119,
     "avg24hPrice": null,
-    "lastLowPrice": 14999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_MASP_Industries_Ambidextrous_Battle_Charging_Handle",
     "iconLink": "https://assets.tarkov.dev/6033749e88382f4fab3fd2c5-icon.webp",
     "types": [
@@ -47702,7 +47702,7 @@
     "description": "A removable flip-up front sight for the SCAR-series assault rifles, installed on the gas block. Manufactured by Fabrique Nationale Herstal.",
     "basePrice": 3100,
     "avg24hPrice": null,
-    "lastLowPrice": 11111,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR_flip-up_front_sight",
     "iconLink": "https://assets.tarkov.dev/61816fcad92c473c770215cc-icon.webp",
     "types": [
@@ -54779,7 +54779,7 @@
     "description": "A standard gas tube for the OP-SKS carbine manufactured by Molot Arms. Gas tubes channel the travel direction of gas piston.",
     "basePrice": 1750,
     "avg24hPrice": null,
-    "lastLowPrice": 1837,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/OP-SKS_gas_tube",
     "iconLink": "https://assets.tarkov.dev/634f036a517ccc8a960fc746-icon.webp",
     "types": [
