@@ -1344,7 +1344,7 @@
     "description": "The UTG Low Profile A2 front sight, installed on the Windham Weaponry gas block. Manufactured by Leapers Inc.",
     "basePrice": 600,
     "avg24hPrice": null,
-    "lastLowPrice": 599,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Leapers_UTG_Low_Profile_A2_front_sight",
     "iconLink": "https://assets.tarkov.dev/55d4af3a4bdc2d972f8b456f-icon.webp",
     "types": [
@@ -8401,7 +8401,7 @@
     "description": "A 6-shell magazine extension tube for MP-153 12 gauge shotguns.",
     "basePrice": 1221,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_6-shell_magazine",
     "iconLink": "https://assets.tarkov.dev/5882163824597757561aa922-icon.webp",
     "types": [
@@ -8907,7 +8907,7 @@
     "description": "A detachable flip-up front sight for MPX SMGs, installed on the mount. Manufactured by SIG Sauer.",
     "basePrice": 600,
     "avg24hPrice": null,
-    "lastLowPrice": 2000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX_flip-up_front_sight",
     "iconLink": "https://assets.tarkov.dev/5894a73486f77426d259076c-icon.webp",
     "types": [
@@ -16050,7 +16050,7 @@
     "description": "A 2-shot 20 gauge magazine for MTs 20-01 and TOZ-106 hunting shotguns.",
     "basePrice": 785,
     "avg24hPrice": null,
-    "lastLowPrice": 900,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TOZ-106_20ga_MTs_20-01_Sb.3_2-shot_magazine",
     "iconLink": "https://assets.tarkov.dev/5a38ee51c4a282000c5a955c-icon.webp",
     "types": [
@@ -17429,7 +17429,7 @@
     "description": "A rear sight for Glock series pistols with tritium bars for precision aiming, manufactured by Dead Ringer.",
     "basePrice": 4106,
     "avg24hPrice": null,
-    "lastLowPrice": 3333,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Glock_Dead_Ringer_Snake_Eye_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5a7d9122159bd4001438dbf4-icon.webp",
     "types": [
@@ -22909,7 +22909,7 @@
     "description": "A standard pistol grip for SA58 rifles manufactured by DS Arms.",
     "basePrice": 1100,
     "avg24hPrice": null,
-    "lastLowPrice": 1000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SA58_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/5b7d678a5acfc4001a5c4022-icon.webp",
     "types": [
@@ -24574,7 +24574,7 @@
     "description": "A regular handguard for the RPK-16 LMG. Manufactured by Izhmash.",
     "basePrice": 7750,
     "avg24hPrice": null,
-    "lastLowPrice": 17999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RPK-16_handguard",
     "iconLink": "https://assets.tarkov.dev/5beec3e30db8340019619424-icon.webp",
     "types": [
@@ -36205,7 +36205,7 @@
     "description": "A 20/70 gauge shell loaded with 6.2mm buckshot.",
     "basePrice": 30,
     "avg24hPrice": null,
-    "lastLowPrice": 3000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/20/70_6.2mm_buckshot",
     "iconLink": "https://assets.tarkov.dev/5d6e69b9a4b9361bc8618958-icon.webp",
     "types": [
@@ -44645,7 +44645,7 @@
     "description": "A 10.5 inches (266mm) long barrel for the STM-9 carbine, chambered in 9x19.",
     "basePrice": 7000,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/STM-9_9x19_10.5_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/603372b4da11d6478d5a07ff-icon.webp",
     "types": [
@@ -45583,7 +45583,7 @@
     "description": "The \"Ultima\" modification underbarrel mount for the MP-155 shotgun. Manufactured by Kalashnikov Group.",
     "basePrice": 1776,
     "avg24hPrice": null,
-    "lastLowPrice": 8000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-155_Ultima_underbarrel_mount",
     "iconLink": "https://assets.tarkov.dev/606f26752535c57a13424d22-icon.webp",
     "types": [
@@ -47156,7 +47156,7 @@
     "description": "An extended charging handle for HK417 and compatible systems, manufactured by Heckler & Koch.",
     "basePrice": 2200,
     "avg24hPrice": null,
-    "lastLowPrice": 33333,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK417_E1_Extended_Charging_Handle",
     "iconLink": "https://assets.tarkov.dev/61702d8a67085e45ef140b24-icon.webp",
     "types": [
@@ -47190,7 +47190,7 @@
     "description": "The HK417 & G28 Extended DMR Forearm With a Flip Up Front Sight & Suppressor Window Cutout. Optimized design to mitigate the heat emissions for long range shooting and to prevent the mirage effect.",
     "basePrice": 11200,
     "avg24hPrice": null,
-    "lastLowPrice": 11111,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK417_Extended_Free_Float_handguard_with_flip-up_front_sight",
     "iconLink": "https://assets.tarkov.dev/61703001d92c473c77021497-icon.webp",
     "types": [
@@ -51326,7 +51326,7 @@
     "description": null,
     "basePrice": 31377,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chiappa_Rhino_50DS_.357_revolver",
     "iconLink": "https://assets.tarkov.dev/624d7ae691f0160c7324c402-icon.webp",
     "types": [
@@ -51411,7 +51411,7 @@
     "description": "An adjustable stock for M3 S90 shotguns, manufactured by Benelli.",
     "basePrice": 3000,
     "avg24hPrice": null,
-    "lastLowPrice": 3000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Benelli_M3_telescopic_stock",
     "iconLink": "https://assets.tarkov.dev/6259c3387d6aab70bc23a18d-icon.webp",
     "types": [
@@ -51480,7 +51480,7 @@
     "description": "A Ghost Ring type rear sight for M3 S90 shotguns, manufactured by Benelli.",
     "basePrice": 800,
     "avg24hPrice": null,
-    "lastLowPrice": 300,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Benelli_M3_Ghost_Ring_rear_sight",
     "iconLink": "https://assets.tarkov.dev/625ebcef6f53af4aa66b44dc-icon.webp",
     "types": [
@@ -55810,7 +55810,7 @@
     "description": "SOG has combined its three best features: an extended cutting head, compact glass-reinforced nylon handle, and a metal butt cap on the end.",
     "basePrice": 100000,
     "avg24hPrice": null,
-    "lastLowPrice": 2499999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SOG_Voodoo_Hawk_tactical_tomahawk",
     "iconLink": "https://assets.tarkov.dev/63920105a83e15700a00f168-icon.webp",
     "types": [
@@ -57536,7 +57536,7 @@
     "description": "This integrally machined handguard can be installed instead of the standard-issue foregrip on the AKS-74U. It comes fitted with place for M-LOK rail mounts on three sides, allowing for the installation of additional equipment such as tactical foregrips, flashlights, and laser designators.",
     "basePrice": 5194,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKS-74U_Alfa_Arms_Goliaf_M-LOK_handguard",
     "iconLink": "https://assets.tarkov.dev/647db1eca8d3399c380d195c-icon.webp",
     "types": [
@@ -60018,7 +60018,7 @@
     "id": "64cbe20d5aa0a53ad12f96c9",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
     "description": null,
     "basePrice": 177750,
     "avg24hPrice": null,
@@ -60036,7 +60036,7 @@
     "id": "64ccaa66ad8a0956023901b6",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
     "description": null,
     "basePrice": 176637,
     "avg24hPrice": null,
@@ -61091,7 +61091,7 @@
     "description": "A standard-issue polymer foregrip for the SR-3M assault rifle.",
     "basePrice": 2151,
     "avg24hPrice": null,
-    "lastLowPrice": 29999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SR-3M_polymer_foregrip",
     "iconLink": "https://assets.tarkov.dev/65329ebcc0d50d0c9204ace1-icon.webp",
     "types": [
@@ -61142,7 +61142,7 @@
     "description": "A cover for the SKS carbine gas tube. Manufactured by ATI Outdoors.",
     "basePrice": 1585,
     "avg24hPrice": null,
-    "lastLowPrice": 25999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SKS_ATI_Monte_Carlo_gas_tube_cover",
     "iconLink": "https://assets.tarkov.dev/653ecc425a1690d9d90491e4-icon.webp",
     "types": [
@@ -66305,7 +66305,7 @@
     "description": "A standard-issue bipod for the M60 machine gun. Manufactured by U.S Ordnance.",
     "basePrice": 2541,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M60_bipod",
     "iconLink": "https://assets.tarkov.dev/66012d9a3dff5074ed002e33-icon.webp",
     "types": [
@@ -66750,7 +66750,7 @@
     "description": "A Makarov Pistol grip with built-in magazine release mechanism and laser designator. Manufactured by PM-Laser.",
     "basePrice": 2825,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PM_PM-Laser_grip_with_laser_sight",
     "iconLink": "https://assets.tarkov.dev/661f8995c341ea101e0d33e8-icon.webp",
     "types": [
@@ -70409,7 +70409,7 @@
     "description": "A bottom rail with an M-LOK interface designed for SCAR series rifles. Manufactured by Parker Mountain Machine.",
     "basePrice": 1427,
     "avg24hPrice": null,
-    "lastLowPrice": 30000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR_PMM_M-LOK_lower_rail",
     "iconLink": "https://assets.tarkov.dev/66ffc72082d36dec82030c1f-icon.webp",
     "types": [
@@ -70681,7 +70681,7 @@
     "description": "The HKey 3 inch rail allows installation of additional equipment on the handguards equipped with HK's HKey mounting interface.",
     "basePrice": 1053,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_HKey_3_inch_rail",
     "iconLink": "https://assets.tarkov.dev/67069d3bb29a2cd338033390-icon.webp",
     "types": [
@@ -71627,7 +71627,7 @@
     "description": "A threading protection cap for the Sako TRG .338 LM rifle barrel.",
     "basePrice": 400,
     "avg24hPrice": null,
-    "lastLowPrice": 520,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sako_TRG_.338_LM_thread_protector",
     "iconLink": "https://assets.tarkov.dev/673f3f5eef7545280c00f026-icon.webp",
     "types": [
@@ -76960,7 +76960,7 @@
     "description": null,
     "basePrice": 9800,
     "avg24hPrice": null,
-    "lastLowPrice": 7500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-43-1C_12ga_double-barrel_shotgun",
     "iconLink": "https://assets.tarkov.dev/707265736574000000000047-icon.webp",
     "types": [
@@ -77293,7 +77293,7 @@
     "description": null,
     "basePrice": 218588,
     "avg24hPrice": null,
-    "lastLowPrice": 255555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DS_Arms_SA58_7.62x51_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/707265736574000000000061-icon.webp",
     "types": [
@@ -77726,7 +77726,7 @@
     "description": null,
     "basePrice": 61690,
     "avg24hPrice": null,
-    "lastLowPrice": 45800,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Glock_17_9x19_pistol",
     "iconLink": "https://assets.tarkov.dev/glock17ps900000000000001-icon.webp",
     "types": [
