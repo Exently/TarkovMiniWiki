@@ -159,6 +159,20 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          }
+        ]
+      },
+      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "station": {
           "name": "Nutrition Unit"
@@ -174,20 +188,6 @@
             "count": 1,
             "item": {
               "name": "Silicone tube"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Bottle of water (0.6L)"
             }
           }
         ]
@@ -801,7 +801,7 @@
     "description": "A hunter's dream. A classic double-barrelled beauty, simple and elegant. Fed with 12 gauge shells.",
     "basePrice": 5800,
     "avg24hPrice": null,
-    "lastLowPrice": 30000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-43-1C_12ga_double-barrel_shotgun",
     "iconLink": "https://assets.tarkov.dev/5580223e4bdc2d1c128b457f-icon.webp",
     "types": [
@@ -1688,7 +1688,7 @@
     "description": "An anti-heat ribbon for the SV-98 sniper rifle. Applied to the barrel. Prevents hot air from rising directly from the barrel and creating optical distortions in the line of fire.",
     "basePrice": 2342,
     "avg24hPrice": null,
-    "lastLowPrice": 2552,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SV-98_anti-heat_ribbon",
     "iconLink": "https://assets.tarkov.dev/56083eab4bdc2d26448b456a-icon.webp",
     "types": [
@@ -2155,7 +2155,7 @@
     "description": "A polymer 6P20 Sb.7 stock for AK-74 automatic rifles which replaced the classic wooden one. Manufactured by Izhmash.",
     "basePrice": 2068,
     "avg24hPrice": null,
-    "lastLowPrice": 34444,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_polymer_stock",
     "iconLink": "https://assets.tarkov.dev/5649b0fc4bdc2d17108b4588-icon.webp",
     "types": [
@@ -2788,7 +2788,7 @@
     "description": "A standard Izhmekh-manufactured polymer forestock for the MP-153 shotgun.",
     "basePrice": 3388,
     "avg24hPrice": null,
-    "lastLowPrice": 8888,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-153_polymer_forestock",
     "iconLink": "https://assets.tarkov.dev/56deed6ed2720b4c698b4583-icon.webp",
     "types": [
@@ -3279,7 +3279,7 @@
     "description": "The 220-239 rear sight bearing manufactured by Sight Mount for SIG Sauer 220, 226, 227, 229, 239 pistols. It is installed as a replacement of the standard rear sight and allows to use it even if no scope is installed.",
     "basePrice": 3819,
     "avg24hPrice": null,
-    "lastLowPrice": 4600,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/P226_Sight_Mount_220-239_rear_sight_bearing",
     "iconLink": "https://assets.tarkov.dev/56ea7293d2720b8d4b8b45ba-icon.webp",
     "types": [
@@ -3450,7 +3450,7 @@
     "description": "The ECS polymer pistol grip can be installed on any weapon compatible with AR-15 grips. Flat Dark Earth version.",
     "basePrice": 1599,
     "avg24hPrice": null,
-    "lastLowPrice": 3333,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Damage_Industries_ECS_pistol_grip_(FDE)",
     "iconLink": "https://assets.tarkov.dev/571659bb2459771fb2755a12-icon.webp",
     "types": [
@@ -3556,7 +3556,7 @@
     "description": "A standard late-issue 8-round magazine for the TT pistol. It comes without a lanyard ring.",
     "basePrice": 1157,
     "avg24hPrice": null,
-    "lastLowPrice": 1000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TT_7.62x25_tt-105_8-round_magazine",
     "iconLink": "https://assets.tarkov.dev/571a29dc2459771fb2755a6a-icon.webp",
     "types": [
@@ -4410,7 +4410,7 @@
     "description": "A 7.62x25mm Tokarev cartridge with a lead round nose, polymer coated (LRNPC) bullet; intended for sport shooting and hunting. This cartridge provides an outstanding stopping power effect compared to other cartridges of the same caliber used by the military, as it can cause substantial adverse effects on the target after impact, however, its muzzle velocity is lower, not to mention its poor penetration capabilities.",
     "basePrice": 68,
     "avg24hPrice": null,
-    "lastLowPrice": 71,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_TT_LRNPC",
     "iconLink": "https://assets.tarkov.dev/573602322459776445391df1-icon.webp",
     "types": [
@@ -4529,7 +4529,7 @@
     "description": "A 9x18mm PMM PstM gzh (GAU Index - 57-N-181SM, GRAU Index - 7N16) cartridge with a 5.6 gram steel core bullet with a bimetallic jacket in a truncated cone shape, in a bimetallic case. The 9x18mm PMM cartridge is the modernization of the 9x18mm PM cartridge, designed with the intention of increasing its piercing capabilities against basic ballistic body protections, and it has an increased powder charge, making it dangerous to fire in non-compatible weapons. It is intended to be used with the PMM pistol (Makarov Pistol Modernised) and the PP-9 \"Klin\" submachine gun.",
     "basePrice": 115,
     "avg24hPrice": null,
-    "lastLowPrice": 125,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x18mm_PMM_PstM_gzh",
     "iconLink": "https://assets.tarkov.dev/57371aab2459775a77142f22-icon.webp",
     "types": [
@@ -4561,7 +4561,7 @@
     "description": "A 9x18mm Makarov PPe gzh cartridge with a 7.6 gram lead core hollow-point bullet with a bimetallic semi-jacket, in a bimetallic case. The design of this bullet is based on experiences gained from other 9x18mm PM hollow-point cartridges. The PPe cartridge has a conical hole in its core and the jacket has six notches to improve its expandability on impact, thus achieving a significant stopping power effect.",
     "basePrice": 51,
     "avg24hPrice": null,
-    "lastLowPrice": 50,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x18mm_PM_PPe_gzh",
     "iconLink": "https://assets.tarkov.dev/57371b192459775a9f58a5e0-icon.webp",
     "types": [
@@ -4595,7 +4595,7 @@
     "description": "A 9x18mm Makarov PRS gs cartridge with a 6.1 gram soft lead core bullet with a bimetallic jacket, in a steel case. The PRS bullet (Ponízhennoy Rikoshetíruyushchey Sposóbnosti - \"Reduced Ricochet Ability\") is designed to crumble and rapidly lose speed when hitting a solid object in order to substantially reduce collateral damage from ricochets during urban operations carried out by law enforcement agencies and groups from the Ministry of Internal Affairs.",
     "basePrice": 39,
     "avg24hPrice": null,
-    "lastLowPrice": 43,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x18mm_PM_PRS_gs",
     "iconLink": "https://assets.tarkov.dev/57371eb62459776125652ac1-icon.webp",
     "types": [
@@ -4629,7 +4629,7 @@
     "description": "A 9x18mm Makarov PSO gzh cartridge with a 6.1 gram lead core bullet in a bimetallic case; intended for sport shooting and hunting. Rudimentary designed for small game hunting.",
     "basePrice": 22,
     "avg24hPrice": null,
-    "lastLowPrice": 23,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x18mm_PM_PSO_gzh",
     "iconLink": "https://assets.tarkov.dev/57371f8d24597761006c6a81-icon.webp",
     "types": [
@@ -4680,7 +4680,7 @@
     "description": "A 9x18mm Makarov RG028 gzh cartridge with a 6 gram hollow-point bullet with a cylindrical hardened steel core with lead cladding and a bimetallic semi-jacket, in a bimetallic case. This cartridge was developed specifically for the PM pistol in the late 1970s by order of the KGB to provide a significant stopping power effect and increase its penetration capabilities against some models of basic ballistic body protection at short distances.",
     "basePrice": 86,
     "avg24hPrice": null,
-    "lastLowPrice": 50,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x18mm_PM_RG028_gzh",
     "iconLink": "https://assets.tarkov.dev/573720e02459776143012541-icon.webp",
     "types": [
@@ -5511,7 +5511,7 @@
     "description": "A standard-issue wooden stock for the SKS carbine, manufactured by TOZ.",
     "basePrice": 3780,
     "avg24hPrice": null,
-    "lastLowPrice": 4120,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SKS_TOZ_wooden_stock_(56-A-231_Sb.5)",
     "iconLink": "https://assets.tarkov.dev/574dad8024597745964bf05c-icon.webp",
     "types": [
@@ -6031,7 +6031,7 @@
     "description": "A folding polymer AK-styled stock for SOK-12, manufactured by Izhmash.",
     "basePrice": 1661,
     "avg24hPrice": null,
-    "lastLowPrice": 1744,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SOK-12_AK-style_stock",
     "iconLink": "https://assets.tarkov.dev/57616ca52459773c69055192-icon.webp",
     "types": [
@@ -6393,7 +6393,7 @@
     "description": "A standard vertically adjustable mechanical rear sight for the VSS Vintorez sniper rifle.",
     "basePrice": 996,
     "avg24hPrice": null,
-    "lastLowPrice": 1085,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSS_rear_sight",
     "iconLink": "https://assets.tarkov.dev/57838e1b2459774a256959b1-icon.webp",
     "types": [
@@ -6410,7 +6410,7 @@
     "description": "A 10-round polymer TsNIITochMash 6L24 9x39 magazine for the VSS sniper rifle.",
     "basePrice": 4637,
     "avg24hPrice": null,
-    "lastLowPrice": 4000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSS/VAL_9x39_6L24_10-round_magazine",
     "iconLink": "https://assets.tarkov.dev/57838f0b2459774a256959b2-icon.webp",
     "types": [
@@ -6461,7 +6461,7 @@
     "description": "A standard-issue wooden stock for VSS Vintorez sniper rifles, manufactured by TsNIITochMash.",
     "basePrice": 1786,
     "avg24hPrice": null,
-    "lastLowPrice": 1946,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSS_wooden_stock",
     "iconLink": "https://assets.tarkov.dev/578395e82459774a0e553c7b-icon.webp",
     "types": [
@@ -6790,7 +6790,7 @@
     "description": "A standard-issue dust cover for AS VAL, manufactured by TsNIItochmash.",
     "basePrice": 1599,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AS_VAL_dust_cover",
     "iconLink": "https://assets.tarkov.dev/57c44f4f2459772d2c627113-icon.webp",
     "types": [
@@ -7329,7 +7329,7 @@
     "description": "A standard-issue 6P26 Sb.7 dust cover for AKS-74U, AKS-74UN automatic rifles, manufactured by Izhmash.",
     "basePrice": 1198,
     "avg24hPrice": null,
-    "lastLowPrice": 2000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKS-74U_dust_cover",
     "iconLink": "https://assets.tarkov.dev/57dc334d245977597164366f-icon.webp",
     "types": [
@@ -7346,7 +7346,7 @@
     "description": "A standard-issue 6P26 Sb.5 metal skeleton stock for AKS-74U, AKS-74UN, and AKS-74UB, manufactured by Izhmash.",
     "basePrice": 1544,
     "avg24hPrice": null,
-    "lastLowPrice": 5555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKS-74U_skeletonized_stock",
     "iconLink": "https://assets.tarkov.dev/57dc347d245977596754e7a1-icon.webp",
     "types": [
@@ -8872,7 +8872,7 @@
     "description": "A polymer MPX pistol grip is fit for installation on the first and second generations of MPX. Manufactured by SIG Sauer.",
     "basePrice": 3274,
     "avg24hPrice": null,
-    "lastLowPrice": 15555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/5894a51286f77426d13baf02-icon.webp",
     "types": [
@@ -10994,7 +10994,7 @@
     "description": "A 3-lug adapter for installing various muzzle devices on the MP5 SMG. Manufactured by Heckler & Koch.",
     "basePrice": 2766,
     "avg24hPrice": null,
-    "lastLowPrice": 5000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_3-lug_muzzle_adapter",
     "iconLink": "https://assets.tarkov.dev/5926e16e86f7742f5a0f7ecb-icon.webp",
     "types": [
@@ -11392,7 +11392,7 @@
     "description": "The BATTLELINK Utility Stock polymer buttstock manufactured by Mission First Tactical. Adapts and changes based on environment or operational needs, from storing additional items in the rear compartment to utilizing custom accessory mounts.",
     "basePrice": 8097,
     "avg24hPrice": null,
-    "lastLowPrice": 27000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_MFT_BUS_stock",
     "iconLink": "https://assets.tarkov.dev/5947c73886f7747701588af5-icon.webp",
     "types": [
@@ -11600,7 +11600,7 @@
     "description": "The Izh.9x19 Sb.7 magazine for Saiga-9 carbines with a 10-round capacity limiter.",
     "basePrice": 1499,
     "avg24hPrice": null,
-    "lastLowPrice": 500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Saiga-9_9x19_sb.7_10-round_magazine",
     "iconLink": "https://assets.tarkov.dev/5998529a86f774647f44f421-icon.webp",
     "types": [
@@ -12047,7 +12047,7 @@
     "description": "A standard 6P1 Sb.2-1 rear sight for AKM automatic rifles, manufactured by Izhmash.",
     "basePrice": 482,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKM_rear_sight",
     "iconLink": "https://assets.tarkov.dev/59d650cf86f7741b846413a4-icon.webp",
     "types": [
@@ -12064,7 +12064,7 @@
     "description": "A standard-issue wooden 6P1 Sb.5 stock for AKM automatic rifles, manufactured by Izhmash.",
     "basePrice": 2568,
     "avg24hPrice": null,
-    "lastLowPrice": 100000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKM_wooden_stock",
     "iconLink": "https://assets.tarkov.dev/59d6514b86f774171a068a08-icon.webp",
     "types": [
@@ -13278,7 +13278,7 @@
     "description": "Kolpak-1S protects the head from the cold piercing-cutting weapons in a special class of protection GOST R50744-95, from fragmentation with an energy of impact up to 50 J, and also serves to reduce the dynamic loads arising from the above-mentioned means of destruction. Kolpak-1 protective helmets are recommended by the Interdepartmental Commission for equipping units of the patrol service, traffic police, OMON and other special units of the Ministry of Internal Affairs of Russia.",
     "basePrice": 7999,
     "avg24hPrice": null,
-    "lastLowPrice": 8000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Kolpak-1S_riot_helmet",
     "iconLink": "https://assets.tarkov.dev/59e7711e86f7746cae05fbe1-icon.webp",
     "types": [
@@ -13348,7 +13348,7 @@
     "description": "A standard wooden handguard for VPO-209 AKM carbines, manufactured by Molot Arms.",
     "basePrice": 812,
     "avg24hPrice": null,
-    "lastLowPrice": 800,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPO-209_wooden_handguard",
     "iconLink": "https://assets.tarkov.dev/59e898ee86f77427614bd225-icon.webp",
     "types": [
@@ -13996,7 +13996,7 @@
     "description": "A wooden Izhmash-manufactured pistol grip for AK-compatible weapons. Originally installed on AKM and AKMS.",
     "basePrice": 720,
     "avg24hPrice": null,
-    "lastLowPrice": 1000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKM_wooden_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/5a0071d486f77404e23a12b2-icon.webp",
     "types": [
@@ -14031,7 +14031,7 @@
     "description": "A 30-round 6L10 magazine made with an AG-4S moulding compound, for 7.62x39 AK and compatible weapons. Can also be supplied with .366 TKM ammo for use with the corresponding caliber AK-compatible weapons.",
     "basePrice": 1974,
     "avg24hPrice": null,
-    "lastLowPrice": 12899,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_7.62x39_6L10_bakelite_30-round_magazine",
     "iconLink": "https://assets.tarkov.dev/5a01c29586f77474660c694c-icon.webp",
     "types": [
@@ -14350,7 +14350,7 @@
     "description": "A device intended for firing AK and AKM family assault rifles in poor visibility conditions.",
     "basePrice": 470,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKMP_system_rear_sight_device",
     "iconLink": "https://assets.tarkov.dev/5a0ed824fcdbcb0176308b0d-icon.webp",
     "types": [
@@ -15190,7 +15190,7 @@
     "description": "A standard-issue wire stock for APB pistols.",
     "basePrice": 6794,
     "avg24hPrice": null,
-    "lastLowPrice": 8000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/APB_detachable_wire_stock",
     "iconLink": "https://assets.tarkov.dev/5a17fb9dfcdbcbcae6687291-icon.webp",
     "types": [
@@ -15411,7 +15411,7 @@
     "description": " A mount for SR-1MP, included in the pistol kit, designed to form a single rail and silencer installation place.",
     "basePrice": 2687,
     "avg24hPrice": null,
-    "lastLowPrice": 49999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SR-1MP_single_rail_mount",
     "iconLink": "https://assets.tarkov.dev/5a27b281c4a28200741e1e52-icon.webp",
     "types": [
@@ -15428,7 +15428,7 @@
     "description": "A mount for SR-1MP from the pistol kit, used for quick installation and removal of the sound suppressor.",
     "basePrice": 2766,
     "avg24hPrice": null,
-    "lastLowPrice": 29999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SR-1MP_sound_suppressor_mount",
     "iconLink": "https://assets.tarkov.dev/5a27b3d0c4a282000d721ec1-icon.webp",
     "types": [
@@ -16102,7 +16102,7 @@
     "description": "A mount for installing flashlight devices on Ops-Core helmets.",
     "basePrice": 6200,
     "avg24hPrice": null,
-    "lastLowPrice": 29999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ops-Core_Single_Clamp_Rail_Adapter_mount",
     "iconLink": "https://assets.tarkov.dev/5a398ab9c4a282000c5a9842-icon.webp",
     "types": [
@@ -16847,7 +16847,7 @@
     "description": "A 508mm 12 gauge barrel with a fixed sight for the Remington Model 870 shotgun.",
     "basePrice": 7403,
     "avg24hPrice": null,
-    "lastLowPrice": 65000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M870_12ga_508mm_barrel_with_a_fixed_sight",
     "iconLink": "https://assets.tarkov.dev/5a787ebcc5856700142fdd98-icon.webp",
     "types": [
@@ -16932,7 +16932,7 @@
     "description": "The PR-870 handguard by FAB Defense, made for the Remington Model 870 shotgun. Also has Weaver rails for mounting additional accessories and foregrips.",
     "basePrice": 2051,
     "avg24hPrice": null,
-    "lastLowPrice": 120000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M870_FAB_Defense_PR-870_forestock",
     "iconLink": "https://assets.tarkov.dev/5a788031c585673f2b5c1c79-icon.webp",
     "types": [
@@ -16966,7 +16966,7 @@
     "description": "A classical polymer forend designed for the Remington Model 870 shotgun.",
     "basePrice": 1402,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M870_SpeedFeed_Short_handguard",
     "iconLink": "https://assets.tarkov.dev/5a788089c5856700142fdd9c-icon.webp",
     "types": [
@@ -17274,7 +17274,7 @@
     "description": "A unique compensator for Glock family pistols which can be mounted on a slide and not require a threaded barrel, manufactured by Strike Industries.",
     "basePrice": 6476,
     "avg24hPrice": null,
-    "lastLowPrice": 27996,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Glock_9x19_Strike_Industries_G4_SlideComp_compensator",
     "iconLink": "https://assets.tarkov.dev/5a7b32a2e899ef00135e345a-icon.webp",
     "types": [
@@ -17907,7 +17907,7 @@
     "description": "The Strike Industries TRAX Bridge rail that mounts on the TRAX 1 handguard to install an additional TRAX 2 handguard extension.",
     "basePrice": 1635,
     "avg24hPrice": null,
-    "lastLowPrice": 7000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Strike_Industries_TRAX_bridge_rail",
     "iconLink": "https://assets.tarkov.dev/5a9d6d21a2750c00137fa649-icon.webp",
     "types": [
@@ -18535,7 +18535,7 @@
     "description": "A 10-round polymer Magpul PMAG GEN M3 10 magazine, for 5.56x45 ammunition.",
     "basePrice": 2001,
     "avg24hPrice": null,
-    "lastLowPrice": 1500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_5.56x45_Magpul_PMAG_10_GEN_M3_STANAG_10-round_magazine",
     "iconLink": "https://assets.tarkov.dev/5aaa5e60e5b5b000140293d6-icon.webp",
     "types": [
@@ -18744,7 +18744,7 @@
     "description": "A 6P21 Sb.5 metal skeleton stock for AKS-74 automatic rifles, manufactured by Izhmash.",
     "basePrice": 1559,
     "avg24hPrice": null,
-    "lastLowPrice": 8999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKS-74_skeletonized_stock",
     "iconLink": "https://assets.tarkov.dev/5ab626e4d8ce87272e4c6e43-icon.webp",
     "types": [
@@ -19136,7 +19136,7 @@
     "description": "A 6P4N Sb.1-19 folding shoulder piece assembly for AKMSN automatic rifles, manufactured by Izhmash.",
     "basePrice": 1556,
     "avg24hPrice": null,
-    "lastLowPrice": 39999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKMSN_folding_stock",
     "iconLink": "https://assets.tarkov.dev/5abcd472d8ce8700166032ae-icon.webp",
     "types": [
@@ -19500,7 +19500,7 @@
     "description": "A standard Izhmash-produced muzzle brake and compensator for the AK-103.",
     "basePrice": 600,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-103_7.62x39_muzzle_brake-compensator",
     "iconLink": "https://assets.tarkov.dev/5ac72e7d5acfc40016339a02-icon.webp",
     "types": [
@@ -20028,7 +20028,7 @@
     "description": "A muzzle brake-compensator for M14 rifles, manufactured by Smith Enterprise.",
     "basePrice": 8043,
     "avg24hPrice": null,
-    "lastLowPrice": 7999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M14_Smith_Enterprise_Good_Iron_7.62x51_muzzle_brake",
     "iconLink": "https://assets.tarkov.dev/5addbb945acfc4001a5fc44e-icon.webp",
     "types": [
@@ -20353,7 +20353,7 @@
     "description": "A standard-issue front sight for the Mosin rifle.",
     "basePrice": 524,
     "avg24hPrice": null,
-    "lastLowPrice": 5000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mosin_Rifle_front_sight",
     "iconLink": "https://assets.tarkov.dev/5ae099875acfc4001714e593-icon.webp",
     "types": [
@@ -20909,7 +20909,7 @@
     "description": "A three-prong flash hider for SA58 assault rifles, manufactured by DS Arms.",
     "basePrice": 1601,
     "avg24hPrice": null,
-    "lastLowPrice": 1233,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SA58_3-Prong_Trident_7.62x51_flash_hider",
     "iconLink": "https://assets.tarkov.dev/5b099b7d5acfc400186331e4-icon.webp",
     "types": [
@@ -21665,7 +21665,7 @@
     "description": "A green identification armband.",
     "basePrice": 527,
     "avg24hPrice": null,
-    "lastLowPrice": 100,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Armband_(Green)",
     "iconLink": "https://assets.tarkov.dev/5b3f3b0186f774021a2afef7-icon.webp",
     "types": [
@@ -21716,7 +21716,7 @@
     "description": "Regular rings for the PU 3.5x scope, installed on the Kochetov mount.",
     "basePrice": 1105,
     "avg24hPrice": null,
-    "lastLowPrice": 9999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PU_3.5x_ring_scope_mount",
     "iconLink": "https://assets.tarkov.dev/5b3f7c005acfc4704b4a1de8-icon.webp",
     "types": [
@@ -21839,7 +21839,7 @@
     "description": "A tactical USEC PMC baseball cap. Black version.",
     "basePrice": 1732,
     "avg24hPrice": null,
-    "lastLowPrice": 66666,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/USEC_baseball_cap_(Black)",
     "iconLink": "https://assets.tarkov.dev/5b40e61f5acfc4001a599bec-icon.webp",
     "types": [
@@ -22892,7 +22892,7 @@
     "description": "The Belgian variant handguard for FAL rifles manufactured by DS Arms.",
     "basePrice": 3002,
     "avg24hPrice": null,
-    "lastLowPrice": 12333,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SA58/FAL_Belgian_Style_handguard",
     "iconLink": "https://assets.tarkov.dev/5b7d671b5acfc43d82528ddd-icon.webp",
     "types": [
@@ -23413,7 +23413,7 @@
     "description": "A removable folding flip-up rear sight for MP7 SMGs. Manufactured by Heckler & Koch.",
     "basePrice": 803,
     "avg24hPrice": null,
-    "lastLowPrice": 803,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP7_flip-up_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5ba26b17d4351e00367f9bdd-icon.webp",
     "types": [
@@ -23668,7 +23668,7 @@
     "description": "A standard HK 416A5 charging handle with an extended latch.",
     "basePrice": 2917,
     "avg24hPrice": null,
-    "lastLowPrice": 12344,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_HK_Extended_Latch_charging_handle",
     "iconLink": "https://assets.tarkov.dev/5bb20dbcd4351e44f824c04e-icon.webp",
     "types": [
@@ -24012,7 +24012,7 @@
     "description": "The MBUS Gen2 removable flip-up front sight, installed on the mount. Manufactured by Magpul.",
     "basePrice": 2444,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magpul_MBUS_Gen2_flip-up_front_sight",
     "iconLink": "https://assets.tarkov.dev/5bc09a30d4351e00367fb7c8-icon.webp",
     "types": [
@@ -24029,7 +24029,7 @@
     "description": "A muzzle brake designed for installation on the Mosin rifle, manufactured by Texas Precision Products.",
     "basePrice": 6756,
     "avg24hPrice": null,
-    "lastLowPrice": 22000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mosin_Rifle_Texas_Precision_Products_7.62x54R_muzzle_brake",
     "iconLink": "https://assets.tarkov.dev/5bc5a351d4351e003477a414-icon.webp",
     "types": [
@@ -24063,7 +24063,7 @@
     "description": "A Picatinny rail for the Mosin rifle, mounted instead of the regular rear sight. Manufactured by AIM Sports.",
     "basePrice": 1811,
     "avg24hPrice": null,
-    "lastLowPrice": 5200,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mosin_Rifle_AIM_Sports_MNG_rail_mount",
     "iconLink": "https://assets.tarkov.dev/5bc5a372d4351e44f824d17f-icon.webp",
     "types": [
@@ -24267,7 +24267,7 @@
     "description": "A standard-issue retractable stock for the MP7A1 submachine gun. Manufactured by Heckler & Koch.",
     "basePrice": 2111,
     "avg24hPrice": null,
-    "lastLowPrice": 80000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP7A1_stock",
     "iconLink": "https://assets.tarkov.dev/5bcf0213d4351e0085327c17-icon.webp",
     "types": [
@@ -24643,7 +24643,7 @@
     "description": "A standard-issue dust cover with an integrated Picatinny rail for RPK-16 LMGs, manufactured by Izhmash.",
     "basePrice": 7200,
     "avg24hPrice": null,
-    "lastLowPrice": 22222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RPK-16_dust_cover",
     "iconLink": "https://assets.tarkov.dev/5beec91a0db834001961942d-icon.webp",
     "types": [
@@ -24783,7 +24783,7 @@
     "description": "An infantry wooden stock for the Mosin rifle.",
     "basePrice": 2160,
     "avg24hPrice": null,
-    "lastLowPrice": 2000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mosin_Rifle_Infantry_stock",
     "iconLink": "https://assets.tarkov.dev/5bfd35380db83400232fe5cc-icon.webp",
     "types": [
@@ -25091,7 +25091,7 @@
     "description": "A 26 inch (660mm) barrel for the Remington Model 700 sniper rifle chambered in 7.62x51 NATO ammo.",
     "basePrice": 25400,
     "avg24hPrice": null,
-    "lastLowPrice": 22000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M700_7.62x51_26_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/5bfebc250db834001a6694e1-icon.webp",
     "types": [
@@ -26900,7 +26900,7 @@
     "description": "An upper receiver for the ADAR 2-15 carbine manufactured by ADAR. Equipped with a mount for attaching additional devices.",
     "basePrice": 3320,
     "avg24hPrice": null,
-    "lastLowPrice": 14420,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_ADAR_2-15_5.56x45_upper_receiver",
     "iconLink": "https://assets.tarkov.dev/5c0e2f26d174af02a9625114-icon.webp",
     "types": [
@@ -26951,7 +26951,7 @@
     "description": "A wooden SVD-style stock for ADAR 2-15 carbines.",
     "basePrice": 5119,
     "avg24hPrice": null,
-    "lastLowPrice": 5555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_ADAR_2-15_wooden_stock",
     "iconLink": "https://assets.tarkov.dev/5c0e2ff6d174af02a1659d4a-icon.webp",
     "types": [
@@ -27702,7 +27702,7 @@
     "description": "A standard charging handle for ADAR 2-15 and compatible systems.",
     "basePrice": 603,
     "avg24hPrice": null,
-    "lastLowPrice": 650,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_ADAR_2-15_charging_handle",
     "iconLink": "https://assets.tarkov.dev/5c0faf68d174af02a96260b8-icon.webp",
     "types": [
@@ -28228,7 +28228,7 @@
     "description": "A removable folding rear sight by Knight's Armament Company, installed on the mount.",
     "basePrice": 3325,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KAC_Folding_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5c1780312e221602b66cc189-icon.webp",
     "types": [
@@ -28860,7 +28860,7 @@
     "description": "A polymer stock for SVDS sniper rifles, manufactured by Izhmash.",
     "basePrice": 1626,
     "avg24hPrice": null,
-    "lastLowPrice": 90000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SVDS_polymer_stock",
     "iconLink": "https://assets.tarkov.dev/5c471b5d2e221602b21d4e14-icon.webp",
     "types": [
@@ -28894,7 +28894,7 @@
     "description": "A standard-issue front sight for SVDS sniper rifles, manufactured by Izhmash.",
     "basePrice": 524,
     "avg24hPrice": null,
-    "lastLowPrice": 571,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SVDS_front_sight",
     "iconLink": "https://assets.tarkov.dev/5c471ba12e221602b3137d76-icon.webp",
     "types": [
@@ -28911,7 +28911,7 @@
     "description": "A standard-issue dust cover for SVDS sniper rifles, manufactured by Izhmash.",
     "basePrice": 1109,
     "avg24hPrice": null,
-    "lastLowPrice": 22222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SVDS_dust_cover",
     "iconLink": "https://assets.tarkov.dev/5c471bd12e221602b4129c3a-icon.webp",
     "types": [
@@ -28928,7 +28928,7 @@
     "description": "An Izhmash pistol grip for SVDS and compatible weapon systems.",
     "basePrice": 764,
     "avg24hPrice": null,
-    "lastLowPrice": 8990,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SVDS_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/5c471be12e221602b66cd9ac-icon.webp",
     "types": [
@@ -29426,7 +29426,7 @@
     "description": "A 14 inch (355mm) long barrel for MPX-based weapons chambered in 9x19 ammo.",
     "basePrice": 12380,
     "avg24hPrice": null,
-    "lastLowPrice": 66666,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX_9x19_14_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/5c5db5c62e22160012542255-icon.webp",
     "types": [
@@ -29477,7 +29477,7 @@
     "description": "The Midwest Industries 10.5 inch length foregrip for the MPX SMGs equipped with an M-LOK interface for installation of additional devices and accessories.",
     "basePrice": 9300,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX_Midwest_Industries_10.5_inch_M-LOK_handguard",
     "iconLink": "https://assets.tarkov.dev/5c5db6302e2216000e5e47f0-icon.webp",
     "types": [
@@ -29562,7 +29562,7 @@
     "description": "The SCH (Super Charging Handle) charging handle with two latches for MPX-based weapons, manufactured by Geissele.",
     "basePrice": 1780,
     "avg24hPrice": null,
-    "lastLowPrice": 33333,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX_Geissele_SCH_charging_handle",
     "iconLink": "https://assets.tarkov.dev/5c5db6b32e221600102611a0-icon.webp",
     "types": [
@@ -29751,7 +29751,7 @@
     "description": "A compensator manufactured by TJ's Custom Gunworks for the SIG Sauer P226 pistols.",
     "basePrice": 2800,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/P226_TJ%27s_Custom_9x19_compensator",
     "iconLink": "https://assets.tarkov.dev/5c6beec32e221601da3578f2-icon.webp",
     "types": [
@@ -30213,7 +30213,7 @@
     "description": "Aimpoint LRP is a quick detach base mount for CompM4 and PRO sights.",
     "basePrice": 2400,
     "avg24hPrice": null,
-    "lastLowPrice": 2500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aimpoint_CompM4/PRO_LRP_mount",
     "iconLink": "https://assets.tarkov.dev/5c7d55f52e221644f31bff6a-icon.webp",
     "types": [
@@ -30704,7 +30704,7 @@
     "description": "The Daniel Defense RIS II FSP 9.5 foregrip is a part of the SOPMOD Block II program to replace the standard M4CQBR or Mk18 foregrips in the US SOCOM service. It's made with light but durable aircraft aluminum alloy and comes equipped with 4 mounts for the installation of additional devices and accessories. This foregrip option is incompatible with the M203 UBGL.",
     "basePrice": 15800,
     "avg24hPrice": null,
-    "lastLowPrice": 55555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Daniel_Defense_RIS_II_FSP_9.5_handguard_(Coyote_Brown)",
     "iconLink": "https://assets.tarkov.dev/5c9a26332e2216001219ea70-icon.webp",
     "types": [
@@ -31091,7 +31091,7 @@
     "description": "A detachable carry handle with a rear sight for the ASh-12 assault rifles.",
     "basePrice": 1800,
     "avg24hPrice": null,
-    "lastLowPrice": 6000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ASh-12_rear_sight_carry_handle",
     "iconLink": "https://assets.tarkov.dev/5caf1691ae92152ac412efb9-icon.webp",
     "types": [
@@ -31160,7 +31160,7 @@
     "description": "A polymer handguard for the 100-series AKs, manufactured by Izhmash. A further modification of the polymer AK-74M handguard. Features a bottom rail for installation of tactical foregrips.",
     "basePrice": 1322,
     "avg24hPrice": null,
-    "lastLowPrice": 22222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_100-series_polymer_handguard",
     "iconLink": "https://assets.tarkov.dev/5cbda392ae92155f3c17c39f-icon.webp",
     "types": [
@@ -31245,7 +31245,7 @@
     "description": "A standard-issue charging handle for the P90 SMG, manufactured by Fabrique Nationale Herstal.",
     "basePrice": 1600,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_P90_charging_handle",
     "iconLink": "https://assets.tarkov.dev/5cc6ea78e4a949000e1ea3c1-icon.webp",
     "types": [
@@ -31313,7 +31313,7 @@
     "description": "A standard-issue butt-pad for the P90 SMG, produced by Fabrique Nationale Herstal.",
     "basePrice": 2250,
     "avg24hPrice": null,
-    "lastLowPrice": 11111,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_P90_buttpad",
     "iconLink": "https://assets.tarkov.dev/5cc700cae4a949035e43ba72-icon.webp",
     "types": [
@@ -31364,7 +31364,7 @@
     "description": "A regular upper receiver for the P90 submachine gun, manufactured by Fabrique Nationale Herstal.",
     "basePrice": 2400,
     "avg24hPrice": null,
-    "lastLowPrice": 5000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_P90_5.7x28_upper_receiver",
     "iconLink": "https://assets.tarkov.dev/5cc70102e4a949035e43ba74-icon.webp",
     "types": [
@@ -31449,7 +31449,7 @@
     "description": "A 16 inch (407mm) barrel for FN P90 SMG, chambered in 5.7x28mm ammo.",
     "basePrice": 22300,
     "avg24hPrice": null,
-    "lastLowPrice": 25000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_P90_5.7x28_16_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/5cc701d7e4a94900100ac4e7-icon.webp",
     "types": [
@@ -31852,7 +31852,7 @@
     "description": "An adapter for installation of telescopic stock buffer tubes on the Remington M700 MOD*X kit by AB Arms.",
     "basePrice": 2602,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M700_AB_Arms_MOD*X_buffer_tube_adapter",
     "iconLink": "https://assets.tarkov.dev/5cde77a9d7f00c000f261009-icon.webp",
     "types": [
@@ -32007,7 +32007,7 @@
     "description": "A polymer stock for the civilian PS90 SMG variant. Manufactured by Fabrique Nationale Herstal.",
     "basePrice": 3350,
     "avg24hPrice": null,
-    "lastLowPrice": 20850,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_PS90_stock",
     "iconLink": "https://assets.tarkov.dev/5cebec10d7f00c065703d185-icon.webp",
     "types": [
@@ -32041,7 +32041,7 @@
     "description": "A Remington M700 sniper rifle magazine by ProMag, for the Archangel M700 stock. It accepts 7.62x51 cartridges and has a 20-round capacity.",
     "basePrice": 6240,
     "avg24hPrice": null,
-    "lastLowPrice": 33333,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M700_7.62x51_ProMag_AA-70_20-round_magazine",
     "iconLink": "https://assets.tarkov.dev/5cf12a15d7f00c05464b293f-icon.webp",
     "types": [
@@ -32127,7 +32127,7 @@
     "description": "The AK-EPG (AK Enhanced Pistol Grip) ergonomic polymer pistol grip for AK-family automatic rifles. Manufactured by Strike Industries. Flat Dark Earth version.",
     "basePrice": 3900,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_Strike_Industries_Enhanced_Pistol_Grip",
     "iconLink": "https://assets.tarkov.dev/5cf508bfd7f00c056e24104e-icon.webp",
     "types": [
@@ -32248,7 +32248,7 @@
     "description": "The Weapon Tuning muzzle adapter. Provides the ability to install modern 7.62x39 muzzle devices on the Mosin rifle.",
     "basePrice": 1900,
     "avg24hPrice": null,
-    "lastLowPrice": 5555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mosin_Rifle_Weapon_Tuning_7.62x39_thread_adapter",
     "iconLink": "https://assets.tarkov.dev/5cf67a1bd7f00c06585fb6f3-icon.webp",
     "types": [
@@ -32643,7 +32643,7 @@
     "description": "The Corvette 5.56x45 Compensator Muzzle Brake from Nordic Components reduces recoil and muzzle flip by directing gases upward and to the side.",
     "basePrice": 10000,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Nordic_Components_Corvette_5.56x45_compensator",
     "iconLink": "https://assets.tarkov.dev/5d02676dd7ad1a049e54f6dc-icon.webp",
     "types": [
@@ -33441,7 +33441,7 @@
     "description": "The TDI Arms AKM-L can be installed on AKM/AK-74 compatible weapon systems. Equipped with M-LOK mounts for installation of additional devices or rails.",
     "basePrice": 4200,
     "avg24hPrice": null,
-    "lastLowPrice": 12000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_TDI_AKM-L_handguard",
     "iconLink": "https://assets.tarkov.dev/5d1b198cd7ad1a604869ad72-icon.webp",
     "types": [
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "615c3d800d3afc358a55405e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "TOZ Simonov SKS 7.62x39 carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Flat screwdriver"
-            }
-          }
-        ]
-      },
-      {
         "id": "5de021b30f6d581e965bcde7",
         "station": {
           "name": "Workbench"
@@ -34226,6 +34206,26 @@
             "count": 1,
             "item": {
               "name": "Leatherman Multitool"
+            }
+          }
+        ]
+      },
+      {
+        "id": "615c3d800d3afc358a55405e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "TOZ Simonov SKS 7.62x39 carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Flat screwdriver"
             }
           }
         ]
@@ -34274,7 +34274,7 @@
     "description": null,
     "basePrice": 90750,
     "avg24hPrice": null,
-    "lastLowPrice": 93232,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_P90_5.7x28_submachine_gun",
     "iconLink": "https://assets.tarkov.dev/5d23404b86f7740d62079098-icon.webp",
     "types": [
@@ -34514,7 +34514,7 @@
     "description": "A 26 inch (660mm) stainless steel barrel for Remington Model 700 sniper rifle chambered in 7.62x51 NATO ammo.",
     "basePrice": 25900,
     "avg24hPrice": null,
-    "lastLowPrice": 69000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M700_7.62x51_26_inch_stainless_steel_barrel",
     "iconLink": "https://assets.tarkov.dev/5d2702e88abbc31ed91efc44-icon.webp",
     "types": [
@@ -37193,7 +37193,7 @@
     "description": "A 4-round magazine for VPO-215 rifles and compatible .366 TKM systems, manufactured by Molot Arms.",
     "basePrice": 1200,
     "avg24hPrice": null,
-    "lastLowPrice": 2000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPO-215_.366_TKM_4-round_magazine",
     "iconLink": "https://assets.tarkov.dev/5de653abf76fdc1ce94a5a2a-icon.webp",
     "types": [
@@ -37244,7 +37244,7 @@
     "description": "A universal rail mount for the VPO-215 \"Gornostay\" rifle, allows installation of various optics.",
     "basePrice": 1500,
     "avg24hPrice": null,
-    "lastLowPrice": 120000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPO-215_scope_rail_mount",
     "iconLink": "https://assets.tarkov.dev/5de6558e9f98ac2bc65950fc-icon.webp",
     "types": [
@@ -37347,7 +37347,7 @@
     "description": "A standard 25-round capacity polymer magazine for MP9-based SMGs, manufactured by Brügger & Thomet.",
     "basePrice": 2550,
     "avg24hPrice": null,
-    "lastLowPrice": 1233,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP9_9x19_25-round_magazine",
     "iconLink": "https://assets.tarkov.dev/5de8eaadbbaf010b10528a6d-icon.webp",
     "types": [
@@ -37886,7 +37886,7 @@
     "description": "An ambidextrous charging handle for the SR-25 marksman rifle and AR-10-compatible systems. Manufactured by Knight's Armament Company.",
     "basePrice": 1050,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-10_KAC_ambidextrous_charging_handle",
     "iconLink": "https://assets.tarkov.dev/5df8e085bb49d91fb446d6a8-icon.webp",
     "types": [
@@ -39653,7 +39653,7 @@
     "description": "A quick-detach side clip mount with a Weaver/Picatinny rail for the SVD sniper rifle and compatibles, manufactured by CAA.",
     "basePrice": 6400,
     "avg24hPrice": null,
-    "lastLowPrice": 12222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SVD_CAA_XD_RGL_receiver_mount",
     "iconLink": "https://assets.tarkov.dev/5e569a2e56edd02abe09f280-icon.webp",
     "types": [
@@ -41119,7 +41119,7 @@
     "description": "Mesa Tactical’s Telescoping Stock Conversion Kit replaces the standard buttstock with an adapter that accepts AR style collapsible stocks and pistol grips.",
     "basePrice": 2600,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mossberg_590A1_Mesa_Tactical_LEO_gen.1_stock_adapter",
     "iconLink": "https://assets.tarkov.dev/5ef1b9f0c64c5d0dfc0571a1-icon.webp",
     "types": [
@@ -41221,7 +41221,7 @@
     "description": "The Retro Commander hammer for the M1911A1 pistol, manufactured by Wilson.",
     "basePrice": 1500,
     "avg24hPrice": null,
-    "lastLowPrice": 1800,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M1911A1_Wilson_Retro_Commander_hammer",
     "iconLink": "https://assets.tarkov.dev/5ef35d2ac64c5d0dfc0571b0-icon.webp",
     "types": [
@@ -41273,7 +41273,7 @@
     "description": "The NcSTAR Trigger guard mount for the M1911A1 pistol.",
     "basePrice": 2300,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M1911A1_NcSTAR_trigger_guard_mount",
     "iconLink": "https://assets.tarkov.dev/5ef369b08cef260c0642acaf-icon.webp",
     "types": [
@@ -41645,7 +41645,7 @@
     "description": "A thread spacer for the RFB rifle, manufactured by Kel-Tec. It is required for installation of different muzzle devices.",
     "basePrice": 2200,
     "avg24hPrice": null,
-    "lastLowPrice": 29000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RFB_thread_spacer",
     "iconLink": "https://assets.tarkov.dev/5f2aa43ba9b91d26f20ae6d2-icon.webp",
     "types": [
@@ -42425,7 +42425,7 @@
     "description": "An SVD-style wooden stock designed for VPO-101 Vepr-Hunter carbines.",
     "basePrice": 5400,
     "avg24hPrice": null,
-    "lastLowPrice": 19999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPO-101_SVD-style_walnut_stock",
     "iconLink": "https://assets.tarkov.dev/5f63405df5750b524b45f114-icon.webp",
     "types": [
@@ -42495,7 +42495,7 @@
     "description": "Bravo-18 is a lightweight aircraft grade aluminum handguard, designed for installation on Saiga carbines.",
     "basePrice": 13200,
     "avg24hPrice": null,
-    "lastLowPrice": 22222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SOK-12_Bravo-18_aluminium_handguard",
     "iconLink": "https://assets.tarkov.dev/5f63418ef5750b524b45f116-icon.webp",
     "types": [
@@ -42753,7 +42753,7 @@
     "description": "A 5 inch (140mm) barrel for the KRISS Vector .45 ACP submachine gun.",
     "basePrice": 8900,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KRISS_Vector_.45_ACP_5_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/5fb65363d1409e5ca04b54f5-icon.webp",
     "types": [
@@ -42821,7 +42821,7 @@
     "description": "A 2nd generation folding stock for the KRISS Vector submachine gun.",
     "basePrice": 6120,
     "avg24hPrice": null,
-    "lastLowPrice": 7000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KRISS_Vector_Gen.2_folding_stock",
     "iconLink": "https://assets.tarkov.dev/5fb6558ad6f0b2136f2d7eb7-icon.webp",
     "types": [
@@ -42906,7 +42906,7 @@
     "description": "A bottom rail for the KRISS Vector submachine gun, allows installation of tactical foregrips and accessories.",
     "basePrice": 1100,
     "avg24hPrice": null,
-    "lastLowPrice": 25000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KRISS_Vector_bottom_rail",
     "iconLink": "https://assets.tarkov.dev/5fbb976df9986c4cff3fe5f2-icon.webp",
     "types": [
@@ -43042,7 +43042,7 @@
     "description": "A 9 inch (229mm) barrel for MCX-based weapons, chambered in .300 BLK.",
     "basePrice": 19418,
     "avg24hPrice": null,
-    "lastLowPrice": 53000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MCX_.300_BLK_9_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/5fbbfacda56d053a3543f799-icon.webp",
     "types": [
@@ -43386,7 +43386,7 @@
     "description": "A detachable flip-up rear sight for MCX assault rifles, originally designed for the AR platform. Manufactured by SIG Sauer.",
     "basePrice": 1050,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MCX_flip-up_rear_sight",
     "iconLink": "https://assets.tarkov.dev/5fc0fa957283c4046c58147e-icon.webp",
     "types": [
@@ -43910,7 +43910,7 @@
     "description": "A side rail for the KRISS Vector submachine gun, allows installation of additional tactical equipment.",
     "basePrice": 1033,
     "avg24hPrice": null,
-    "lastLowPrice": 10000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KRISS_Vector_side_rail",
     "iconLink": "https://assets.tarkov.dev/5fce0f9b55375d18a253eff2-icon.webp",
     "types": [
@@ -44507,7 +44507,7 @@
     "description": "A threaded barrel for the PL-15 pistol, chambered in 9x19.",
     "basePrice": 4948,
     "avg24hPrice": null,
-    "lastLowPrice": 13900,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PL-15_9x19_112mm_threaded_barrel",
     "iconLink": "https://assets.tarkov.dev/602a95fe4e02ce1eaa358729-icon.webp",
     "types": [
@@ -44559,7 +44559,7 @@
     "description": "STM Arms Receiver Extension Buffer Tube, 4-position, Com-Spec diameter will fit any AR-15-based carbine.",
     "basePrice": 1200,
     "avg24hPrice": null,
-    "lastLowPrice": 222222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Soyuz-TM_buffer_tube",
     "iconLink": "https://assets.tarkov.dev/602e3f1254072b51b239f713-icon.webp",
     "types": [
@@ -44696,7 +44696,7 @@
     "description": "A 16 inches (406mm) long barrel for the STM-9 carbine, chambered in 9x19.",
     "basePrice": 12500,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/STM-9_9x19_16_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/603373004e02ce1eaa358814-icon.webp",
     "types": [
@@ -44891,7 +44891,7 @@
     "description": "A 9 inch handguard for AR-15 systems equipped with an M-LOK interface for installation of additional devices and accessories. Manufactured by Soyuz-TM Arms.",
     "basePrice": 10500,
     "avg24hPrice": null,
-    "lastLowPrice": 11111,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Soyuz-TM_9_inch_M-LOK_handguard",
     "iconLink": "https://assets.tarkov.dev/6034e3cb0ddce744014cb870-icon.webp",
     "types": [
@@ -44908,7 +44908,7 @@
     "description": "A 15 inch handguard for AR-15 systems equipped with an M-LOK interface for installation of additional devices and accessories. Manufactured by Soyuz-TM Arms.",
     "basePrice": 15000,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Soyuz-TM_15_inch_M-LOK_handguard",
     "iconLink": "https://assets.tarkov.dev/6034e3d953a60014f970617b-icon.webp",
     "types": [
@@ -45617,7 +45617,7 @@
     "description": "A standard serially produced 510mm barrel for MP-155 12 gauge shotguns.",
     "basePrice": 7006,
     "avg24hPrice": null,
-    "lastLowPrice": 23000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-155_12ga_510mm_barrel",
     "iconLink": "https://assets.tarkov.dev/6076c1b9f2cb2e02a42acedc-icon.webp",
     "types": [
@@ -45651,7 +45651,7 @@
     "description": "The \"Ultima\" modification ergonomical rubber pad for the MP-155 pistol grip. Manufactured by Kalashnikov Group.",
     "basePrice": 1476,
     "avg24hPrice": null,
-    "lastLowPrice": 22222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-155_Ultima_pistol_grip_rubber_pad",
     "iconLink": "https://assets.tarkov.dev/60785c0d232e5a31c233d51c-icon.webp",
     "types": [
@@ -45719,7 +45719,7 @@
     "description": "The \"Ultima\" modification short rail for the MP-155 shotgun, which allows installation of additional equipment on the handguard. Manufactured by Kalashnikov Group.",
     "basePrice": 1000,
     "avg24hPrice": null,
-    "lastLowPrice": 25000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-155_Ultima_short_rail",
     "iconLink": "https://assets.tarkov.dev/607ea812232e5a31c233d53c-icon.webp",
     "types": [
@@ -45909,7 +45909,7 @@
     "description": "An aluminum mount for installing various sights and accessories on to the VPO-102 Vepr-Hunter carbine, manufactured by Arbalet.",
     "basePrice": 2902,
     "avg24hPrice": null,
-    "lastLowPrice": 12222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPO-102_Arbalet_mount",
     "iconLink": "https://assets.tarkov.dev/609a4b4fe2ff132951242d04-icon.webp",
     "types": [
@@ -46661,7 +46661,7 @@
     "description": "The ZK is single-chamber highly effective slant face muzzle brake manufactured by Tactical Advantage Armory. The front is rather pointy and doubles as a CQB threat deterrent and soft target weapon. Not recommended for situations where high concussion is a concern.",
     "basePrice": 10500,
     "avg24hPrice": null,
-    "lastLowPrice": 10444,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_TAA_ZK-23_5.56x45_muzzle_brake",
     "iconLink": "https://assets.tarkov.dev/612e0e55a112697a4b3a66e7-icon.webp",
     "types": [
@@ -46798,7 +46798,7 @@
     "description": "A muzzle brake for MP5-based weapons with a quick-detach lever for easy removal and installation. Manufactured by Brugger & Thomet.",
     "basePrice": 5500,
     "avg24hPrice": null,
-    "lastLowPrice": 18999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_B%26T_QD_9x19_muzzle_brake",
     "iconLink": "https://assets.tarkov.dev/615d8df08004cc50514c3236-icon.webp",
     "types": [
@@ -47207,7 +47207,7 @@
     "description": "The HK417 & G28 DMR Forearm With a Flip Up Front Sight & Suppressor Window Cutout. Optimized design to mitigate the heat emissions for long range shooting and to prevent the mirage effect.",
     "basePrice": 8600,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK417_Patrol_handguard_with_flip-up_front_sight",
     "iconLink": "https://assets.tarkov.dev/61712eae6c780c1e710c9a1d-icon.webp",
     "types": [
@@ -47224,7 +47224,7 @@
     "description": "A 10-round double-stack HK417/G28 magazine for 7.62x51 ammunition. The floor plate can easily be removed for disassembly and cleaning.",
     "basePrice": 2100,
     "avg24hPrice": null,
-    "lastLowPrice": 5555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK417/G28_7.62x51_10-round_magazine",
     "iconLink": "https://assets.tarkov.dev/617130016c780c1e710c9a24-icon.webp",
     "types": [
@@ -47429,7 +47429,7 @@
     "description": "An adjustable stock designed and manufactured by Heckler & Koch. This stock is fully adjustable for length of pull as well as the cheek height. Features a mount for installation of a cheek rest.",
     "basePrice": 12100,
     "avg24hPrice": null,
-    "lastLowPrice": 31123,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK417_Adjustable_Buttstock",
     "iconLink": "https://assets.tarkov.dev/617155ee50224f204c1da3cd-icon.webp",
     "types": [
@@ -47668,7 +47668,7 @@
     "description": "A bottom rail for the SCAR-series handguards that allows installation of tactical foregrips or other devices.",
     "basePrice": 1420,
     "avg24hPrice": null,
-    "lastLowPrice": 12222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR_bottom_rail",
     "iconLink": "https://assets.tarkov.dev/61816df1d3a39d50044c139e-icon.webp",
     "types": [
@@ -47873,7 +47873,7 @@
     "description": "A 10 inch (254mm) CQB barrel for the SCAR-series weapons chambered in 5.56x45 NATO ammo.",
     "basePrice": 30500,
     "avg24hPrice": null,
-    "lastLowPrice": 33300,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR-L_5.56x45_10_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/6183fc15d3a39d50044c13e9-icon.webp",
     "types": [
@@ -47890,7 +47890,7 @@
     "description": "A 14 inch (355mm) STD barrel for the SCAR-series weapons chambered in 5.56x45 NATO ammo.",
     "basePrice": 24000,
     "avg24hPrice": null,
-    "lastLowPrice": 29999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR-L_5.56x45_14_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/6183fd911cb55961fa0fdce9-icon.webp",
     "types": [
@@ -48197,7 +48197,7 @@
     "description": null,
     "basePrice": 174835,
     "avg24hPrice": null,
-    "lastLowPrice": 120000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_P90_5.7x28_submachine_gun",
     "iconLink": "https://assets.tarkov.dev/618ab00ef236914bab050ca0-icon.webp",
     "types": [
@@ -48816,7 +48816,7 @@
     "description": "A 153mm barrel for the special version of the USP pistol - USP Match, chambered in .45 ACP. Manufactured by Heckler & Koch.",
     "basePrice": 6000,
     "avg24hPrice": null,
-    "lastLowPrice": 30000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_USP_Match_.45_ACP_153mm_barrel",
     "iconLink": "https://assets.tarkov.dev/6194f02d9bb3d20b0946d2f0-icon.webp",
     "types": [
@@ -48935,7 +48935,7 @@
     "description": "A pistol slide for the special version of the USP45 pistol - USP45 Expert, manufactured by Heckler & Koch.",
     "basePrice": 3900,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_USP_Expert_.45_ACP_pistol_slide",
     "iconLink": "https://assets.tarkov.dev/6194f5722d2c397d6600348f-icon.webp",
     "types": [
@@ -49240,7 +49240,7 @@
     "description": null,
     "basePrice": 10500,
     "avg24hPrice": null,
-    "lastLowPrice": 30000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-43-1C_12ga_double-barrel_shotgun",
     "iconLink": "https://assets.tarkov.dev/6197d1f3585c515a052ad88f-icon.webp",
     "types": [
@@ -50369,7 +50369,7 @@
     "description": "MP-18 is the legendary Soviet single-barreled rifle. This gun behaves perfectly in all weather conditions, no breakdowns or failures have ever been identified.",
     "basePrice": 7800,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-18_7.62x54R_single-shot_rifle",
     "iconLink": "https://assets.tarkov.dev/61f7c9e189e6fb1a5e3ea78d-icon.webp",
     "types": [
@@ -50592,7 +50592,7 @@
     "description": "A standard-issue bipod for the HK G36 assault rifle.",
     "basePrice": 4269,
     "avg24hPrice": null,
-    "lastLowPrice": 59995,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_bipod",
     "iconLink": "https://assets.tarkov.dev/622b397c9a3d4327e41843b6-icon.webp",
     "types": [
@@ -50728,7 +50728,7 @@
     "description": "A STANAG magwell for the G36 assault rifle, manufactured by Heckler & Koch.",
     "basePrice": 1500,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_STANAG_magwell",
     "iconLink": "https://assets.tarkov.dev/622f039199f4ea1a4d6c9a17-icon.webp",
     "types": [
@@ -50745,7 +50745,7 @@
     "description": "A regular flash hider for the G36 assault rifle. Manufactured by Heckler & Koch.",
     "basePrice": 5100,
     "avg24hPrice": null,
-    "lastLowPrice": 1000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_5.56x45_flash_hider",
     "iconLink": "https://assets.tarkov.dev/622f07cfae33bc505b2c4dd5-icon.webp",
     "types": [
@@ -50796,7 +50796,7 @@
     "description": "A polymer stock for the G36, manufactured by Heckler & Koch.",
     "basePrice": 6000,
     "avg24hPrice": null,
-    "lastLowPrice": 7000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_polymer_stock",
     "iconLink": "https://assets.tarkov.dev/622f140da5958f63c67f1735-icon.webp",
     "types": [
@@ -50813,7 +50813,7 @@
     "description": "A polymer adjustable 4-position stock for the G36, manufactured by Heckler & Koch.",
     "basePrice": 12500,
     "avg24hPrice": null,
-    "lastLowPrice": 12000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_KV_adjustable_stock",
     "iconLink": "https://assets.tarkov.dev/622f14e899892a7f9e08f6c5-icon.webp",
     "types": [
@@ -51190,7 +51190,7 @@
     "description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 6mm BB ammunition. Flat Dark Earth version. Hilarious.",
     "basePrice": 3113,
     "avg24hPrice": null,
-    "lastLowPrice": 11800,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_6mm_Magpul_PMAG_30_GEN_M3_STANAG_30-round_magazine_(FDE)",
     "iconLink": "https://assets.tarkov.dev/6241c2c2117ad530666a5108-icon.webp",
     "types": [
@@ -51275,7 +51275,7 @@
     "description": "The Rhino revolvers, manufactured by the Italian company Armi Chiappa, are distinguished by a revolutionary patented design and construction with an unusual barrel arrangement for revolvers opposite the lower drum chamber. The short-size \"pocket\" model with a 2 inch barrel chambered in 9x19mm.",
     "basePrice": 5800,
     "avg24hPrice": null,
-    "lastLowPrice": 9999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chiappa_Rhino_200DS_9x19_revolver",
     "iconLink": "https://assets.tarkov.dev/624c2e8614da335f1e034d8c-icon.webp",
     "types": [
@@ -51343,7 +51343,7 @@
     "description": null,
     "basePrice": 7852,
     "avg24hPrice": null,
-    "lastLowPrice": 9999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chiappa_Rhino_200DS_9x19_revolver",
     "iconLink": "https://assets.tarkov.dev/624d7b2881a57812413b7954-icon.webp",
     "types": [
@@ -51377,7 +51377,7 @@
     "description": "A 7-shell capacity tube magazine for Benelli M3 S90 12ga.",
     "basePrice": 2300,
     "avg24hPrice": null,
-    "lastLowPrice": 3000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Benelli_M3_Super_90_12ga_7-shell_magazine",
     "iconLink": "https://assets.tarkov.dev/6259bdcabd28e4721447a2aa-icon.webp",
     "types": [
@@ -51634,7 +51634,7 @@
     "description": "The SureFire Warden blast regulator features a stainless steel body that enhances the overall appearance while protecting the inner parts from harm. This blast regulator prevents dirt, dust, debris, etc., from causing internal damage.",
     "basePrice": 8000,
     "avg24hPrice": null,
-    "lastLowPrice": 69000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_SureFire_Warden_5.56x45_blast_regulator",
     "iconLink": "https://assets.tarkov.dev/62669bccdb9ebb4daa44cd14-icon.webp",
     "types": [
@@ -52182,7 +52182,7 @@
     "description": "A 28 inch (686mm) barrel for the AI AXMC chambered in .338 Lapua Magnum ammo.",
     "basePrice": 58000,
     "avg24hPrice": null,
-    "lastLowPrice": 60000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AI_AXMC_.338_LM_28_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/628121434fa03b6b6c35dc6a-icon.webp",
     "types": [
@@ -52404,7 +52404,7 @@
     "description": null,
     "basePrice": 207309,
     "avg24hPrice": null,
-    "lastLowPrice": 269420,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CMMG_Mk47_Mutant_7.62x39_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/628755c60c9eb3366b521908-icon.webp",
     "types": [
@@ -53092,7 +53092,7 @@
     "description": null,
     "basePrice": 57023,
     "avg24hPrice": null,
-    "lastLowPrice": 60000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/629774055c32d414f8797477-icon.webp",
     "types": [
@@ -53109,7 +53109,7 @@
     "description": null,
     "basePrice": 65250,
     "avg24hPrice": null,
-    "lastLowPrice": 55555,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/6297743d005016781231ab76-icon.webp",
     "types": [
@@ -53194,7 +53194,7 @@
     "description": null,
     "basePrice": 15300,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MP-18_7.62x54R_single-shot_rifle",
     "iconLink": "https://assets.tarkov.dev/629792f0fd6eda47d6466fe8-icon.webp",
     "types": [
@@ -53985,7 +53985,7 @@
     "description": "A hand stopper for the barrel of the SR-2M \"Veresk\" 9x21 submachine gun. Manufactured by TsNIItochmash. Protects the shooter's hand from moving forward and getting possible burns by powder gases.",
     "basePrice": 3000,
     "avg24hPrice": null,
-    "lastLowPrice": 44444,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SR-2M_9x21_hand_stopper",
     "iconLink": "https://assets.tarkov.dev/62e2a754b6c0ee2f230cee0f-icon.webp",
     "types": [
@@ -54472,7 +54472,7 @@
     "description": "A barrel for Steyr AUG A3 designed for 5.56x45 NATO ammo, 16 inches (417mm) long.",
     "basePrice": 33000,
     "avg24hPrice": null,
-    "lastLowPrice": 100000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A3_5.56x45_16_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/630e39c3bd357927e4007c15-icon.webp",
     "types": [
@@ -54592,7 +54592,7 @@
     "description": "A barrel for Steyr AUG A1 designed for 5.56x45 NATO ammo, 16 inches (417mm) long.",
     "basePrice": 28500,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A1_5.56x45_16_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/6333f05d1bc0e6217a0e9d34-icon.webp",
     "types": [
@@ -54728,7 +54728,7 @@
     "description": "A standard-issue 520mm barrel for the OP-SKS carbine. Manufactured by Molot Arms.",
     "basePrice": 3920,
     "avg24hPrice": null,
-    "lastLowPrice": 14000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/OP-SKS_7.62x39_520mm_barrel",
     "iconLink": "https://assets.tarkov.dev/634eff66517ccc8a960fc735-icon.webp",
     "types": [
@@ -55038,7 +55038,7 @@
     "description": "A standard-issue bakelite grip panel for the PM pistol.",
     "basePrice": 1001,
     "avg24hPrice": null,
-    "lastLowPrice": 500,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PM_bakelite_grip",
     "iconLink": "https://assets.tarkov.dev/6374a7e7417239a7bf00f042-icon.webp",
     "types": [
@@ -55186,7 +55186,7 @@
     "description": "An ergonomic Makarov Pistol grip. Provides a comfortable grip and allows installation of additional accessories under the barrel. Manufactured by Gun Custom Tuning.",
     "basePrice": 4253,
     "avg24hPrice": null,
-    "lastLowPrice": 4890,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PM_Tactic_Kit_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/637b6d610aef6cfc5e02dd14-icon.webp",
     "types": [
@@ -55377,7 +55377,7 @@
     "description": "A metal triangle stock for the 100-series AKs, manufactured by Izhmash.",
     "basePrice": 1750,
     "avg24hPrice": null,
-    "lastLowPrice": 19000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_100-series_metal_skeletonized_stock",
     "iconLink": "https://assets.tarkov.dev/6386300124a1dc425c00577a-icon.webp",
     "types": [
@@ -56592,7 +56592,7 @@
     "description": "A competition steel muzzle brake with one closed and five open ports designed by George Gubich, a six-time champion in practical shooting in Russia. Installed on AR-15 family weapons.",
     "basePrice": 11800,
     "avg24hPrice": null,
-    "lastLowPrice": 40000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_AlienTech_5.56x45_muzzle_brake",
     "iconLink": "https://assets.tarkov.dev/63ac5c9658d0485fc039f0b8-icon.webp",
     "types": [
@@ -57226,7 +57226,7 @@
     "description": "A standard-issue stock for the VSK-94 marksman rifle. Manufactured by Tula KPB Instrument Design Bureau.",
     "basePrice": 1696,
     "avg24hPrice": null,
-    "lastLowPrice": 4444,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSK-94_stock",
     "iconLink": "https://assets.tarkov.dev/6452519e3d52156624001fd5-icon.webp",
     "types": [
@@ -57587,7 +57587,7 @@
     "description": "The AB Arms MOD1 handguard is designed for AR-15 platform weapons. It comes equipped with top mount for attaching additional equipment and sights.",
     "basePrice": 11532,
     "avg24hPrice": null,
-    "lastLowPrice": 18888,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_AB_Arms_MOD1_handguard",
     "iconLink": "https://assets.tarkov.dev/647de824196bf69818044c93-icon.webp",
     "types": [
@@ -59049,7 +59049,7 @@
     "description": "A standard-issue gas tube for AK-12 automatic rifles. Gas tubes channel the travel direction of gas piston.",
     "basePrice": 2384,
     "avg24hPrice": null,
-    "lastLowPrice": 12222,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-12_gas_tube",
     "iconLink": "https://assets.tarkov.dev/649ec107961514b22506b10c-icon.webp",
     "types": [
@@ -59758,7 +59758,7 @@
     "description": "A 10-round double-stack 7.62x51 NATO magazine for the M1A rifle, produced by Springfield Armory.",
     "basePrice": 1234,
     "avg24hPrice": null,
-    "lastLowPrice": 5000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M1A_7.62x51_10-round_magazine",
     "iconLink": "https://assets.tarkov.dev/64b9e2037fdfb81df81e3c25-icon.webp",
     "types": [
@@ -60367,7 +60367,7 @@
     "description": "A standard-issue 520mm barrel for the RPD machine gun. Manufactured by V.A. Degtyarev Plant.",
     "basePrice": 10382,
     "avg24hPrice": null,
-    "lastLowPrice": 11300,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RPD_7.62x39_520mm_barrel",
     "iconLink": "https://assets.tarkov.dev/6513eff1e06849f06c0957d4-icon.webp",
     "types": [
@@ -60678,7 +60678,7 @@
     "description": "The Enhanced M-LOK Vertical Foregrip, installed on M-LOK interface handguards. Manufactured by Daniel Defense. Black version.",
     "basePrice": 6754,
     "avg24hPrice": null,
-    "lastLowPrice": 24000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Daniel_Defense_Enhanced_M-LOK_Vertical_Foregrip",
     "iconLink": "https://assets.tarkov.dev/651a8bf3a8520e48047bf708-icon.webp",
     "types": [
@@ -60816,7 +60816,7 @@
     "description": "A standard-issue ambidextrous charging handle for the MCX-SPEAR assault rifle. Manufactured by SIG Sauer.",
     "basePrice": 1578,
     "avg24hPrice": null,
-    "lastLowPrice": 30000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MCX-SPEAR_charging_handle",
     "iconLink": "https://assets.tarkov.dev/6529109524cbe3c74a05e5b7-icon.webp",
     "types": [
@@ -61176,7 +61176,7 @@
     "description": "A cover for the SKS carbine gas tube. Manufactured by FAB Defense.",
     "basePrice": 1268,
     "avg24hPrice": null,
-    "lastLowPrice": 18000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SKS_FAB_Defense_UAS_gas_tube_cover",
     "iconLink": "https://assets.tarkov.dev/653ece125a1690d9d90491e8-icon.webp",
     "types": [
@@ -61193,7 +61193,7 @@
     "description": "A lightweight Monte Carlo-style stock for the SKS carbine, designed for sport shooting and hunting. Manufactured by ATI Outdoors.",
     "basePrice": 12609,
     "avg24hPrice": null,
-    "lastLowPrice": 49600,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SKS_ATI_Monte_Carlo_stock",
     "iconLink": "https://assets.tarkov.dev/653ecef836fae5a82f02b869-icon.webp",
     "types": [
@@ -61276,7 +61276,7 @@
     "description": "Kobra is a highly popular red dot sight among law enforcement agencies and civilian shooters. It was developed for the Armed Forces of the Russian Federation. EKP-1S-03 has earned a reputation of reliable, fail-safe in the harshest field conditions among hunters, sports shooters, soldiers and collectors. This sight is designed for installation on the Dovetail type mounts. Manufactured by Axion.",
     "basePrice": 9819,
     "avg24hPrice": null,
-    "lastLowPrice": 9999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Axion_Kobra_EKP-1S-03_reflex_sight_(Dovetail)",
     "iconLink": "https://assets.tarkov.dev/6544d4187c5457729210d277-icon.webp",
     "types": [
@@ -61603,7 +61603,7 @@
     "description": "A black polymer handguard for the AS Val and VSS Vintorez. Manufactured by TsNIITochMash.",
     "basePrice": 1123,
     "avg24hPrice": null,
-    "lastLowPrice": 1224,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSS/VAL_polymer_handguard",
     "iconLink": "https://assets.tarkov.dev/6565bb7eb4b12a56eb04b084-icon.webp",
     "types": [
@@ -65844,7 +65844,7 @@
     "description": "A key to the science office inside the TerraGroup main building in the city center.",
     "basePrice": 19020,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_science_office_key",
     "iconLink": "https://assets.tarkov.dev/658199aa38c79576a2569e13-icon.webp",
     "types": [
@@ -66203,7 +66203,7 @@
     "description": "A heavy fluted 475mm barrel for the M60E4 light machine gun. Manufactured by U.S Ordnance.",
     "basePrice": 41251,
     "avg24hPrice": null,
-    "lastLowPrice": 130750,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M60E4_7.62x51_475mm_heavy_barrel",
     "iconLink": "https://assets.tarkov.dev/66012788c752a02bbe05e68e-icon.webp",
     "types": [
@@ -66802,7 +66802,7 @@
     "description": "A 458mm short barrel for the M60E6 light machine gun. Manufactured by U.S Ordnance.",
     "basePrice": 31623,
     "avg24hPrice": null,
-    "lastLowPrice": 89999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M60E6_7.62x51_458mm_barrel",
     "iconLink": "https://assets.tarkov.dev/66225d88a1c7e3b81600c76f-icon.webp",
     "types": [
@@ -66870,7 +66870,7 @@
     "description": "The DTK-M16 muzzle brake, designed for AR-15 and compatible systems. Greatly reduces recoil and muzzle rise due to the special compensation chamber. Manufactured by Delta-Tek.",
     "basePrice": 8579,
     "avg24hPrice": null,
-    "lastLowPrice": 8999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Delta-Tek_DTK-M16_5.56x45_muzzle_brake",
     "iconLink": "https://assets.tarkov.dev/664301213dd83ddae20dda18-icon.webp",
     "types": [
@@ -67313,6 +67313,26 @@
     "gridImageLink": "https://assets.tarkov.dev/665730fa4de4820934746c48-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d54b017035dd060bff5e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked equipment crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
         "id": "6666d899eb78191c502350b2",
         "station": {
           "name": "Workbench"
@@ -67334,26 +67354,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked equipment crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67c9d54b017035dd060bff5e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
@@ -67453,26 +67453,6 @@
     "gridImageLink": "https://assets.tarkov.dev/665732f4464c4b4ba4670fa9-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67c9d4b251ce173bff01eec7",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked supply crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
         "id": "6666d829a8298779fc40e537",
         "station": {
           "name": "Workbench"
@@ -67503,6 +67483,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "67c9d4b251ce173bff01eec7",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked supply crate (Rare)"
+            }
+          }
+        ]
       }
     ]
   },
@@ -67522,6 +67522,26 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/66573310a1657263d816a139-grid-image.webp",
     "craftsFor": [
+      {
+        "id": "67c9d447b53b0fcf1d0bb0ab",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ]
+      },
       {
         "id": "6666d7ea0b734650a91d0a42",
         "station": {
@@ -67544,26 +67564,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked valuables crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67c9d447b53b0fcf1d0bb0ab",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
@@ -68259,7 +68259,7 @@
     "description": "A Picatinny adapter designed for installation of various buttstocks on the UZI PRO submachine gun. Manufactured by A3 Tactical.",
     "basePrice": 856,
     "avg24hPrice": null,
-    "lastLowPrice": 8888,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UZI_PRO_A3_Tactical_Rear_Stock_Adapter",
     "iconLink": "https://assets.tarkov.dev/668672b8c99550c6fd0f0b29-icon.webp",
     "types": [
@@ -68293,7 +68293,7 @@
     "description": "A standard-issue receiver cover plate for the UZI PRO submachine gun. Manufactured by Israel Weapon Industries.",
     "basePrice": 754,
     "avg24hPrice": null,
-    "lastLowPrice": 999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UZI_PRO_backplate",
     "iconLink": "https://assets.tarkov.dev/66881008f23233ee9a0742e7-icon.webp",
     "types": [
@@ -68634,7 +68634,7 @@
     "description": "A special nut required to install 9x19 barrels on the UZI submachine gun. Manufactured by Israel Weapon Industries.",
     "basePrice": 351,
     "avg24hPrice": null,
-    "lastLowPrice": 30000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UZI_9x19_barrel_retaining_nut",
     "iconLink": "https://assets.tarkov.dev/6698c9aa36ba38d29101770f-icon.webp",
     "types": [
@@ -68872,7 +68872,7 @@
     "description": "A rail designed for installation on the UZI submachine gun handguard. Manufactured by StormWerkz.",
     "basePrice": 1000,
     "avg24hPrice": null,
-    "lastLowPrice": 999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UZI_StormWerkz_lower_handguard_rail",
     "iconLink": "https://assets.tarkov.dev/66992f7d9950f5f4cd0602a8-icon.webp",
     "types": [
@@ -69180,7 +69180,7 @@
     "description": "An L5 slide for the Desert Eagle pistol chambered in .50 AE, manufactured by Magnum Research.",
     "basePrice": 3109,
     "avg24hPrice": null,
-    "lastLowPrice": 3264,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Desert_Eagle_L5_.50_AE_pistol_slide",
     "iconLink": "https://assets.tarkov.dev/669fa5019aa2a422600442f6-icon.webp",
     "types": [
@@ -69282,7 +69282,7 @@
     "description": "A rubberized grip with finger grooves for the Desert Eagle pistol. Manufactured by Hogue.",
     "basePrice": 3012,
     "avg24hPrice": null,
-    "lastLowPrice": 3011,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Desert_Eagle_Hogue_Rubber_Grip_with_finger_grooves",
     "iconLink": "https://assets.tarkov.dev/66a0da76b6f47fcfeb025e96-icon.webp",
     "types": [
@@ -69710,7 +69710,7 @@
     "description": null,
     "basePrice": 318233,
     "avg24hPrice": null,
-    "lastLowPrice": 900000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Colt_M4A1_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/66b0e484c84cc7141324fd6c-icon.webp",
     "types": [
@@ -70817,7 +70817,7 @@
     "description": "A 457mm barrel for the Auto Assault-12 12-gauge shotgun.",
     "basePrice": 15987,
     "avg24hPrice": null,
-    "lastLowPrice": 60000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AA-12_12ga_457mm_barrel",
     "iconLink": "https://assets.tarkov.dev/670fced86a7e274b1a0964e8-icon.webp",
     "types": [
@@ -70970,7 +70970,7 @@
     "description": "An extended convex buttpad designed for installation on IDZ stocks for the G36 assault rifle. Manufactured by Heckler & Koch.",
     "basePrice": 3992,
     "avg24hPrice": null,
-    "lastLowPrice": 50000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_G36_IDZ_Convex_Buttpad",
     "iconLink": "https://assets.tarkov.dev/67110d5ed1758189fc0bd221-icon.webp",
     "types": [
@@ -71021,7 +71021,7 @@
     "description": "A low-profile sight mount for AUG A3. Manufactured by Corvus Defensio.",
     "basePrice": 1947,
     "avg24hPrice": null,
-    "lastLowPrice": 77777,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A3_Corvus_Defensio_Receiver_Rail_MOI_30_Slots",
     "iconLink": "https://assets.tarkov.dev/67110dd41ad01bb88705347b-icon.webp",
     "types": [
@@ -72060,7 +72060,7 @@
     "description": "A lightweight handguard from the Titan Quad Rail System for Saiga shotguns. Manufactured by Chaos.",
     "basePrice": 15539,
     "avg24hPrice": null,
-    "lastLowPrice": 100000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SOK-12_Chaos_Titan_Quad_Rail_handguard",
     "iconLink": "https://assets.tarkov.dev/674fe57721a9aa6be6045b96-icon.webp",
     "types": [
@@ -72128,7 +72128,7 @@
     "description": "A front sight modeled after the popular Heckler & Koch iron sights, manufactured by Chaos.",
     "basePrice": 964,
     "avg24hPrice": null,
-    "lastLowPrice": 20000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chaos_HK_Style_front_sight",
     "iconLink": "https://assets.tarkov.dev/674fe8dd362ea1f88b0e2792-icon.webp",
     "types": [
@@ -73241,7 +73241,7 @@
     "description": "A children's mask stylized as a rooster. In the realities of Tarkov, it probably looks intimidating. Or not. As if there weren't enough mercs with cringy plastic skull masks already.",
     "basePrice": 6386,
     "avg24hPrice": null,
-    "lastLowPrice": 99999,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rooster_mask",
     "iconLink": "https://assets.tarkov.dev/676029a6bdead929d40bc368-icon.webp",
     "types": [
@@ -73258,7 +73258,7 @@
     "description": "It looks like this mask was taken from a warehouse with props for a play based on a G. Rodari story.",
     "basePrice": 6147,
     "avg24hPrice": null,
-    "lastLowPrice": 100000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cipollino_mask",
     "iconLink": "https://assets.tarkov.dev/676029ca2749de558a0b7e67-icon.webp",
     "types": [
@@ -73326,7 +73326,7 @@
     "description": "A common hare mask. It is unclear just who and why made a copy of this mask to fit an adult.",
     "basePrice": 5732,
     "avg24hPrice": null,
-    "lastLowPrice": 499000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hare_mask",
     "iconLink": "https://assets.tarkov.dev/67602a23c8e72a73250de737-icon.webp",
     "types": [
@@ -73637,7 +73637,7 @@
     "description": "A mount allows installation of Harris bipods on standard Picatinny handguards. Manufactured by Knight's Armament Company.",
     "basePrice": 1054,
     "avg24hPrice": null,
-    "lastLowPrice": 15000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KAC_MWS_Bipod_Adapter",
     "iconLink": "https://assets.tarkov.dev/676175bb48fa5c377e06fc36-icon.webp",
     "types": [
@@ -76821,7 +76821,7 @@
     "description": null,
     "basePrice": 80815,
     "avg24hPrice": null,
-    "lastLowPrice": 30267,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/IWI_UZI_9x19_submachine_gun",
     "iconLink": "https://assets.tarkov.dev/70726573657400000000003d-icon.webp",
     "types": [
@@ -77691,7 +77691,7 @@
     "description": null,
     "basePrice": 27788,
     "avg24hPrice": null,
-    "lastLowPrice": 54789,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FN_Five-seveN_MK2_5.7x28_pistol",
     "iconLink": "https://assets.tarkov.dev/fnfivesevenfdeironsight0-icon.webp",
     "types": [
@@ -77795,7 +77795,7 @@
     "description": null,
     "basePrice": 40511,
     "avg24hPrice": null,
-    "lastLowPrice": 120000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mosin_7.62x54R_bolt-action_rifle_(Sniper)",
     "iconLink": "https://assets.tarkov.dev/mosinscopedbarter0000001-icon.webp",
     "types": [
@@ -77812,7 +77812,7 @@
     "description": null,
     "basePrice": 188956,
     "avg24hPrice": null,
-    "lastLowPrice": 140000,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mosin_7.62x54R_bolt-action_rifle_(Sniper)",
     "iconLink": "https://assets.tarkov.dev/mosinsniperatacr00000001-icon.webp",
     "types": [
@@ -77899,7 +77899,7 @@
     "description": null,
     "basePrice": 138210,
     "avg24hPrice": null,
-    "lastLowPrice": 155554,
+    "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DS_Arms_SA58_7.62x51_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/sa58spr00000000000000001-icon.webp",
     "types": [
