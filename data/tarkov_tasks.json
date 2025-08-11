@@ -81614,6 +81614,66 @@
     }
   },
   {
+    "id": "600302d73b897b11364cd161",
+    "name": "Hunter",
+    "normalizedName": "hunter",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hunter",
+    "taskImageLink": "https://assets.tarkov.dev/600302d73b897b11364cd161.webp",
+    "experience": 0,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "objectives": [
+      {
+        "description": "Locate and neutralize Shturman"
+      }
+    ],
+    "trader": {
+      "name": "Jaeger",
+      "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
+      "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "active",
+          "complete"
+        ],
+        "task": {
+          "id": "5d25e2ee86f77443e35162ea",
+          "name": "The Huntsman Path - Woods Keeper"
+        }
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 100000,
+          "item": {
+            "name": "Roubles"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Chain with Prokill medallion"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Weapon case"
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "65734c186dc1e402c80dc19e",
     "name": "Dandies",
     "normalizedName": "dandies",
@@ -86331,6 +86391,426 @@
     }
   },
   {
+    "id": "5e381b0286f77420e3417a74",
+    "name": "Textile - Part 1",
+    "normalizedName": "textile-part-1-bear",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_1",
+    "taskImageLink": "https://assets.tarkov.dev/5e381b0286f77420e3417a74.webp",
+    "map": null,
+    "experience": 32000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5ae4497b86f7744cf402ed00",
+          "name": "Sew it Good - Part 4"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "description": "Find Aramid fabrics in raid",
+        "count": 5,
+        "items": [
+          {
+            "id": "5e2af4d286f7746d4159f07a",
+            "name": "Aramid fiber fabric"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the fabrics",
+        "count": 5,
+        "items": [
+          {
+            "id": "5e2af4d286f7746d4159f07a",
+            "name": "Aramid fiber fabric"
+          }
+        ]
+      },
+      {
+        "description": "Find Ripstop fabrics in raid",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af4a786f7746d3f3c3400",
+            "name": "Ripstop fabric"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the fabrics",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af4a786f7746d3f3c3400",
+            "name": "Ripstop fabric"
+          }
+        ]
+      },
+      {
+        "description": "Find Paracords in raid",
+        "count": 3,
+        "items": [
+          {
+            "id": "5c12688486f77426843c7d32",
+            "name": "Paracord"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the paracords",
+        "count": 3,
+        "items": [
+          {
+            "id": "5c12688486f77426843c7d32",
+            "name": "Paracord"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 100000,
+          "item": {
+            "name": "Roubles"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e383a6386f77465910ce1f3",
+    "name": "Textile - Part 1",
+    "normalizedName": "textile-part-1-usec",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_1",
+    "taskImageLink": "https://assets.tarkov.dev/5e383a6386f77465910ce1f3.webp",
+    "map": null,
+    "experience": 32000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5ae4497b86f7744cf402ed00",
+          "name": "Sew it Good - Part 4"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "description": "Find Aramid fabrics in raid",
+        "count": 5,
+        "items": [
+          {
+            "id": "5e2af4d286f7746d4159f07a",
+            "name": "Aramid fiber fabric"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the fabrics",
+        "count": 5,
+        "items": [
+          {
+            "id": "5e2af4d286f7746d4159f07a",
+            "name": "Aramid fiber fabric"
+          }
+        ]
+      },
+      {
+        "description": "Find Ripstop fabrics in raid",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af4a786f7746d3f3c3400",
+            "name": "Ripstop fabric"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the fabrics",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af4a786f7746d3f3c3400",
+            "name": "Ripstop fabric"
+          }
+        ]
+      },
+      {
+        "description": "Find Paracords in raid",
+        "count": 3,
+        "items": [
+          {
+            "id": "5c12688486f77426843c7d32",
+            "name": "Paracord"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the paracords",
+        "count": 3,
+        "items": [
+          {
+            "id": "5c12688486f77426843c7d32",
+            "name": "Paracord"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 100000,
+          "item": {
+            "name": "Roubles"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e4d4ac186f774264f758336",
+    "name": "Textile - Part 2",
+    "normalizedName": "textile-part-2-bear",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/5e4d4ac186f774264f758336.webp",
+    "map": null,
+    "experience": 34300,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5e381b0286f77420e3417a74",
+          "name": "Textile - Part 1"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "description": "Find Fleece fabrics in raid",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af47786f7746d404f3aaa",
+            "name": "Fleece fabric"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the fabrics",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af47786f7746d404f3aaa",
+            "name": "Fleece fabric"
+          }
+        ]
+      },
+      {
+        "description": "Find Cordura polyamide fabrics in raid",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af41e86f774755a234b67",
+            "name": "Cordura polyamide fabric"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the fabrics",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af41e86f774755a234b67",
+            "name": "Cordura polyamide fabric"
+          }
+        ]
+      },
+      {
+        "description": "Find KEKTAPE duct tapes in raid",
+        "count": 5,
+        "items": [
+          {
+            "id": "5e2af29386f7746d4159f077",
+            "name": "KEKTAPE duct tape"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the duct tapes",
+        "count": 5,
+        "items": [
+          {
+            "id": "5e2af29386f7746d4159f077",
+            "name": "KEKTAPE duct tape"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 100000,
+          "item": {
+            "name": "Roubles"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Mystery Ranch Blackjack 50 backpack (MultiCam)"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e4d515e86f77438b2195244",
+    "name": "Textile - Part 2",
+    "normalizedName": "textile-part-2-usec",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/5e4d515e86f77438b2195244.webp",
+    "map": null,
+    "experience": 34300,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5e383a6386f77465910ce1f3",
+          "name": "Textile - Part 1"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "description": "Find Fleece fabrics in raid",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af47786f7746d404f3aaa",
+            "name": "Fleece fabric"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the fabrics",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af47786f7746d404f3aaa",
+            "name": "Fleece fabric"
+          }
+        ]
+      },
+      {
+        "description": "Find Cordura polyamide fabrics in raid",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af41e86f774755a234b67",
+            "name": "Cordura polyamide fabric"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the fabrics",
+        "count": 10,
+        "items": [
+          {
+            "id": "5e2af41e86f774755a234b67",
+            "name": "Cordura polyamide fabric"
+          }
+        ]
+      },
+      {
+        "description": "Find KEKTAPE duct tapes in raid",
+        "count": 5,
+        "items": [
+          {
+            "id": "5e2af29386f7746d4159f077",
+            "name": "KEKTAPE duct tape"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the duct tapes",
+        "count": 5,
+        "items": [
+          {
+            "id": "5e2af29386f7746d4159f077",
+            "name": "KEKTAPE duct tape"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 100000,
+          "item": {
+            "name": "Roubles"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Mystery Ranch Blackjack 50 backpack (MultiCam)"
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "684009026ceedc792c09b2a7",
     "name": "Hobby Club",
     "normalizedName": "hobby-club",
@@ -88143,486 +88623,6 @@
           "count": 5,
           "item": {
             "name": "Expeditionary fuel tank"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "600302d73b897b11364cd161",
-    "name": "Hunter",
-    "normalizedName": "hunter",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hunter",
-    "taskImageLink": "https://assets.tarkov.dev/600302d73b897b11364cd161.webp",
-    "experience": 0,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "startRewards": {
-      "items": []
-    },
-    "objectives": [
-      {
-        "description": "Locate and neutralize Shturman"
-      }
-    ],
-    "trader": {
-      "name": "Jaeger",
-      "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
-      "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
-    },
-    "map": {
-      "name": "Woods"
-    },
-    "taskRequirements": [
-      {
-        "status": [
-          "active",
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e2ee86f77443e35162ea",
-          "name": "The Huntsman Path - Woods Keeper"
-        }
-      }
-    ],
-    "finishRewards": {
-      "items": [
-        {
-          "count": 100000,
-          "item": {
-            "name": "Roubles"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "name": "Chain with Prokill medallion"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "name": "Weapon case"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "5e381b0286f77420e3417a74",
-    "name": "Textile - Part 1",
-    "normalizedName": "textile-part-1-bear",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/5e381b0286f77420e3417a74.webp",
-    "map": null,
-    "experience": 32000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "startRewards": {
-      "items": []
-    },
-    "trader": {
-      "name": "Ragman",
-      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
-      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
-    },
-    "taskRequirements": [
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5ae4497b86f7744cf402ed00",
-          "name": "Sew it Good - Part 4"
-        }
-      }
-    ],
-    "objectives": [
-      {
-        "description": "Find Aramid fabrics in raid",
-        "count": 5,
-        "items": [
-          {
-            "id": "5e2af4d286f7746d4159f07a",
-            "name": "Aramid fiber fabric"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the fabrics",
-        "count": 5,
-        "items": [
-          {
-            "id": "5e2af4d286f7746d4159f07a",
-            "name": "Aramid fiber fabric"
-          }
-        ]
-      },
-      {
-        "description": "Find Ripstop fabrics in raid",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af4a786f7746d3f3c3400",
-            "name": "Ripstop fabric"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the fabrics",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af4a786f7746d3f3c3400",
-            "name": "Ripstop fabric"
-          }
-        ]
-      },
-      {
-        "description": "Find Paracords in raid",
-        "count": 3,
-        "items": [
-          {
-            "id": "5c12688486f77426843c7d32",
-            "name": "Paracord"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the paracords",
-        "count": 3,
-        "items": [
-          {
-            "id": "5c12688486f77426843c7d32",
-            "name": "Paracord"
-          }
-        ]
-      }
-    ],
-    "finishRewards": {
-      "items": [
-        {
-          "count": 100000,
-          "item": {
-            "name": "Roubles"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "5e383a6386f77465910ce1f3",
-    "name": "Textile - Part 1",
-    "normalizedName": "textile-part-1-usec",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/5e383a6386f77465910ce1f3.webp",
-    "map": null,
-    "experience": 32000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "startRewards": {
-      "items": []
-    },
-    "trader": {
-      "name": "Ragman",
-      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
-      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
-    },
-    "taskRequirements": [
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5ae4497b86f7744cf402ed00",
-          "name": "Sew it Good - Part 4"
-        }
-      }
-    ],
-    "objectives": [
-      {
-        "description": "Find Aramid fabrics in raid",
-        "count": 5,
-        "items": [
-          {
-            "id": "5e2af4d286f7746d4159f07a",
-            "name": "Aramid fiber fabric"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the fabrics",
-        "count": 5,
-        "items": [
-          {
-            "id": "5e2af4d286f7746d4159f07a",
-            "name": "Aramid fiber fabric"
-          }
-        ]
-      },
-      {
-        "description": "Find Ripstop fabrics in raid",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af4a786f7746d3f3c3400",
-            "name": "Ripstop fabric"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the fabrics",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af4a786f7746d3f3c3400",
-            "name": "Ripstop fabric"
-          }
-        ]
-      },
-      {
-        "description": "Find Paracords in raid",
-        "count": 3,
-        "items": [
-          {
-            "id": "5c12688486f77426843c7d32",
-            "name": "Paracord"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the paracords",
-        "count": 3,
-        "items": [
-          {
-            "id": "5c12688486f77426843c7d32",
-            "name": "Paracord"
-          }
-        ]
-      }
-    ],
-    "finishRewards": {
-      "items": [
-        {
-          "count": 100000,
-          "item": {
-            "name": "Roubles"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "5e4d4ac186f774264f758336",
-    "name": "Textile - Part 2",
-    "normalizedName": "textile-part-2-bear",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/5e4d4ac186f774264f758336.webp",
-    "map": null,
-    "experience": 34300,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "startRewards": {
-      "items": []
-    },
-    "trader": {
-      "name": "Ragman",
-      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
-      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
-    },
-    "taskRequirements": [
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5e381b0286f77420e3417a74",
-          "name": "Textile - Part 1"
-        }
-      }
-    ],
-    "objectives": [
-      {
-        "description": "Find Fleece fabrics in raid",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af47786f7746d404f3aaa",
-            "name": "Fleece fabric"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the fabrics",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af47786f7746d404f3aaa",
-            "name": "Fleece fabric"
-          }
-        ]
-      },
-      {
-        "description": "Find Cordura polyamide fabrics in raid",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af41e86f774755a234b67",
-            "name": "Cordura polyamide fabric"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the fabrics",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af41e86f774755a234b67",
-            "name": "Cordura polyamide fabric"
-          }
-        ]
-      },
-      {
-        "description": "Find KEKTAPE duct tapes in raid",
-        "count": 5,
-        "items": [
-          {
-            "id": "5e2af29386f7746d4159f077",
-            "name": "KEKTAPE duct tape"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the duct tapes",
-        "count": 5,
-        "items": [
-          {
-            "id": "5e2af29386f7746d4159f077",
-            "name": "KEKTAPE duct tape"
-          }
-        ]
-      }
-    ],
-    "finishRewards": {
-      "items": [
-        {
-          "count": 100000,
-          "item": {
-            "name": "Roubles"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "name": "Mystery Ranch Blackjack 50 backpack (MultiCam)"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "5e4d515e86f77438b2195244",
-    "name": "Textile - Part 2",
-    "normalizedName": "textile-part-2-usec",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/5e4d515e86f77438b2195244.webp",
-    "map": null,
-    "experience": 34300,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "startRewards": {
-      "items": []
-    },
-    "trader": {
-      "name": "Ragman",
-      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
-      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
-    },
-    "taskRequirements": [
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5e383a6386f77465910ce1f3",
-          "name": "Textile - Part 1"
-        }
-      }
-    ],
-    "objectives": [
-      {
-        "description": "Find Fleece fabrics in raid",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af47786f7746d404f3aaa",
-            "name": "Fleece fabric"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the fabrics",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af47786f7746d404f3aaa",
-            "name": "Fleece fabric"
-          }
-        ]
-      },
-      {
-        "description": "Find Cordura polyamide fabrics in raid",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af41e86f774755a234b67",
-            "name": "Cordura polyamide fabric"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the fabrics",
-        "count": 10,
-        "items": [
-          {
-            "id": "5e2af41e86f774755a234b67",
-            "name": "Cordura polyamide fabric"
-          }
-        ]
-      },
-      {
-        "description": "Find KEKTAPE duct tapes in raid",
-        "count": 5,
-        "items": [
-          {
-            "id": "5e2af29386f7746d4159f077",
-            "name": "KEKTAPE duct tape"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the duct tapes",
-        "count": 5,
-        "items": [
-          {
-            "id": "5e2af29386f7746d4159f077",
-            "name": "KEKTAPE duct tape"
-          }
-        ]
-      }
-    ],
-    "finishRewards": {
-      "items": [
-        {
-          "count": 100000,
-          "item": {
-            "name": "Roubles"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "name": "Mystery Ranch Blackjack 50 backpack (MultiCam)"
           }
         }
       ]
