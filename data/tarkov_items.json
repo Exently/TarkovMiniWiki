@@ -27624,6 +27624,26 @@
     "gridImageLink": "https://assets.tarkov.dev/5c0fa877d174af02a012e1cf-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67f4ec521d41954d4f09a9c8",
+        "requiredItems": [
+          {
+            "count": 5,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Aquapeps water purification tablets"
+            }
+          }
+        ],
+        "station": {
+          "name": "Water Collector"
+        }
+      },
+      {
         "id": "61c77c830f3639492721e99c",
         "requiredItems": [
           {
@@ -27653,26 +27673,6 @@
         ],
         "station": {
           "name": "Nutrition Unit"
-        }
-      },
-      {
-        "id": "67f4ec521d41954d4f09a9c8",
-        "requiredItems": [
-          {
-            "count": 5,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Aquapeps water purification tablets"
-            }
-          }
-        ],
-        "station": {
-          "name": "Water Collector"
         }
       }
     ]
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "615c3d800d3afc358a55405e",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "TOZ Simonov SKS 7.62x39 carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Flat screwdriver"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
         "id": "5de021b30f6d581e965bcde7",
         "requiredItems": [
           {
@@ -34223,6 +34203,26 @@
             "count": 1,
             "item": {
               "name": "Leatherman Multitool"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
+        "id": "615c3d800d3afc358a55405e",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "TOZ Simonov SKS 7.62x39 carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Flat screwdriver"
             }
           }
         ],
@@ -67056,7 +67056,7 @@
     "gridImageLink": "https://assets.tarkov.dev/66507eabf5ddb0818b085b68-grid-image.webp",
     "craftsFor": [
       {
-        "id": "66509e8c9398c9c9e10a31bb",
+        "id": "6671d4fef3bee343f5000703",
         "requiredItems": [
           {
             "count": 1,
@@ -67088,7 +67088,7 @@
         }
       },
       {
-        "id": "6671d4fef3bee343f5000703",
+        "id": "66509e8c9398c9c9e10a31bb",
         "requiredItems": [
           {
             "count": 1,
@@ -67383,26 +67383,6 @@
     "gridImageLink": "https://assets.tarkov.dev/665732e7ac60f009f270d1ef-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67c9d5035be7fc94c806dee9",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked weapon crate (Rare)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
         "id": "66575197464c4b4ba4671004",
         "requiredItems": [
           {
@@ -67421,6 +67401,26 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked weapon crate (Rare)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
+        "id": "67c9d5035be7fc94c806dee9",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
             }
           },
           {
@@ -67523,6 +67523,26 @@
     "gridImageLink": "https://assets.tarkov.dev/66573310a1657263d816a139-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d447b53b0fcf1d0bb0ab",
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ],
+        "station": {
+          "name": "Workbench"
+        }
+      },
+      {
         "id": "6666d7ea0b734650a91d0a42",
         "requiredItems": [
           {
@@ -67541,26 +67561,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked valuables crate (Rare)"
-            }
-          }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
-      },
-      {
-        "id": "67c9d447b53b0fcf1d0bb0ab",
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
