@@ -87330,6 +87330,1083 @@
     }
   },
   {
+    "id": "5c51aac186f77432ea65c552",
+    "name": "Collector",
+    "normalizedName": "collector",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Collector",
+    "taskImageLink": "https://assets.tarkov.dev/5c51aac186f77432ea65c552.webp",
+    "map": null,
+    "experience": 0,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Fence",
+      "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
+      "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5bc4893c86f774626f5ebf3e",
+          "name": "The Tarkov Shooter - Part 8"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5eaaaa7c93afa0558f3b5a1c",
+          "name": "The Survivalist Path - Junkie"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d25e43786f7740a212217fa",
+          "name": "The Huntsman Path - Justice"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d25e2d886f77442734d335e",
+          "name": "The Huntsman Path - Controller"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d25e44386f77409453bce7b",
+          "name": "The Huntsman Path - Evil Watchman"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "66b38e144f2ab7cc530c3fe7",
+          "name": "Every Hunter Knows This"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "669fa3979b0ce3feae01a130",
+          "name": "Claustrophobia"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "675c1ec7a46173572a0bf20a",
+          "name": "Rite of Passage"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "59674cd986f7744ab26e32f2",
+          "name": "Shootout Picnic"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5fd9fad9c1ce6b1a3b486d00",
+          "name": "Search Mission"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "675c3507a06634b5110e3c18",
+          "name": "Belka and Strelka"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5968eb3186f7741dde183a4d",
+          "name": "Operation Aquarius - Part 2"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "596b455186f77457cb50eccb",
+          "name": "Stirrup"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "596a218586f77420d232807c",
+          "name": "Car Repair"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "669fa399033a3ce9870338a8",
+          "name": "Possessor"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "596760e186f7741e11214d58",
+          "name": "Postman Pat - Part 2"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5ac3475486f7741d6224abd3",
+          "name": "Bad Habit"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5ac3479086f7742880308199",
+          "name": "Insider"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "60c0c018f7afb4354815096a",
+          "name": "The Huntsman Path - Factory Chief"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "626bd75e47ea7f506e5493c5",
+          "name": "Broadcast - Part 1"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "669fa39c64ea11e84c0642a6",
+          "name": "The Walls Have Eyes"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "669fa39ee749756c920d02c8",
+          "name": "All Is Revealed"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "675c1570526ff496850895d9",
+          "name": "Passion for Ergonomics"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c0bde0986f77479cf22c2f8",
+          "name": "A Shooter Born in Heaven"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "60896888e4a85c72ef3fa300",
+          "name": "Classified Technologies"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "6089732b59b92115597ad789",
+          "name": "Surplus Goods"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "6179b4d1bca27a099552e04e",
+          "name": "Revision - Lighthouse"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5ac346e886f7741d6118b99b",
+          "name": "Signal - Part 4"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "6089743983426423753cd58a",
+          "name": "Safe Corridor"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "669fa3a08b4a64b332041ff7",
+          "name": "Dragnet"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "608974af4b05530f55550c21",
+          "name": "Inventory Check"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "6179b3bdc7560e13d23eeb8d",
+          "name": "Corporate Secrets"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "675c085d59b0575973005f52",
+          "name": "Break the Deal"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "675c04f4db8807b75d0f38e8",
+          "name": "Closer to the People"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5a27ba1c86f77461ea5a3c56",
+          "name": "The Cult - Part 2"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "6179acbdc760af5ad2053585",
+          "name": "Easy Job - Part 2"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "626bd75c71bd851e971b82a5",
+          "name": "Reconnaissance"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "60896b7bfa70fc097863b8f5",
+          "name": "Documents"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "61904daa7d0d857927447b9c",
+          "name": "The Hermit"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "669fa3a3ad7f1eac2607ed48",
+          "name": "Health Care Privacy - Part 6"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5b478ff486f7744d184ecbbf",
+          "name": "Vitamins - Part 2"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "6179ad0a6e9dd54ac275e3f2",
+          "name": "The Huntsman Path - Outcasts"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5edac63b930f5454f51e128b",
+          "name": "TerraGroup Employee"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5b478d0f86f7744d190d91b5",
+          "name": "Minibus"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "675c3582f6ddc329a90f9c6d",
+          "name": "Private Club"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d25e46e86f77409453bce7c",
+          "name": "Ambulance"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c0bd01e86f7747cdd799e56",
+          "name": "Insomnia"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "6179b3a12153c15e937d52bc",
+          "name": "Energy Crisis"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5ae4499a86f77449783815db",
+          "name": "Charisma Brings Success"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d4bec3486f7743cac246665",
+          "name": "Regulated Materials"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5ae449a586f7744bde357696",
+          "name": "No Fuss Needed"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "626bd75b05f287031503c7f6",
+          "name": "Drug Trafficking"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d25e4b786f77408251c4bfc",
+          "name": "Fishing Place"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c112d7e86f7740d6f647486",
+          "name": "Scavenger"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c1141f386f77430ff393792",
+          "name": "Living High is Not a Crime - Part 2"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c1128e386f7746565181106",
+          "name": "Fertilizers"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d25e45e86f77408251c4bfa",
+          "name": "The Huntsman Path - Eraser - Part 2"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "6179b4f16e9dd54ac275e407",
+          "name": "Missing Cargo"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c0d4c12d09282029f539173",
+          "name": "Peacekeeping Mission"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5d25e4ca86f77409dd5cdf2c",
+          "name": "Hunting Trip"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c0d1c4cd0928202a02a6f5c",
+          "name": "Decontamination Service"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c0bdb5286f774166e38eed4",
+          "name": "Flint"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c0be13186f7746f016734aa",
+          "name": "Psycho Sniper"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c12452c86f7744b83469073",
+          "name": "Perfect Mediator"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c139eb686f7747878361a6f",
+          "name": "Import"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "626bdcc3a371ee3a7a3514c5",
+          "name": "Stray Dogs"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5b47825886f77468074618d3",
+          "name": "Gunsmith - Part 22"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5ae449d986f774453a54a7e1",
+          "name": "Supervisor"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "5c0d4e61d09282029f53920e",
+          "name": "The Guide"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "675c1ff1a757ddd00404f0aa",
+          "name": "Test Drive - Part 6"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "60e71bb4e456d449cd47ca75",
+          "name": "Intimidator"
+        }
+      },
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "60e71c48c1bfa3050473b8e5",
+          "name": "Crisis"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "description": "Hand over the found in raid item: Old firesteel",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9c377d4351e3bac12251b",
+            "name": "Old firesteel"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Antique axe",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9c1e2d4351e00367fbcf0",
+            "name": "Antique axe"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Battered antique book",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9c049d4351e44f824d360",
+            "name": "Battered antique book"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: #FireKlean gun lube",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9b355d4351e6d1509862a",
+            "name": "#FireKlean gun lube"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Golden rooster figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9bc53d4351e00367fbcee",
+            "name": "Golden rooster figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Silver Badge",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9bdb8d4351e003562b8a1",
+            "name": "Silver Badge"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Deadlyslob's beard oil",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9b9ecd4351e3bac122519",
+            "name": "Deadlyslob's beard oil"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Golden 1GPhone smartphone",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9b720d4351e450201234b",
+            "name": "Golden 1GPhone smartphone"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Jar of DevilDog mayo",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9b156d4351e00367fbce9",
+            "name": "Jar of DevilDog mayo"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Can of sprats",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9c29cd4351e003562b8a3",
+            "name": "Can of sprats"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Fake mustache",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bd073a586f7747e6f135799",
+            "name": "Fake mustache"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Kotton beanie",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bd073c986f7747f627e796c",
+            "name": "Kotton beanie"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Raven figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "5e54f62086f774219b0f1937",
+            "name": "Raven figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Pestily plague mask",
+        "count": 1,
+        "items": [
+          {
+            "id": "5e54f79686f7744022011103",
+            "name": "Pestily plague mask"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Shroud half-mask",
+        "count": 1,
+        "items": [
+          {
+            "id": "5e54f76986f7740366043752",
+            "name": "Shroud half-mask"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Can of Dr. Lupo's coffee beans",
+        "count": 1,
+        "items": [
+          {
+            "id": "5e54f6af86f7742199090bf3",
+            "name": "Can of Dr. Lupo's coffee beans"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: 42 Signature Blend English Tea",
+        "count": 1,
+        "items": [
+          {
+            "id": "5bc9be8fd4351e00334cae6e",
+            "name": "42 Signature Blend English Tea"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Veritas guitar pick",
+        "count": 1,
+        "items": [
+          {
+            "id": "5f745ee30acaeb0d490d8c5b",
+            "name": "Veritas guitar pick"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Evasion armband",
+        "count": 1,
+        "items": [
+          {
+            "id": "60b0f988c4449e4cb624c1da",
+            "name": "Armband (Evasion)"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Can of RatCola soda",
+        "count": 1,
+        "items": [
+          {
+            "id": "60b0f93284c20f0feb453da7",
+            "name": "Can of RatCola soda"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Loot Lord plushie",
+        "count": 1,
+        "items": [
+          {
+            "id": "60b0f7057897d47c5b04ab94",
+            "name": "Loot Lord plushie"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Smoke balaclava",
+        "count": 1,
+        "items": [
+          {
+            "id": "5fd8d28367cb5e077335170f",
+            "name": "Smoke balaclava"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: WZ Wallet",
+        "count": 1,
+        "items": [
+          {
+            "id": "60b0f6c058e0b0481a09ad11",
+            "name": "WZ Wallet"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: LVNDMARK's rat poison",
+        "count": 1,
+        "items": [
+          {
+            "id": "60b0f561c4449e4cb624c1d7",
+            "name": "LVNDMARK's rat poison"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Missam forklift key",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09ec84f842e1bd12da3f2",
+            "name": "Missam forklift key"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Video cassette with the Cyborg Killer movie",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09e974f842e1bd12da3f0",
+            "name": "Video cassette with the Cyborg Killer movie"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: BakeEzy cook book",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09e73af34e73a266d932a",
+            "name": "BakeEzy cook book"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: JohnB Liquid DNB glasses",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09e410b9d3c46de5b6e78",
+            "name": "JohnB Liquid DNB glasses"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Baddie's red beard",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09dd4621468534a797ac7",
+            "name": "Baddie's red beard"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: DRD body armor",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09d79de7ac81993580530",
+            "name": "DRD body armor"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Gingy keychain",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09d3bcf4a99369e262447",
+            "name": "Gingy keychain"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Golden egg",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09cfe4f842e1bd12da3e4",
+            "name": "Golden egg"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Press pass (issued for NoiceGuy)",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09cb7a04c0c5c6e0a84f8",
+            "name": "Press pass (issued for NoiceGuy)"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Axel parrot figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a091170b9d3c46de5b6cf2",
+            "name": "Axel parrot figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: BEAR Buddy plush toy",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a08f4c4f842e1bd12d9d62",
+            "name": "BEAR Buddy plush toy"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Glorious E lightweight armored mask",
+        "count": 1,
+        "items": [
+          {
+            "id": "62a09e08de7ac81993580532",
+            "name": "Glorious E lightweight armored mask"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Inseq gas pipe wrench",
+        "count": 1,
+        "items": [
+          {
+            "id": "66b37f114410565a8f6789e2",
+            "name": "Inseq gas pipe wrench"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Viibiin sneaker",
+        "count": 1,
+        "items": [
+          {
+            "id": "66b37eb4acff495a29492407",
+            "name": "Viibiin sneaker"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Tamatthi kunai knife replica",
+        "count": 1,
+        "items": [
+          {
+            "id": "66b37ea4c5d72b0277488439",
+            "name": "Tamatthi kunai knife replica"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "name": "Secure container Kappa"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Armband (DEADSKUL)"
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "60e71c11d54b755a3b53eb65",
     "name": "Night Sweep",
     "normalizedName": "night-sweep",
@@ -88623,1083 +89700,6 @@
           "count": 5,
           "item": {
             "name": "Expeditionary fuel tank"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "5c51aac186f77432ea65c552",
-    "name": "Collector",
-    "normalizedName": "collector",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Collector",
-    "taskImageLink": "https://assets.tarkov.dev/5c51aac186f77432ea65c552.webp",
-    "map": null,
-    "experience": 0,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "startRewards": {
-      "items": []
-    },
-    "trader": {
-      "name": "Fence",
-      "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
-      "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp"
-    },
-    "taskRequirements": [
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5bc4893c86f774626f5ebf3e",
-          "name": "The Tarkov Shooter - Part 8"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5eaaaa7c93afa0558f3b5a1c",
-          "name": "The Survivalist Path - Junkie"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e43786f7740a212217fa",
-          "name": "The Huntsman Path - Justice"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e2d886f77442734d335e",
-          "name": "The Huntsman Path - Controller"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e44386f77409453bce7b",
-          "name": "The Huntsman Path - Evil Watchman"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "66b38e144f2ab7cc530c3fe7",
-          "name": "Every Hunter Knows This"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "669fa3979b0ce3feae01a130",
-          "name": "Claustrophobia"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "675c1ec7a46173572a0bf20a",
-          "name": "Rite of Passage"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "59674cd986f7744ab26e32f2",
-          "name": "Shootout Picnic"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5fd9fad9c1ce6b1a3b486d00",
-          "name": "Search Mission"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "675c3507a06634b5110e3c18",
-          "name": "Belka and Strelka"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5968eb3186f7741dde183a4d",
-          "name": "Operation Aquarius - Part 2"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "596b455186f77457cb50eccb",
-          "name": "Stirrup"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "596a218586f77420d232807c",
-          "name": "Car Repair"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "669fa399033a3ce9870338a8",
-          "name": "Possessor"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "596760e186f7741e11214d58",
-          "name": "Postman Pat - Part 2"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5ac3475486f7741d6224abd3",
-          "name": "Bad Habit"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5ac3479086f7742880308199",
-          "name": "Insider"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "60c0c018f7afb4354815096a",
-          "name": "The Huntsman Path - Factory Chief"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "626bd75e47ea7f506e5493c5",
-          "name": "Broadcast - Part 1"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "669fa39c64ea11e84c0642a6",
-          "name": "The Walls Have Eyes"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "669fa39ee749756c920d02c8",
-          "name": "All Is Revealed"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "675c1570526ff496850895d9",
-          "name": "Passion for Ergonomics"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c0bde0986f77479cf22c2f8",
-          "name": "A Shooter Born in Heaven"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "60896888e4a85c72ef3fa300",
-          "name": "Classified Technologies"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "6089732b59b92115597ad789",
-          "name": "Surplus Goods"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "6179b4d1bca27a099552e04e",
-          "name": "Revision - Lighthouse"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5ac346e886f7741d6118b99b",
-          "name": "Signal - Part 4"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "6089743983426423753cd58a",
-          "name": "Safe Corridor"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "669fa3a08b4a64b332041ff7",
-          "name": "Dragnet"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "608974af4b05530f55550c21",
-          "name": "Inventory Check"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "6179b3bdc7560e13d23eeb8d",
-          "name": "Corporate Secrets"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "675c085d59b0575973005f52",
-          "name": "Break the Deal"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "675c04f4db8807b75d0f38e8",
-          "name": "Closer to the People"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5a27ba1c86f77461ea5a3c56",
-          "name": "The Cult - Part 2"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "6179acbdc760af5ad2053585",
-          "name": "Easy Job - Part 2"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "626bd75c71bd851e971b82a5",
-          "name": "Reconnaissance"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "60896b7bfa70fc097863b8f5",
-          "name": "Documents"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "61904daa7d0d857927447b9c",
-          "name": "The Hermit"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "669fa3a3ad7f1eac2607ed48",
-          "name": "Health Care Privacy - Part 6"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5b478ff486f7744d184ecbbf",
-          "name": "Vitamins - Part 2"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "6179ad0a6e9dd54ac275e3f2",
-          "name": "The Huntsman Path - Outcasts"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5edac63b930f5454f51e128b",
-          "name": "TerraGroup Employee"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5b478d0f86f7744d190d91b5",
-          "name": "Minibus"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "675c3582f6ddc329a90f9c6d",
-          "name": "Private Club"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e46e86f77409453bce7c",
-          "name": "Ambulance"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c0bd01e86f7747cdd799e56",
-          "name": "Insomnia"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "6179b3a12153c15e937d52bc",
-          "name": "Energy Crisis"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5ae4499a86f77449783815db",
-          "name": "Charisma Brings Success"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5d4bec3486f7743cac246665",
-          "name": "Regulated Materials"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5ae449a586f7744bde357696",
-          "name": "No Fuss Needed"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "626bd75b05f287031503c7f6",
-          "name": "Drug Trafficking"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e4b786f77408251c4bfc",
-          "name": "Fishing Place"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c112d7e86f7740d6f647486",
-          "name": "Scavenger"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c1141f386f77430ff393792",
-          "name": "Living High is Not a Crime - Part 2"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c1128e386f7746565181106",
-          "name": "Fertilizers"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e45e86f77408251c4bfa",
-          "name": "The Huntsman Path - Eraser - Part 2"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "6179b4f16e9dd54ac275e407",
-          "name": "Missing Cargo"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c0d4c12d09282029f539173",
-          "name": "Peacekeeping Mission"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5d25e4ca86f77409dd5cdf2c",
-          "name": "Hunting Trip"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c0d1c4cd0928202a02a6f5c",
-          "name": "Decontamination Service"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c0bdb5286f774166e38eed4",
-          "name": "Flint"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c0be13186f7746f016734aa",
-          "name": "Psycho Sniper"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c12452c86f7744b83469073",
-          "name": "Perfect Mediator"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c139eb686f7747878361a6f",
-          "name": "Import"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "626bdcc3a371ee3a7a3514c5",
-          "name": "Stray Dogs"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5b47825886f77468074618d3",
-          "name": "Gunsmith - Part 22"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5ae449d986f774453a54a7e1",
-          "name": "Supervisor"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "5c0d4e61d09282029f53920e",
-          "name": "The Guide"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "675c1ff1a757ddd00404f0aa",
-          "name": "Test Drive - Part 6"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "60e71bb4e456d449cd47ca75",
-          "name": "Intimidator"
-        }
-      },
-      {
-        "status": [
-          "complete"
-        ],
-        "task": {
-          "id": "60e71c48c1bfa3050473b8e5",
-          "name": "Crisis"
-        }
-      }
-    ],
-    "objectives": [
-      {
-        "description": "Hand over the found in raid item: Old firesteel",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9c377d4351e3bac12251b",
-            "name": "Old firesteel"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Antique axe",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9c1e2d4351e00367fbcf0",
-            "name": "Antique axe"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Battered antique book",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9c049d4351e44f824d360",
-            "name": "Battered antique book"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: #FireKlean gun lube",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9b355d4351e6d1509862a",
-            "name": "#FireKlean gun lube"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Golden rooster figurine",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9bc53d4351e00367fbcee",
-            "name": "Golden rooster figurine"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Silver Badge",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9bdb8d4351e003562b8a1",
-            "name": "Silver Badge"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Deadlyslob's beard oil",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9b9ecd4351e3bac122519",
-            "name": "Deadlyslob's beard oil"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Golden 1GPhone smartphone",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9b720d4351e450201234b",
-            "name": "Golden 1GPhone smartphone"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Jar of DevilDog mayo",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9b156d4351e00367fbce9",
-            "name": "Jar of DevilDog mayo"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Can of sprats",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9c29cd4351e003562b8a3",
-            "name": "Can of sprats"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Fake mustache",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bd073a586f7747e6f135799",
-            "name": "Fake mustache"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Kotton beanie",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bd073c986f7747f627e796c",
-            "name": "Kotton beanie"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Raven figurine",
-        "count": 1,
-        "items": [
-          {
-            "id": "5e54f62086f774219b0f1937",
-            "name": "Raven figurine"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Pestily plague mask",
-        "count": 1,
-        "items": [
-          {
-            "id": "5e54f79686f7744022011103",
-            "name": "Pestily plague mask"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Shroud half-mask",
-        "count": 1,
-        "items": [
-          {
-            "id": "5e54f76986f7740366043752",
-            "name": "Shroud half-mask"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Can of Dr. Lupo's coffee beans",
-        "count": 1,
-        "items": [
-          {
-            "id": "5e54f6af86f7742199090bf3",
-            "name": "Can of Dr. Lupo's coffee beans"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: 42 Signature Blend English Tea",
-        "count": 1,
-        "items": [
-          {
-            "id": "5bc9be8fd4351e00334cae6e",
-            "name": "42 Signature Blend English Tea"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Veritas guitar pick",
-        "count": 1,
-        "items": [
-          {
-            "id": "5f745ee30acaeb0d490d8c5b",
-            "name": "Veritas guitar pick"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Evasion armband",
-        "count": 1,
-        "items": [
-          {
-            "id": "60b0f988c4449e4cb624c1da",
-            "name": "Armband (Evasion)"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Can of RatCola soda",
-        "count": 1,
-        "items": [
-          {
-            "id": "60b0f93284c20f0feb453da7",
-            "name": "Can of RatCola soda"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Loot Lord plushie",
-        "count": 1,
-        "items": [
-          {
-            "id": "60b0f7057897d47c5b04ab94",
-            "name": "Loot Lord plushie"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Smoke balaclava",
-        "count": 1,
-        "items": [
-          {
-            "id": "5fd8d28367cb5e077335170f",
-            "name": "Smoke balaclava"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: WZ Wallet",
-        "count": 1,
-        "items": [
-          {
-            "id": "60b0f6c058e0b0481a09ad11",
-            "name": "WZ Wallet"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: LVNDMARK's rat poison",
-        "count": 1,
-        "items": [
-          {
-            "id": "60b0f561c4449e4cb624c1d7",
-            "name": "LVNDMARK's rat poison"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Missam forklift key",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09ec84f842e1bd12da3f2",
-            "name": "Missam forklift key"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Video cassette with the Cyborg Killer movie",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09e974f842e1bd12da3f0",
-            "name": "Video cassette with the Cyborg Killer movie"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: BakeEzy cook book",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09e73af34e73a266d932a",
-            "name": "BakeEzy cook book"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: JohnB Liquid DNB glasses",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09e410b9d3c46de5b6e78",
-            "name": "JohnB Liquid DNB glasses"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Baddie's red beard",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09dd4621468534a797ac7",
-            "name": "Baddie's red beard"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: DRD body armor",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09d79de7ac81993580530",
-            "name": "DRD body armor"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Gingy keychain",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09d3bcf4a99369e262447",
-            "name": "Gingy keychain"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Golden egg",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09cfe4f842e1bd12da3e4",
-            "name": "Golden egg"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Press pass (issued for NoiceGuy)",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09cb7a04c0c5c6e0a84f8",
-            "name": "Press pass (issued for NoiceGuy)"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Axel parrot figurine",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a091170b9d3c46de5b6cf2",
-            "name": "Axel parrot figurine"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: BEAR Buddy plush toy",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a08f4c4f842e1bd12d9d62",
-            "name": "BEAR Buddy plush toy"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Glorious E lightweight armored mask",
-        "count": 1,
-        "items": [
-          {
-            "id": "62a09e08de7ac81993580532",
-            "name": "Glorious E lightweight armored mask"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Inseq gas pipe wrench",
-        "count": 1,
-        "items": [
-          {
-            "id": "66b37f114410565a8f6789e2",
-            "name": "Inseq gas pipe wrench"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Viibiin sneaker",
-        "count": 1,
-        "items": [
-          {
-            "id": "66b37eb4acff495a29492407",
-            "name": "Viibiin sneaker"
-          }
-        ]
-      },
-      {
-        "description": "Hand over the found in raid item: Tamatthi kunai knife replica",
-        "count": 1,
-        "items": [
-          {
-            "id": "66b37ea4c5d72b0277488439",
-            "name": "Tamatthi kunai knife replica"
-          }
-        ]
-      }
-    ],
-    "finishRewards": {
-      "items": [
-        {
-          "count": 1,
-          "item": {
-            "name": "Secure container Kappa"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "name": "Armband (DEADSKUL)"
           }
         }
       ]
