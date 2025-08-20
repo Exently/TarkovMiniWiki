@@ -159,20 +159,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          }
-        ]
-      },
-      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "station": {
           "name": "Nutrition Unit"
@@ -188,6 +174,20 @@
             "count": 1,
             "item": {
               "name": "Silicone tube"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Bottle of water (0.6L)"
             }
           }
         ]
@@ -13793,7 +13793,7 @@
     "shortName": "0.2BTC",
     "normalizedName": "physical-bitcoin",
     "description": "A physical equivalent of the Bitcoin cryptocurrency (0.2 BTC value).",
-    "basePrice": 1503573,
+    "basePrice": 1506248,
     "avg24hPrice": null,
     "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Physical_Bitcoin",
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "5de021b30f6d581e965bcde7",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Molot Arms VPO-209 .366 TKM carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Leatherman Multitool"
-            }
-          }
-        ]
-      },
-      {
         "id": "615c3d800d3afc358a55405e",
         "station": {
           "name": "Workbench"
@@ -34226,6 +34206,26 @@
             "count": 1,
             "item": {
               "name": "Flat screwdriver"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5de021b30f6d581e965bcde7",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Molot Arms VPO-209 .366 TKM carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Leatherman Multitool"
             }
           }
         ]
@@ -60018,7 +60018,7 @@
     "id": "64cbe20d5aa0a53ad12f96c9",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
     "description": null,
     "basePrice": 177750,
     "avg24hPrice": null,
@@ -60036,7 +60036,7 @@
     "id": "64ccaa66ad8a0956023901b6",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
     "description": null,
     "basePrice": 176637,
     "avg24hPrice": null,
@@ -67313,26 +67313,6 @@
     "gridImageLink": "https://assets.tarkov.dev/665730fa4de4820934746c48-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67c9d54b017035dd060bff5e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked equipment crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
         "id": "6666d899eb78191c502350b2",
         "station": {
           "name": "Workbench"
@@ -67363,6 +67343,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "67c9d54b017035dd060bff5e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked equipment crate (Rare)"
+            }
+          }
+        ]
       }
     ]
   },
@@ -67382,6 +67382,26 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/665732e7ac60f009f270d1ef-grid-image.webp",
     "craftsFor": [
+      {
+        "id": "67c9d5035be7fc94c806dee9",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked weapon crate (Rare)"
+            }
+          }
+        ]
+      },
       {
         "id": "66575197464c4b4ba4671004",
         "station": {
@@ -67404,26 +67424,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked weapon crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67c9d5035be7fc94c806dee9",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
@@ -67523,26 +67523,6 @@
     "gridImageLink": "https://assets.tarkov.dev/66573310a1657263d816a139-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67c9d447b53b0fcf1d0bb0ab",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked valuables crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
         "id": "6666d7ea0b734650a91d0a42",
         "station": {
           "name": "Workbench"
@@ -67564,6 +67544,26 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67c9d447b53b0fcf1d0bb0ab",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
             }
           },
           {
@@ -76532,6 +76532,23 @@
     "craftsFor": []
   },
   {
+    "id": "68406efe068a2d99940c1ce3",
+    "name": "Disk drive 1",
+    "shortName": "Disk 1",
+    "normalizedName": "disk-drive-1",
+    "description": "A solid state drive. Used to store data with enhanced read and write performance.",
+    "basePrice": 0,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/68406efe068a2d99940c1ce3-icon.webp",
+    "types": [
+      "noFlea"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/68406efe068a2d99940c1ce3-grid-image.webp",
+    "craftsFor": []
+  },
+  {
     "id": "68418091b5b0c9e4c60f0e7a",
     "name": "Dogtag USEC",
     "shortName": "USEC",
@@ -76707,6 +76724,156 @@
       "noFlea"
     ],
     "gridImageLink": "https://assets.tarkov.dev/6841b6b674a3c16f5e03d653-grid-image.webp",
+    "craftsFor": []
+  },
+  {
+    "id": "686665484c6f39163e076c3d",
+    "name": "Map piece",
+    "shortName": "Map",
+    "normalizedName": "map-piece",
+    "description": "A piece of a map found on a Scav. Will it lead to trouble or great riches? Time will tell.",
+    "basePrice": 0,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/686665484c6f39163e076c3d-icon.webp",
+    "types": [
+      "noFlea"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/686665484c6f39163e076c3d-grid-image.webp",
+    "craftsFor": []
+  },
+  {
+    "id": "6866665cdf54e1190902df55",
+    "name": "Programmer's diary (Copy)",
+    "shortName": "Copy",
+    "normalizedName": "programmers-diary-copy",
+    "description": "A perfect duplicate of the programmer's diary. How Mechanic achieved such resemblance and why is a mystery.\n\nThe first page has a table of contents:\n• Update\n• Notes \n• Highlights\n• Encrypt\n• Agenda \n• Ruminates\n• Drafts",
+    "basePrice": 10000,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/6866665cdf54e1190902df55-icon.webp",
+    "types": [
+      "noFlea"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/6866665cdf54e1190902df55-grid-image.webp",
+    "craftsFor": []
+  },
+  {
+    "id": "686666db646d47fec3018925",
+    "name": "Disk with unknown data",
+    "shortName": "Disk",
+    "normalizedName": "disk-with-unknown-data",
+    "description": "The most ordinary-looking disk. The only thing that catches your eye is the “Ⅰ” written on top. If this is a first disk, then there must be a second one somewhere?",
+    "basePrice": 0,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/686666db646d47fec3018925-icon.webp",
+    "types": [
+      "barter",
+      "noFlea"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/686666db646d47fec3018925-grid-image.webp",
+    "craftsFor": []
+  },
+  {
+    "id": "68666887df54e1190902df57",
+    "name": "Decrypted intelligence folder",
+    "shortName": "Decryption",
+    "normalizedName": "decrypted-intelligence-folder",
+    "description": "A folder with decrypted data from the military flash drives. Someone out there would give millions for one of these.",
+    "basePrice": 0,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/68666887df54e1190902df57-icon.webp",
+    "types": [
+      "noFlea"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/68666887df54e1190902df57-grid-image.webp",
+    "craftsFor": [
+      {
+        "id": "686c17583cf79421d70b007e",
+        "station": {
+          "name": "Intelligence Center"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Thumb drive with military data"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "68750378555049ec270cdab7",
+    "name": "Disk with release version",
+    "shortName": "Release",
+    "normalizedName": "disk-with-release-version",
+    "description": "A simple disk with a handwritten note that this is the second version, the final one. Finally you can go through the whole game all the way to the end. Gotta write a review later!",
+    "basePrice": 0,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/68750378555049ec270cdab7-icon.webp",
+    "types": [
+      "noFlea"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/68750378555049ec270cdab7-grid-image.webp",
+    "craftsFor": []
+  },
+  {
+    "id": "6889e4cd3ff7e9cfbc0c507c",
+    "name": "Thumb drive with military data",
+    "shortName": "Data",
+    "normalizedName": "thumb-drive-with-military-data",
+    "description": "An unassuming thumb drive. Contains classified military data which was not taken out of the city in time. It's best to gather as many of these as you can. Just in case.",
+    "basePrice": 10000,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/6889e4cd3ff7e9cfbc0c507c-icon.webp",
+    "types": [],
+    "gridImageLink": "https://assets.tarkov.dev/6889e4cd3ff7e9cfbc0c507c-grid-image.webp",
+    "craftsFor": []
+  },
+  {
+    "id": "689b5f0f986634d56b0e099f",
+    "name": "Targrad poster",
+    "shortName": "Targrad",
+    "normalizedName": "targrad-poster",
+    "description": "A poster that someone left right outside the door of your hideout. A limited edition item. It'll remind you of all the time you spent in front of your monitor.",
+    "basePrice": 0,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/689b5f0f986634d56b0e099f-icon.webp",
+    "types": [
+      "noFlea"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/689b5f0f986634d56b0e099f-grid-image.webp",
+    "craftsFor": []
+  },
+  {
+    "id": "689f6f33b3b8c90a1c0545b8",
+    "name": "Scratched disk",
+    "shortName": "Disk",
+    "normalizedName": "scratched-disk",
+    "description": "A scratched disk. The smudges make it impossible to tell what was actually written on it. Will it even start up?",
+    "basePrice": 0,
+    "avg24hPrice": null,
+    "lastLowPrice": null,
+    "wikiLink": "",
+    "iconLink": "https://assets.tarkov.dev/689f6f33b3b8c90a1c0545b8-icon.webp",
+    "types": [
+      "noFlea"
+    ],
+    "gridImageLink": "https://assets.tarkov.dev/689f6f33b3b8c90a1c0545b8-grid-image.webp",
     "craftsFor": []
   },
   {
