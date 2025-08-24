@@ -3876,6 +3876,140 @@
     }
   },
   {
+    "id": "686530ba9ed06113720e2c37",
+    "name": "External Interest",
+    "normalizedName": "external-interest",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/External_Interest",
+    "taskImageLink": "https://assets.tarkov.dev/686530ba9ed06113720e2c37.webp",
+    "map": null,
+    "experience": 3500,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Fence",
+      "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
+      "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "686524fe9809a149400dd301",
+          "name": "Progression Difficulties - Part 2"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "description": "Hand over the copy of the programmer's diary",
+        "count": 1,
+        "items": [
+          {
+            "id": "6866665cdf54e1190902df55",
+            "name": "Programmer's diary (Copy)"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 14300,
+          "item": {
+            "name": "Roubles"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "Bottle of Fierce Hatchling moonshine"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "686531bc87eb213a8e078e99",
+    "name": "Last Spurt - Pioneer",
+    "normalizedName": "last-spurt-pioneer",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Last_Spurt_-_Pioneer",
+    "taskImageLink": "https://assets.tarkov.dev/686531bc87eb213a8e078e99.webp",
+    "map": null,
+    "experience": 12300,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Mechanic",
+      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
+      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "68973efb9e616ec3130d2c69",
+          "name": "Game Review - Part 2"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "description": "Hand over the beta version game disk",
+        "count": 1,
+        "items": [
+          {
+            "id": "68406efe068a2d99940c1ce3",
+            "name": "Disk drive 1"
+          }
+        ]
+      },
+      {
+        "description": "Locate and obtain the second game disk on Reserve"
+      },
+      {
+        "description": "Hand over the found item"
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 142300,
+          "item": {
+            "name": "Roubles"
+          }
+        },
+        {
+          "count": 2,
+          "item": {
+            "name": "FN SCAR-H 7.62x51 20-round magazine (FDE)"
+          }
+        },
+        {
+          "count": 3,
+          "item": {
+            "name": "7.62x51mm M80 ammo pack (20 pcs)"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "name": "FN SCAR-H 7.62x51 assault rifle (FDE) Default"
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "6894bc838bbdab4ab109929c",
     "name": "Friend from Norvinsk - Alternative Solution",
     "normalizedName": "friend-from-norvinsk-alternative-solution",
@@ -3961,6 +4095,102 @@
       "items": [
         {
           "count": 2300,
+          "item": {
+            "name": "Roubles"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "68973efb9e616ec3130d2c69",
+    "name": "Game Review - Part 2",
+    "normalizedName": "game-review-part-2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Game_Review_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/68973efb9e616ec3130d2c69.webp",
+    "map": null,
+    "experience": 1500,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "objectives": [],
+    "trader": {
+      "name": "Mechanic",
+      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
+      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "686524fe9809a149400dd301",
+          "name": "Progression Difficulties - Part 2"
+        }
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "name": "Disk drive 1"
+          }
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "count": 2500,
+          "item": {
+            "name": "Roubles"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "6897401030d0c0235c051b2c",
+    "name": "Game Review - Part 3",
+    "normalizedName": "game-review-part-3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Game_Review_-_Part_3",
+    "taskImageLink": "https://assets.tarkov.dev/6897401030d0c0235c051b2c.webp",
+    "map": null,
+    "experience": 5000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "objectives": [],
+    "trader": {
+      "name": "Mechanic",
+      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
+      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "taskRequirements": [
+      {
+        "status": [
+          "complete"
+        ],
+        "task": {
+          "id": "686531bc87eb213a8e078e99",
+          "name": "Last Spurt - Pioneer"
+        }
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "name": "Disk with release version"
+          }
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "count": 10000,
           "item": {
             "name": "Roubles"
           }
