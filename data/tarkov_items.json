@@ -159,20 +159,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          }
-        ]
-      },
-      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "station": {
           "name": "Nutrition Unit"
@@ -188,6 +174,20 @@
             "count": 1,
             "item": {
               "name": "Silicone tube"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Bottle of water (0.6L)"
             }
           }
         ]
@@ -13793,7 +13793,7 @@
     "shortName": "0.2BTC",
     "normalizedName": "physical-bitcoin",
     "description": "A physical equivalent of the Bitcoin cryptocurrency (0.2 BTC value).",
-    "basePrice": 1496691,
+    "basePrice": 1473252,
     "avg24hPrice": null,
     "lastLowPrice": null,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Physical_Bitcoin",
@@ -27624,26 +27624,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5c0fa877d174af02a012e1cf-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ec521d41954d4f09a9c8",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 5,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Aquapeps water purification tablets"
-            }
-          }
-        ]
-      },
-      {
         "id": "61c77c830f3639492721e99c",
         "station": {
           "name": "Nutrition Unit"
@@ -27671,6 +27651,26 @@
             "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67f4ec521d41954d4f09a9c8",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 5,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Aquapeps water purification tablets"
             }
           }
         ]
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "5de021b30f6d581e965bcde7",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Molot Arms VPO-209 .366 TKM carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Leatherman Multitool"
-            }
-          }
-        ]
-      },
-      {
         "id": "615c3d800d3afc358a55405e",
         "station": {
           "name": "Workbench"
@@ -34226,6 +34206,26 @@
             "count": 1,
             "item": {
               "name": "Flat screwdriver"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5de021b30f6d581e965bcde7",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Molot Arms VPO-209 .366 TKM carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Leatherman Multitool"
             }
           }
         ]
@@ -44236,26 +44236,6 @@
     "gridImageLink": "https://assets.tarkov.dev/60098b1705871270cd5352a1-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ec82690e0a541a021d3d",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Pack of Grand juice"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Silicone tube"
-            }
-          }
-        ]
-      },
-      {
         "id": "61c77cc6fcc1673f08540e9b",
         "station": {
           "name": "Nutrition Unit"
@@ -44271,6 +44251,26 @@
             "count": 1,
             "item": {
               "name": "KEKTAPE duct tape"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Silicone tube"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67f4ec82690e0a541a021d3d",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Pack of Grand juice"
             }
           },
           {
@@ -67296,6 +67296,26 @@
     "gridImageLink": "https://assets.tarkov.dev/665730fa4de4820934746c48-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d54b017035dd060bff5e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked equipment crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
         "id": "6666d899eb78191c502350b2",
         "station": {
           "name": "Workbench"
@@ -67317,26 +67337,6 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked equipment crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67c9d54b017035dd060bff5e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
             }
           },
           {
