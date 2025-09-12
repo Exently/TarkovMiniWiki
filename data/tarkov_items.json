@@ -6,8 +6,8 @@
     "normalizedName": "colt-m4a1-556x45-assault-rifle",
     "description": "The Colt M4A1 carbine is a fully automatic variant of the basic M4 Carbine and was primarily designed for special operations use.\nHowever, U.S. Special Operations Command (USSOCOM) was soon to adopt the M4A1 for almost all special operations units, followed later by general introduction of the M4A1 into service with the U.S. Army and Marine Corps.",
     "basePrice": 18397,
-    "avg24hPrice": 361972,
-    "lastLowPrice": 244666,
+    "avg24hPrice": 325714,
+    "lastLowPrice": 150000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Colt_M4A1_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/5447a9cd4bdc2dbd208b4567-icon.webp",
     "types": [
@@ -41,8 +41,8 @@
     "normalizedName": "factory-emergency-exit-key",
     "description": "A somewhat fragile factory emergency exit door key.",
     "basePrice": 51111,
-    "avg24hPrice": 230284,
-    "lastLowPrice": 160000,
+    "avg24hPrice": 226012,
+    "lastLowPrice": 169999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Factory_emergency_exit_key",
     "iconLink": "https://assets.tarkov.dev/5448ba0b4bdc2d02308b456c-icon.webp",
     "types": [
@@ -76,8 +76,8 @@
     "normalizedName": "rgd-5-hand-grenade",
     "description": "RGD-5 (GAU index - 57-G-717) is an antipersonnel fragmentation time-delayed offensive hand grenade. The grenade's UZRGM fuze insures a time delay of 3.2 - 4.2 seconds. Due to the offensive type of the grenade, its fragments are relatively light and have a smaller dispersion radius.",
     "basePrice": 7230,
-    "avg24hPrice": 44444,
-    "lastLowPrice": 44444,
+    "avg24hPrice": 41200,
+    "lastLowPrice": 35999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RGD-5_hand_grenade",
     "iconLink": "https://assets.tarkov.dev/5448be9a4bdc2dfd2f8b456a-icon.webp",
     "types": [
@@ -159,20 +159,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          }
-        ]
-      },
-      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "station": {
           "name": "Nutrition Unit"
@@ -188,6 +174,20 @@
             "count": 1,
             "item": {
               "name": "Silicone tube"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Bottle of water (0.6L)"
             }
           }
         ]
@@ -356,8 +356,8 @@
     "normalizedName": "leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope",
     "description": "The Hybrid Leupold-produced scope comprises of the Mark 4 HAMR 4x24mm optical sight with the DeltaPoint reflex sight installed on top of it. It was developed for precision mid-range carbine fire using the 4x optics while being equally effective in close quarters thanks to use of compact reflex sight when necessary.",
     "basePrice": 42902,
-    "avg24hPrice": 200000,
-    "lastLowPrice": 200000,
+    "avg24hPrice": 53889,
+    "lastLowPrice": 49999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Leupold_Mark_4_HAMR_4x24_DeltaPoint_hybrid_assault_scope",
     "iconLink": "https://assets.tarkov.dev/544a3a774bdc2d3a388b4567-icon.webp",
     "types": [
@@ -479,8 +479,8 @@
     "normalizedName": "morphine-injector",
     "description": "A single-use syringe full of morphine. A powerful drug, used primarily to treat both acute and chronic severe pain.",
     "basePrice": 25305,
-    "avg24hPrice": 52575,
-    "lastLowPrice": 39998,
+    "avg24hPrice": 46332,
+    "lastLowPrice": 35000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Morphine_injector",
     "iconLink": "https://assets.tarkov.dev/544fb3f34bdc2d03748b456a-icon.webp",
     "types": [
@@ -782,8 +782,8 @@
     "normalizedName": "sv-98-762x54r-bolt-action-sniper-rifle",
     "description": "The SV-98 is a Russian sniper rifle developed in 1998-2000 by a group of weapon engineers led by V. Stronskiy and serially produced by IzhMash group. It is a magazine-fed bolt-action rifle, designed to engage the military personnel at the distances of up to 1000m.",
     "basePrice": 24989,
-    "avg24hPrice": 80420,
-    "lastLowPrice": 80420,
+    "avg24hPrice": 90370,
+    "lastLowPrice": 80000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SV-98_7.62x54R_bolt-action_sniper_rifle",
     "iconLink": "https://assets.tarkov.dev/55801eed4bdc2d89578b4588-icon.webp",
     "types": [
@@ -3227,8 +3227,8 @@
     "normalizedName": "ar-15-noveske-kx3-556x45-flash-hider",
     "description": "The Noveske KX3 Flash hider, aka the Burning Pig, is designed to increase reliability in short-barreled members of AR-15 family by increasing backpressure and directing the muzzle blast forward of the shooter. Although originally designed for short-barreled AR-15s, it will work on any barrel length and have since been introduced for a variety of mounts. This particular KX3 may be used on 5.56mm barrels with 1/2x28 threading.",
     "basePrice": 7237,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 49500,
+    "lastLowPrice": 49500,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Noveske_KX3_5.56x45_flash_hider",
     "iconLink": "https://assets.tarkov.dev/56ea6fafd2720b844b8b4593-icon.webp",
     "types": [
@@ -3431,8 +3431,8 @@
     "normalizedName": "f-1-hand-grenade",
     "description": "The F-1 hand grenade (GRAU Index 57-G-721) is an anti-personnel fragmentation defensive grenade, designed for neutralizing enemy personnel in defensive combat. Due to a significantly effective fragmentation radius, it should only be thrown from behind hard cover, such as a concrete wall, APC, or tank.",
     "basePrice": 5600,
-    "avg24hPrice": 49573,
-    "lastLowPrice": 28888,
+    "avg24hPrice": 20000,
+    "lastLowPrice": 20000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/F-1_hand_grenade",
     "iconLink": "https://assets.tarkov.dev/5710c24ad2720bc3458b45a3-icon.webp",
     "types": [
@@ -3747,8 +3747,8 @@
     "normalizedName": "golden-neck-chain",
     "description": "A golden neck chain is bound to be a rather profitable piece of jewelry to find.",
     "basePrice": 38177,
-    "avg24hPrice": 110770,
-    "lastLowPrice": 60000,
+    "avg24hPrice": 129789,
+    "lastLowPrice": 99998,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Golden_neck_chain",
     "iconLink": "https://assets.tarkov.dev/5734758f24597738025ee253-icon.webp",
     "types": [
@@ -3798,8 +3798,8 @@
     "normalizedName": "wilston-cigarettes",
     "description": "The image of a typical street punk would not be complete without Wilston cigarettes.",
     "basePrice": 7984,
-    "avg24hPrice": 61259,
-    "lastLowPrice": 25000,
+    "avg24hPrice": 40355,
+    "lastLowPrice": 15000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wilston_cigarettes",
     "iconLink": "https://assets.tarkov.dev/573476f124597737e04bf328-icon.webp",
     "types": [
@@ -3942,8 +3942,8 @@
     "normalizedName": "horse-figurine",
     "description": "A horrendously kitsch horse figurine is useless in Tarkov - just as anywhere else - but somewhere out there, there are dealers still willing to buy such things. Something is not right about this.",
     "basePrice": 11448,
-    "avg24hPrice": 59588,
-    "lastLowPrice": 39998,
+    "avg24hPrice": 67500,
+    "lastLowPrice": 65000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Horse_figurine",
     "iconLink": "https://assets.tarkov.dev/573478bc24597738002c6175-icon.webp",
     "types": [
@@ -3976,8 +3976,8 @@
     "normalizedName": "classic-matches",
     "description": "A matchbox full of safety matches. Lighters are more reliable and easier to use, but that's exactly why everybody tries to keep them hidden when asked for a light.",
     "basePrice": 2020,
-    "avg24hPrice": 32901,
-    "lastLowPrice": 15000,
+    "avg24hPrice": 44444,
+    "lastLowPrice": 44444,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Classic_matches",
     "iconLink": "https://assets.tarkov.dev/57347b8b24597737dd42e192-icon.webp",
     "types": [
@@ -4027,8 +4027,8 @@
     "normalizedName": "power-supply-unit",
     "description": "A PC power supply unit can be easily converted from powering PCs to a universal charger for all kinds of low-voltage rechargeable batteries and devices.",
     "basePrice": 7936,
-    "avg24hPrice": 327489,
-    "lastLowPrice": 222222,
+    "avg24hPrice": 362412,
+    "lastLowPrice": 208500,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Power_supply_unit",
     "iconLink": "https://assets.tarkov.dev/57347c2e24597744902c94a1-icon.webp",
     "types": [
@@ -4157,8 +4157,8 @@
     "normalizedName": "t-shaped-plug",
     "description": "A T-shaped splitter adapter for the wall power outlet.",
     "basePrice": 2481,
-    "avg24hPrice": 66794,
-    "lastLowPrice": 49999,
+    "avg24hPrice": 50469,
+    "lastLowPrice": 32555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/T-Shaped_plug",
     "iconLink": "https://assets.tarkov.dev/57347cd0245977445a2d6ff1-icon.webp",
     "types": [
@@ -5475,8 +5475,8 @@
     "normalizedName": "okp-7-reflex-sight-dovetail",
     "description": "The original design of OKP sights allows firing from unstable positions in rapidly changing conditions, reduces the operator fatigue, and, if necessary, allows unhindered use of base mechanical sights. The key feature of this sight is a rimless reflector attachment that doesn't block any field of fire sections; instead, reflector is protected by thin and durable visor that is almost un-noticeable when firing. This variant is installed on the dovetail type mount.",
     "basePrice": 15155,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 30000,
+    "lastLowPrice": 30000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/OKP-7_reflex_sight_(Dovetail)",
     "iconLink": "https://assets.tarkov.dev/57486e672459770abd687134-icon.webp",
     "types": [
@@ -6236,8 +6236,8 @@
     "normalizedName": "dorm-room-314-marked-key",
     "description": "A dormitory room 314 key with strange symbols scratched onto it where the room label would normally be. The key has completely rusted through, making it very fragile.",
     "basePrice": 1500000,
-    "avg24hPrice": 13867164,
-    "lastLowPrice": 13575000,
+    "avg24hPrice": 13168023,
+    "lastLowPrice": 12222222,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Dorm_room_314_marked_key",
     "iconLink": "https://assets.tarkov.dev/5780cf7f2459777de4559322-icon.webp",
     "types": [
@@ -6565,8 +6565,8 @@
     "normalizedName": "vssval-zenit-b-3-ring-mount",
     "description": "The B-3 mounts are installed on the VSS/VAL suppressor to form a Picatinny rail for the installation of additional weapon equipment. Manufactured by Zenit.",
     "basePrice": 2752,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 145000,
+    "lastLowPrice": 145000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSS/VAL_Zenit_B-3_ring_mount",
     "iconLink": "https://assets.tarkov.dev/57a3459f245977764a01f703-icon.webp",
     "types": [
@@ -7000,8 +7000,8 @@
     "normalizedName": "magpul-m-lok-afg-tactical-foregrip-black",
     "description": "The Magpul M-LOK AFG tactical grip. It can only be installed on Magpul licensed M-LOK slots on applicable equipment. Black version.",
     "basePrice": 7043,
-    "avg24hPrice": 97592,
-    "lastLowPrice": 85000,
+    "avg24hPrice": 67750,
+    "lastLowPrice": 41000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magpul_M-LOK_AFG_tactical_foregrip",
     "iconLink": "https://assets.tarkov.dev/57cffb66245977632f391a99-icon.webp",
     "types": [
@@ -7085,7 +7085,7 @@
     "normalizedName": "ak-magpul-moe-akm-handguard-olive-drab",
     "description": "The Magpul MOE AKM hand guard is installed on AKM/AK-74 compatible weapon systems. It comes equipped with licensed M-LOK mounts for the installation of additional devices or rails. Olive Drab version.",
     "basePrice": 13666,
-    "avg24hPrice": 42777,
+    "avg24hPrice": 35555,
     "lastLowPrice": 35555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_Magpul_MOE_AKM_handguard",
     "iconLink": "https://assets.tarkov.dev/57cffddc24597763133760c6-icon.webp",
@@ -7379,8 +7379,8 @@
     "normalizedName": "bars-a-2607-95kh18-knife",
     "description": "The Bars A-2607 knife, forged of 95Kh18 steel with a fine wood handle and brass guard.",
     "basePrice": 5112,
-    "avg24hPrice": 29999,
-    "lastLowPrice": 29999,
+    "avg24hPrice": 55555,
+    "lastLowPrice": 55555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bars_A-2607_95Kh18_knife",
     "iconLink": "https://assets.tarkov.dev/57e26fc7245977162a14b800-icon.webp",
     "types": [
@@ -8058,8 +8058,8 @@
     "normalizedName": "sv-98-762x54r-bolt-action-sniper-rifle-default",
     "description": null,
     "basePrice": 41776,
-    "avg24hPrice": 80420,
-    "lastLowPrice": 80420,
+    "avg24hPrice": 90370,
+    "lastLowPrice": 80000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SV-98_7.62x54R_bolt-action_sniper_rifle",
     "iconLink": "https://assets.tarkov.dev/58414a16245977599247970a-icon.webp",
     "types": [
@@ -8127,8 +8127,8 @@
     "normalizedName": "eotech-xps3-2-holographic-sight",
     "description": "XPS3 is more compact than the other holographic sights, but just as effective; moreover, such approach leaves more mounting space for additional equipment. Both hunters and armed forces operatives value it for small size and weight, which are particularly noticeable over long missions. The model 3-2 features a two-dot reticle of 1 MOA.",
     "basePrice": 23019,
-    "avg24hPrice": 49600,
-    "lastLowPrice": 49600,
+    "avg24hPrice": 78611,
+    "lastLowPrice": 58889,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/EOTech_XPS3-2_holographic_sight",
     "iconLink": "https://assets.tarkov.dev/584924ec24597768f12ae244-icon.webp",
     "types": [
@@ -8581,8 +8581,8 @@
     "normalizedName": "dvl-10-762x51-500mm-suppressed-barrel",
     "description": "A 500 mm long 7.62x51 match-grade stainless steel barrel with an integral sound suppressor manufactured by LOBAEV Hummer Barrels for the DVL-10 sniper rifle.",
     "basePrice": 34672,
-    "avg24hPrice": 115556,
-    "lastLowPrice": 111111,
+    "avg24hPrice": 121142,
+    "lastLowPrice": 90000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DVL-10_7.62x51_500mm_suppressed_barrel",
     "iconLink": "https://assets.tarkov.dev/5888945a2459774bf43ba385-icon.webp",
     "types": [
@@ -9008,8 +9008,8 @@
     "normalizedName": "mpx-sd-9x19-integrated-sound-suppressor",
     "description": "An integrated sound suppressor manufactured by SIG Sauer for the special \"silent\" version of the MPX, designated as MPX-SD.",
     "basePrice": 21503,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 53333,
+    "lastLowPrice": 48888,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MPX-SD_9x19_integrated_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/58aeac1b86f77457c419f475-icon.webp",
     "types": [
@@ -9603,8 +9603,8 @@
     "normalizedName": "ultraviolet-lamp",
     "description": "A UV lamp for household use is a type of light bulb which source of light is invisible to the human eye, located on the border of the purple spectrum and x-ray radiation. UV radiation has beneficial effects on all the systems of human and animal bodies, contributing to the development of a strong defensive system against viral and infectious diseases, such as seasonal colds.",
     "basePrice": 15554,
-    "avg24hPrice": 63370,
-    "lastLowPrice": 55555,
+    "avg24hPrice": 93611,
+    "lastLowPrice": 46287,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ultraviolet_lamp",
     "iconLink": "https://assets.tarkov.dev/590a3d9c86f774385926e510-icon.webp",
     "types": [
@@ -9620,8 +9620,8 @@
     "normalizedName": "gas-analyzer",
     "description": "A measuring device for determining the qualitative and quantitative composition of gas mixtures. It has a very wide range of applications - in environmental protection, internal combustion engines management systems, and medicine.",
     "basePrice": 21697,
-    "avg24hPrice": 41333,
-    "lastLowPrice": 34000,
+    "avg24hPrice": 62500,
+    "lastLowPrice": 50000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_analyzer",
     "iconLink": "https://assets.tarkov.dev/590a3efd86f77437d351a25b-icon.webp",
     "types": [
@@ -9710,8 +9710,8 @@
     "normalizedName": "screwdriver",
     "description": "A manual bench work tool designed for screwing and unscrewing threaded fasteners, most commonly screws that have spline on their heads. Usually it’s a metal rod with a tip and grip (plastic or wood).",
     "basePrice": 3500,
-    "avg24hPrice": 49389,
-    "lastLowPrice": 35555,
+    "avg24hPrice": 49996,
+    "lastLowPrice": 38888,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screwdriver",
     "iconLink": "https://assets.tarkov.dev/590c2d8786f774245b1f03f3-icon.webp",
     "types": [
@@ -9857,8 +9857,8 @@
     "normalizedName": "sas-drive",
     "description": "A reinforced case with an SAS hard drive. Used for data storage in military industry.",
     "basePrice": 92000,
-    "avg24hPrice": 110983,
-    "lastLowPrice": 91000,
+    "avg24hPrice": 150444,
+    "lastLowPrice": 90000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SAS_drive",
     "iconLink": "https://assets.tarkov.dev/590c37d286f77443be3d7827-icon.webp",
     "types": [
@@ -10055,8 +10055,8 @@
     "normalizedName": "iskra-ration-pack",
     "description": "The compact package of a field ration includes everything you need for a comfortable nutrition of an adult person in the most difficult conditions.",
     "basePrice": 19358,
-    "avg24hPrice": 42998,
-    "lastLowPrice": 37000,
+    "avg24hPrice": 47056,
+    "lastLowPrice": 43000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Iskra_ration_pack",
     "iconLink": "https://assets.tarkov.dev/590c5d4b86f774784e1b9c45-icon.webp",
     "types": [
@@ -10134,8 +10134,8 @@
     "normalizedName": "secure-flash-drive",
     "description": "A secure flash drive. Such USB sticks are frequently used by TerraGroup employees. They can definitely contain sensitive data.",
     "basePrice": 40152,
-    "avg24hPrice": 52259,
-    "lastLowPrice": 39999,
+    "avg24hPrice": 50669,
+    "lastLowPrice": 26700,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive",
     "iconLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-icon.webp",
     "types": [
@@ -10389,8 +10389,8 @@
     "normalizedName": "antique-vase",
     "description": "A porcelain vase from a private collection. In theory, can serve as a beer pitcher.",
     "basePrice": 67800,
-    "avg24hPrice": 94919,
-    "lastLowPrice": 50000,
+    "avg24hPrice": 102877,
+    "lastLowPrice": 93000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Antique_vase",
     "iconLink": "https://assets.tarkov.dev/590de7e986f7741b096e5f32-icon.webp",
     "types": [
@@ -10406,8 +10406,8 @@
     "normalizedName": "body-armor-repair-kit",
     "description": "A bag with everything you need to repair body armor - from the lightest to the heaviest.",
     "basePrice": 600000,
-    "avg24hPrice": 1475000,
-    "lastLowPrice": 1000000,
+    "avg24hPrice": 1383333,
+    "lastLowPrice": 800000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Body_armor_repair_kit",
     "iconLink": "https://assets.tarkov.dev/591094e086f7747caa7bb2ef-icon.webp",
     "types": [],
@@ -10421,8 +10421,8 @@
     "normalizedName": "weapon-repair-kit",
     "description": "A set of tools and devices necessary to maintain firearms in operational condition.",
     "basePrice": 100000,
-    "avg24hPrice": 283290,
-    "lastLowPrice": 170000,
+    "avg24hPrice": 209436,
+    "lastLowPrice": 150000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Weapon_repair_kit",
     "iconLink": "https://assets.tarkov.dev/5910968f86f77425cf569c32-icon.webp",
     "types": [],
@@ -10651,8 +10651,8 @@
     "normalizedName": "dorm-room-204-key",
     "description": "A key to the three-story dormitory with a tag reading \"204\" on it.",
     "basePrice": 19717,
-    "avg24hPrice": 200000,
-    "lastLowPrice": 200000,
+    "avg24hPrice": 162222,
+    "lastLowPrice": 120000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Dorm_room_204_key",
     "iconLink": "https://assets.tarkov.dev/59148c8a86f774197930e983-icon.webp",
     "types": [
@@ -10821,8 +10821,8 @@
     "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst",
     "description": "HK MP5 submachinegun with Navy 3 Round Burst firing mechanism version, which features three-round cutoff. Widely acclaimed model of a submachinegun, primarily known as weapon of GSG9 and similar forces of the world, and famous through frequent appearance in movies and video games.",
     "basePrice": 12132,
-    "avg24hPrice": 233332,
-    "lastLowPrice": 199999,
+    "avg24hPrice": 204733,
+    "lastLowPrice": 194200,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst)",
     "iconLink": "https://assets.tarkov.dev/5926bb2186f7744b1c6c6e60-icon.webp",
     "types": [
@@ -10924,8 +10924,8 @@
     "normalizedName": "hk-mp5sd-9x19-sound-suppressor",
     "description": "A standard MP5SD sound suppressor manufactured by Heckler & Koch.",
     "basePrice": 26709,
-    "avg24hPrice": 79259,
-    "lastLowPrice": 70000,
+    "avg24hPrice": 63611,
+    "lastLowPrice": 49999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP5SD_9x19_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/5926d33d86f77410de68ebc0-icon.webp",
     "types": [
@@ -11098,8 +11098,8 @@
     "normalizedName": "portable-bunkhouse-key",
     "description": "A key to one of the portable cabins that was being used as a bunkhouse, located somewhere in the Customs construction area.",
     "basePrice": 3357,
-    "avg24hPrice": 270000,
-    "lastLowPrice": 210000,
+    "avg24hPrice": 149028,
+    "lastLowPrice": 77777,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Portable_bunkhouse_key",
     "iconLink": "https://assets.tarkov.dev/5938144586f77473c2087145-icon.webp",
     "types": [
@@ -11218,8 +11218,8 @@
     "normalizedName": "dorm-room-303-key",
     "description": "A key to the three-story dormitory with a tag reading \"303\" on it.",
     "basePrice": 7427,
-    "avg24hPrice": 110024,
-    "lastLowPrice": 39999,
+    "avg24hPrice": 184233,
+    "lastLowPrice": 120420,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Dorm_room_303_key",
     "iconLink": "https://assets.tarkov.dev/593aa4be86f77457f56379f8-icon.webp",
     "types": [
@@ -11252,8 +11252,8 @@
     "normalizedName": "akm-hexagon-762x39-sound-suppressor",
     "description": "A sound moderator for AKM 7.62x39 automatic rifles, manufactured by Hexagon.",
     "basePrice": 42714,
-    "avg24hPrice": 72944,
-    "lastLowPrice": 55555,
+    "avg24hPrice": 52569,
+    "lastLowPrice": 38000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKM_Hexagon_7.62x39_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/593d489686f7745c6255d58a-icon.webp",
     "types": [
@@ -11288,8 +11288,8 @@
     "normalizedName": "ak-74-hexagon-545x39-sound-suppressor",
     "description": "A sound moderator for AK-74 automatic rifles, manufactured by Hexagon.",
     "basePrice": 39372,
-    "avg24hPrice": 74960,
-    "lastLowPrice": 65500,
+    "avg24hPrice": 100540,
+    "lastLowPrice": 68888,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_Hexagon_5.45x39_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/593d493f86f7745e6b2ceb22-icon.webp",
     "types": [
@@ -11306,8 +11306,8 @@
     "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst-default",
     "description": null,
     "basePrice": 41548,
-    "avg24hPrice": 233332,
-    "lastLowPrice": 199999,
+    "avg24hPrice": 204733,
+    "lastLowPrice": 194200,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst)",
     "iconLink": "https://assets.tarkov.dev/59411aa786f7747aeb37f9a5-icon.webp",
     "types": [
@@ -12097,8 +12097,8 @@
     "normalizedName": "ar-15-naroh-arms-gral-s-pistol-grip",
     "description": "The GRAL-S polymer pistol grip by Naroh Arms can be installed on any weapon that is compatible with the AR-15 pistol grips.",
     "basePrice": 18012,
-    "avg24hPrice": 83111,
-    "lastLowPrice": 69999,
+    "avg24hPrice": 94169,
+    "lastLowPrice": 78787,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Naroh_Arms_GRAL-S_pistol_grip",
     "iconLink": "https://assets.tarkov.dev/59db3a1d86f77429e05b4e92-icon.webp",
     "types": [
@@ -12447,8 +12447,8 @@
     "normalizedName": "paid-antiroach-spray",
     "description": "Tactical combat spray for annihilating cockroaches and ants. An indispensable thing for Hideout maintenance.",
     "basePrice": 5892,
-    "avg24hPrice": 40567,
-    "lastLowPrice": 30000,
+    "avg24hPrice": 38786,
+    "lastLowPrice": 36950,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PAID_AntiRoach_spray",
     "iconLink": "https://assets.tarkov.dev/59e3596386f774176c10a2a2-icon.webp",
     "types": [
@@ -12525,8 +12525,8 @@
     "normalizedName": "electric-drill",
     "description": "A cordless electric drill. Used in construction, furniture installation, and repair.",
     "basePrice": 32943,
-    "avg24hPrice": 233412,
-    "lastLowPrice": 218888,
+    "avg24hPrice": 328636,
+    "lastLowPrice": 290000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Electric_drill",
     "iconLink": "https://assets.tarkov.dev/59e35de086f7741778269d84-icon.webp",
     "types": [
@@ -13499,8 +13499,8 @@
     "normalizedName": "ak-zenit-pt-3-klassika-stock",
     "description": "The PT-3 telescopic stock is mounted instead of the standard stock of AK-103, 104, 105, 74M, AKS74U, and PP Vityaz weapons. Features a length adjustment mechanism and an adjustable cheek. A special PT lock is required for installation. Manufactured by Zenit.",
     "basePrice": 16630,
-    "avg24hPrice": 62185,
-    "lastLowPrice": 42555,
+    "avg24hPrice": 32500,
+    "lastLowPrice": 30000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_Zenit_PT-3_%22Klassika%22_stock",
     "iconLink": "https://assets.tarkov.dev/59ecc3dd86f7746dc827481c-icon.webp",
     "types": [
@@ -13674,8 +13674,8 @@
     "normalizedName": "vortex-razor-amg-uh-1-holographic-sight",
     "description": "The Vortex Razor AMG UH-1 holographic sight is not only made with futuristic design, but, according to its creators, is also a revolution among holographic and reflex sights.",
     "basePrice": 25847,
-    "avg24hPrice": 56666,
-    "lastLowPrice": 49999,
+    "avg24hPrice": 88888,
+    "lastLowPrice": 88888,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Vortex_Razor_AMG_UH-1_holographic_sight",
     "iconLink": "https://assets.tarkov.dev/59f9d81586f7744c7506ee62-icon.webp",
     "types": [
@@ -13691,8 +13691,8 @@
     "normalizedName": "roler-submariner-gold-wrist-watch",
     "description": "A gold watch of the famous Roler brand. The case is made of 18 karats yellow gold.",
     "basePrice": 71049,
-    "avg24hPrice": 142605,
-    "lastLowPrice": 78888,
+    "avg24hPrice": 149021,
+    "lastLowPrice": 79999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Roler_Submariner_gold_wrist_watch",
     "iconLink": "https://assets.tarkov.dev/59faf7ca86f7740dbe19f6c2-icon.webp",
     "types": [
@@ -14417,8 +14417,8 @@
     "normalizedName": "health-resort-east-wing-room-206-key",
     "description": "A key to the Azure Coast sanatorium east wing room 206.",
     "basePrice": 60200,
-    "avg24hPrice": 465277,
-    "lastLowPrice": 299999,
+    "avg24hPrice": 327336,
+    "lastLowPrice": 289999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Health_Resort_east_wing_room_206_key",
     "iconLink": "https://assets.tarkov.dev/5a0ee4b586f7743698200d22-icon.webp",
     "types": [
@@ -14553,8 +14553,8 @@
     "normalizedName": "health-resort-east-wing-room-313-key",
     "description": "A key to the Azure Coast sanatorium east wing room 313.",
     "basePrice": 52730,
-    "avg24hPrice": 209603,
-    "lastLowPrice": 140000,
+    "avg24hPrice": 186111,
+    "lastLowPrice": 150000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Health_Resort_east_wing_room_313_key",
     "iconLink": "https://assets.tarkov.dev/5a0eecf686f7740350630097-icon.webp",
     "types": [
@@ -14825,8 +14825,8 @@
     "normalizedName": "health-resort-west-wing-room-301-key",
     "description": "A key to the Azure Coast sanatorium west wing room 301.",
     "basePrice": 87000,
-    "avg24hPrice": 1455556,
-    "lastLowPrice": 800000,
+    "avg24hPrice": 1996383,
+    "lastLowPrice": 1874420,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Health_Resort_west_wing_room_301_key",
     "iconLink": "https://assets.tarkov.dev/5a13ef7e86f7741290491063-icon.webp",
     "types": [
@@ -15103,8 +15103,8 @@
     "normalizedName": "ops-core-fast-gunsight-mandible",
     "description": "An additional armor module for the Ops-Core FAST helmet, mounted on the Side Armor component.",
     "basePrice": 26675,
-    "avg24hPrice": 108500,
-    "lastLowPrice": 89999,
+    "avg24hPrice": 79910,
+    "lastLowPrice": 55555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ops-Core_FAST_Gunsight_Mandible",
     "iconLink": "https://assets.tarkov.dev/5a16ba61fcdbcb098008728a-icon.webp",
     "types": [
@@ -15704,8 +15704,8 @@
     "normalizedName": "alpha-dog-alpha-9-9x19-sound-suppressor",
     "description": "A pistol sound suppressor with a Weaver rail made for mounting an alternative sight. Manufactured by Alpha Dog.",
     "basePrice": 36659,
-    "avg24hPrice": 24068,
-    "lastLowPrice": 20000,
+    "avg24hPrice": 48420,
+    "lastLowPrice": 48420,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Alpha_Dog_Alpha_9_9x19_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/5a33a8ebc4a282000c5a950d-icon.webp",
     "types": [
@@ -15790,8 +15790,8 @@
     "normalizedName": "ar-15-magpul-prs-gen2-stock-fde",
     "description": "The PRS GEN2 stock manufactured by Magpul. Flat Dark Earth version.",
     "basePrice": 17094,
-    "avg24hPrice": 101805,
-    "lastLowPrice": 44444,
+    "avg24hPrice": 80000,
+    "lastLowPrice": 80000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Magpul_PRS_GEN2_stock_(FDE)",
     "iconLink": "https://assets.tarkov.dev/5a33cae9c4a28232980eb086-icon.webp",
     "types": [
@@ -17940,8 +17940,8 @@
     "normalizedName": "vssval-9x39-sr3m130-30-round-magazine",
     "description": "A 30-round steel TsNIITochMash SR3M.130 magazine for 9x39 caliber SR-3M, VSS, and AS VAL.",
     "basePrice": 20019,
-    "avg24hPrice": 107500,
-    "lastLowPrice": 80000,
+    "avg24hPrice": 62272,
+    "lastLowPrice": 59000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VSS/VAL_9x39_SR3M.130_30-round_magazine",
     "iconLink": "https://assets.tarkov.dev/5a9e81fba2750c00164f6b11-icon.webp",
     "types": [
@@ -18027,8 +18027,8 @@
     "normalizedName": "rotor-43-366-tkm-sound-suppressor",
     "description": "The Rotor 43 muzzle brake, designed for installation on VPO-209 .366TKM carbines. Although positioned as a muzzle brake, it also works as a sound suppressor.",
     "basePrice": 25029,
-    "avg24hPrice": 69269,
-    "lastLowPrice": 48888,
+    "avg24hPrice": 89999,
+    "lastLowPrice": 79999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rotor_43_.366_TKM_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/5a9fbb74a2750c0032157181-icon.webp",
     "types": [
@@ -18288,8 +18288,8 @@
     "normalizedName": "nightforce-atacr-7-35x56-34mm-riflescope",
     "description": "The NightForce ATACR 7-35x56 versatile scope with an extensive magnification range and a wide field-of-view across the entire range making it easy to see and engage targets.",
     "basePrice": 87797,
-    "avg24hPrice": 300000,
-    "lastLowPrice": 300000,
+    "avg24hPrice": 245223,
+    "lastLowPrice": 233331,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Nightforce_ATACR_7-35x56_34mm_riflescope",
     "iconLink": "https://assets.tarkov.dev/5aa66be6e5b5b0214e506e97-icon.webp",
     "types": [
@@ -18464,8 +18464,8 @@
     "normalizedName": "zsh-1-2m-helmet-olive-drab",
     "description": "The ZSh-1-2M helmet consists of a durable alloy covered from the inside by aramid fabrics which does not allow penetration of the protective layer and absorbs the dynamic impact of bullets or shrapnel.",
     "basePrice": 48929,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 50000,
+    "lastLowPrice": 50000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ZSh-1-2M_helmet_(Olive_Drab)",
     "iconLink": "https://assets.tarkov.dev/5aa7e454e5b5b0214e506fa2-icon.webp",
     "types": [
@@ -19806,8 +19806,8 @@
     "normalizedName": "oli-outlet-utility-room-key",
     "description": "A key to the OLI store outlet utility room at the ULTRA shopping mall.",
     "basePrice": 3258,
-    "avg24hPrice": 40925,
-    "lastLowPrice": 38333,
+    "avg24hPrice": 43221,
+    "lastLowPrice": 41999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/OLI_outlet_utility_room_key",
     "iconLink": "https://assets.tarkov.dev/5ad5d20586f77449be26d877-icon.webp",
     "types": [
@@ -19925,8 +19925,8 @@
     "normalizedName": "goshan-cash-register-key",
     "description": "A key to the Goshan store outlet cash registers at the ULTRA shopping mall.",
     "basePrice": 15430,
-    "avg24hPrice": 275000,
-    "lastLowPrice": 250000,
+    "avg24hPrice": 606210,
+    "lastLowPrice": 394777,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Goshan_cash_register_key",
     "iconLink": "https://assets.tarkov.dev/5ad7247386f7747487619dc3-icon.webp",
     "types": [
@@ -19942,8 +19942,8 @@
     "normalizedName": "kiba-arms-inner-grate-door-key",
     "description": "A key to the inner gate door of the KIBA Arms International outlet at the ULTRA shopping mall.",
     "basePrice": 167402,
-    "avg24hPrice": 167229,
-    "lastLowPrice": 105200,
+    "avg24hPrice": 163256,
+    "lastLowPrice": 111000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Kiba_Arms_inner_grate_door_key",
     "iconLink": "https://assets.tarkov.dev/5addaffe86f77470b455f900-icon.webp",
     "types": [
@@ -20582,8 +20582,8 @@
     "normalizedName": "ophthalmoscope",
     "description": "A medical device for diagnostic eye examination.",
     "basePrice": 84912,
-    "avg24hPrice": 126148,
-    "lastLowPrice": 106998,
+    "avg24hPrice": 346500,
+    "lastLowPrice": 100000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ophthalmoscope",
     "iconLink": "https://assets.tarkov.dev/5af0534a86f7743b6f354284-icon.webp",
     "types": [
@@ -20685,8 +20685,8 @@
     "normalizedName": "colt-m4a1-556x45-assault-rifle-carbine",
     "description": null,
     "basePrice": 64191,
-    "avg24hPrice": 361972,
-    "lastLowPrice": 244666,
+    "avg24hPrice": 325714,
+    "lastLowPrice": 150000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Colt_M4A1_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/5af08cf886f774223c269184-icon.webp",
     "types": [
@@ -21183,8 +21183,8 @@
     "normalizedName": "burris-fullfield-tac30-1-4x24-30mm-riflescope",
     "description": "The TAC30 offers a very wide field of view, and 1x magnification at the lower end - making for easy, fast target acquisition. The 4x full zoom and Ballistic CQ reticle make shots out to about 300 yards very practical. The illuminated center dot and large, bright circle allow for instant target engagement at close distances.",
     "basePrice": 31468,
-    "avg24hPrice": 102228,
-    "lastLowPrice": 77777,
+    "avg24hPrice": 124826,
+    "lastLowPrice": 86666,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Burris_FullField_TAC30_1-4x24_30mm_riflescope",
     "iconLink": "https://assets.tarkov.dev/5b2388675acfc4771e1be0be-icon.webp",
     "types": [
@@ -21923,8 +21923,8 @@
     "normalizedName": "pompon-hat",
     "description": "A warm hat with a pompon. Only Scavs would wear something like this. Well, or some psychos who want to be in the spotlight.",
     "basePrice": 4560,
-    "avg24hPrice": 120000,
-    "lastLowPrice": 110000,
+    "avg24hPrice": 88278,
+    "lastLowPrice": 66555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pompon_hat",
     "iconLink": "https://assets.tarkov.dev/5b4329075acfc400153b78ff-icon.webp",
     "types": [
@@ -22205,8 +22205,8 @@
     "normalizedName": "ana-tactical-beta-2-battle-backpack-olive-drab",
     "description": "A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain.",
     "basePrice": 68476,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 246300,
+    "lastLowPrice": 189999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ANA_Tactical_Beta_2_Battle_backpack_(Olive_Drab)",
     "iconLink": "https://assets.tarkov.dev/5b44c6ae86f7742d1627baea-icon.webp",
     "types": [
@@ -24249,8 +24249,8 @@
     "normalizedName": "old-firesteel",
     "description": "A strange thing classified as a firesteel is an ancient device for making fire. Another antique item.",
     "basePrice": 63402,
-    "avg24hPrice": 57480,
-    "lastLowPrice": 40000,
+    "avg24hPrice": 48953,
+    "lastLowPrice": 45000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Old_firesteel",
     "iconLink": "https://assets.tarkov.dev/5bc9c377d4351e3bac12251b-icon.webp",
     "types": [
@@ -25588,8 +25588,8 @@
     "normalizedName": "portable-defibrillator",
     "description": "Sudden cardiac arrest (SCA) can happen to anyone, anytime, anywhere. Phipils uses SMART Biphasic technology in its HeartStart Defibrillators to deliver an effective, high current defibrillation shock at a lower energy dose to minimize side effects.",
     "basePrice": 224600,
-    "avg24hPrice": 290246,
-    "lastLowPrice": 152900,
+    "avg24hPrice": 244388,
+    "lastLowPrice": 154429,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Portable_defibrillator",
     "iconLink": "https://assets.tarkov.dev/5c052e6986f7746b207bc3c9-icon.webp",
     "types": [
@@ -25762,8 +25762,8 @@
     "normalizedName": "vpx-flash-storage-module",
     "description": "The VPX Flash Storage Module (FSM) provides high-performance, high-capacity, solid-state SATA storage with AES-256 bit encryption using an Application Specific Integrated Circuit (ASIC).",
     "basePrice": 152400,
-    "avg24hPrice": 201216,
-    "lastLowPrice": 189500,
+    "avg24hPrice": 338030,
+    "lastLowPrice": 155555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPX_Flash_Storage_Module",
     "iconLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-icon.webp",
     "types": [
@@ -26029,8 +26029,8 @@
     "normalizedName": "armasight-n-15-night-vision-goggles",
     "description": "The Armasight N-15-NVG binocular. Civilian alternative to contract military devices installed in a compact and ergonomic body.",
     "basePrice": 74800,
-    "avg24hPrice": 155555,
-    "lastLowPrice": 155555,
+    "avg24hPrice": 124822,
+    "lastLowPrice": 89999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Armasight_N-15_night_vision_goggles",
     "iconLink": "https://assets.tarkov.dev/5c066e3a0db834001b7353f0-icon.webp",
     "types": [
@@ -26394,8 +26394,8 @@
     "normalizedName": "freeman-crowbar",
     "description": "A reliable steel crowbar manufactured by Freeman company. Caution! May lead to Resonance Cascade.",
     "basePrice": 18200,
-    "avg24hPrice": 84126,
-    "lastLowPrice": 68000,
+    "avg24hPrice": 139279,
+    "lastLowPrice": 99997,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Freeman_crowbar",
     "iconLink": "https://assets.tarkov.dev/5c07df7f0db834001b73588a-icon.webp",
     "types": [
@@ -26933,8 +26933,8 @@
     "normalizedName": "ar-15-556x45-molot-arms-16-inch-barrel",
     "description": "A 16 inch (406mm) barrel for AR-15 platform weapons for 5.56x45 NATO ammo, manufactured by Molot Arms. A standard-issue barrel for ADAR 2-15.",
     "basePrice": 16200,
-    "avg24hPrice": 150000,
-    "lastLowPrice": 150000,
+    "avg24hPrice": 200000,
+    "lastLowPrice": 200000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_5.56x45_Molot_Arms_16_inch_barrel",
     "iconLink": "https://assets.tarkov.dev/5c0e2f94d174af029f650d56-icon.webp",
     "types": [
@@ -27024,8 +27024,8 @@
     "normalizedName": "propital-regenerative-stimulant-injector",
     "description": "A military-issue stimulant permitted to only be used by medical officers and paramedics. It stimulates regeneration processes by increasing the biosynthesis of purine and pyrimidine bases, RNA, functional, and enzymatic cell elements. Increases metabolism, health, and vitality. Has continuous side effects.",
     "basePrice": 21060,
-    "avg24hPrice": 60945,
-    "lastLowPrice": 52222,
+    "avg24hPrice": 60463,
+    "lastLowPrice": 55000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Propital_regenerative_stimulant_injector",
     "iconLink": "https://assets.tarkov.dev/5c0e530286f7747fa1419862-icon.webp",
     "types": [
@@ -27245,8 +27245,8 @@
     "normalizedName": "6b13-assault-armor-emr",
     "description": "The main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of blunt injury when performing combat missions. EMR (Digital Flora) camouflage version.",
     "basePrice": 30655,
-    "avg24hPrice": 199999,
-    "lastLowPrice": 199999,
+    "avg24hPrice": 99999,
+    "lastLowPrice": 99999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/6B13_assault_armor_(EMR)",
     "iconLink": "https://assets.tarkov.dev/5c0e53c886f7747fa54205c7-icon.webp",
     "types": [
@@ -27614,8 +27614,8 @@
     "normalizedName": "aquamari-water-bottle-with-filter",
     "description": "Purified and enriched bottled water with a CR-100 filter, 0.6L.",
     "basePrice": 31612,
-    "avg24hPrice": 34277,
-    "lastLowPrice": 20000,
+    "avg24hPrice": 41159,
+    "lastLowPrice": 25555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aquamari_water_bottle_with_filter",
     "iconLink": "https://assets.tarkov.dev/5c0fa877d174af02a012e1cf-icon.webp",
     "types": [
@@ -27623,26 +27623,6 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/5c0fa877d174af02a012e1cf-grid-image.webp",
     "craftsFor": [
-      {
-        "id": "67f4ec521d41954d4f09a9c8",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "count": 5,
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Aquapeps water purification tablets"
-            }
-          }
-        ]
-      },
       {
         "id": "61c77c830f3639492721e99c",
         "station": {
@@ -27671,6 +27651,26 @@
             "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67f4ec521d41954d4f09a9c8",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "count": 5,
+            "item": {
+              "name": "Bottle of water (0.6L)"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Aquapeps water purification tablets"
             }
           }
         ]
@@ -27805,8 +27805,8 @@
     "normalizedName": "556x45mm-warmageddon-ammo-pack-20-pcs",
     "description": "A pack of 5.56x45 Warmageddon cartridges, 20 pieces.",
     "basePrice": 3600,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 5000,
+    "lastLowPrice": 5000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_Warmageddon_ammo_pack_(20_pcs)",
     "iconLink": "https://assets.tarkov.dev/5c11279ad174af029d64592b-icon.webp",
     "types": [
@@ -27998,8 +27998,8 @@
     "normalizedName": "chain-with-prokill-medallion",
     "description": "A chain with the Prokill medallion. An attribute of the Contract Wars, and now - a relic.",
     "basePrice": 85000,
-    "avg24hPrice": 226852,
-    "lastLowPrice": 150000,
+    "avg24hPrice": 181018,
+    "lastLowPrice": 133333,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chain_with_Prokill_medallion",
     "iconLink": "https://assets.tarkov.dev/5c1267ee86f77416ec610f72-icon.webp",
     "types": [
@@ -28116,8 +28116,8 @@
     "normalizedName": "soap",
     "description": "A piece of usual soap. Do not eat!",
     "basePrice": 3890,
-    "avg24hPrice": 41164,
-    "lastLowPrice": 33322,
+    "avg24hPrice": 28632,
+    "lastLowPrice": 23000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Soap",
     "iconLink": "https://assets.tarkov.dev/5c13cd2486f774072c757944-icon.webp",
     "types": [
@@ -28160,7 +28160,7 @@
     "normalizedName": "toilet-paper",
     "description": "A roll of clean two-layer delicate toilet paper. The treasure in these dark times.",
     "basePrice": 8800,
-    "avg24hPrice": 60000,
+    "avg24hPrice": 45000,
     "lastLowPrice": 40000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Toilet_paper",
     "iconLink": "https://assets.tarkov.dev/5c13cef886f774072e618e82-icon.webp",
@@ -28417,8 +28417,8 @@
     "normalizedName": "zenit-rk-2-tactical-foregrip",
     "description": "The RK-2 foregrip can be installed on the lower part of handguards with a Weaver rail. It provides better operational control of a weapon during firing. Manufactured by Zenit.",
     "basePrice": 15670,
-    "avg24hPrice": 77774,
-    "lastLowPrice": 77770,
+    "avg24hPrice": 44757,
+    "lastLowPrice": 39999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Zenit_RK-2_tactical_foregrip",
     "iconLink": "https://assets.tarkov.dev/5c1bc5af2e221602b412949b-icon.webp",
     "types": [
@@ -28553,8 +28553,8 @@
     "normalizedName": "terragroup-labs-keycard-yellow",
     "description": "A United Security-issued TerraGroup Labs keycard for technicians in the Yellow sector.",
     "basePrice": 350000,
-    "avg24hPrice": 811401,
-    "lastLowPrice": 222222,
+    "avg24hPrice": 315706,
+    "lastLowPrice": 224500,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_keycard_(Yellow)",
     "iconLink": "https://assets.tarkov.dev/5c1d0d6d86f7744bb2683e1f-icon.webp",
     "types": [
@@ -32108,8 +32108,8 @@
     "normalizedName": "ak-strike-industries-enhanced-pistol-grip-black",
     "description": "The AK-EPG (AK Enhanced Pistol Grip) ergonomic polymer pistol grip for AK-family automatic rifles. Manufactured by Strike Industries.",
     "basePrice": 3900,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 30000,
+    "lastLowPrice": 30000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_Strike_Industries_Enhanced_Pistol_Grip",
     "iconLink": "https://assets.tarkov.dev/5cf50850d7f00c056e24104c-icon.webp",
     "types": [
@@ -32332,8 +32332,8 @@
     "normalizedName": "lantac-bmd-762x51-blast-mitigation-device",
     "description": "The BMD Blast Mitigation Device by Lantac is a unique blast shield that allows the muzzle brake contained inside it to continue to function as normal with regard to muzzle climb mitigation. Installed on 7.62x51 caliber weapons.",
     "basePrice": 9850,
-    "avg24hPrice": 55555,
-    "lastLowPrice": 55555,
+    "avg24hPrice": 50388,
+    "lastLowPrice": 38888,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Lantac_BMD_7.62x51_Blast_Mitigation_Device",
     "iconLink": "https://assets.tarkov.dev/5cf78720d7f00c06595bc93e-icon.webp",
     "types": [
@@ -32452,8 +32452,8 @@
     "normalizedName": "daniel-defense-wave-qd-sound-suppressor",
     "description": "The Daniel Defense WAVE QD (Quick Detach) sound suppressor which can be installed on the compatible WAVE muzzle brakes.",
     "basePrice": 51000,
-    "avg24hPrice": 450000,
-    "lastLowPrice": 400000,
+    "avg24hPrice": 259646,
+    "lastLowPrice": 123432,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Daniel_Defense_WAVE_QD_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/5cff9e84d7ad1a049e54ed55-icon.webp",
     "types": [
@@ -32856,8 +32856,8 @@
     "normalizedName": "phased-array-element",
     "description": "High-tech part of the phased array antenna used in radiolocation systems and radio-electronic warfare systems.",
     "basePrice": 166000,
-    "avg24hPrice": 171770,
-    "lastLowPrice": 111111,
+    "avg24hPrice": 191025,
+    "lastLowPrice": 145000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Phased_array_element",
     "iconLink": "https://assets.tarkov.dev/5d03775b86f774203e7e0c4b-icon.webp",
     "types": [
@@ -32873,8 +32873,8 @@
     "normalizedName": "iridium-military-thermal-vision-module",
     "description": "An element of the thermal imaging system used in military vehicles.",
     "basePrice": 81200,
-    "avg24hPrice": 140522,
-    "lastLowPrice": 89999,
+    "avg24hPrice": 114587,
+    "lastLowPrice": 78777,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Iridium_military_thermal_vision_module",
     "iconLink": "https://assets.tarkov.dev/5d0377ce86f774186372f689-icon.webp",
     "types": [
@@ -32907,8 +32907,8 @@
     "normalizedName": "military-power-filter",
     "description": "A military power filter used in armored vehicles.",
     "basePrice": 55000,
-    "avg24hPrice": 245000,
-    "lastLowPrice": 240000,
+    "avg24hPrice": 230000,
+    "lastLowPrice": 230000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_power_filter",
     "iconLink": "https://assets.tarkov.dev/5d0378d486f77420421a5ff4-icon.webp",
     "types": [
@@ -33718,8 +33718,8 @@
     "normalizedName": "hand-drill",
     "description": "A rare and old instrument, almost was out of use before the conflict. However, it's especially useful in current times.",
     "basePrice": 60000,
-    "avg24hPrice": 100629,
-    "lastLowPrice": 85555,
+    "avg24hPrice": 165963,
+    "lastLowPrice": 165000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hand_drill",
     "iconLink": "https://assets.tarkov.dev/5d1b317c86f7742523398392-icon.webp",
     "types": [
@@ -33790,8 +33790,8 @@
     "normalizedName": "analog-thermometer",
     "description": "An analog thermometer designed to measure and control the temperature of liquid materials.",
     "basePrice": 45600,
-    "avg24hPrice": 38962,
-    "lastLowPrice": 33333,
+    "avg24hPrice": 53148,
+    "lastLowPrice": 44444,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Analog_thermometer",
     "iconLink": "https://assets.tarkov.dev/5d1b32c186f774252167a530-icon.webp",
     "types": [
@@ -34164,8 +34164,8 @@
     "normalizedName": "radiator-helix",
     "description": "A radiator helix for industrial type heating devices. Under the influence of electricity, it heats up and transfers heat to the room using a radiator reflector.",
     "basePrice": 14500,
-    "avg24hPrice": 106848,
-    "lastLowPrice": 52999,
+    "avg24hPrice": 96083,
+    "lastLowPrice": 55555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Radiator_helix",
     "iconLink": "https://assets.tarkov.dev/5d1c774f86f7746d6620f8db-icon.webp",
     "types": [
@@ -34191,26 +34191,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5d1c819a86f774771b0acd6c-grid-image.webp",
     "craftsFor": [
       {
-        "id": "5de021b30f6d581e965bcde7",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Molot Arms VPO-209 .366 TKM carbine"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Leatherman Multitool"
-            }
-          }
-        ]
-      },
-      {
         "id": "615c3d800d3afc358a55405e",
         "station": {
           "name": "Workbench"
@@ -34226,6 +34206,26 @@
             "count": 1,
             "item": {
               "name": "Flat screwdriver"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5de021b30f6d581e965bcde7",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Molot Arms VPO-209 .366 TKM carbine"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Leatherman Multitool"
             }
           }
         ]
@@ -34376,8 +34376,8 @@
     "normalizedName": "s-i-c-c-organizational-pouch",
     "description": "A small soft organizational pouch for storing various small items such as paper money, coins, metal keys, as well as keycards and dogtags.",
     "basePrice": 750000,
-    "avg24hPrice": 3555910,
-    "lastLowPrice": 3200000,
+    "avg24hPrice": 3594444,
+    "lastLowPrice": 2999999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/S_I_C_C_organizational_pouch",
     "iconLink": "https://assets.tarkov.dev/5d235bb686f77443f4331278-icon.webp",
     "types": [
@@ -34974,8 +34974,8 @@
     "normalizedName": "gemtech-sfn-57-57x28-sound-suppressor",
     "description": "SFN-57 is a compact, high-performance sound suppressor for modern 5.7 mm semi-automatic pistols. Produced by Gemtech.",
     "basePrice": 37940,
-    "avg24hPrice": 35444,
-    "lastLowPrice": 33000,
+    "avg24hPrice": 41998,
+    "lastLowPrice": 39000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gemtech_SFN-57_5.7x28_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/5d3ef698a4b9361182109872-icon.webp",
     "types": [
@@ -35209,8 +35209,8 @@
     "normalizedName": "flat-screwdriver-long",
     "description": "A long flathead screwdriver for installation work in hard to reach places.",
     "basePrice": 33000,
-    "avg24hPrice": 67266,
-    "lastLowPrice": 51111,
+    "avg24hPrice": 100000,
+    "lastLowPrice": 100000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flat_screwdriver_(Long)",
     "iconLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-icon.webp",
     "types": [
@@ -35226,8 +35226,8 @@
     "normalizedName": "lone-star-tx-15-dml-556x45-carbine",
     "description": "The Lone Star Armory TX15 Designated Marksman Light (DML) is a high precision civilian rifle designed on the AR-15 system base, chambered in 5.56x45 rounds.",
     "basePrice": 24397,
-    "avg24hPrice": 102932,
-    "lastLowPrice": 59999,
+    "avg24hPrice": 199999,
+    "lastLowPrice": 199999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Lone_Star_TX-15_DML_5.56x45_carbine",
     "iconLink": "https://assets.tarkov.dev/5d43021ca4b9362eab4b5e25-icon.webp",
     "types": [
@@ -35244,8 +35244,8 @@
     "normalizedName": "tx-15-556x45-lightweight-upper-receiver",
     "description": "An upper receiver for the TX-15 rifle, manufactured by Lone Star. Equipped with a mount for attaching additional devices.",
     "basePrice": 9200,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 98888,
+    "lastLowPrice": 98888,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TX-15_5.56x45_Lightweight_upper_receiver",
     "iconLink": "https://assets.tarkov.dev/5d4405aaa4b9361e6a4e6bd3-icon.webp",
     "types": [
@@ -35313,8 +35313,8 @@
     "normalizedName": "ar-15-magpul-prs-gen3-stock-black",
     "description": "The Magpul Precision Rifle/Sniper GEN3 is a field precision stock for AR-15/M16 and AR-10/SR-25 platforms. Featuring tool-less length of pull and cheek piece height adjustments via aluminum detent knobs, the PRS GEN3 stock provides a stable interface intended for semi-automatic sniper or varmint rifles. Black version.",
     "basePrice": 18800,
-    "avg24hPrice": 122222,
-    "lastLowPrice": 122222,
+    "avg24hPrice": 68379,
+    "lastLowPrice": 55999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Magpul_PRS_GEN3_stock",
     "iconLink": "https://assets.tarkov.dev/5d44069ca4b9361ebd26fc37-icon.webp",
     "types": [
@@ -35466,8 +35466,8 @@
     "normalizedName": "lone-star-tx-15-dml-556x45-carbine-default",
     "description": null,
     "basePrice": 196220,
-    "avg24hPrice": 102932,
-    "lastLowPrice": 59999,
+    "avg24hPrice": 199999,
+    "lastLowPrice": 199999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Lone_Star_TX-15_DML_5.56x45_carbine",
     "iconLink": "https://assets.tarkov.dev/5d4d617f86f77449c463d107-icon.webp",
     "types": [
@@ -36306,8 +36306,8 @@
     "normalizedName": "gunpowder-eagle",
     "description": "A tin with gunpowder. An essential resource for creating cartridges. The main advantage of gunpowder of this brand is its dense composition and the large energy released during combustion.",
     "basePrice": 32000,
-    "avg24hPrice": 74082,
-    "lastLowPrice": 63000,
+    "avg24hPrice": 78996,
+    "lastLowPrice": 69899,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22",
     "iconLink": "https://assets.tarkov.dev/5d6fc78386f77449d825f9dc-icon.webp",
     "types": [
@@ -36454,8 +36454,8 @@
     "normalizedName": "rb-bk-marked-key",
     "description": "A Federal State Reserve Agency base eastern barracks metalsmiths' room key with multiple strange symbols scratched onto it where the room label would usually be. The key is stained by blood and appears to have been misused a lot, making it fragile.",
     "basePrice": 250000,
-    "avg24hPrice": 6970337,
-    "lastLowPrice": 6911111,
+    "avg24hPrice": 7416667,
+    "lastLowPrice": 7000000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RB-BK_marked_key",
     "iconLink": "https://assets.tarkov.dev/5d80c60f86f77440373c4ece-icon.webp",
     "types": [
@@ -36488,8 +36488,8 @@
     "normalizedName": "rb-ao-key",
     "description": "A key to one of the Federal State Reserve Agency base guard barracks' armories.",
     "basePrice": 21104,
-    "avg24hPrice": 64125,
-    "lastLowPrice": 39999,
+    "avg24hPrice": 290282,
+    "lastLowPrice": 99999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RB-AO_key",
     "iconLink": "https://assets.tarkov.dev/5d80c66d86f774405611c7d6-icon.webp",
     "types": [
@@ -36505,8 +36505,8 @@
     "normalizedName": "rb-ob-key",
     "description": "A key to the Federal State Reserve Agency base eastern barracks' duty officer's room.",
     "basePrice": 19070,
-    "avg24hPrice": 406667,
-    "lastLowPrice": 200000,
+    "avg24hPrice": 117500,
+    "lastLowPrice": 110000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RB-OB_key",
     "iconLink": "https://assets.tarkov.dev/5d80c6c586f77440351beef1-icon.webp",
     "types": [
@@ -36692,8 +36692,8 @@
     "normalizedName": "rb-pp-key",
     "description": "A key to the Radar Station bomb shelter under the Federal State Reserve Agency base. Doesn't seem to be actually used for anything though, at least for now.",
     "basePrice": 5000,
-    "avg24hPrice": 38460,
-    "lastLowPrice": 25555,
+    "avg24hPrice": 37000,
+    "lastLowPrice": 37000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RB-PP_key",
     "iconLink": "https://assets.tarkov.dev/5d80cb8786f774405611c7d9-icon.webp",
     "types": [
@@ -36743,8 +36743,8 @@
     "normalizedName": "rb-orb2-key",
     "description": "A key to one of the Federal State Reserve Agency base southern barracks' armories.",
     "basePrice": 18701,
-    "avg24hPrice": 208647,
-    "lastLowPrice": 130000,
+    "avg24hPrice": 300000,
+    "lastLowPrice": 300000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RB-ORB2_key",
     "iconLink": "https://assets.tarkov.dev/5d80ccdd86f77474f7575e02-icon.webp",
     "types": [
@@ -36777,8 +36777,8 @@
     "normalizedName": "rb-korl-key",
     "description": "A key to the Federal State Reserve Agency base Radar Station commander's office.",
     "basePrice": 9827,
-    "avg24hPrice": 222222,
-    "lastLowPrice": 222222,
+    "avg24hPrice": 168314,
+    "lastLowPrice": 100000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RB-KORL_key",
     "iconLink": "https://assets.tarkov.dev/5d8e0db586f7744450412a42-icon.webp",
     "types": [
@@ -37517,8 +37517,8 @@
     "normalizedName": "orsis-t-5000m-762x51-bolt-action-sniper-rifle",
     "description": "ORSIS T-5000M is a Russian bolt-action sniper rifle. It was the first product developed by ORSIS, and is produced in their Moscow factory. The rifle was introduced in 2011 at the international exhibition of Russian weapons in Nizhny Tagil, and is entirely original, using no third-party components. The rifle ensures maximum comfort of the user while aiming and shooting, featuring a quick sighting line recovery, high reliability and ergonomics. The stainless steel barrel has a thread for installing a muzzle brake-compensator or a sound suppressor. The equipped muzzle brake-compensator effectively reduces impulse and allows the most comfortable recoil handling.",
     "basePrice": 26974,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 700000,
+    "lastLowPrice": 700000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ORSIS_T-5000M_7.62x51_bolt-action_sniper_rifle",
     "iconLink": "https://assets.tarkov.dev/5df24cf80dee1b22f862e9bc-icon.webp",
     "types": [
@@ -38141,8 +38141,8 @@
     "normalizedName": "ncstar-ado-p4-sniper-3-9x42-riflescope",
     "description": "The Advance Dual Optic (ADO) 3X-9X variable magnification scope with a 42mm objective lens. The ADO Scope features an integrated Red Dot Reflex Optic on top of the scope body. Manufactured by NcSTAR.",
     "basePrice": 51344,
-    "avg24hPrice": 65753,
-    "lastLowPrice": 40000,
+    "avg24hPrice": 71278,
+    "lastLowPrice": 49999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/NcSTAR_ADO_P4_Sniper_3-9x42_riflescope",
     "iconLink": "https://assets.tarkov.dev/5dfe6104585a0c3e995c7b82-icon.webp",
     "types": [
@@ -38592,8 +38592,8 @@
     "normalizedName": "orsis-t-5000m-762x51-bolt-action-sniper-rifle-default",
     "description": null,
     "basePrice": 85018,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 700000,
+    "lastLowPrice": 700000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ORSIS_T-5000M_7.62x51_bolt-action_sniper_rifle",
     "iconLink": "https://assets.tarkov.dev/5e0354f786f77425b53eb6c5-icon.webp",
     "types": [
@@ -38662,8 +38662,8 @@
     "normalizedName": "akmak-74-hexagon-kocherga-stock-anodized-red",
     "description": "The \"Kocherga\" lightweight stock for AKM/AK-74-type non-folding automatic rifles, manufactured by Hexagon. Anodized Red version.",
     "basePrice": 26780,
-    "avg24hPrice": 62222,
-    "lastLowPrice": 44444,
+    "avg24hPrice": 40194,
+    "lastLowPrice": 35000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKM/AK-74_Hexagon_%22Kocherga%22_stock_(Anodized_Red)",
     "iconLink": "https://assets.tarkov.dev/5e217ba4c1434648c13568cd-icon.webp",
     "types": [
@@ -38697,8 +38697,8 @@
     "normalizedName": "ak-762x39-magpul-pmag-30-gen-m3-30-round-magazine-banana",
     "description": "A 30-round polymer Magpul Pmag 30 AK/AKM GEN M3 magazine 7.62x39 AK and compatible weapons. Can also be supplied with .366 TKM ammo for use with the corresponding caliber AK-compatible weapons. The magazine is painted in a tactical banana yellow color.",
     "basePrice": 5183,
-    "avg24hPrice": 88750,
-    "lastLowPrice": 79999,
+    "avg24hPrice": 77545,
+    "lastLowPrice": 75090,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_7.62x39_Magpul_PMAG_30_GEN_M3_30-round_magazine",
     "iconLink": "https://assets.tarkov.dev/5e21a3c67e40bd02257a008a-icon.webp",
     "types": [
@@ -38849,8 +38849,8 @@
     "normalizedName": "tube-of-poxeram-cold-welding",
     "description": "An adhesive composition that has a high degree of plasticity. It consists of epoxy resin and is a two-component substance with metal dust.",
     "basePrice": 19400,
-    "avg24hPrice": 49175,
-    "lastLowPrice": 26666,
+    "avg24hPrice": 32910,
+    "lastLowPrice": 21111,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tube_of_Poxeram_cold_welding",
     "iconLink": "https://assets.tarkov.dev/5e2af22086f7746d3f3c33fa-icon.webp",
     "types": [
@@ -38866,8 +38866,8 @@
     "normalizedName": "kektape-duct-tape",
     "description": "KEKTAPE will not be able to patch up your difficult Tarkov fate, but it will be able to fix a boat. Or close up a hole in the aquarium. There are lots of things KEKTAPE can do.",
     "basePrice": 24000,
-    "avg24hPrice": 70680,
-    "lastLowPrice": 61000,
+    "avg24hPrice": 51666,
+    "lastLowPrice": 35666,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KEKTAPE_duct_tape",
     "iconLink": "https://assets.tarkov.dev/5e2af29386f7746d4159f077-icon.webp",
     "types": [
@@ -39119,8 +39119,8 @@
     "normalizedName": "grenade-case",
     "description": "A large case for storing various hand grenades.",
     "basePrice": 510000,
-    "avg24hPrice": 376417,
-    "lastLowPrice": 276610,
+    "avg24hPrice": 321284,
+    "lastLowPrice": 280000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Grenade_case",
     "iconLink": "https://assets.tarkov.dev/5e2af55f86f7746d4159f07c-icon.webp",
     "types": [
@@ -39356,8 +39356,8 @@
     "normalizedName": "lbt-6094a-slick-plate-carrier-black",
     "description": "A simple yet effective plate carrier by London Bridge Trading company. The most minimalistic design intended for use with chest rigs. Black version.",
     "basePrice": 254200,
-    "avg24hPrice": 192333,
-    "lastLowPrice": 178000,
+    "avg24hPrice": 192685,
+    "lastLowPrice": 130000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/LBT-6094A_Slick_Plate_Carrier_(Black)",
     "iconLink": "https://assets.tarkov.dev/5e4abb5086f77406975c9342-icon.webp",
     "types": [
@@ -39550,8 +39550,8 @@
     "normalizedName": "shroud-half-mask",
     "description": "An extremely stylish half mask with the Shroud logo. All the Tarkov street guys know who he is.",
     "basePrice": 42000,
-    "avg24hPrice": 41148,
-    "lastLowPrice": 34000,
+    "avg24hPrice": 54444,
+    "lastLowPrice": 54444,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Shroud_half-mask",
     "iconLink": "https://assets.tarkov.dev/5e54f76986f7740366043752-icon.webp",
     "types": [
@@ -40325,8 +40325,8 @@
     "normalizedName": "bottle-of-norvinsky-yadreniy-premium-kvass-06l",
     "description": "Norvinsky Premium, a truly refreshing kvass. Kvass is made by the natural fermentation of bread, such as wheat, rye, or barley, and sometimes flavoured using fruit, berries, raisins, or birch sap. One of the traditional Slavic drinks, it is not just a tasty, but also a healthy product. It is for a reason that in Russian tales it is constantly drunk by Bogatyrs to regain their power.",
     "basePrice": 15532,
-    "avg24hPrice": 59913,
-    "lastLowPrice": 35000,
+    "avg24hPrice": 58618,
+    "lastLowPrice": 46666,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Norvinsky_Yadreniy_premium_kvass_(0.6L)",
     "iconLink": "https://assets.tarkov.dev/5e8f3423fd7471236e6e3b64-icon.webp",
     "types": [
@@ -41033,8 +41033,8 @@
     "normalizedName": "rb-pkpm-marked-key",
     "description": "A Federal State Reserve Agency base bunker command office room key with multiple strange symbols scratched onto it where the room label would usually be. The key is stained by blood and appears to have been misused a lot, making it fragile.",
     "basePrice": 250000,
-    "avg24hPrice": 4953815,
-    "lastLowPrice": 4200000,
+    "avg24hPrice": 5136111,
+    "lastLowPrice": 4444440,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RB-PKPM_marked_key",
     "iconLink": "https://assets.tarkov.dev/5ede7a8229445733cb4c18e2-icon.webp",
     "types": [
@@ -41969,8 +41969,8 @@
     "normalizedName": "lolkek-3f-transfer-tourist-backpack",
     "description": "A simple and cheap backpack manufactured by LolKek. Not very strong or comfortable, but it manages to carry loot in it, and that's all you need from a backpack.",
     "basePrice": 18000,
-    "avg24hPrice": 200000,
-    "lastLowPrice": 200000,
+    "avg24hPrice": 100000,
+    "lastLowPrice": 100000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/LolKek_3F_Transfer_tourist_backpack",
     "iconLink": "https://assets.tarkov.dev/5f5e45cc5021ce62144be7aa-icon.webp",
     "types": [
@@ -42683,7 +42683,7 @@
     "normalizedName": "armband-rivals-2020",
     "description": "An exclusive armband from the Twitch Rivals 2020 event.",
     "basePrice": 20000,
-    "avg24hPrice": 287500,
+    "avg24hPrice": 250000,
     "lastLowPrice": 250000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Armband_(Rivals_2020)",
     "iconLink": "https://assets.tarkov.dev/5f9949d869e2777a0e779ba5-icon.webp",
@@ -42854,8 +42854,8 @@
     "normalizedName": "kriss-vector-non-folding-stock-adapter",
     "description": "A non-folding adapter for the installation of telescopic stock buffer tubes on the KRISS Vector submachine gun.",
     "basePrice": 3900,
-    "avg24hPrice": 99999,
-    "lastLowPrice": 99999,
+    "avg24hPrice": 151111,
+    "lastLowPrice": 151111,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KRISS_Vector_non-folding_stock_adapter",
     "iconLink": "https://assets.tarkov.dev/5fb655b748c711690e3a8d5a-icon.webp",
     "types": [
@@ -43506,8 +43506,8 @@
     "normalizedName": "ar-15-b5-systems-collapsible-precision-stock",
     "description": "The Collapsible Precision Stock manufactured by B5 Systems. Designed to be installed on AR-system weapons.",
     "basePrice": 18500,
-    "avg24hPrice": 127882,
-    "lastLowPrice": 80420,
+    "avg24hPrice": 81410,
+    "lastLowPrice": 74420,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_B5_Systems_Collapsible_Precision_Stock",
     "iconLink": "https://assets.tarkov.dev/5fc2369685fd526b824a5713-icon.webp",
     "types": [
@@ -43827,8 +43827,8 @@
     "normalizedName": "xtg-12-antidote-injector",
     "description": "Removes most of the known poisons and toxins used in the combat industry. Can be used to relieve the effects of natural poisons. Gives immunity to poisoning while the components are in the blood system. Can reduce health status.",
     "basePrice": 80600,
-    "avg24hPrice": 71185,
-    "lastLowPrice": 59000,
+    "avg24hPrice": 82148,
+    "lastLowPrice": 70000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/XTG-12_antidote_injector",
     "iconLink": "https://assets.tarkov.dev/5fca138c2a7b221b2852a5c6-icon.webp",
     "types": [
@@ -44128,8 +44128,8 @@
     "normalizedName": "gear-craft-gc-bss-mk1-chest-rig-a-tacs-fg",
     "description": "The new generation shoulder belt system, made for patrol and assault operations.",
     "basePrice": 30015,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 26500,
+    "lastLowPrice": 26500,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gear_Craft_GC-BSS-MK1_chest_rig_(A-TACS_FG)",
     "iconLink": "https://assets.tarkov.dev/5fd4c60f875c30179f5d04c2-icon.webp",
     "types": [
@@ -45026,8 +45026,8 @@
     "normalizedName": "gp-7-gas-mask",
     "description": "The GP-7 civilian gas mask is a filtering means of individual protection of respiratory organs, eyes, and face skin.",
     "basePrice": 8386,
-    "avg24hPrice": 85574,
-    "lastLowPrice": 79000,
+    "avg24hPrice": 77427,
+    "lastLowPrice": 65555,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/GP-7_gas_mask",
     "iconLink": "https://assets.tarkov.dev/60363c0c92ec1c31037959f5-icon.webp",
     "types": [
@@ -45274,8 +45274,8 @@
     "normalizedName": "cmmg-mk47-mutant-762x39-assault-rifle",
     "description": "CMMG Mk47 Mutant, an American-made carbine chambered in 7.62x39mm, manufactured by CMMG Inc. Works with all types of AK magazines, including steel, polymer and drums. The carbine has shown exceptional reliability, which, together with the classic ergonomics of the AR system, gives an excellent example of a firearm. This variant features a fully automatic firing mode, for Law Enforcement and Millitary use only.",
     "basePrice": 25197,
-    "avg24hPrice": 1095500,
-    "lastLowPrice": 1095500,
+    "avg24hPrice": 363648,
+    "lastLowPrice": 198000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CMMG_Mk47_Mutant_7.62x39_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/606587252535c57a13424cfd-icon.webp",
     "types": [
@@ -45821,8 +45821,8 @@
     "normalizedName": "ar-15-unique-ars-wing-skull-12-inch-handguard",
     "description": "The Wing & Skull 12 inch handguard for AR-15 weapon systems. Manufactured by Unique-ARs.",
     "basePrice": 50000,
-    "avg24hPrice": 64444,
-    "lastLowPrice": 50000,
+    "avg24hPrice": 46806,
+    "lastLowPrice": 46420,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Unique-ARs_Wing_%26_Skull_12_inch_handguard",
     "iconLink": "https://assets.tarkov.dev/6087e0336d0bd7580617bb7a-icon.webp",
     "types": [
@@ -45959,8 +45959,8 @@
     "normalizedName": "torrey-pines-logic-t12w-30hz-thermal-reflex-sight",
     "description": "A compact termal reflex sight with a low frequency. Manufactured by Torrey Pines Logic.",
     "basePrice": 75794,
-    "avg24hPrice": 87977,
-    "lastLowPrice": 70999,
+    "avg24hPrice": 79999,
+    "lastLowPrice": 79999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Torrey_Pines_Logic_T12W_30Hz_thermal_reflex_sight",
     "iconLink": "https://assets.tarkov.dev/609bab8b455afd752b2e6138-icon.webp",
     "types": [
@@ -45976,8 +45976,8 @@
     "normalizedName": "nfm-thor-concealable-reinforced-vest-body-armor",
     "description": "The THOR Concealable Reinforced Vest enables the overt or covert carrying of soft ballistic panels providing 360 degrees protection against high-speed fragments and handgun ammunition. Adding hard ballistic plates enables protection against rifle ammunition for the vital organs. The ergonomic shape of the soft ballistic panels and the position of the back plate combined with the integrated lumbar support belt provides comfort and stability close to the body’s center of mass. Manufactured by NFM.",
     "basePrice": 26097,
-    "avg24hPrice": 199998,
-    "lastLowPrice": 199998,
+    "avg24hPrice": 149876,
+    "lastLowPrice": 149876,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/NFM_THOR_Concealable_Reinforced_Vest_body_armor",
     "iconLink": "https://assets.tarkov.dev/609e8540d5c319764c2bc2e9-icon.webp",
     "types": [
@@ -46104,8 +46104,8 @@
     "normalizedName": "cqc-osprey-mk4a-plate-carrier-assault-mtp",
     "description": "The Osprey plate carrier is actively used by the British army and specialists. The Assault preset features a large amount of pouches for ammunition and grenades.",
     "basePrice": 49216,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 500000,
+    "lastLowPrice": 500000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CQC_Osprey_MK4A_plate_carrier_(Assault,_MTP)",
     "iconLink": "https://assets.tarkov.dev/60a3c70cde5f453f634816a3-icon.webp",
     "types": [
@@ -46265,8 +46265,8 @@
     "normalizedName": "can-of-ratcola-soda",
     "description": "Limited edition RatCola from the General Sam brand. The secret recipe of this cola still remains a mystery.",
     "basePrice": 23980,
-    "avg24hPrice": 60000,
-    "lastLowPrice": 60000,
+    "avg24hPrice": 51799,
+    "lastLowPrice": 39998,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_RatCola_soda",
     "iconLink": "https://assets.tarkov.dev/60b0f93284c20f0feb453da7-icon.webp",
     "types": [
@@ -46351,8 +46351,8 @@
     "normalizedName": "cmmg-mk47-mutant-762x39-assault-rifle-default",
     "description": null,
     "basePrice": 106051,
-    "avg24hPrice": 1095500,
-    "lastLowPrice": 1095500,
+    "avg24hPrice": 363648,
+    "lastLowPrice": 198000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CMMG_Mk47_Mutant_7.62x39_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/60b7d76e2a3c79100f1979de-icon.webp",
     "types": [
@@ -49484,8 +49484,8 @@
     "normalizedName": "military-corrugated-tube",
     "description": "A military-issued corrugated tube for ventilation systems of military equipment or air purification systems.",
     "basePrice": 21263,
-    "avg24hPrice": 64470,
-    "lastLowPrice": 41111,
+    "avg24hPrice": 88759,
+    "lastLowPrice": 87777,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_corrugated_tube",
     "iconLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-icon.webp",
     "types": [
@@ -50134,8 +50134,8 @@
     "normalizedName": "firstspear-strandhogg-plate-carrier-ranger-green",
     "description": "Taking its name from an Old Norse Viking term for a lightning raid, Strandhögg was one of the first formalized battle tactics to use covert infiltrators in advance of an actual raiding operation. Strandhögg was a tactical game-changer in its time, just like the technological advances FirstSpear is bringing forward in this line of plate carriers.",
     "basePrice": 36118,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 140000,
+    "lastLowPrice": 140000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FirstSpear_Strandhogg_plate_carrier_(Ranger_Green)",
     "iconLink": "https://assets.tarkov.dev/61bcc89aef0f505f0c6cd0fc-icon.webp",
     "types": [
@@ -50209,8 +50209,8 @@
     "normalizedName": "secure-magnetic-tape-cassette",
     "description": "The SMT special secure magnetic tape. Most likely contains important and valuable information. Magnetic media are still valued in information technology, including due to the high analog data reliability factor.",
     "basePrice": 145000,
-    "avg24hPrice": 158006,
-    "lastLowPrice": 105000,
+    "avg24hPrice": 112222,
+    "lastLowPrice": 89999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_magnetic_tape_cassette",
     "iconLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-icon.webp",
     "types": [
@@ -50265,8 +50265,8 @@
     "normalizedName": "sewing-kit",
     "description": "The simple \"Krasavchik\" sewing kit made to patch up clothes or create something new in the fashion world.",
     "basePrice": 38000,
-    "avg24hPrice": 90530,
-    "lastLowPrice": 55555,
+    "avg24hPrice": 85632,
+    "lastLowPrice": 53332,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sewing_kit",
     "iconLink": "https://assets.tarkov.dev/61bf83814088ec1a363d7097-icon.webp",
     "types": [
@@ -52215,8 +52215,8 @@
     "normalizedName": "schmidt-bender-pm-ii-5-25x56-34mm-riflescope",
     "description": "The Schmidt & Bender PM II 5-25x56 riflescope was originally created for elite military forces for high-quality target acquisition and pinpoint accuracy.",
     "basePrice": 95000,
-    "avg24hPrice": 89000,
-    "lastLowPrice": 89000,
+    "avg24hPrice": 119375,
+    "lastLowPrice": 80000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Schmidt_%26_Bender_PM_II_5-25x56_34mm_riflescope",
     "iconLink": "https://assets.tarkov.dev/62850c28da09541f43158cca-icon.webp",
     "types": [
@@ -52438,8 +52438,8 @@
     "normalizedName": "rifle-dynamics-rd-704-762x39-assault-rifle",
     "description": "Rifle Dynamics 704 assault rifle 7.62x39mm, an improved version of the AK system manufactured by Rifle Dynamics. The main difference from the standard AK: the design of the front part shifts the center of gravity closer to the receiver, which significantly improves the controllability of the weapon.",
     "basePrice": 45000,
-    "avg24hPrice": 133000,
-    "lastLowPrice": 125999,
+    "avg24hPrice": 141498,
+    "lastLowPrice": 120000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rifle_Dynamics_RD-704_7.62x39_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/628a60ae6b1d481ff772e9c8-icon.webp",
     "types": [
@@ -52863,8 +52863,8 @@
     "normalizedName": "eclipse-rbav-af-plate-carrier-ranger-green",
     "description": "The BAE ECLiPSE RBAV (Releasable Body Armor Vest, Air Force) variant is designed specifically for the Guardian Angel Weapon System (USAF PJ) and contains several new features not found in other versions.",
     "basePrice": 34271,
-    "avg24hPrice": 150000,
-    "lastLowPrice": 150000,
+    "avg24hPrice": 80000,
+    "lastLowPrice": 80000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/ECLiPSE_RBAV-AF_plate_carrier_(Ranger_Green)",
     "iconLink": "https://assets.tarkov.dev/628dc750b910320f4c27a732-icon.webp",
     "types": [
@@ -52917,8 +52917,8 @@
     "normalizedName": "peltor-comtac-iv-hybrid-headset-coyote-brown",
     "description": "The ComTac IV Hybrid Communication Headset is designed to help reduce exposure to hazardous levels of noise, improve situational awareness and at the same time enable two-way radio communication in noisy environments. The headset's electronics are contained completely inside the headset housing, eliminating the need for a large, heavy external radio control box. The headband mechanically stabilizes the headset to help relieve issues of earplugs dislodging from cable snags and body movement. Designed for comfortable use with a ballistic helmet.",
     "basePrice": 79350,
-    "avg24hPrice": 149569,
-    "lastLowPrice": 133999,
+    "avg24hPrice": 155555,
+    "lastLowPrice": 150000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Peltor_ComTac_IV_Hybrid_headset_(Coyote_Brown)",
     "iconLink": "https://assets.tarkov.dev/628e4e576d783146b124c64d-icon.webp",
     "types": [
@@ -52987,8 +52987,8 @@
     "normalizedName": "rifle-dynamics-rd-704-762x39-assault-rifle-default",
     "description": null,
     "basePrice": 102338,
-    "avg24hPrice": 133000,
-    "lastLowPrice": 125999,
+    "avg24hPrice": 141498,
+    "lastLowPrice": 120000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rifle_Dynamics_RD-704_7.62x39_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/62972a7d91492d1a34152fbe-icon.webp",
     "types": [
@@ -53227,8 +53227,8 @@
     "normalizedName": "conference-room-key",
     "description": "A key that opens the conference room, located somewhere on the Lighthouse peninsula territory.",
     "basePrice": 57000,
-    "avg24hPrice": 54481,
-    "lastLowPrice": 38887,
+    "avg24hPrice": 45000,
+    "lastLowPrice": 40000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Conference_room_key",
     "iconLink": "https://assets.tarkov.dev/62987cb98081af308d7558c8-icon.webp",
     "types": [
@@ -53261,8 +53261,8 @@
     "normalizedName": "shared-bedroom-marked-key",
     "description": "A key that opens the shared bedroom, located somewhere on the Lighthouse peninsula territory. It has some strange symbols scratched onto it.",
     "basePrice": 250000,
-    "avg24hPrice": 318835,
-    "lastLowPrice": 200000,
+    "avg24hPrice": 268444,
+    "lastLowPrice": 210000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Shared_bedroom_marked_key",
     "iconLink": "https://assets.tarkov.dev/62987dfc402c7f69bf010923-icon.webp",
     "types": [
@@ -53312,8 +53312,8 @@
     "normalizedName": "axel-parrot-figurine",
     "description": "A figurine of Axel - the Lab Parrot.",
     "basePrice": 51000,
-    "avg24hPrice": 117000,
-    "lastLowPrice": 47999,
+    "avg24hPrice": 82578,
+    "lastLowPrice": 60000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Axel_parrot_figurine",
     "iconLink": "https://assets.tarkov.dev/62a091170b9d3c46de5b6cf2-icon.webp",
     "types": [
@@ -53380,8 +53380,8 @@
     "normalizedName": "drd-body-armor",
     "description": "A light but durable and reliable body armor. Special edition from the one and only Dr. Disrespect. Ruthless!",
     "basePrice": 55802,
-    "avg24hPrice": 156417,
-    "lastLowPrice": 45000,
+    "avg24hPrice": 250000,
+    "lastLowPrice": 250000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DRD_body_armor",
     "iconLink": "https://assets.tarkov.dev/62a09d79de7ac81993580530-icon.webp",
     "types": [
@@ -54001,8 +54001,8 @@
     "normalizedName": "steyr-aug-a1-556x45-assault-rifle",
     "description": "Steyr AUG A1 is a 5.56x45 bullpup assault rifle, developed by the Austrian company Steyr-Daimler-Puch. AUG is known for good ergonomics, decent accuracy, low recoil and sufficient reliability. The rifle also stands out for its futuristic design.",
     "basePrice": 26230,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 91997,
+    "lastLowPrice": 88000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A1_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/62e7c4fba689e8c9c50dfc38-icon.webp",
     "types": [
@@ -55166,8 +55166,8 @@
     "normalizedName": "perfotoran-blue-blood-stimulant-injector",
     "description": "A blood substitute with the function of oxygen transfer, used as a powerful antidote capable of relieving toxins, poisons, and radiation damage. It was developed by Soviet scientists in the 1980s. It is a submicron emulsion based on PFO compounds. Once in the blood, it temporarily speeds up the metabolism and regenerates tissues. Negatively affects health in case of overdose or rejection.",
     "basePrice": 66000,
-    "avg24hPrice": 167533,
-    "lastLowPrice": 115555,
+    "avg24hPrice": 152777,
+    "lastLowPrice": 120000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Perfotoran_(Blue_Blood)_stimulant_injector",
     "iconLink": "https://assets.tarkov.dev/637b6251104668754b72f8f9-icon.webp",
     "types": [
@@ -55358,8 +55358,8 @@
     "normalizedName": "ar-15-griffin-armament-m4sd-k-556x45-sound-suppressor",
     "description": "The M4SD-K sound suppressor, designed for use with 5.56x45 caliber weapon systems. Can only be installed on the SDQD mounting interface flash hiders. Manufactured by Griffin Armament.",
     "basePrice": 77000,
-    "avg24hPrice": 309364,
-    "lastLowPrice": 255555,
+    "avg24hPrice": 367500,
+    "lastLowPrice": 299999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Griffin_Armament_M4SD-K_5.56x45_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/638612b607dfed1ccb7206ba-icon.webp",
     "types": [
@@ -55898,8 +55898,8 @@
     "normalizedName": "steyr-aug-a1-556x45-assault-rifle-default",
     "description": null,
     "basePrice": 67697,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 91997,
+    "lastLowPrice": 88000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A1_5.56x45_assault_rifle",
     "iconLink": "https://assets.tarkov.dev/6398636bb483a550805be5e5-icon.webp",
     "types": [
@@ -56216,8 +56216,8 @@
     "normalizedName": "concordia-security-room-key",
     "description": "A key to the security room inside the Concordia building.",
     "basePrice": 72421,
-    "avg24hPrice": 53861,
-    "lastLowPrice": 49890,
+    "avg24hPrice": 126852,
+    "lastLowPrice": 56666,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Concordia_security_room_key",
     "iconLink": "https://assets.tarkov.dev/63a39c7964283b5e9c56b280-icon.webp",
     "types": [
@@ -56387,8 +56387,8 @@
     "normalizedName": "pinewood-hotel-room-215-key",
     "description": "A key to one of the rooms inside the Pinewood hotel.",
     "basePrice": 17175,
-    "avg24hPrice": 500000,
-    "lastLowPrice": 500000,
+    "avg24hPrice": 206292,
+    "lastLowPrice": 168876,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pinewood_hotel_room_215_key",
     "iconLink": "https://assets.tarkov.dev/63a39f08cd6db0635c197600-icon.webp",
     "types": [
@@ -56438,8 +56438,8 @@
     "normalizedName": "chekannaya-15-apartment-key",
     "description": "A key to one of the apartments located at Chekannaya 15.",
     "basePrice": 1500000,
-    "avg24hPrice": 1446244,
-    "lastLowPrice": 1222222,
+    "avg24hPrice": 3124391,
+    "lastLowPrice": 2349999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chekannaya_15_apartment_key",
     "iconLink": "https://assets.tarkov.dev/63a39fc0af870e651d58e6ae-icon.webp",
     "types": [
@@ -56455,8 +56455,8 @@
     "normalizedName": "stair-landing-key",
     "description": "A key to the one of the stair landings of the Chekannaya Street 15 building.",
     "basePrice": 9774,
-    "avg24hPrice": 150000,
-    "lastLowPrice": 120000,
+    "avg24hPrice": 113472,
+    "lastLowPrice": 75000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stair_landing_key",
     "iconLink": "https://assets.tarkov.dev/63a39fd1c9b3aa4b61683efb-icon.webp",
     "types": [
@@ -56472,8 +56472,8 @@
     "normalizedName": "cargo-container-mesh-door-key",
     "description": "A key to the metal gate in one of the shipping containers.",
     "basePrice": 20844,
-    "avg24hPrice": 200000,
-    "lastLowPrice": 200000,
+    "avg24hPrice": 140370,
+    "lastLowPrice": 99000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cargo_container_mesh_door_key",
     "iconLink": "https://assets.tarkov.dev/63a39fdf1e21260da44a0256-icon.webp",
     "types": [
@@ -56523,8 +56523,8 @@
     "normalizedName": "concordia-apartment-64-office-room-key",
     "description": "A key to the office room of the premium apartment inside the Concordia building.",
     "basePrice": 65812,
-    "avg24hPrice": 305185,
-    "lastLowPrice": 180000,
+    "avg24hPrice": 273666,
+    "lastLowPrice": 223000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Concordia_apartment_64_office_room_key",
     "iconLink": "https://assets.tarkov.dev/63a71e86b7f4570d3a293169-icon.webp",
     "types": [
@@ -56659,8 +56659,8 @@
     "normalizedName": "ar-15-ballistic-advantage-lo-pro-gas-block",
     "description": "A Low-profile gas block for AR-15 system barrels. Manufactured by Ballistic Advantage.",
     "basePrice": 6756,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 79444,
+    "lastLowPrice": 69999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AR-15_Ballistic_Advantage_Lo-Pro_Gas_Block",
     "iconLink": "https://assets.tarkov.dev/63d3ce281fe77d0f2801859e-icon.webp",
     "types": [
@@ -57620,8 +57620,8 @@
     "normalizedName": "rtm-pillau-tactical-foregrip-sand",
     "description": "A lightweight aluminum tactical grip manufactured by RTM. Sand version.",
     "basePrice": 3325,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 10000,
+    "lastLowPrice": 10000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RTM_Osovets_P-2_tactical_foregrip",
     "iconLink": "https://assets.tarkov.dev/648067db042be0705c0b3009-icon.webp",
     "types": [
@@ -59257,8 +59257,8 @@
     "normalizedName": "762x39mm-pp-gzh-ammo-pack-20-pcs",
     "description": "A 20-round package of 7.62x39 PP gzh cartridges.",
     "basePrice": 15200,
-    "avg24hPrice": 200000,
-    "lastLowPrice": 200000,
+    "avg24hPrice": 150000,
+    "lastLowPrice": 150000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm_PP_gzh_ammo_pack_(20_pcs)",
     "iconLink": "https://assets.tarkov.dev/64ace9f9c4eda9354b0226aa-icon.webp",
     "types": [
@@ -60018,7 +60018,7 @@
     "id": "64cbe20d5aa0a53ad12f96c9",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
     "description": null,
     "basePrice": 177750,
     "avg24hPrice": null,
@@ -60036,7 +60036,7 @@
     "id": "64ccaa66ad8a0956023901b6",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
     "description": null,
     "basePrice": 176637,
     "avg24hPrice": null,
@@ -60918,8 +60918,8 @@
     "normalizedName": "mcx-spear-slx68-mg-qd-68x51-sound-suppressor",
     "description": "The SLX68-MG-QD suppressor is designed for use with the 6.8x51 (.277 FURY) caliber cartridge. Can only be mounted on Clutch-Lok flash hiders. Manufactured by SIG Sauer.",
     "basePrice": 50025,
-    "avg24hPrice": 99720,
-    "lastLowPrice": 55456,
+    "avg24hPrice": 92500,
+    "lastLowPrice": 89999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MCX-SPEAR_SLX68-MG-QD_6.8x51_sound_suppressor",
     "iconLink": "https://assets.tarkov.dev/652911e650dc782999054b9d-icon.webp",
     "types": [
@@ -61482,8 +61482,8 @@
     "normalizedName": "ryzhy-figurine",
     "description": "The Tarko collectible figure of a Scav called Ryzhy. Having heard of the adventures of the well-known in certain circles Ryzhy, the unknown craftsman created this figurine.",
     "basePrice": 50000,
-    "avg24hPrice": 132000,
-    "lastLowPrice": 100000,
+    "avg24hPrice": 120000,
+    "lastLowPrice": 110000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ryzhy_figurine",
     "iconLink": "https://assets.tarkov.dev/655c67782a1356436041c9c5-icon.webp",
     "types": [
@@ -61550,8 +61550,8 @@
     "normalizedName": "stark-se-5-express-forward-foregrip-fde",
     "description": "The Stark SE-5 Express Forward tactical grip enables a more natural grip against the barrel axis. Thanks to that, it reduces recoil and improves the weapon control. Flat Dark Earth version.",
     "basePrice": 14823,
-    "avg24hPrice": 104429,
-    "lastLowPrice": 85123,
+    "avg24hPrice": 88883,
+    "lastLowPrice": 77777,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stark_SE-5_Express_Forward_foregrip",
     "iconLink": "https://assets.tarkov.dev/655df24fdf80b12750626d0a-icon.webp",
     "types": [
@@ -61670,8 +61670,8 @@
     "normalizedName": "sig-sauer-tango6t-1-6x24-30mm-riflescope",
     "description": "The TANGO6T is a rugged and well-built low power variable optic. This model features a 1x to 6x magnification and a first focal plane reticle. This rifle scope is ideal for short and medium distances, as well as for backcountry hunting. Manufactured by SIG Sauer.",
     "basePrice": 68601,
-    "avg24hPrice": 132262,
-    "lastLowPrice": 110000,
+    "avg24hPrice": 147621,
+    "lastLowPrice": 98888,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SIG_Sauer_TANGO6T_1-6x24_30mm_riflescope",
     "iconLink": "https://assets.tarkov.dev/6567e7681265c8a131069b0f-icon.webp",
     "types": [
@@ -61866,8 +61866,8 @@
     "normalizedName": "6b33-ballistic-plate-front",
     "description": "An armored steel plate for torso front pouch of Zhuk, Gzhel, 6B13, 6B23-2 bulletproof vests.",
     "basePrice": 15207,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 22500,
+    "lastLowPrice": 20000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/6B33_ballistic_plate_(Front)",
     "iconLink": "https://assets.tarkov.dev/656f603f94b480b8a500c0d6-icon.webp",
     "types": [
@@ -61989,8 +61989,8 @@
     "normalizedName": "global-armors-steel-ballistic-plate",
     "description": "An armored steel plate for torso front and back pouches of plate carrier.",
     "basePrice": 16079,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 200000,
+    "lastLowPrice": 200000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Global_Armor%E2%80%99s_Steel_ballistic_plate",
     "iconLink": "https://assets.tarkov.dev/656fa0fb498d1b7e3e071d9c-icon.webp",
     "types": [
@@ -65860,8 +65860,8 @@
     "normalizedName": "negotiation-room-key",
     "description": "A key to the room for important meetings inside one of the city offices.",
     "basePrice": 15679,
-    "avg24hPrice": 52938,
-    "lastLowPrice": 42420,
+    "avg24hPrice": 110000,
+    "lastLowPrice": 70000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/%22Negotiation%22_room_key",
     "iconLink": "https://assets.tarkov.dev/6582dbe43a2e5248357dbe9a-icon.webp",
     "types": [
@@ -67039,7 +67039,7 @@
     "gridImageLink": "https://assets.tarkov.dev/66507eabf5ddb0818b085b68-grid-image.webp",
     "craftsFor": [
       {
-        "id": "6671d4fef3bee343f5000703",
+        "id": "66509e8c9398c9c9e10a31bb",
         "station": {
           "name": "Medstation"
         },
@@ -67071,7 +67071,7 @@
         ]
       },
       {
-        "id": "66509e8c9398c9c9e10a31bb",
+        "id": "6671d4fef3bee343f5000703",
         "station": {
           "name": "Medstation"
         },
@@ -67235,8 +67235,8 @@
     "normalizedName": "reshala-figurine",
     "description": "A limited edition Tarko figurine. A lover of expensive watches and golden handguns. Knows how to roundhouse kick. All bark and no bite.",
     "basePrice": 100000,
-    "avg24hPrice": 178680,
-    "lastLowPrice": 120000,
+    "avg24hPrice": 134875,
+    "lastLowPrice": 114999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Reshala_figurine",
     "iconLink": "https://assets.tarkov.dev/66572be36a723f7f005a066e-icon.webp",
     "types": [
@@ -67296,26 +67296,6 @@
     "gridImageLink": "https://assets.tarkov.dev/665730fa4de4820934746c48-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67c9d54b017035dd060bff5e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked equipment crate (Rare)"
-            }
-          }
-        ]
-      },
-      {
         "id": "6666d899eb78191c502350b2",
         "station": {
           "name": "Workbench"
@@ -67337,6 +67317,26 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked equipment crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67c9d54b017035dd060bff5e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
             }
           },
           {
@@ -67436,6 +67436,26 @@
     "gridImageLink": "https://assets.tarkov.dev/665732f4464c4b4ba4670fa9-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d4b251ce173bff01eec7",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked supply crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
         "id": "6666d829a8298779fc40e537",
         "station": {
           "name": "Workbench"
@@ -67466,26 +67486,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "67c9d4b251ce173bff01eec7",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked supply crate (Rare)"
-            }
-          }
-        ]
       }
     ]
   },
@@ -67505,26 +67505,6 @@
     ],
     "gridImageLink": "https://assets.tarkov.dev/66573310a1657263d816a139-grid-image.webp",
     "craftsFor": [
-      {
-        "id": "67c9d447b53b0fcf1d0bb0ab",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "count": 1,
-            "item": {
-              "name": "Hand drill"
-            }
-          },
-          {
-            "count": 1,
-            "item": {
-              "name": "Locked valuables crate (Rare)"
-            }
-          }
-        ]
-      },
       {
         "id": "6666d7ea0b734650a91d0a42",
         "station": {
@@ -67547,6 +67527,26 @@
             "count": 1,
             "item": {
               "name": "Pliers Elite"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "name": "Locked valuables crate (Rare)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67c9d447b53b0fcf1d0bb0ab",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "count": 1,
+            "item": {
+              "name": "Hand drill"
             }
           },
           {
@@ -67986,8 +67986,8 @@
     "normalizedName": "iwi-uzi-pro-pistol-9x19-submachine-gun",
     "description": "The UZI PRO Pistol (UPP9S) is a fully automatic conversion of the 9x19mm Parabellum submachine gun for law enforcement and military use. This ultra-compact submachine gun is an evolution of the full-size UZI submachine gun, ideal for concealed carry and featuring a high rate of fire. Manufactured by Israel Weapon Industries.",
     "basePrice": 19523,
-    "avg24hPrice": 70000,
-    "lastLowPrice": 70000,
+    "avg24hPrice": 232029,
+    "lastLowPrice": 66666,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/IWI_UZI_PRO_Pistol_9x19_submachine_gun",
     "iconLink": "https://assets.tarkov.dev/6680304edadb7aa61d00cef0-icon.webp",
     "types": [
@@ -69504,8 +69504,8 @@
     "normalizedName": "iwi-uzi-pro-pistol-9x19-submachine-gun-default",
     "description": null,
     "basePrice": 31291,
-    "avg24hPrice": 70000,
-    "lastLowPrice": 70000,
+    "avg24hPrice": 232029,
+    "lastLowPrice": 66666,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/IWI_UZI_PRO_Pistol_9x19_submachine_gun",
     "iconLink": "https://assets.tarkov.dev/66b091116f11600e4e48badd-icon.webp",
     "types": [
@@ -69761,8 +69761,8 @@
     "normalizedName": "viibiin-sneaker",
     "description": "A single Viibiin brand sneaker. Wonder where the other one is.",
     "basePrice": 56745,
-    "avg24hPrice": 108586,
-    "lastLowPrice": 87777,
+    "avg24hPrice": 94250,
+    "lastLowPrice": 65000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Viibiin_sneaker",
     "iconLink": "https://assets.tarkov.dev/66b37eb4acff495a29492407-icon.webp",
     "types": [
@@ -69882,7 +69882,7 @@
     "normalizedName": "safariland-liberator-hp-20-hearing-protection-headset-fde",
     "description": "A next generation low-profile active headset, designed to protect the user's hearing from external factors. Manufactured by Safariland. Flat Dark Earth version.",
     "basePrice": 42345,
-    "avg24hPrice": 80000,
+    "avg24hPrice": 122222,
     "lastLowPrice": 80000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Safariland_Liberator_HP_2.0_Hearing_Protection_Headset_(FDE)",
     "iconLink": "https://assets.tarkov.dev/66b5f68de98be930d701c00e-icon.webp",
@@ -69900,8 +69900,8 @@
     "normalizedName": "peltor-comtac-v-headset-od-green",
     "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. OD Green color version.",
     "basePrice": 64535,
-    "avg24hPrice": 100000,
-    "lastLowPrice": 100000,
+    "avg24hPrice": 165185,
+    "lastLowPrice": 144444,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Peltor_ComTac_V_headset_(OD_Green)",
     "iconLink": "https://assets.tarkov.dev/66b5f693acff495a294927e3-icon.webp",
     "types": [
@@ -69954,8 +69954,8 @@
     "normalizedName": "tw-exfil-peltor-comtac-vi-headset-coyote-brown",
     "description": "An improved version of the ComTac V communication headset, equipped with advanced environmental listening settings and an NIB (Natural Interaction Behavior) feature, allowing to communicate with other ComTac VI users in a certain proximity without having to use radios. Equipped with a mount for attaching the headset to Team Wendy EXFIL helmets. Manufactured by 3M Peltor. Coyote Brown version.",
     "basePrice": 68920,
-    "avg24hPrice": 95216,
-    "lastLowPrice": 65555,
+    "avg24hPrice": 76666,
+    "lastLowPrice": 69999,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TW_EXFIL_Peltor_ComTac_VI_headset_(Coyote_Brown)",
     "iconLink": "https://assets.tarkov.dev/66b5f6a28ca68c6461709ed8-icon.webp",
     "types": [
@@ -69990,8 +69990,8 @@
     "normalizedName": "tasmanian-tiger-plate-carrier-mkiii-coyote-brown",
     "description": "A lightweight low-profile plate carrier designed to fit SAPI plates. Manufactured by Tasmanian Tiger. Coyote Brown version.",
     "basePrice": 132155,
-    "avg24hPrice": 132778,
-    "lastLowPrice": 99999,
+    "avg24hPrice": 100000,
+    "lastLowPrice": 100000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tasmanian_Tiger_Plate_Carrier_MKIII_(Coyote_Brown)",
     "iconLink": "https://assets.tarkov.dev/66b6295a8ca68c6461709efa-icon.webp",
     "types": [
@@ -71888,8 +71888,8 @@
     "normalizedName": "6b47-ratnik-bsh-helmet-emr-arctic-cover",
     "description": "6B47 is an aramid helmet of Russian origin. As part of the Ratnik program, it is the new standard-issue helmet for most of the Russian Armed Forces. The 6B47 is similar to previous generation helmets such as the 6B7-1M and 6B27. It has equal protection but weighs slightly less, floats in water, and has mounting equipment for lights and night vision devices. The helmet can be fitted with a variety of covers for different environments. Equipped with an arctic EMR camouflage cover.",
     "basePrice": 35675,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 44444,
+    "lastLowPrice": 44444,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/6B47_Ratnik-BSh_helmet_(EMR_Arctic_cover)",
     "iconLink": "https://assets.tarkov.dev/6745895717824b1ec20570a6-icon.webp",
     "types": [
@@ -72316,8 +72316,8 @@
     "normalizedName": "mtek-strike-ballistic-helmet-coyotemulticam-arid",
     "description": "A lightweight ergonomic helmet manufactured by MTEK. Coyote/MultiCam Arid version.",
     "basePrice": 103241,
-    "avg24hPrice": 118750,
-    "lastLowPrice": 95000,
+    "avg24hPrice": 92444,
+    "lastLowPrice": 84888,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MTEK_STRIKE_Ballistic_helmet_(Coyote/MultiCam_Arid)",
     "iconLink": "https://assets.tarkov.dev/67597d241d5a44f2f605df06-icon.webp",
     "types": [
@@ -72654,8 +72654,8 @@
     "normalizedName": "gunfight-poster",
     "description": "A poster for the action thriller Gunfight from the studio Battle Star. Years ago, cinemas used to have massive waiting lines for movie. Now all that's left are the posters. It's a nice reminder of the old days.",
     "basePrice": 50000,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 1350000,
+    "lastLowPrice": 1200000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunfight_poster",
     "iconLink": "https://assets.tarkov.dev/675a191f67c8eb5cd1035305-icon.webp",
     "types": [],
@@ -73206,8 +73206,8 @@
     "normalizedName": "sok-12-kiba-arms-zombie-custom-dust-cover",
     "description": "A receiver dust cover for the SOK-12 shotgun, modernized by Kiba Arms.",
     "basePrice": 7634,
-    "avg24hPrice": null,
-    "lastLowPrice": null,
+    "avg24hPrice": 69000,
+    "lastLowPrice": 69000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SOK-12_Kiba_Arms_Zombie_Custom_dust_cover",
     "iconLink": "https://assets.tarkov.dev/676017fe8cfeeba9f707c8d6-icon.webp",
     "types": [
@@ -73585,8 +73585,8 @@
     "normalizedName": "leupold-mark-5hd-5-25x56mm-35mm-riflescope-fde",
     "description": "The Mark 5HD 5-25x56 riflescope is known for being a lighter and more efficient optic than other scopes in its class. Featuring optical glass, full multi-coated lenses and an advanced light management system, the scope offers low-glare, high-contrast imaging. Installed on 35mm ring mounts. Manufactured by Leupold. Flat Dark Earth version.",
     "basePrice": 102529,
-    "avg24hPrice": 200000,
-    "lastLowPrice": 200000,
+    "avg24hPrice": 105525,
+    "lastLowPrice": 70000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Leupold_Mark_5HD_5-25x56mm_35mm_riflescope_(FDE)",
     "iconLink": "https://assets.tarkov.dev/676175789dcee773150c6925-icon.webp",
     "types": [
@@ -73774,8 +73774,8 @@
     "normalizedName": "ak-ak-evo-stock",
     "description": "A new polymer buttstock for the modern AK platform folding weapons. Manufactured by Kalashnikov Concern.",
     "basePrice": 21523,
-    "avg24hPrice": 120370,
-    "lastLowPrice": 99999,
+    "avg24hPrice": 133333,
+    "lastLowPrice": 133333,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK_AK-EVO_stock",
     "iconLink": "https://assets.tarkov.dev/6761779c48fa5c377e06fc3f-icon.webp",
     "types": [
@@ -75943,8 +75943,8 @@
     "normalizedName": "f-1-hand-grenade-reduced-delay",
     "description": "The F-1 hand grenade (GRAU Index 57-G-721) is an anti-personnel fragmentation grenade, designed for neutralizing enemy personnel in defensive combat. This version is personally modified by Partisan and has a shortened fuze, intended for explosive tripwires.",
     "basePrice": 7300,
-    "avg24hPrice": 144321,
-    "lastLowPrice": 99999,
+    "avg24hPrice": 183000,
+    "lastLowPrice": 150000,
     "wikiLink": "https://escapefromtarkov.fandom.com/wiki/F-1_hand_grenade_(Reduced_delay)",
     "iconLink": "https://assets.tarkov.dev/67b49e7335dec48e3e05e057-icon.webp",
     "types": [
