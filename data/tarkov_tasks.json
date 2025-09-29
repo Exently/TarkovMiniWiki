@@ -17,6 +17,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "objectives": [
       {
         "description": "Locate the Emercom station on Ground Zero"
@@ -257,9 +260,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -291,6 +291,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "finishRewards": {
       "items": [
         {
@@ -312,9 +315,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -336,6 +336,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Ground Zero"
     },
     "startRewards": {
       "items": [
@@ -362,9 +365,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -402,6 +402,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "finishRewards": {
       "items": [
         {
@@ -423,9 +426,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -605,6 +605,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -643,9 +646,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -664,6 +664,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -716,9 +719,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -1045,6 +1045,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -1077,9 +1080,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -1281,6 +1281,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -1302,9 +1305,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -1407,6 +1407,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -1439,9 +1442,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -1460,6 +1460,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -1535,9 +1538,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -1667,6 +1667,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -1699,9 +1702,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -1862,6 +1862,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -1931,9 +1934,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2130,6 +2130,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -2162,9 +2165,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2188,6 +2188,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -2227,9 +2230,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -2253,6 +2253,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -2280,9 +2283,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -2404,6 +2404,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -2445,9 +2448,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2466,6 +2466,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -2523,9 +2526,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -2549,6 +2549,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -2603,9 +2606,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -2629,6 +2629,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -2668,9 +2671,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -2689,6 +2689,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -2738,9 +2741,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -2840,6 +2840,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -2872,9 +2875,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -3030,6 +3030,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -3092,9 +3095,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -3127,6 +3127,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -3178,9 +3181,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -3210,6 +3210,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -3247,9 +3250,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -3270,6 +3270,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -3307,9 +3310,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -3336,6 +3336,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -3381,9 +3384,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -4223,6 +4223,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -4255,9 +4258,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -4364,6 +4364,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -4396,9 +4399,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -4489,6 +4489,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -4533,9 +4536,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -4845,6 +4845,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -4893,9 +4896,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -5008,6 +5008,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -5075,9 +5078,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -5225,6 +5225,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -5263,9 +5266,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -5286,6 +5286,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -5329,9 +5332,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -5365,6 +5365,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -5397,9 +5400,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -5418,6 +5418,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -5476,9 +5479,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -5508,6 +5508,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -5541,9 +5544,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -5559,6 +5559,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -5627,9 +5630,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -5930,6 +5930,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -5969,9 +5972,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -6001,6 +6001,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -6044,9 +6047,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -6076,6 +6076,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -6110,9 +6113,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -6142,6 +6142,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -6175,9 +6178,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -6205,6 +6205,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Factory"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -6231,9 +6234,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -6260,6 +6260,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -6293,9 +6296,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -6335,6 +6335,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -6367,9 +6370,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -6393,6 +6393,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -6430,9 +6433,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -6460,6 +6460,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -6486,9 +6489,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -6515,6 +6515,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -6548,9 +6551,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -6785,6 +6785,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -6848,9 +6851,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -6924,6 +6924,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Factory"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -6978,9 +6981,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -7011,6 +7011,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -7037,9 +7040,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -7066,6 +7066,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -7099,9 +7102,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -7125,6 +7125,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -7170,9 +7173,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -7200,6 +7200,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -7226,9 +7229,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -7256,6 +7256,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -7282,9 +7285,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -7425,6 +7425,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -7451,9 +7454,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -7481,6 +7481,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -7507,9 +7510,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -7704,6 +7704,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -7742,9 +7745,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -7774,6 +7774,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -7807,9 +7810,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -7837,6 +7837,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -7863,9 +7866,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -8252,6 +8252,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Factory"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -8278,9 +8281,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -8305,6 +8305,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -8325,9 +8328,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -8346,6 +8346,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
     },
     "taskRequirements": [
       {
@@ -8394,9 +8397,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -8426,6 +8426,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -8465,9 +8468,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -8500,6 +8500,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -8545,9 +8548,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -8605,6 +8605,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Factory"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -8637,9 +8640,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -8663,6 +8663,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -8690,9 +8693,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -8719,6 +8719,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -8762,9 +8765,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -8780,6 +8780,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -8861,9 +8864,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -8891,6 +8891,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Factory"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -8917,9 +8920,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -9092,6 +9092,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -9118,9 +9121,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -9139,6 +9139,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -9208,9 +9211,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -9289,6 +9289,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -9369,9 +9372,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -9402,6 +9402,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -9428,9 +9431,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -9494,6 +9494,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -9562,9 +9565,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -9685,6 +9685,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -9711,9 +9714,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -9737,6 +9737,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -9764,9 +9767,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -9797,6 +9797,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -9823,9 +9826,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -9853,6 +9853,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -9879,9 +9882,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -9909,6 +9909,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -9935,9 +9938,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -9965,6 +9965,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -9991,9 +9994,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -10021,6 +10021,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -10047,9 +10050,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -10077,6 +10077,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -10103,9 +10106,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -10426,6 +10426,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -10458,9 +10461,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -10487,6 +10487,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -10520,9 +10523,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -10556,6 +10556,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -10577,9 +10580,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -10651,6 +10651,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -10678,9 +10681,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -10705,6 +10705,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -10725,9 +10728,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -10758,6 +10758,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -10784,9 +10787,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -10825,6 +10825,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -10870,9 +10873,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -10905,6 +10905,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -10944,9 +10947,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -10973,6 +10973,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -11006,9 +11009,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -11032,6 +11032,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -11066,9 +11069,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -11095,6 +11095,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -11138,9 +11141,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -11165,6 +11165,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -11185,9 +11188,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -11214,6 +11214,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -11253,9 +11256,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -11279,6 +11279,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -11313,9 +11316,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -11443,6 +11443,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -11506,9 +11509,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -11545,6 +11545,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -11577,9 +11580,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -11759,6 +11759,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -11791,9 +11794,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -12003,6 +12003,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Factory"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -12042,9 +12045,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -12642,6 +12642,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "The Labyrinth"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -12705,9 +12708,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "The Labyrinth"
     }
   },
   {
@@ -12726,6 +12726,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "The Labyrinth"
     },
     "taskRequirements": [
       {
@@ -12809,9 +12812,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "The Labyrinth"
     }
   },
   {
@@ -12841,6 +12841,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "The Labyrinth"
     },
     "taskRequirements": [
       {
@@ -12886,9 +12889,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "The Labyrinth"
     }
   },
   {
@@ -12915,6 +12915,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "The Labyrinth"
     },
     "taskRequirements": [
       {
@@ -12954,9 +12957,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "The Labyrinth"
     }
   },
   {
@@ -12980,6 +12980,9 @@
       "name": "Ragman",
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "The Labyrinth"
     },
     "taskRequirements": [
       {
@@ -13013,9 +13016,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "The Labyrinth"
     }
   },
   {
@@ -13034,6 +13034,9 @@
       "name": "Lightkeeper",
       "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
       "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
+    },
+    "map": {
+      "name": "The Labyrinth"
     },
     "taskRequirements": [
       {
@@ -13168,9 +13171,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "The Labyrinth"
     }
   },
   {
@@ -13200,6 +13200,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -13233,9 +13236,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -13269,6 +13269,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -13289,9 +13292,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -13322,6 +13322,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -13343,9 +13346,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -13369,6 +13369,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -13396,9 +13399,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -13486,6 +13486,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -13512,9 +13515,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -13554,6 +13554,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -13580,9 +13583,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -13606,6 +13606,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -13645,9 +13648,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -13675,6 +13675,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -13696,9 +13699,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -13726,6 +13726,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -13746,9 +13749,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -13776,6 +13776,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -13802,9 +13805,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -13977,6 +13977,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -14003,9 +14006,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -14045,6 +14045,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -14071,9 +14074,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -14101,6 +14101,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -14127,9 +14130,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -14157,6 +14157,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -14183,9 +14186,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -14294,6 +14294,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -14330,9 +14333,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -14360,6 +14360,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -14386,9 +14389,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -14416,6 +14416,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -14442,9 +14445,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -14460,6 +14460,9 @@
       "name": "Ragman",
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -14571,9 +14574,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -14606,6 +14606,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -14648,9 +14651,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -14680,6 +14680,9 @@
       "name": "Therapist",
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -14722,9 +14725,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -14754,6 +14754,9 @@
       "name": "Ragman",
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "Interchange"
     },
     "taskRequirements": [
       {
@@ -14790,9 +14793,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -14831,6 +14831,9 @@
       "name": "Ragman",
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "Interchange"
     },
     "taskRequirements": [
       {
@@ -14879,9 +14882,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -14900,6 +14900,9 @@
       "name": "Ragman",
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -14996,9 +14999,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -15022,6 +15022,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -15055,9 +15058,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -15133,6 +15133,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -15213,9 +15216,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -15242,6 +15242,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
     },
     "taskRequirements": [
       {
@@ -15275,9 +15278,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -15302,6 +15302,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -15322,9 +15325,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -15358,6 +15358,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -15390,9 +15393,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -15432,6 +15432,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -15470,9 +15473,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -15548,6 +15548,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -15574,9 +15577,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -15788,6 +15788,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -15814,9 +15817,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -15832,6 +15832,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -15877,9 +15880,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -15913,6 +15913,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -15945,9 +15948,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -15978,6 +15978,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -15998,9 +16001,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -16027,6 +16027,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -16072,9 +16075,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -16099,6 +16099,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -16119,9 +16122,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -16152,6 +16152,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -16178,9 +16181,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -16288,6 +16288,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -16326,9 +16329,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16358,6 +16358,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -16397,9 +16400,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16430,6 +16430,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -16456,9 +16459,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16486,6 +16486,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -16506,9 +16509,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16536,6 +16536,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -16562,9 +16565,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -16583,6 +16583,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
     },
     "taskRequirements": [
       {
@@ -16638,9 +16641,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -16885,6 +16885,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -16911,9 +16914,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -16947,6 +16947,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -16979,9 +16982,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -17058,6 +17058,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Night Factory"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -17099,9 +17102,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Night Factory"
     }
   },
   {
@@ -17125,6 +17125,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Reserve"
     },
     "taskRequirements": [
       {
@@ -17158,9 +17161,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -17231,6 +17231,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -17275,9 +17278,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -17305,6 +17305,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Factory"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -17331,9 +17334,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -17367,6 +17367,9 @@
       "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
       "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -17399,9 +17402,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -17425,6 +17425,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -17458,9 +17461,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -17538,6 +17538,9 @@
       "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
       "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -17588,9 +17591,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -58299,6 +58299,9 @@
       "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
       "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -58347,9 +58350,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -58591,6 +58591,9 @@
       "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
       "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -58623,9 +58626,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -58653,6 +58653,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -58679,9 +58682,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero"
     }
   },
   {
@@ -58835,6 +58835,9 @@
       "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
       "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -58862,9 +58865,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -58883,6 +58883,9 @@
       "name": "BTR Driver",
       "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
       "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -58954,9 +58957,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -58980,6 +58980,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -59008,9 +59011,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -59034,6 +59034,9 @@
       "name": "BTR Driver",
       "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
       "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -59061,9 +59064,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -59166,6 +59166,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -59214,9 +59217,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -59235,6 +59235,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -59633,9 +59636,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -72973,6 +72973,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -73011,9 +73014,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -73029,6 +73029,9 @@
       "name": "Ref",
       "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
       "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -73124,9 +73127,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -73222,6 +73222,9 @@
       "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
       "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
     },
+    "map": {
+      "name": "Ground Zero 21+"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -73272,9 +73275,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Ground Zero 21+"
     }
   },
   {
@@ -73663,6 +73663,9 @@
       "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
       "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -73701,9 +73704,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -73734,6 +73734,9 @@
       "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
       "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -73760,9 +73763,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -74329,6 +74329,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -74376,9 +74379,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -74405,6 +74405,9 @@
       "name": "Ragman",
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -74441,9 +74444,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -74697,6 +74697,9 @@
       "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
       "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -74771,9 +74774,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -74807,6 +74807,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -74839,9 +74842,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -74871,6 +74871,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -74910,9 +74913,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -75065,6 +75065,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -75097,9 +75100,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -75115,6 +75115,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -75196,9 +75199,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -75222,6 +75222,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -75261,9 +75264,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75287,6 +75287,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -75326,9 +75329,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75352,6 +75352,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -75385,9 +75388,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75615,6 +75615,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -75635,9 +75638,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -75740,6 +75740,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -75778,9 +75781,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -75805,6 +75805,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -75825,9 +75828,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -76141,6 +76141,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -76179,9 +76182,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -76208,6 +76208,9 @@
       "name": "Skier",
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -76247,9 +76250,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -76279,6 +76279,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -76318,9 +76321,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -76347,6 +76347,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -76389,9 +76392,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -76415,6 +76415,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
     },
     "taskRequirements": [
       {
@@ -76472,9 +76475,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -76502,6 +76502,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -76528,9 +76531,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -76619,6 +76619,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -76675,9 +76678,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -76707,6 +76707,9 @@
       "name": "Peacekeeper",
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "The Lab"
     },
     "taskRequirements": [
       {
@@ -76756,9 +76759,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "The Lab"
     }
   },
   {
@@ -76789,6 +76789,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -76815,9 +76818,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -77029,6 +77029,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -77079,9 +77082,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -77239,6 +77239,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -77265,9 +77268,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -77838,6 +77838,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -77859,9 +77862,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -78126,6 +78126,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -78180,9 +78183,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -78469,6 +78469,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -78513,9 +78516,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -78542,6 +78542,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -78575,9 +78578,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -78652,6 +78652,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -78687,9 +78690,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -78910,6 +78910,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -78951,9 +78954,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -78981,6 +78981,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -79001,9 +79004,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -79037,6 +79037,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -79063,9 +79066,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -79136,6 +79136,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -79189,9 +79192,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -79212,6 +79212,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -79274,9 +79277,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -79304,6 +79304,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -79330,9 +79333,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -79606,6 +79606,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "The Lab"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -79648,9 +79651,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "The Lab"
     }
   },
   {
@@ -79671,6 +79671,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -79714,9 +79717,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -79802,6 +79802,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -79840,9 +79843,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -79954,6 +79954,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -79992,9 +79995,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -80274,6 +80274,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -80300,9 +80303,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -80490,6 +80490,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -80522,9 +80525,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -80591,6 +80591,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -80611,9 +80614,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -80776,6 +80776,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -80834,9 +80837,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -80952,6 +80952,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -81029,9 +81032,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -81144,6 +81144,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -81170,9 +81173,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -81330,6 +81330,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -81350,9 +81353,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -81371,6 +81371,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
     },
     "taskRequirements": [
       {
@@ -81438,9 +81441,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -81691,6 +81691,9 @@
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -81717,9 +81720,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -81901,6 +81901,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -81955,9 +81958,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -81978,6 +81978,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
     },
     "taskRequirements": [
       {
@@ -82027,9 +82030,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -82105,6 +82105,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Interchange"
     },
     "taskRequirements": [
       {
@@ -82192,9 +82195,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -82371,6 +82371,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -82391,9 +82394,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -82475,6 +82475,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -82513,9 +82516,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -82539,6 +82539,9 @@
       "name": "Jaeger",
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -82573,9 +82576,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -82594,6 +82594,9 @@
       "name": "Ragman",
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
     },
     "taskRequirements": [
       {
@@ -82646,9 +82649,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -82790,6 +82790,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -82816,9 +82819,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -82852,6 +82852,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -82872,9 +82875,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -82902,6 +82902,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -82912,10 +82915,7 @@
           "name": "Network Provider - Part 2"
         }
       }
-    ],
-    "map": {
-      "name": "Lighthouse"
-    }
+    ]
   },
   {
     "id": "625d6fff4149f1149b5b12c9",
@@ -82951,6 +82951,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -82961,10 +82964,7 @@
           "name": "Assessment - Part 1"
         }
       }
-    ],
-    "map": {
-      "name": "Woods"
-    }
+    ]
   },
   {
     "id": "625d7001c4874104f230c0c5",
@@ -82985,6 +82985,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "The Lab"
     },
     "taskRequirements": [
       {
@@ -83031,10 +83034,7 @@
           }
         ]
       }
-    ],
-    "map": {
-      "name": "The Lab"
-    }
+    ]
   },
   {
     "id": "625d70031ed3bb5bcc5bd9e5",
@@ -83055,6 +83055,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
     },
     "taskRequirements": [
       {
@@ -83124,10 +83127,7 @@
       {
         "description": "Hand over the Radio transmitter body"
       }
-    ],
-    "map": {
-      "name": "Lighthouse"
-    }
+    ]
   },
   {
     "id": "625d7005a4eb80027c4f2e09",
@@ -83154,6 +83154,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -83174,9 +83177,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -83198,6 +83198,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
     },
     "taskRequirements": [
       {
@@ -83230,10 +83233,7 @@
       {
         "description": "Visit the Lighthouse building"
       }
-    ],
-    "map": {
-      "name": "Lighthouse"
-    }
+    ]
   },
   {
     "id": "626148251ed3bb5bcc5bd9ed",
@@ -83354,6 +83354,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -83380,9 +83383,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -83404,6 +83404,9 @@
       "name": "Mechanic",
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
     },
     "taskRequirements": [
       {
@@ -83436,10 +83439,7 @@
       {
         "description": "Visit the Lighthouse building"
       }
-    ],
-    "map": {
-      "name": "Lighthouse"
-    }
+    ]
   },
   {
     "id": "63966faeea19ac7ed845db2c",
@@ -83532,6 +83532,9 @@
       "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
       "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -83552,9 +83555,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -83657,6 +83657,9 @@
       "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
       "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -83695,9 +83698,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -83716,6 +83716,9 @@
       "name": "Lightkeeper",
       "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
       "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
+    },
+    "map": {
+      "name": "Woods"
     },
     "taskRequirements": [
       {
@@ -83762,9 +83765,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -83783,6 +83783,9 @@
       "name": "Lightkeeper",
       "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
       "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
+    },
+    "map": {
+      "name": "Interchange"
     },
     "taskRequirements": [
       {
@@ -83848,9 +83851,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -83927,6 +83927,9 @@
       "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
       "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -83978,9 +83981,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -84071,6 +84071,9 @@
       "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
       "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -84091,9 +84094,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -84270,6 +84270,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -84322,10 +84325,7 @@
           }
         ]
       }
-    ],
-    "map": {
-      "name": "Lighthouse"
-    }
+    ]
   },
   {
     "id": "62614836f7308432be1d44cc",
@@ -84352,6 +84352,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -84362,10 +84365,7 @@
           "name": "Make Amends - Security"
         }
       }
-    ],
-    "map": {
-      "name": "Reserve"
-    }
+    ]
   },
   {
     "id": "6391d912f8e5dd32bf4e3ab2",
@@ -84486,6 +84486,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "The Lab"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -84508,10 +84511,7 @@
           }
         ]
       }
-    ],
-    "map": {
-      "name": "The Lab"
-    }
+    ]
   },
   {
     "id": "6391d9144b15ca31f76bc323",
@@ -84595,6 +84595,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Lighthouse"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -84643,9 +84646,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Lighthouse"
     }
   },
   {
@@ -84920,6 +84920,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -84950,9 +84953,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Streets of Tarkov"
     }
   },
   {
@@ -86137,6 +86137,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -86157,9 +86160,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -86329,6 +86329,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
     },
+    "map": {
+      "name": "Interchange"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -86376,9 +86379,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -86874,6 +86874,9 @@
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
     },
+    "map": {
+      "name": "Shoreline"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -86922,9 +86925,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Shoreline"
     }
   },
   {
@@ -86945,6 +86945,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
     },
     "taskRequirements": [
       {
@@ -86994,9 +86997,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Factory"
     }
   },
   {
@@ -87017,6 +87017,9 @@
       "name": "Prapor",
       "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
       "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
     },
     "taskRequirements": [
       {
@@ -87054,9 +87057,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -87888,6 +87888,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -87898,10 +87901,7 @@
           "name": "Fair Price - Part 1"
         }
       }
-    ],
-    "map": {
-      "name": "Woods"
-    }
+    ]
   },
   {
     "id": "60e71bb4e456d449cd47ca75",
@@ -87963,6 +87963,9 @@
       "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
       "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
     },
+    "map": {
+      "name": "Reserve"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -87983,9 +87986,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Reserve"
     }
   },
   {
@@ -88009,6 +88009,9 @@
       "name": "Ragman",
       "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
       "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "Interchange"
     },
     "taskRequirements": [
       {
@@ -88036,9 +88039,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Interchange"
     }
   },
   {
@@ -89447,6 +89447,9 @@
       "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
       "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
     },
+    "map": {
+      "name": "Woods"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -89480,9 +89483,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Woods"
     }
   },
   {
@@ -89630,6 +89630,9 @@
       "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
       "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
     },
+    "map": {
+      "name": "Customs"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -89672,9 +89675,6 @@
           }
         }
       ]
-    },
-    "map": {
-      "name": "Customs"
     }
   },
   {
@@ -90477,6 +90477,9 @@
       "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
       "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
     },
+    "map": {
+      "name": "The Lab"
+    },
     "taskRequirements": [
       {
         "status": [
@@ -90487,10 +90490,7 @@
           "name": "A Life Lesson"
         }
       }
-    ],
-    "map": {
-      "name": "The Lab"
-    }
+    ]
   },
   {
     "id": "60e71e8ed54b755a3b53eb67",
