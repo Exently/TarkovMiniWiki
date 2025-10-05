@@ -89688,6 +89688,583 @@
     }
   },
   {
+    "id": "6761f28a022f60bb320f3e95",
+    "name": "New Beginning",
+    "normalizedName": "new-beginning",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/New_Beginning",
+    "taskImageLink": "https://assets.tarkov.dev/unknown-task.webp",
+    "experience": 10000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "The Lab"
+    },
+    "objectives": [
+      {
+        "description": "Use the transit from The Lab to Streets of Tarkov"
+      },
+      {
+        "description": "Eliminate Scavs"
+      },
+      {
+        "description": "Hand over the item: BEAR operative figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c652d60d0ac437100fed7",
+            "name": "BEAR operative figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: Politician Mutkevich figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c66e40b2de553b618d4b8",
+            "name": "Politician Mutkevich figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: Killa figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572c82ad599021091c6118",
+            "name": "Killa figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: Reshala figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572be36a723f7f005a066e",
+            "name": "Reshala figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: Ryzhy figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c67782a1356436041c9c5",
+            "name": "Ryzhy figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: Scav figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c673673a43e23e857aebd",
+            "name": "Scav figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: Tagilla figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572cbdad599021091c611a",
+            "name": "Tagilla figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: USEC operative figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c663a6689c676ce57af85",
+            "name": "USEC operative figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: Cultist figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c669103999d3c810c025b",
+            "name": "Cultist figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the item: Den figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572b8d80b1cd4b6a67847f",
+            "name": "Den figurine"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 100000,
+          "item": {
+            "name": "Roubles"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "6761ff17cdc36bd66102e9d0",
+    "name": "New Beginning",
+    "normalizedName": "new-beginning-2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/New_Beginning",
+    "taskImageLink": "https://assets.tarkov.dev/unknown-task.webp",
+    "experience": 11000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "The Lab"
+    },
+    "objectives": [
+      {
+        "description": "Survive and extract from The Lab"
+      },
+      {
+        "description": "Eliminate PMC operatives"
+      },
+      {
+        "description": "Hand over the found in raid item: BEAR operative figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c652d60d0ac437100fed7",
+            "name": "BEAR operative figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Politician Mutkevich figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c66e40b2de553b618d4b8",
+            "name": "Politician Mutkevich figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Killa figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572c82ad599021091c6118",
+            "name": "Killa figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Reshala figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572be36a723f7f005a066e",
+            "name": "Reshala figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Ryzhy figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c67782a1356436041c9c5",
+            "name": "Ryzhy figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Scav figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c673673a43e23e857aebd",
+            "name": "Scav figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Tagilla figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572cbdad599021091c611a",
+            "name": "Tagilla figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: USEC operative figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c663a6689c676ce57af85",
+            "name": "USEC operative figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Cultist figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c669103999d3c810c025b",
+            "name": "Cultist figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Den figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572b8d80b1cd4b6a67847f",
+            "name": "Den figurine"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 200000,
+          "item": {
+            "name": "Roubles"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "6848100b00afffa81f09e365",
+    "name": "New Beginning",
+    "normalizedName": "new-beginning-3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/New_Beginning",
+    "taskImageLink": "https://assets.tarkov.dev/unknown-task.webp",
+    "map": null,
+    "experience": 11000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "objectives": [
+      {
+        "description": "Eliminate PMC operatives"
+      },
+      {
+        "description": "Eliminate Raiders"
+      },
+      {
+        "description": "Survive and extract from Streets of Tarkov"
+      },
+      {
+        "description": "Hand over the found in raid item: BEAR operative figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c652d60d0ac437100fed7",
+            "name": "BEAR operative figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Politician Mutkevich figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c66e40b2de553b618d4b8",
+            "name": "Politician Mutkevich figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Killa figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572c82ad599021091c6118",
+            "name": "Killa figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Reshala figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572be36a723f7f005a066e",
+            "name": "Reshala figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Ryzhy figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c67782a1356436041c9c5",
+            "name": "Ryzhy figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Scav figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c673673a43e23e857aebd",
+            "name": "Scav figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Tagilla figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572cbdad599021091c611a",
+            "name": "Tagilla figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: USEC operative figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c663a6689c676ce57af85",
+            "name": "USEC operative figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Cultist figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c669103999d3c810c025b",
+            "name": "Cultist figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Den figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572b8d80b1cd4b6a67847f",
+            "name": "Den figurine"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 2000000,
+          "item": {
+            "name": "Roubles"
+          }
+        },
+        {
+          "count": 2,
+          "item": {
+            "name": "Physical Bitcoin"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "68481881f43abfdda2058369",
+    "name": "New Beginning",
+    "normalizedName": "new-beginning-4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/New_Beginning",
+    "taskImageLink": "https://assets.tarkov.dev/unknown-task.webp",
+    "map": null,
+    "experience": 11000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "objectives": [
+      {
+        "description": "Eliminate PMC operatives"
+      },
+      {
+        "description": "Eliminate Rogues"
+      },
+      {
+        "description": "Use the transit from The Lab to Streets of Tarkov"
+      },
+      {
+        "description": "Use the transit from Streets of Tarkov to Interchange"
+      },
+      {
+        "description": "Hand over the found in raid item: BEAR operative figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c652d60d0ac437100fed7",
+            "name": "BEAR operative figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Politician Mutkevich figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c66e40b2de553b618d4b8",
+            "name": "Politician Mutkevich figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Killa figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572c82ad599021091c6118",
+            "name": "Killa figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Reshala figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572be36a723f7f005a066e",
+            "name": "Reshala figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Ryzhy figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c67782a1356436041c9c5",
+            "name": "Ryzhy figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Scav figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c673673a43e23e857aebd",
+            "name": "Scav figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Tagilla figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572cbdad599021091c611a",
+            "name": "Tagilla figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: USEC operative figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c663a6689c676ce57af85",
+            "name": "USEC operative figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Cultist figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "655c669103999d3c810c025b",
+            "name": "Cultist figurine"
+          }
+        ]
+      },
+      {
+        "description": "Hand over the found in raid item: Den figurine",
+        "count": 1,
+        "items": [
+          {
+            "id": "66572b8d80b1cd4b6a67847f",
+            "name": "Den figurine"
+          }
+        ]
+      }
+    ],
+    "finishRewards": {
+      "items": [
+        {
+          "count": 3000000,
+          "item": {
+            "name": "Roubles"
+          }
+        },
+        {
+          "count": 3,
+          "item": {
+            "name": "Physical Bitcoin"
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "60e71ccb5688f6424c7bfec4",
     "name": "Trophies",
     "normalizedName": "trophies",
