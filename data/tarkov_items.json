@@ -88,23 +88,23 @@
     "craftsFor": [
       {
         "id": "5d78f27d115f693ad750d2c6",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "TP-200 TNT brick"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "UZRGM grenade fuze"
-            },
-            "count": 3
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -160,37 +160,37 @@
     "craftsFor": [
       {
         "id": "67f4ebb7d0fb51b8c705e80e",
-        "station": {
-          "name": "Water Collector"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Bottle of water (0.6L)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Water Collector"
+        }
       },
       {
         "id": "5dc1f4d9e078d303d91b44c7",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Canister with purified water"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicone tube"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -421,17 +421,17 @@
     "craftsFor": [
       {
         "id": "5eda04a30699b81bb9142aa2",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Fleece fabric"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -491,29 +491,29 @@
     "craftsFor": [
       {
         "id": "5ed9fd73f6626f08ef0efec6",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Analgin painkillers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Disposable syringe"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -536,23 +536,23 @@
     "craftsFor": [
       {
         "id": "5d8a1a7d7a3dfe597c2e459e",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Car first aid kit"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Esmarch tourniquet"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -608,29 +608,29 @@
     "craftsFor": [
       {
         "id": "5dc1f7de6058e020335c9d88",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Alyonka chocolate bar"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pack of oat flakes"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Army crackers"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -669,35 +669,35 @@
     "craftsFor": [
       {
         "id": "655b4489065b076eb02c4b45",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 180,
             "item": {
               "name": "5.56x45mm M855"
-            },
-            "count": 180
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -1132,29 +1132,29 @@
     "craftsFor": [
       {
         "id": "5eda0247658fac5b8c3862a8",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 4,
             "item": {
               "name": "AK-74 5.45x39 6L23 30-round magazine"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "KEKTAPE duct tape"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -1227,41 +1227,41 @@
     "craftsFor": [
       {
         "id": "63a3359eaf870e651d58e61a",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "PPSh-41 7.62x25 71-round drum magazine"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "PM 9x18PM 90-93 8-round magazine"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Tube of Poxeram cold welding"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -1852,35 +1852,35 @@
     "craftsFor": [
       {
         "id": "600aa209f64dfd63ec1293d6",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Splav Tarzan M22 chest rig (Smog)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Cordura polyamide fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -2436,41 +2436,41 @@
     "craftsFor": [
       {
         "id": "5ffcacbf24fa2e741e767234",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Gas analyzer"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bundle of wires"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Capacitors"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "AA Battery"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -2543,29 +2543,29 @@
     "craftsFor": [
       {
         "id": "603cf3094bb658618458e010",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Broken GPhone X smartphone"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Broken LCD"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -2862,29 +2862,29 @@
     "craftsFor": [
       {
         "id": "655b33429db22d43ab42b704",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 180,
             "item": {
               "name": "5.45x39mm PS gs"
-            },
-            "count": 180
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -2974,29 +2974,29 @@
     "craftsFor": [
       {
         "id": "5d5c1f25d582a5479d4ec458",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 180,
             "item": {
               "name": "5.45x39mm PS gs"
-            },
-            "count": 180
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Nippers"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -3158,23 +3158,23 @@
     "craftsFor": [
       {
         "id": "655b6b641273611d2462ab78",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Cordura polyamide fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -3697,23 +3697,23 @@
     "craftsFor": [
       {
         "id": "5dea63e21ecdbf7668030f24",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "6-STEN-140-M military battery"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pipe grip wrench"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -3803,23 +3803,23 @@
     "craftsFor": [
       {
         "id": "5d8a1568df9fc649e81b8b1b",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Apollo Soyuz cigarettes"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "42 Signature Blend English Tea"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -3858,23 +3858,23 @@
     "craftsFor": [
       {
         "id": "5d8a13564ac882218d2085b0",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Pack of sugar"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pack of milk"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -4100,47 +4100,47 @@
     "craftsFor": [
       {
         "id": "5eeca812c4c989140245ae0c",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 10,
             "item": {
               "name": "Printed circuit board"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 10,
             "item": {
               "name": "PC CPU"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "CPU fan"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "VPX Flash Storage Module"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ratchet wrench"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Tech manual"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -4162,23 +4162,23 @@
     "craftsFor": [
       {
         "id": "600a9b10adfcb94fee6d3e06",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Pack of nails"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Power cord"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -4251,29 +4251,29 @@
     "craftsFor": [
       {
         "id": "5ede1e0b7690fa313b632e88",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Can of beef stew (Large)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of squash spread"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Rye croutons"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -4533,17 +4533,17 @@
     "craftsFor": [
       {
         "id": "5d558968f934db006d2d5b32",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -4718,23 +4718,23 @@
     "craftsFor": [
       {
         "id": "655b505c32b0b1645e6f54c5",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 150,
             "item": {
               "name": "9x18mm PM RG028 gzh"
-            },
-            "count": 150
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bundle of wires"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -5647,35 +5647,35 @@
     "craftsFor": [
       {
         "id": "5f240f45f4a9420a8c328ee0",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Can of TarCola soda"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of Majaica coffee beans"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of water (0.6L)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "BakeEzy cook book"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -5748,47 +5748,47 @@
     "craftsFor": [
       {
         "id": "5f241246232409155b66b809",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Canister with purified water"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pack of sugar"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of Majaica coffee beans"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "42 Signature Blend English Tea"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Water filter"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "BakeEzy cook book"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -5811,23 +5811,23 @@
     "craftsFor": [
       {
         "id": "5ede07163c345121732a10e9",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 5,
             "item": {
               "name": "Aseptic bandage"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of Tarkovskaya vodka"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -5868,17 +5868,17 @@
     "craftsFor": [
       {
         "id": "5d5c1f5ed582a543983ee82e",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -5901,29 +5901,29 @@
     "craftsFor": [
       {
         "id": "5ede0135f7db6021ee400dfe",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "Soap"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Schaman shampoo"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -7724,41 +7724,41 @@
     "craftsFor": [
       {
         "id": "600a98d076fc4b1877509ead",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Weapon parts"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "AK-74 wooden handguard"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "AK-74 wooden stock"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -7967,23 +7967,23 @@
     "craftsFor": [
       {
         "id": "62a1123ac30cfa1d366aeb82",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "PP-91 Kedr 9x18PM submachine gun"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -8516,29 +8516,29 @@
     "craftsFor": [
       {
         "id": "655b4de41f2b6843ec751fd5",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 70,
             "item": {
               "name": "7.62x54mm R FMJ"
-            },
-            "count": 70
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Hawk\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -9364,23 +9364,23 @@
     "craftsFor": [
       {
         "id": "5de95f1c9517b140195ab717",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Portable Powerbank"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -9436,23 +9436,23 @@
     "craftsFor": [
       {
         "id": "6002e26ac6b84d04cc62045e",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Damaged hard drive"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -9474,43 +9474,43 @@
     "craftsFor": [
       {
         "id": "5ffcac4e1285295b7441ee01",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Gas analyzer"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       },
       {
         "id": "5de951483c52683d810b4a10",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "DVD drive"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -9532,35 +9532,35 @@
     "craftsFor": [
       {
         "id": "603cf23a420e7f487e175d7f",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Screw nuts"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Bolts"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "SurvL Survivor Lighter"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -9616,41 +9616,41 @@
     "craftsFor": [
       {
         "id": "61c226d91b8c294cd411c881",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 4,
             "item": {
               "name": "AA Battery"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Geiger-Muller counter"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Magnet"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 4,
             "item": {
               "name": "Bundle of wires"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -9723,47 +9723,47 @@
     "craftsFor": [
       {
         "id": "677d4db74ac9193862043ee9",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Pliers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Wrench"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Construction measuring tape"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -9853,35 +9853,35 @@
     "craftsFor": [
       {
         "id": "67da000f1556838cf90d1716",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Damaged hard drive"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Magnet"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -9920,23 +9920,23 @@
     "craftsFor": [
       {
         "id": "5e1330dca0f0f8773c069c99",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "GP-7 gas mask"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -9958,23 +9958,23 @@
     "craftsFor": [
       {
         "id": "5dd3c5487058311d4b267186",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 120,
             "item": {
               "name": "5.45x39mm HP"
-            },
-            "count": 120
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -9996,23 +9996,23 @@
     "craftsFor": [
       {
         "id": "5df8ffcbaab5f257bd7ff3a8",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "WD-40 (400ml)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -10051,29 +10051,29 @@
     "craftsFor": [
       {
         "id": "5d8a13fc2d9612419804003c",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Army crackers"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of beef stew (Small)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of squash spread"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -10130,29 +10130,29 @@
     "craftsFor": [
       {
         "id": "5df914a53ce0f648b833bb37",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Broken GPhone smartphone"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Broken GPhone X smartphone"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "SSD drive"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -10226,29 +10226,29 @@
     "craftsFor": [
       {
         "id": "5d78d8a03fe9fc21602e16be",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 4,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "CAT hemostatic tourniquet"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Aluminum splint"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -10289,29 +10289,29 @@
     "craftsFor": [
       {
         "id": "5d5c21aed582a50066024610",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Army bandage"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Esmarch tourniquet"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -10415,47 +10415,47 @@
     "craftsFor": [
       {
         "id": "629e19eddb6e1a02066676f1",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "#FireKlean gun lube"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 10,
             "item": {
               "name": "Weapon parts"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -12265,41 +12265,41 @@
     "craftsFor": [
       {
         "id": "655b4a73975a7f3c734661a5",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Pipe grip wrench"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Electric drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 90,
             "item": {
               "name": "7.62x39mm PP gzh"
-            },
-            "count": 90
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of Hot Rod energy drink"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -12321,29 +12321,29 @@
     "craftsFor": [
       {
         "id": "5d8b8ddd322e8650762f6e3a",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Soap"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Alkaline cleaner for heat exchangers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pack of sodium bicarbonate"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -12365,17 +12365,17 @@
     "craftsFor": [
       {
         "id": "5de10c50c607752a1f1262c7",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Alyonka chocolate bar"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -12397,29 +12397,29 @@
     "craftsFor": [
       {
         "id": "5df8fe0deddb880fd56f2d7d",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Bottle of Tarkovskaya vodka"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Schaman shampoo"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicone tube"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -12475,29 +12475,29 @@
     "craftsFor": [
       {
         "id": "5dcfe2582f9b3d566c7af977",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Silicone tube"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Bundle of wires"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 3
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -12638,17 +12638,17 @@
     "craftsFor": [
       {
         "id": "63a2abbb31772a61500d5336",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Kolpak-1S face shield"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -12670,29 +12670,29 @@
     "craftsFor": [
       {
         "id": "5de950a845b5d67bad6e9ef7",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "T-Shaped plug"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Bundle of wires"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -13110,23 +13110,23 @@
     "craftsFor": [
       {
         "id": "5eda072cf6626f08ef0efed4",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -13149,35 +13149,35 @@
     "craftsFor": [
       {
         "id": "655b6c381fe356507267b2f6",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Construction measuring tape"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "LolKek 3F Transfer tourist backpack"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -13389,35 +13389,35 @@
     "craftsFor": [
       {
         "id": "600a9955ba91d953182d69f0",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Molot Arms VPO-136 Vepr-KM 7.62x39 carbine"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "AKM 7.62x39 muzzle brake-compensator"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -13783,10 +13783,10 @@
     "craftsFor": [
       {
         "id": "5d5c205bd582a50d042a3c0e",
+        "requiredItems": [],
         "station": {
           "name": "Bitcoin Farm"
-        },
-        "requiredItems": []
+        }
       }
     ]
   },
@@ -14053,29 +14053,29 @@
     "craftsFor": [
       {
         "id": "5e37f15386f774299f112a2e",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 5,
             "item": {
               "name": "UZRGM grenade fuze"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "RDG-2B smoke grenade"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -15210,53 +15210,53 @@
     "craftsFor": [
       {
         "id": "63a2327c151bfb591645c104",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 4,
             "item": {
               "name": "Iridium military thermal vision module"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "NIXXOR lens"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Microcontroller board"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Virtex programmable processor"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicon Optoelectronic Integrated Circuits textbook"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Advanced Electronic Materials textbook"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -15329,17 +15329,17 @@
     "craftsFor": [
       {
         "id": "655b56eb32b0b1645e6f54c8",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -16170,29 +16170,29 @@
     "craftsFor": [
       {
         "id": "655b50e7c023e22044165de5",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 180,
             "item": {
               "name": "9x19mm FMJ M882"
-            },
-            "count": 180
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Radiator helix"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bundle of wires"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -16299,35 +16299,35 @@
     "craftsFor": [
       {
         "id": "5dceb6964a98801ba2075d27",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Hawk\""
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Radiator helix"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 80,
             "item": {
               "name": "7.62x51mm M80"
-            },
-            "count": 80
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -18302,35 +18302,35 @@
     "craftsFor": [
       {
         "id": "603ce7c5fd70f047f93bee2a",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Tac-Kek FAST MT helmet (Replica)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Duct tape"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -18757,41 +18757,41 @@
     "craftsFor": [
       {
         "id": "655b60774343a16d2e04766b",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ox bleach"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Alkaline cleaner for heat exchangers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Kiba Arms Titan ballistic plate"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -19612,35 +19612,35 @@
     "craftsFor": [
       {
         "id": "5d78dbfb65aebb016d20b6f3",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Weapon parts"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "AK-74M polymer handguard"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "AK-74M polymer stock"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -20464,23 +20464,23 @@
     "craftsFor": [
       {
         "id": "600aa0d1090cb6338027028c",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "MF-UNTAR body armor"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -20502,23 +20502,23 @@
     "craftsFor": [
       {
         "id": "629e1b3a0694b45420210cad",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Can of Dr. Lupo's coffee beans"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -22056,23 +22056,23 @@
     "craftsFor": [
       {
         "id": "5ede01e062155304b6512067",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Silicone tube"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Disposable syringe"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -22217,41 +22217,41 @@
     "craftsFor": [
       {
         "id": "655b65fc1273611d2462ab77",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "GAC 3s15m ballistic plate"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -22705,41 +22705,41 @@
     "craftsFor": [
       {
         "id": "5eeca9bad874f914d2536585",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "Magazine case"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 6,
             "item": {
               "name": "Bolts"
-            },
-            "count": 6
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "KEKTAPE duct tape"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Metal spare parts"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -23258,41 +23258,41 @@
     "craftsFor": [
       {
         "id": "63baedefe6ebc10fe0201083",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 120,
             "item": {
               "name": "4.6x30mm FMJ SX"
-            },
-            "count": 120
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ultraviolet lamp"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Capacitors"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal spare parts"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -25559,41 +25559,41 @@
     "craftsFor": [
       {
         "id": "5eeca8e327ccd70521107fdc",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Magnet"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Bundle of wires"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 4,
             "item": {
               "name": "Capacitors"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Portable Powerbank"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -25615,53 +25615,53 @@
     "craftsFor": [
       {
         "id": "5eda007f658fac5b8c3862a6",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Broken GPhone X smartphone"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Portable Powerbank"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Military circuit board"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Tech manual"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Microcontroller board"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Advanced Electronic Materials textbook"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -25683,35 +25683,35 @@
     "craftsFor": [
       {
         "id": "5ee4a093a297eb185236194f",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "TerraGroup Labs access keycard"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "VPX Flash Storage Module"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Signal Jammer"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Advanced Electronic Materials textbook"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -25733,41 +25733,41 @@
     "craftsFor": [
       {
         "id": "5eda0ad40699b81bb9142aae",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "RAM stick"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "SSD drive"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Broken GPhone smartphone"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicon Optoelectronic Integrated Circuits textbook"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -25789,41 +25789,41 @@
     "craftsFor": [
       {
         "id": "5ed9ff023a68ec264e5233c2",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Military circuit board"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "PC CPU"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Capacitors"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Advanced Electronic Materials textbook"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -25845,53 +25845,53 @@
     "craftsFor": [
       {
         "id": "600abc08e4022c380a7260a8",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Ophthalmoscope"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Magnet"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "UHF RFID Reader"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Portable Powerbank"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Microcontroller board"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicon Optoelectronic Integrated Circuits textbook"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -26068,17 +26068,17 @@
     "craftsFor": [
       {
         "id": "5dd1126571e3fd3f634b1c8b",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Power cord"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -26100,23 +26100,23 @@
     "craftsFor": [
       {
         "id": "5dd11303b78bb413d5133f79",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Power supply unit"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -26992,29 +26992,29 @@
     "craftsFor": [
       {
         "id": "5d8f614c9ea122564c316462",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Ibuprofen painkillers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Golden Star balm"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -27038,35 +27038,35 @@
     "craftsFor": [
       {
         "id": "5e6cfc53a3e6886b9e6c39a8",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 7,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 7
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Bottle of saline solution"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Propital regenerative stimulant injector"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Morphine injector"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -27090,35 +27090,35 @@
     "craftsFor": [
       {
         "id": "5ede0502879619077751d00a",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "SJ1 TGLabs combat stimulant injector"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of saline solution"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -27161,35 +27161,35 @@
     "craftsFor": [
       {
         "id": "64b6b5c1c3abf20a9660daad",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Disposable syringe"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Propital regenerative stimulant injector"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -27248,35 +27248,35 @@
     "craftsFor": [
       {
         "id": "655b5ebc32b0b1645e6f54c9",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "6B33 ballistic plate (Front)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Cordura polyamide fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ox bleach"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -27317,29 +27317,29 @@
     "craftsFor": [
       {
         "id": "655b5dc8065b076eb02c4b48",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Zhuk-3 ballistic plate (Front)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -27577,55 +27577,55 @@
     "craftsFor": [
       {
         "id": "61c77c830f3639492721e99c",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 5,
             "item": {
               "name": "Bottle of water (0.6L)"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gas mask air filter"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Water filter"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       },
       {
         "id": "67f4ec521d41954d4f09a9c8",
-        "station": {
-          "name": "Water Collector"
-        },
         "requiredItems": [
           {
+            "count": 5,
             "item": {
               "name": "Bottle of water (0.6L)"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Aquapeps water purification tablets"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Water Collector"
+        }
       }
     ]
   },
@@ -27853,23 +27853,23 @@
     "craftsFor": [
       {
         "id": "5e58e0c286f7740ba7486ca3",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Military flash drive"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Printer paper"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -27976,35 +27976,35 @@
     "craftsFor": [
       {
         "id": "6012ea1a01328b2dec3c1a9d",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 5,
             "item": {
               "name": "Duffle bag"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bars A-2607 95Kh18 knife"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Bundle of wires"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Crickent lighter"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -28027,35 +28027,35 @@
     "craftsFor": [
       {
         "id": "5dceeaf100b3815535149f5a",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Expeditionary fuel tank"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 4,
             "item": {
               "name": "Bolts"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 4,
             "item": {
               "name": "Screw nuts"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -28077,29 +28077,29 @@
     "craftsFor": [
       {
         "id": "62a11415c30cfa1d366aeb83",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Alkaline cleaner for heat exchangers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of white salt"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Salty Dog beef sausage"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -28121,17 +28121,17 @@
     "craftsFor": [
       {
         "id": "5d93b91286f77467310ca15d",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Printer paper"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -28530,47 +28530,47 @@
     "craftsFor": [
       {
         "id": "67da05c8078f1947650d7bb9",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "UHF RFID Reader"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 10,
             "item": {
               "name": "TerraGroup Labs access keycard"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "TerraGroup \"Blue Folders\" materials"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Intelligence folder"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Military flash drive"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Virtex programmable processor"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -28592,53 +28592,53 @@
     "craftsFor": [
       {
         "id": "67da04db9cbeb8d6f4011962",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "UHF RFID Reader"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 10,
             "item": {
               "name": "TerraGroup Labs access keycard"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "TerraGroup \"Blue Folders\" materials"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Intelligence folder"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "VPX Flash Storage Module"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Virtex programmable processor"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 4,
             "item": {
               "name": "Secure magnetic tape cassette"
-            },
-            "count": 4
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -28711,41 +28711,41 @@
     "craftsFor": [
       {
         "id": "6002e55595c402039a2747f4",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 10,
             "item": {
               "name": "TerraGroup Labs access keycard"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "TerraGroup Labs keycard (Yellow)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 4,
             "item": {
               "name": "Intelligence folder"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Secure magnetic tape cassette"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "UHF RFID Reader"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -30444,29 +30444,29 @@
     "craftsFor": [
       {
         "id": "5eeca7724a8a9b668f0d89cd",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 150,
             "item": {
               "name": "9x19mm FMJ M882"
-            },
-            "count": 150
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -30488,23 +30488,23 @@
     "craftsFor": [
       {
         "id": "67da0223078f1947650d7bb7",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "UHF RFID Reader"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Intelligence folder"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -31420,35 +31420,35 @@
     "craftsFor": [
       {
         "id": "63bd4c3964d7e356983c4cf5",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 100,
             "item": {
               "name": "5.7x28mm SS198LF"
-            },
-            "count": 100
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 4,
             "item": {
               "name": "Capacitors"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -31470,29 +31470,29 @@
     "craftsFor": [
       {
         "id": "655b54e7065b076eb02c4b47",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Hawk\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -32647,29 +32647,29 @@
     "craftsFor": [
       {
         "id": "619eb0eb56579138ec08fed8",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Medical tools"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Car first aid kit"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Aluminum splint"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -32692,35 +32692,35 @@
     "craftsFor": [
       {
         "id": "5ede0053879619077751cff1",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Medical tools"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Immobilizing splint"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Surv12 field surgical kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -32759,35 +32759,35 @@
     "craftsFor": [
       {
         "id": "6002ed409f2c60461a2d0f5a",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Military COFDM Wireless Signal Transmitter"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -32894,41 +32894,41 @@
     "craftsFor": [
       {
         "id": "600a9fb7ba91d953182d6a1c",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Hawk\""
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "TP-200 TNT brick"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of thermite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -33410,41 +33410,41 @@
     "craftsFor": [
       {
         "id": "5d93ba4486f77454bd61d2a9",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "Gas mask air filter"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Water filter"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Metal spare parts"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Nippers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -33466,35 +33466,35 @@
     "craftsFor": [
       {
         "id": "5de95c91225b0a76ca0ea0b7",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Electric drill"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -33516,35 +33516,35 @@
     "craftsFor": [
       {
         "id": "600a9a34189b226f40059743",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "WI-FI Camera"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Piece of plexiglass"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Tech manual"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -33566,35 +33566,35 @@
     "craftsFor": [
       {
         "id": "677d4fdb42cdfce74006f961",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Broken LCD"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Capacitors"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Electronic components"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -33616,23 +33616,23 @@
     "craftsFor": [
       {
         "id": "5df138986c38ba26da0b3a77",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 4,
             "item": {
               "name": "Working LCD"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -33688,23 +33688,23 @@
     "craftsFor": [
       {
         "id": "62a115db5c6bbf22c15ac19d",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -33761,17 +33761,17 @@
     "craftsFor": [
       {
         "id": "5d5589c1f934db045e6c5492",
-        "station": {
-          "name": "Water Collector"
-        },
         "requiredItems": [
           {
+            "count": 0.66,
             "item": {
               "name": "Water filter"
-            },
-            "count": 0.66
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Water Collector"
+        }
       }
     ]
   },
@@ -33810,29 +33810,29 @@
     "craftsFor": [
       {
         "id": "5d8f5ee9de0799001d229ed2",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 10,
             "item": {
               "name": "Zibbo lighter"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 10,
             "item": {
               "name": "Crickent lighter"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicone tube"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -33854,23 +33854,23 @@
     "craftsFor": [
       {
         "id": "5d5c1fd4d582a500650132f0",
-        "station": {
-          "name": "Booze Generator"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Pack of sugar"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Canister with purified water"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Booze Generator"
+        }
       }
     ]
   },
@@ -33892,29 +33892,29 @@
     "craftsFor": [
       {
         "id": "600ab813d19f85018a7489c4",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 4,
             "item": {
               "name": "Gas mask air filter"
-            },
-            "count": 4
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Printer paper"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -33970,29 +33970,29 @@
     "craftsFor": [
       {
         "id": "5e13301cc7049d4d9738e1a7",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "AI-2 medkit"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Aseptic bandage"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Augmentin antibiotic pills"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -34031,53 +34031,53 @@
     "craftsFor": [
       {
         "id": "60048c82a7903e00382d9593",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "NIXXOR lens"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Iridium military thermal vision module"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Virtex programmable processor"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "SAS drive"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Portable Powerbank"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicon Optoelectronic Integrated Circuits textbook"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -34133,43 +34133,43 @@
     "craftsFor": [
       {
         "id": "5de021b30f6d581e965bcde7",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Molot Arms VPO-209 .366 TKM carbine"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       },
       {
         "id": "615c3d800d3afc358a55405e",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "TOZ Simonov SKS 7.62x39 carbine"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -34978,41 +34978,41 @@
     "craftsFor": [
       {
         "id": "600ab8e3e4022c380a726088",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Bottle of water (0.6L)"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Bottle of Tarkovskaya vodka"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Alyonka chocolate bar"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "42 Signature Blend English Tea"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Water filter"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -35034,23 +35034,23 @@
     "craftsFor": [
       {
         "id": "5dc1f634ee5f2440a9272dc7",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Bottle of Fierce Hatchling moonshine"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Bottle of water (0.6L)"
-            },
-            "count": 5
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -35072,23 +35072,23 @@
     "craftsFor": [
       {
         "id": "5d8f5e1af3a8f83c8600afb2",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Soap"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of Pevko Light beer"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -35491,47 +35491,47 @@
     "craftsFor": [
       {
         "id": "655b63ac9db22d43ab42b70a",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Cordura polyamide fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "SPRTN Omega ballistic plate"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -35608,41 +35608,41 @@
     "craftsFor": [
       {
         "id": "655b68b4769de97e1d62d117",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Duct tape"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -35925,35 +35925,35 @@
     "craftsFor": [
       {
         "id": "655b5af31273611d2462ab76",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 3
+            }
           },
           {
+            "count": 50,
             "item": {
               "name": "12/70 7mm buckshot"
-            },
-            "count": 50
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "WD-40 (400ml)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -35992,35 +35992,35 @@
     "craftsFor": [
       {
         "id": "655b58a49db22d43ab42b709",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 60,
             "item": {
               "name": "12/70 7mm buckshot"
-            },
-            "count": 60
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Hawk\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "WD-40 (100ml)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -36093,29 +36093,29 @@
     "craftsFor": [
       {
         "id": "655b598db71eeb7c4168c626",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "Pack of nails"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Fierce Blow sledgehammer"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -36256,29 +36256,29 @@
     "craftsFor": [
       {
         "id": "5de919ec1b25d85cf30ca39a",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "M67 hand grenade"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "M18 smoke grenade (Green)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -36300,55 +36300,55 @@
     "craftsFor": [
       {
         "id": "5dd3c5a67da3785e63275437",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "OFZ 30x165mm shell"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ratchet wrench"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       },
       {
         "id": "5dd3c9c8449c0c31795b0f0b",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Classic matches"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -38344,35 +38344,35 @@
     "craftsFor": [
       {
         "id": "655b4f57769de97e1d62d116",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 50,
             "item": {
               "name": "7.62x54mm R PS gzh"
-            },
-            "count": 50
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Can of thermite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -38411,17 +38411,17 @@
     "craftsFor": [
       {
         "id": "655b4bbe4343a16d2e047668",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -38666,35 +38666,35 @@
     "craftsFor": [
       {
         "id": "61dc03711bdcfa2f253c9b7c",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "USB Adapter"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Rechargeable battery"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Portable Powerbank"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Round pliers"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -38801,35 +38801,35 @@
     "craftsFor": [
       {
         "id": "6002e68bca41c53bee18813b",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Duct tape"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Clin window cleaner"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Crickent lighter"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -38885,23 +38885,23 @@
     "craftsFor": [
       {
         "id": "600aa140090cb63380270290",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Tactical sling bag (Khaki)"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -38923,23 +38923,23 @@
     "craftsFor": [
       {
         "id": "5ffcafd468c55773943fc71e",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "UX PRO beanie"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -38961,23 +38961,23 @@
     "craftsFor": [
       {
         "id": "5eecaa6327ccd70521107ff5",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "Scav Vest"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -38999,23 +38999,23 @@
     "craftsFor": [
       {
         "id": "5ffcaa60f3fdc212a91d552b",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "PACA Soft Armor"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -39055,41 +39055,41 @@
     "craftsFor": [
       {
         "id": "5ffcab66fd851f4b000d61ef",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Metal fuel tank"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Screw nuts"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Bolts"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Metal spare parts"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -39112,29 +39112,29 @@
     "craftsFor": [
       {
         "id": "64b6aefe25251516d768542d",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Awl"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "UZRGM grenade fuze"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "TP-200 TNT brick"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -39157,29 +39157,29 @@
     "craftsFor": [
       {
         "id": "5e66408286f7747b2c2d7786",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 5,
             "item": {
               "name": "UZRGM grenade fuze"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "40mm VOG-25 grenade"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -39218,41 +39218,41 @@
     "craftsFor": [
       {
         "id": "6002e8fb41d38607bc4198ab",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 5,
             "item": {
               "name": "Secure Flash drive"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Object #21WS keycard"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "UHF RFID Reader"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "VPX Flash Storage Module"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Secure magnetic tape cassette"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -39346,35 +39346,35 @@
     "craftsFor": [
       {
         "id": "5eda07acb6c564225571536c",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Cordura polyamide fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Awl"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -39882,23 +39882,23 @@
     "craftsFor": [
       {
         "id": "600ab99ce4022c380a726090",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "CALOK-B hemostatic applicator"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -40058,47 +40058,47 @@
     "craftsFor": [
       {
         "id": "600a9bd0189b226f40059751",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "SurvL Survivor Lighter"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Zarya stun grenade"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -40257,23 +40257,23 @@
     "craftsFor": [
       {
         "id": "5ffcadeff3fdc212a91d5539",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Bottle of water (0.6L)"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 4,
             "item": {
               "name": "Emelya rye croutons"
-            },
-            "count": 4
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -40808,35 +40808,35 @@
     "craftsFor": [
       {
         "id": "6012ee7e44a0465ee67a58de",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Zagustin hemostatic drug injector"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Morphine injector"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Can of Max Energy energy drink"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -41286,47 +41286,47 @@
     "craftsFor": [
       {
         "id": "61c77d465a98404dee40a77c",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 150,
             "item": {
               "name": ".45 ACP Lasermatch FMJ"
-            },
-            "count": 150
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Hawk\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pack of nails"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -41450,35 +41450,35 @@
     "craftsFor": [
       {
         "id": "5f245f875b664e084523a4ce",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 50,
             "item": {
               "name": "9x39mm SPP gs"
-            },
-            "count": 50
+            }
           },
           {
+            "count": 50,
             "item": {
               "name": "7.62x39mm PS gzh"
-            },
-            "count": 50
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -41913,41 +41913,41 @@
     "craftsFor": [
       {
         "id": "655b6bc01f2b6843ec751fd7",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Cordura polyamide fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Fleece fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Ox bleach"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -42094,47 +42094,47 @@
     "craftsFor": [
       {
         "id": "655b6a50b71eeb7c4168c628",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Altyn bulletproof helmet (Olive Drab)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Fleece fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of Tarkovskaya vodka"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Fierce Blow sledgehammer"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -43441,29 +43441,29 @@
     "craftsFor": [
       {
         "id": "6558d7894626375d6735670c",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 50,
             "item": {
               "name": ".338 Lapua Magnum UCW"
-            },
-            "count": 50
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Hawk\""
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -43745,29 +43745,29 @@
     "craftsFor": [
       {
         "id": "6002eec9cc73cd34ac64188a",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Adrenaline injector"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "AI-2 medkit"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Pile of meds"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -43859,29 +43859,29 @@
     "craftsFor": [
       {
         "id": "655b4669b71eeb7c4168c625",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 90,
             "item": {
               "name": ".300 Blackout CBJ"
-            },
-            "count": 90
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -44078,29 +44078,29 @@
     "craftsFor": [
       {
         "id": "615c3d27966c85458e4c49cf",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "IFAK individual first aid kit"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Army bandage"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "CAT hemostatic tourniquet"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -44140,49 +44140,49 @@
     "craftsFor": [
       {
         "id": "67f4ec82690e0a541a021d3d",
-        "station": {
-          "name": "Water Collector"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Pack of Grand juice"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicone tube"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Water Collector"
+        }
       },
       {
         "id": "61c77cc6fcc1673f08540e9b",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Bottle of water (0.6L)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "KEKTAPE duct tape"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicone tube"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -44221,29 +44221,29 @@
     "craftsFor": [
       {
         "id": "5d78d81757c9b8484a2bcb99",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -45026,41 +45026,41 @@
     "craftsFor": [
       {
         "id": "62a11354b552772a0c4ba09e",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Dorm room 308 key"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal spare parts"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -48954,23 +48954,23 @@
     "craftsFor": [
       {
         "id": "5dde60e0e2c8f57eb6465327",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 3,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "SurvL Survivor Lighter"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -49026,29 +49026,29 @@
     "craftsFor": [
       {
         "id": "655b457c9db22d43ab42b706",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 120,
             "item": {
               "name": "5.56x45mm M856"
-            },
-            "count": 120
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Dry fuel"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "SurvL Survivor Lighter"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -49447,47 +49447,47 @@
     "craftsFor": [
       {
         "id": "619e45ea98398d3b104e8419",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "WD-40 (100ml)"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Nippers"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Metal spare parts"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -50011,41 +50011,41 @@
     "craftsFor": [
       {
         "id": "655b5fd2975a7f3c734661a8",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Cordura polyamide fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "NewSphereTech level III ballistic plate"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -50084,41 +50084,41 @@
     "craftsFor": [
       {
         "id": "67da01179cbeb8d6f4011961",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Magnet"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Electronic components"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Printed circuit board"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -52674,41 +52674,41 @@
     "craftsFor": [
       {
         "id": "655b675e1f2b6843ec751fd6",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 2,
             "item": {
               "name": "Granit Br4 ballistic plate"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Aramid fiber fabric"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Ripstop fabric"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Fierce Blow sledgehammer"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Sewing kit"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -53382,29 +53382,29 @@
     "craftsFor": [
       {
         "id": "62a11658650cc35fa94e009a",
-        "station": {
-          "name": "Nutrition Unit"
-        },
         "requiredItems": [
           {
+            "count": 5,
             "item": {
               "name": "Rye croutons"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Canister with purified water"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Nutrition Unit"
+        }
       }
     ]
   },
@@ -53477,53 +53477,53 @@
     "craftsFor": [
       {
         "id": "62a112fec1cce91d2c46a06e",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Shoreline plan map"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Factory plan map"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Woods plan map"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Shoreline Health Resort plan map"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Customs plan map"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Interchange plan map"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Secure Flash drive"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -53545,29 +53545,29 @@
     "craftsFor": [
       {
         "id": "62a116282c5e0c325b62d5ec",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Virtex programmable processor"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Secure Flash drive"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Topographic survey maps"
-            },
-            "count": 2
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -53932,29 +53932,29 @@
     "craftsFor": [
       {
         "id": "6399c421d65735732c6ba765",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Digital secure DSP radio transmitter"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Electronic components"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -55341,35 +55341,35 @@
     "craftsFor": [
       {
         "id": "63a232f8ab6bb51044344bff",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Far-forward GPS Signal Amplifier Unit"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Silicon Optoelectronic Integrated Circuits textbook"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -55425,41 +55425,41 @@
     "craftsFor": [
       {
         "id": "67da02e9078f1947650d7bb8",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "UHF RFID Reader"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Secure Flash drive"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Military flash drive"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Intelligence folder"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Secure magnetic tape cassette"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
@@ -55927,47 +55927,47 @@
     "craftsFor": [
       {
         "id": "63a571802116d261d2336cd1",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Electronic components"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Military COFDM Wireless Signal Transmitter"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Gas analyzer"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Broken GPhone smartphone"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Screwdriver"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -59369,23 +59369,23 @@
     "craftsFor": [
       {
         "id": "655b47d1769de97e1d62d115",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Gunpowder \"Eagle\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Awl"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -59458,35 +59458,35 @@
     "craftsFor": [
       {
         "id": "5ffcad24f3fdc212a91d5536",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Metal fuel tank"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 3,
             "item": {
               "name": "Gunpowder \"Kite\""
-            },
-            "count": 3
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Metal cutting scissors"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Leatherman Multitool"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -61579,41 +61579,41 @@
     "craftsFor": [
       {
         "id": "657fc79cfd86b9d9680c4a24",
-        "station": {
-          "name": "Lavatory"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "6B23-2 ballistic plate (Back)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Tube of Poxeram cold welding"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Duct tape"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Fierce Blow sledgehammer"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Electric drill"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Lavatory"
+        }
       }
     ]
   },
@@ -66654,67 +66654,67 @@
     "craftsFor": [
       {
         "id": "66509e8c9398c9c9e10a31bb",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Adrenaline injector"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Medical tools"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of saline solution"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       },
       {
         "id": "6671d4fef3bee343f5000703",
-        "station": {
-          "name": "Medstation"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Adrenaline injector"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of OLOLO Multivitamins"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Medical tools"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Bottle of saline solution"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Medstation"
+        }
       }
     ]
   },
@@ -66906,55 +66906,55 @@
     "craftsFor": [
       {
         "id": "67c9d54b017035dd060bff5e",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked equipment crate (Rare)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       },
       {
         "id": "6666d899eb78191c502350b2",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked equipment crate (Rare)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -66976,55 +66976,55 @@
     "craftsFor": [
       {
         "id": "66575197464c4b4ba4671004",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked weapon crate (Rare)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       },
       {
         "id": "67c9d5035be7fc94c806dee9",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked weapon crate (Rare)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -67046,55 +67046,55 @@
     "craftsFor": [
       {
         "id": "6666d829a8298779fc40e537",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked supply crate (Rare)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       },
       {
         "id": "67c9d4b251ce173bff01eec7",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked supply crate (Rare)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -67116,55 +67116,55 @@
     "craftsFor": [
       {
         "id": "67c9d447b53b0fcf1d0bb0ab",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked valuables crate (Rare)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       },
       {
         "id": "6666d7ea0b734650a91d0a42",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Flat screwdriver (Long)"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked valuables crate (Rare)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -75626,23 +75626,23 @@
     "craftsFor": [
       {
         "id": "67caf5c5bfe0242ab1032966",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Hand drill"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Locked equipment crate (BattlePass 0)"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -75664,53 +75664,53 @@
     "craftsFor": [
       {
         "id": "6839a4b18b47de9b76007028",
-        "station": {
-          "name": "Workbench"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Set of files \"Master\""
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Toolset"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "RPK-16 5.45x39 light machine gun"
-            },
-            "count": 1
+            }
           },
           {
+            "count": 5,
             "item": {
               "name": "Metal spare parts"
-            },
-            "count": 5
+            }
           },
           {
+            "count": 10,
             "item": {
               "name": "Weapon parts"
-            },
-            "count": 10
+            }
           },
           {
+            "count": 2,
             "item": {
               "name": "Tube of Poxeram cold welding"
-            },
-            "count": 2
+            }
           },
           {
+            "count": 1,
             "item": {
               "name": "Insulating tape"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Workbench"
+        }
       }
     ]
   },
@@ -76246,17 +76246,17 @@
     "craftsFor": [
       {
         "id": "686c17583cf79421d70b007e",
-        "station": {
-          "name": "Intelligence Center"
-        },
         "requiredItems": [
           {
+            "count": 1,
             "item": {
               "name": "Thumb drive with military data"
-            },
-            "count": 1
+            }
           }
-        ]
+        ],
+        "station": {
+          "name": "Intelligence Center"
+        }
       }
     ]
   },
