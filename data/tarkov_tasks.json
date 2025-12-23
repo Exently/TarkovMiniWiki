@@ -3098,92 +3098,6 @@
     ]
   },
   {
-    "id": "6863cf925eaeb676d50a9651",
-    "name": "Friend from Norvinsk - Part 1",
-    "normalizedName": "friend-from-norvinsk-part-1",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/6863cf925eaeb676d50a9651.webp",
-    "trader": {
-      "name": "Mechanic",
-      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
-      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
-    },
-    "map": {
-      "name": "Reserve"
-    },
-    "experience": 7000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "5d2495a886f77425cd51e403",
-          "name": "Introduction"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 24600
-        },
-        {
-          "item": {
-            "name": "Duct tape"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "Classic matches"
-          },
-          "count": 5
-        },
-        {
-          "item": {
-            "name": "WI-FI Camera"
-          },
-          "count": 2
-        },
-        {
-          "item": {
-            "name": "Construction measuring tape"
-          },
-          "count": 4
-        },
-        {
-          "item": {
-            "name": "Can of white salt"
-          },
-          "count": 3
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Scout the command bunker offices on Reserve"
-      },
-      {
-        "description": "Scout the medical building commander's office on Reserve"
-      },
-      {
-        "description": "Scout the educational building offices on Reserve"
-      },
-      {
-        "description": "Survive and extract from the location"
-      }
-    ]
-  },
-  {
     "id": "59c124d686f774189b3c843f",
     "name": "BP Depot",
     "normalizedName": "bp-depot",
@@ -3309,423 +3223,6 @@
     "objectives": [
       {
         "description": "Survive and extract from Customs through Railroad Passage"
-      }
-    ]
-  },
-  {
-    "id": "6863d9bcd3bfdcb2bc075956",
-    "name": "Friend from Norvinsk - Part 2",
-    "normalizedName": "friend-from-norvinsk-part-2",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/6863d9bcd3bfdcb2bc075956.webp",
-    "trader": {
-      "name": "Mechanic",
-      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
-      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
-    },
-    "map": {
-      "name": "Shoreline"
-    },
-    "experience": 4000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "6863cf925eaeb676d50a9651",
-          "name": "Friend from Norvinsk - Part 1"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 15300
-        },
-        {
-          "item": {
-            "name": "Energy-saving lamp"
-          },
-          "count": 4
-        },
-        {
-          "item": {
-            "name": "Power cord"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "SurvL Survivor Lighter"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "Factory plan map"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Locate and obtain anything that could help with the investigation at the Health Resort on Shoreline"
-      },
-      {
-        "description": "Hand over the found info"
-      }
-    ]
-  },
-  {
-    "id": "6863e09a5f4d17fd3e01feee",
-    "name": "Friend from Norvinsk - Part 3",
-    "normalizedName": "friend-from-norvinsk-part-3",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_3",
-    "taskImageLink": "https://assets.tarkov.dev/6863e09a5f4d17fd3e01feee.webp",
-    "trader": {
-      "name": "Mechanic",
-      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
-      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
-    },
-    "map": null,
-    "experience": 6000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "6863d9bcd3bfdcb2bc075956",
-          "name": "Friend from Norvinsk - Part 2"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 21800
-        },
-        {
-          "item": {
-            "name": "Magnet"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "Bundle of wires"
-          },
-          "count": 4
-        },
-        {
-          "item": {
-            "name": "Topographic survey maps"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "Light bulb"
-          },
-          "count": 5
-        },
-        {
-          "item": {
-            "name": "PAID AntiRoach spray"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate Scavs"
-      },
-      {
-        "description": "Obtain any information on the diary from the Scavs",
-        "items": [
-          {
-            "id": "686665484c6f39163e076c3d",
-            "name": "Map piece"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Locate and obtain Mechanic friend's diary"
-      },
-      {
-        "description": "Hand over the found item"
-      }
-    ]
-  },
-  {
-    "id": "686403eeb4aaef121c0f0f06",
-    "name": "Friend from Norvinsk - Part 4",
-    "normalizedName": "friend-from-norvinsk-part-4",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_4",
-    "taskImageLink": "https://assets.tarkov.dev/686403eeb4aaef121c0f0f06.webp",
-    "trader": {
-      "name": "Mechanic",
-      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
-      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
-    },
-    "map": null,
-    "experience": 3000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "6863e09a5f4d17fd3e01feee",
-          "name": "Friend from Norvinsk - Part 3"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 11600
-        },
-        {
-          "item": {
-            "name": "Bundle of wires"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "Power cord"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "Classic matches"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "GreenBat lithium battery"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Hand over the found in raid item: PC CPU",
-        "items": [
-          {
-            "id": "573477e124597737dd42e191",
-            "name": "PC CPU"
-          }
-        ],
-        "count": 2
-      },
-      {
-        "description": "Hand over the found in raid item: RAM stick",
-        "items": [
-          {
-            "id": "57347baf24597738002c6178",
-            "name": "RAM stick"
-          }
-        ],
-        "count": 4
-      },
-      {
-        "description": "Hand over the found in raid item: Printed circuit board or Microcontroller board",
-        "items": [
-          {
-            "id": "590a3b0486f7743954552bdb",
-            "name": "Printed circuit board"
-          },
-          {
-            "id": "6389c7750ef44505c87f5996",
-            "name": "Microcontroller board"
-          }
-        ],
-        "count": 3
-      }
-    ]
-  },
-  {
-    "id": "686404d348e7bb4146002cac",
-    "name": "Friend from Norvinsk - Part 5",
-    "normalizedName": "friend-from-norvinsk-part-5",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_5",
-    "taskImageLink": "https://assets.tarkov.dev/686404d348e7bb4146002cac.webp",
-    "trader": {
-      "name": "Mechanic",
-      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
-      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
-    },
-    "map": null,
-    "experience": 2000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "686403eeb4aaef121c0f0f06",
-          "name": "Friend from Norvinsk - Part 4"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Programmer's diary (Copy)"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 10200
-        },
-        {
-          "item": {
-            "name": "DVD drive"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "Capacitors"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "Construction measuring tape"
-          },
-          "count": 2
-        },
-        {
-          "item": {
-            "name": "Intelligence folder"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "SVDS 7.62x54R sniper rifle FLIR RS-32"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Figure out the cipher and hand over the found item",
-        "items": [
-          {
-            "id": "686666db646d47fec3018925",
-            "name": "Disk with unknown data"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Locate the place mentioned in the cipher"
-      },
-      {
-        "description": "Stash the copy of the diary in the specified location"
-      }
-    ]
-  },
-  {
-    "id": "6864fcef9809a149400dd2ee",
-    "name": "Breathing Room",
-    "normalizedName": "breathing-room",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Breathing_Room",
-    "taskImageLink": "https://assets.tarkov.dev/6864fcef9809a149400dd2ee.webp",
-    "trader": {
-      "name": "Mechanic",
-      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
-      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
-    },
-    "map": null,
-    "experience": 3000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "686404d348e7bb4146002cac",
-          "name": "Friend from Norvinsk - Part 5"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 12300
-        },
-        {
-          "item": {
-            "name": "GreenBat lithium battery"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "Spark plug"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Modify an IWI UZI to comply with the given specifications"
       }
     ]
   },
@@ -4725,6 +4222,134 @@
     "objectives": [
       {
         "description": "Modify an OP-SKS to comply with the given specifications"
+      }
+    ]
+  },
+  {
+    "id": "5c0d190cd09282029f5390d8",
+    "name": "Grenadier",
+    "normalizedName": "grenadier",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Grenadier",
+    "taskImageLink": "https://assets.tarkov.dev/5c0d190cd09282029f5390d8.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": null,
+    "experience": 18000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 75000
+        },
+        {
+          "item": {
+            "name": "12.7x55mm PS12B (10 pcs)"
+          },
+          "count": 10
+        },
+        {
+          "item": {
+            "name": "F-1 hand grenade"
+          },
+          "count": 5
+        },
+        {
+          "item": {
+            "name": "VOG-17 Khattabka improvised hand grenade"
+          },
+          "count": 5
+        },
+        {
+          "item": {
+            "name": "VOG-25 Khattabka improvised hand grenade"
+          },
+          "count": 5
+        },
+        {
+          "item": {
+            "name": "RGN hand grenade"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate PMC operatives while using hand grenades"
+      }
+    ]
+  },
+  {
+    "id": "66058cb22cee99303f1ba067",
+    "name": "Easy Money - Part 1 [PVP ZONE]",
+    "normalizedName": "easy-money-part-1-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Easy_Money_-_Part_1",
+    "taskImageLink": "https://assets.tarkov.dev/66058cb22cee99303f1ba067.webp",
+    "trader": {
+      "name": "Skier",
+      "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
+      "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
+    },
+    "experience": 4500,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "657315e270bb0b8dba00cc48",
+          "name": "Burning Rubber"
+        },
+        "status": [
+          "complete",
+          "failed",
+          "active"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Arena poster"
+          },
+          "count": 3
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 35000
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Plant the Bison vs Undertaker poster in the living quarters at the Scav base on Customs",
+        "items": [
+          {
+            "id": "675a0288c3102563bd01c9c3",
+            "name": "Arena poster"
+          }
+        ],
+        "count": 1
       }
     ]
   },
@@ -5764,6 +5389,1390 @@
       },
       {
         "description": "Hand over the found information"
+      }
+    ]
+  },
+  {
+    "id": "675c15fbf7da9792a4059871",
+    "name": "Provide Viewership",
+    "normalizedName": "provide-viewership",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Provide_Viewership",
+    "taskImageLink": "https://assets.tarkov.dev/675c15fbf7da9792a4059871.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
+    },
+    "experience": 32000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cb5ae4719735349b9e8",
+          "name": "Easy Money - Part 2 [PVP ZONE]"
+        },
+        "status": [
+          "active",
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "WI-FI Camera"
+          },
+          "count": 4
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 45
+        },
+        {
+          "item": {
+            "name": "Lone Star TX-15 DML 5.56x45 carbine Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "AR-15 5.56x45 HK 30 STANAG polymer 30-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "5.56x45mm M855A1 ammo pack (50 pcs)"
+          },
+          "count": 3
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Install the first WI-FI Camera inside the industrial plant on Customs",
+        "items": [
+          {
+            "id": "5b4391a586f7745321235ab2",
+            "name": "WI-FI Camera"
+          }
+        ],
+        "count": 1
+      },
+      {
+        "description": "Install the second WI-FI Camera inside the industrial plant on Customs",
+        "items": [
+          {
+            "id": "5b4391a586f7745321235ab2",
+            "name": "WI-FI Camera"
+          }
+        ],
+        "count": 1
+      },
+      {
+        "description": "Install the third WI-FI Camera inside the industrial plant on Customs",
+        "items": [
+          {
+            "id": "5b4391a586f7745321235ab2",
+            "name": "WI-FI Camera"
+          }
+        ],
+        "count": 1
+      },
+      {
+        "description": "Install the fourth WI-FI Camera inside the industrial plant on Customs",
+        "items": [
+          {
+            "id": "5b4391a586f7745321235ab2",
+            "name": "WI-FI Camera"
+          }
+        ],
+        "count": 1
+      },
+      {
+        "description": "Eliminate any target inside the industrial plant on Customs"
+      }
+    ]
+  },
+  {
+    "id": "66058cb7c7f3584787181476",
+    "name": "Balancing - Part 1 [PVP ZONE]",
+    "normalizedName": "balancing-part-1-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_1",
+    "taskImageLink": "https://assets.tarkov.dev/66058cb7c7f3584787181476.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 5100,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cb5ae4719735349b9e8",
+          "name": "Easy Money - Part 2 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 45
+        },
+        {
+          "item": {
+            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "5.56x45mm M856 ammo pack (50 pcs)"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "Steyr AUG 5.56x45 30-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "Death Shadow lightweight armored mask"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate Scavs while using a Steyr AUG on any location"
+      }
+    ]
+  },
+  {
+    "id": "66058cbd9f59e625462acc8e",
+    "name": "Create a Distraction - Part 1 [PVP ZONE]",
+    "normalizedName": "create-a-distraction-part-1-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Create_a_Distraction_-_Part_1",
+    "taskImageLink": "https://assets.tarkov.dev/66058cbd9f59e625462acc8e.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": {
+      "name": "Ground Zero 21+"
+    },
+    "experience": 5000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cbb06ef1d50a60c1f46",
+          "name": "Surprise [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 28
+        },
+        {
+          "item": {
+            "name": "Desert Tech MDR 5.56x45 assault rifle ONE"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "AR-15 5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "5.56x45mm M856 ammo pack (100 pcs)"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero",
+        "items": [
+          {
+            "id": "60391b0fb847c71012789415",
+            "name": "TP-200 TNT brick"
+          }
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "66058cb9e8e4f17985230805",
+    "name": "Balancing - Part 2 [PVP ZONE]",
+    "normalizedName": "balancing-part-2-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/66058cb9e8e4f17985230805.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 7000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cb7c7f3584787181476",
+          "name": "Balancing - Part 1 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "PACA Soft Armor"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 45
+        },
+        {
+          "item": {
+            "name": "Death Shadow lightweight armored mask"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate PMC operatives while wearing a PACA Soft Armor on any location"
+      }
+    ]
+  },
+  {
+    "id": "66058cb5ae4719735349b9e8",
+    "name": "Easy Money - Part 2 [PVP ZONE]",
+    "normalizedName": "easy-money-part-2-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Easy_Money_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/66058cb5ae4719735349b9e8.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 4200,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cb22cee99303f1ba067",
+          "name": "Easy Money - Part 1 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 52
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Hand over the found in raid items from the Drinks category",
+        "items": [
+          {
+            "id": "5c0fa877d174af02a012e1cf",
+            "name": "Aquamari water bottle with filter"
+          },
+          {
+            "id": "575062b524597720a31c09a1",
+            "name": "Can of Ice Green tea"
+          },
+          {
+            "id": "57513f07245977207e26a311",
+            "name": "Pack of apple juice"
+          },
+          {
+            "id": "57513f9324597720a7128161",
+            "name": "Pack of Grand juice"
+          },
+          {
+            "id": "57513fcc24597720a31c09a6",
+            "name": "Pack of Vita juice"
+          },
+          {
+            "id": "5751435d24597720a27126d1",
+            "name": "Can of Max Energy energy drink"
+          },
+          {
+            "id": "575146b724597720a27126d5",
+            "name": "Pack of milk"
+          },
+          {
+            "id": "57514643245977207f2c2d09",
+            "name": "Can of TarCola soda"
+          },
+          {
+            "id": "5751496424597720a27126da",
+            "name": "Can of Hot Rod energy drink"
+          },
+          {
+            "id": "62a09f32621468534a797acb",
+            "name": "Bottle of Pevko Light beer"
+          },
+          {
+            "id": "5e8f3423fd7471236e6e3b64",
+            "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
+          },
+          {
+            "id": "60b0f93284c20f0feb453da7",
+            "name": "Can of RatCola soda"
+          },
+          {
+            "id": "60098b1705871270cd5352a1",
+            "name": "Emergency Water Ration"
+          },
+          {
+            "id": "5d403f9186f7743cac3f229b",
+            "name": "Bottle of Dan Jackiel whiskey"
+          },
+          {
+            "id": "5d1b376e86f774252519444e",
+            "name": "Bottle of Fierce Hatchling moonshine"
+          },
+          {
+            "id": "5d1b33a686f7742523398398",
+            "name": "Canister with purified water"
+          },
+          {
+            "id": "5d40407c86f774318526545a",
+            "name": "Bottle of Tarkovskaya vodka"
+          },
+          {
+            "id": "544fb62a4bdc2dfb738b4568",
+            "name": "Pack of Russian Army pineapple juice"
+          },
+          {
+            "id": "5448fee04bdc2dbc018b4567",
+            "name": "Bottle of water (0.6L)"
+          }
+        ],
+        "count": 5
+      },
+      {
+        "description": "Hand over the found in raid items from the Food category",
+        "items": [
+          {
+            "id": "57505f6224597709a92585a9",
+            "name": "Alyonka chocolate bar"
+          },
+          {
+            "id": "57347da92459774491567cf5",
+            "name": "Can of beef stew (Large)"
+          },
+          {
+            "id": "57347d3d245977448f7b7f61",
+            "name": "Rye croutons"
+          },
+          {
+            "id": "57347d7224597744596b4e72",
+            "name": "Can of beef stew (Small)"
+          },
+          {
+            "id": "5734773724597737fd047c14",
+            "name": "Can of condensed milk"
+          },
+          {
+            "id": "5751487e245977207e26a315",
+            "name": "Emelya rye croutons"
+          },
+          {
+            "id": "57347d9c245977448b40fa85",
+            "name": "Can of herring"
+          },
+          {
+            "id": "57347d5f245977448b40fa81",
+            "name": "Can of humpback salmon"
+          },
+          {
+            "id": "5673de654bdc2d180f8b456d",
+            "name": "Can of pacific saury"
+          },
+          {
+            "id": "5bc9b156d4351e00367fbce9",
+            "name": "Jar of DevilDog mayo"
+          },
+          {
+            "id": "590c5f0d86f77413997acfab",
+            "name": "MRE ration pack"
+          },
+          {
+            "id": "656df4fec921ad01000481a2",
+            "name": "Pack of instant noodles"
+          },
+          {
+            "id": "590c5d4b86f774784e1b9c45",
+            "name": "Iskra ration pack"
+          },
+          {
+            "id": "635a758bfefc88a93f021b8a",
+            "name": "Salty Dog beef sausage"
+          },
+          {
+            "id": "65815f0e647e3d7246384e14",
+            "name": "Pack of Tarker dried meat"
+          },
+          {
+            "id": "5bc9c29cd4351e003562b8a3",
+            "name": "Can of sprats"
+          },
+          {
+            "id": "59e3577886f774176a362503",
+            "name": "Pack of sugar"
+          },
+          {
+            "id": "57347d90245977448f7b7f65",
+            "name": "Pack of oat flakes"
+          },
+          {
+            "id": "57347d692459774491567cf1",
+            "name": "Can of green peas"
+          },
+          {
+            "id": "544fb6cc4bdc2d34748b456e",
+            "name": "Slickers chocolate bar"
+          },
+          {
+            "id": "57347d8724597744596b4e76",
+            "name": "Can of squash spread"
+          },
+          {
+            "id": "5448ff904bdc2d6f028b456e",
+            "name": "Army crackers"
+          }
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "66058cc72cee99303f1ba069",
+    "name": "To Great Heights! - Part 4 [PVP ZONE]",
+    "normalizedName": "to-great-heights-part-4-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_4",
+    "taskImageLink": "https://assets.tarkov.dev/66058cc72cee99303f1ba069.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 12000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cc5bb83da7ba474aba9",
+          "name": "To Great Heights! - Part 3 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 40
+        },
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 1000002
+        },
+        {
+          "item": {
+            "name": "Armband (ARENA)"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "HK MP7A1 4.6x30 submachine gun Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "HK MP7 4.6x30 30-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "4.6x30mm JSP SX ammo pack (40 pcs)"
+          },
+          "count": 3
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Hand over Roubles from the EFT balance",
+        "items": [
+          {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles"
+          }
+        ],
+        "count": 1000000
+      },
+      {
+        "description": "Win three out of six matches in TeamFight, BlastGang, or CheckPoint mode in Arena"
+      },
+      {
+        "description": "Failure Condition: Lose 4 matches"
+      }
+    ]
+  },
+  {
+    "id": "66058cbf2f19c31a5a1337ec",
+    "name": "Create a Distraction - Part 2 [PVP ZONE]",
+    "normalizedName": "create-a-distraction-part-2-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Create_a_Distraction_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/66058cbf2f19c31a5a1337ec.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
+    "experience": 10000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cbd9f59e625462acc8e",
+          "name": "Create a Distraction - Part 1 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Degtyarev RPDN 7.62x39 machine gun Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "RPD 7.62x39 Buben 100-round box"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "7.62x39mm FMJ ammo pack (20 pcs)"
+          },
+          "count": 10
+        },
+        {
+          "item": {
+            "name": "Lega Medal"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate Kaban's or Kollontay's guards on Streets of Tarkov"
+      }
+    ]
+  },
+  {
+    "id": "66058ccf06ef1d50a60c1f48",
+    "name": "Between Two Fires [PVP ZONE]",
+    "normalizedName": "between-two-fires-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Between_Two_Fires",
+    "taskImageLink": "https://assets.tarkov.dev/66058ccf06ef1d50a60c1f48.webp",
+    "trader": {
+      "name": "Fence",
+      "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
+      "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
+    },
+    "experience": 18500,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058ccde8e4f17985230807",
+          "name": "Against the Conscience - Part 2 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 165000
+        },
+        {
+          "item": {
+            "name": "Secure container Theta"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Return to the old champion's hideout on Customs"
+      },
+      {
+        "description": "Locate and obtain the compromising information on Ref"
+      },
+      {
+        "description": "Hand over the found info"
+      }
+    ]
+  },
+  {
+    "id": "66058ccde8e4f17985230807",
+    "name": "Against the Conscience - Part 2 [PVP ZONE]",
+    "normalizedName": "against-the-conscience-part-2-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Against_the_Conscience_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/66058ccde8e4f17985230807.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 23000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058ccbc7f3584787181478",
+          "name": "Against the Conscience - Part 1 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 88
+        },
+        {
+          "item": {
+            "name": "SIG MCX-SPEAR 6.8x51 assault rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "6.8x51mm SIG FMJ"
+          },
+          "count": 41
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate enemies in any game mode in Arena"
+      }
+    ]
+  },
+  {
+    "id": "66058cbb06ef1d50a60c1f46",
+    "name": "Surprise [PVP ZONE]",
+    "normalizedName": "surprise-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Surprise",
+    "taskImageLink": "https://assets.tarkov.dev/66058cbb06ef1d50a60c1f46.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 3600,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cb9e8e4f17985230805",
+          "name": "Balancing - Part 2 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 55
+        },
+        {
+          "item": {
+            "name": "Maska-1SCh bulletproof helmet (Killa Edition) Default"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Hand over the found in raid items: Class 4 or higher ballistic plates",
+        "items": [
+          {
+            "id": "656f664200d62bcd2e024077",
+            "name": "Korund-VM ballistic plates (Front)"
+          },
+          {
+            "id": "64afdb577bb3bfe8fe03fd1d",
+            "name": "ESBI level IV ballistic plate (Side)"
+          },
+          {
+            "id": "656efaf54772930db4031ff5",
+            "name": "Granit 4 ballistic plates (Back)"
+          },
+          {
+            "id": "656f611f94b480b8a500c0db",
+            "name": "Granit 4 ballistic plate (Front)"
+          },
+          {
+            "id": "654a4a964b446df1ad03f192",
+            "name": "Granit 4RS ballistic plates (Back)"
+          },
+          {
+            "id": "656f63c027aed95beb08f62c",
+            "name": "Granit 4RS ballistic plate (Front)"
+          },
+          {
+            "id": "65573fa5655447403702a816",
+            "name": "Granit Br4 ballistic plate"
+          },
+          {
+            "id": "656fafe3498d1b7e3e071da4",
+            "name": "KITECO SC-IV SA ballistic plate"
+          },
+          {
+            "id": "656fa61e94b480b8a500c0e8",
+            "name": "NESCO 4400-SA-MC ballistic plate"
+          },
+          {
+            "id": "64afc71497cf3a403c01ff38",
+            "name": "Granit Br5 ballistic plate"
+          },
+          {
+            "id": "64afdcb83efdfea28601d041",
+            "name": "ESAPI level IV ballistic plate"
+          },
+          {
+            "id": "656fad8c498d1b7e3e071da0",
+            "name": "Monoclete level III PE ballistic plate"
+          },
+          {
+            "id": "656fb0bd7c2d57afe200c0dc",
+            "name": "SPRTN Elaphros ballistic plate"
+          },
+          {
+            "id": "656fa25e94b480b8a500c0e0",
+            "name": "Kiba Arms Titan ballistic plate"
+          },
+          {
+            "id": "656fb21fa0dce000a2020f7c",
+            "name": "NewSphereTech level III ballistic plate"
+          },
+          {
+            "id": "656f9fa0498d1b7e3e071d98",
+            "name": "SPRTN Omega ballistic plate"
+          },
+          {
+            "id": "656fa0fb498d1b7e3e071d9c",
+            "name": "Global Armor’s Steel ballistic plate"
+          },
+          {
+            "id": "655746010177119f4a097ff7",
+            "name": "SAPI level III+ ballistic plate"
+          },
+          {
+            "id": "656fa53d94b480b8a500c0e4",
+            "name": "TallCom Guardian ballistic plate"
+          },
+          {
+            "id": "656faf0ca0dce000a2020f77",
+            "name": "GAC 4sss2 ballistic plate"
+          },
+          {
+            "id": "656fa99800d62bcd2e024088",
+            "name": "Cult Termite ballistic plate"
+          },
+          {
+            "id": "656fa8d700d62bcd2e024084",
+            "name": "Cult Locust ballistic plate"
+          },
+          {
+            "id": "656fa76500d62bcd2e024080",
+            "name": "Kiba Arms Steel ballistic plate"
+          },
+          {
+            "id": "656fae5f7c2d57afe200c0d7",
+            "name": "GAC 3s15m ballistic plate"
+          },
+          {
+            "id": "6557458f83942d705f0c4962",
+            "name": "SSAPI level III+ ballistic plate (Side)"
+          },
+          {
+            "id": "656f603f94b480b8a500c0d6",
+            "name": "6B33 ballistic plate (Front)"
+          },
+          {
+            "id": "657b22485f444d6dff0c6c2f",
+            "name": "6B23-2 ballistic plate (Back)"
+          },
+          {
+            "id": "64afd81707e2cf40e903a316",
+            "name": "Granit ballistic plate (Side)"
+          },
+          {
+            "id": "654a4f8bc721968a4404ef18",
+            "name": "Korund-VM ballistic plate (Side)"
+          },
+          {
+            "id": "657b2797c3dbcb01d60c35ea",
+            "name": "Korund-VM ballistic plate (Back)"
+          },
+          {
+            "id": "657b28d25f444d6dff0c6c77",
+            "name": "Korund-VM-K ballistic plate (Back)"
+          },
+          {
+            "id": "656f66b5c6baea13cd07e108",
+            "name": "Korund-VM-K ballistic plates (Front)"
+          }
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "66058cc9ae4719735349b9ea",
+    "name": "To Great Heights! - Part 5 [PVP ZONE]",
+    "normalizedName": "to-great-heights-part-5-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_5",
+    "taskImageLink": "https://assets.tarkov.dev/66058cc9ae4719735349b9ea.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 21000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cc72cee99303f1ba069",
+          "name": "To Great Heights! - Part 4 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 40
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Win two matches in a row in TeamFight, BlastGang, or CheckPoint mode in Arena"
+      }
+    ]
+  },
+  {
+    "id": "66058cd19f59e625462acc90",
+    "name": "Decisions, Decisions [PVP ZONE]",
+    "normalizedName": "decisions-decisions-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Decisions%2C_Decisions",
+    "taskImageLink": "https://assets.tarkov.dev/66058cd19f59e625462acc90.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 18500,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058ccf06ef1d50a60c1f48",
+          "name": "Between Two Fires [PVP ZONE]"
+        },
+        "status": [
+          "active"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 72
+        },
+        {
+          "item": {
+            "name": "Secure container Theta"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Locate and obtain the compromising information on Ref"
+      },
+      {
+        "description": "Hand over the found info"
+      }
+    ]
+  },
+  {
+    "id": "66058cc1da30b620a34e6e86",
+    "name": "To Great Heights! - Part 1 [PVP ZONE]",
+    "normalizedName": "to-great-heights-part-1-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_1",
+    "taskImageLink": "https://assets.tarkov.dev/66058cc1da30b620a34e6e86.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 5600,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cb7c7f3584787181476",
+          "name": "Balancing - Part 1 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 75
+        },
+        {
+          "item": {
+            "name": "Lega Medal"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Vudu 1-6"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "M700 7.62x51 Magpul PMAG AC 5-round magazine"
+          },
+          "count": 2
+        },
+        {
+          "item": {
+            "name": "7.62x51mm TCW SP ammo pack (20 pcs)"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Win a match in CheckPoint or LastHero mode in Arena"
+      }
+    ]
+  },
+  {
+    "id": "66058cc208308761cf390993",
+    "name": "To Great Heights! - Part 2 [PVP ZONE]",
+    "normalizedName": "to-great-heights-part-2-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/66058cc208308761cf390993.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 6500,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cc1da30b620a34e6e86",
+          "name": "To Great Heights! - Part 1 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 52
+        },
+        {
+          "item": {
+            "name": "7.62x39mm PS gzh ammo pack (20 pcs)"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "CMMG Mk47 Mutant 7.62x39 assault rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "AK 7.62x39 US Palm AK30 30-round magazine (Black)"
+          },
+          "count": 3
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Win a match in TeamFight, BlastGang, or CheckPoint mode in Arena"
+      }
+    ]
+  },
+  {
+    "id": "66058cc5bb83da7ba474aba9",
+    "name": "To Great Heights! - Part 3 [PVP ZONE]",
+    "normalizedName": "to-great-heights-part-3-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_3",
+    "taskImageLink": "https://assets.tarkov.dev/66058cc5bb83da7ba474aba9.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": null,
+    "experience": 11000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cc208308761cf390993",
+          "name": "To Great Heights! - Part 2 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "GP coin"
+          },
+          "count": 38
+        },
+        {
+          "item": {
+            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Saboteur"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "DVL-10 7.62x51 10-round magazine"
+          },
+          "count": 2
+        },
+        {
+          "item": {
+            "name": "7.62x51mm TCW SP ammo pack (20 pcs)"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Win a match while claiming at least 3rd place in TeamFight, BlastGang, or CheckPoint mode in Arena"
+      }
+    ]
+  },
+  {
+    "id": "66058ccbc7f3584787181478",
+    "name": "Against the Conscience - Part 1 [PVP ZONE]",
+    "normalizedName": "against-the-conscience-part-1-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Against_the_Conscience_-_Part_1",
+    "taskImageLink": "https://assets.tarkov.dev/66058ccbc7f3584787181478.webp",
+    "trader": {
+      "name": "Ref",
+      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
+    },
+    "experience": 11700,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058cbd9f59e625462acc8e",
+          "name": "Create a Distraction - Part 1 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      },
+      {
+        "task": {
+          "id": "66058cc9ae4719735349b9ea",
+          "name": "To Great Heights! - Part 5 [PVP ZONE]"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 50000
+        },
+        {
+          "item": {
+            "name": "CQC Osprey MK4A plate carrier (Assault, MTP) Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "HK 416A5 5.56x45 assault rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "AR-15 5.56x45 HK Steel Maritime STANAG 30-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "5.56x45mm MK 318 Mod 0 (SOST) ammo pack (50 pcs)"
+          },
+          "count": 3
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Locate the old champion's room on Customs"
+      },
+      {
+        "description": "Find out what happened to the champion"
+      },
+      {
+        "description": "Survive and extract from the location"
+      },
+      {
+        "description": "Locate and obtain the key at the smugglers' base on Shoreline",
+        "items": [
+          {
+            "id": "664d4b0103ef2c61246afb56",
+            "name": "Dorm overseer key"
+          }
+        ],
+        "count": 1
       }
     ]
   },
@@ -14190,6 +15199,70 @@
     ]
   },
   {
+    "id": "5c0bd94186f7747a727f09b2",
+    "name": "Test Drive - Part 1",
+    "normalizedName": "test-drive-part-1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_1",
+    "taskImageLink": "https://assets.tarkov.dev/5c0bd94186f7747a727f09b2.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": null,
+    "experience": 18200,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "657315df034d76585f032e01",
+          "name": "Shooting Cans"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Springfield Armory M1A 7.62x51 rifle Hybrid 46"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "VSS Vintorez 9x39 special sniper rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "9x39mm PAB-9 gs ammo pack (20 pcs)"
+          },
+          "count": 6
+        },
+        {
+          "item": {
+            "name": "VSS/VAL 9x39 30-round magazine"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate PMC operatives from over 60 meters away while using an M1A rifle with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope"
+      }
+    ]
+  },
+  {
     "id": "5c1234c286f77406fa13baeb",
     "name": "Setup",
     "normalizedName": "setup",
@@ -14884,71 +15957,6 @@
     ]
   },
   {
-    "id": "5c0d190cd09282029f5390d8",
-    "name": "Grenadier",
-    "normalizedName": "grenadier",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Grenadier",
-    "taskImageLink": "https://assets.tarkov.dev/5c0d190cd09282029f5390d8.webp",
-    "trader": {
-      "name": "Prapor",
-      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
-    },
-    "map": null,
-    "experience": 18000,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "taskRequirements": [],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 75000
-        },
-        {
-          "item": {
-            "name": "12.7x55mm PS12B (10 pcs)"
-          },
-          "count": 10
-        },
-        {
-          "item": {
-            "name": "F-1 hand grenade"
-          },
-          "count": 5
-        },
-        {
-          "item": {
-            "name": "VOG-17 Khattabka improvised hand grenade"
-          },
-          "count": 5
-        },
-        {
-          "item": {
-            "name": "VOG-25 Khattabka improvised hand grenade"
-          },
-          "count": 5
-        },
-        {
-          "item": {
-            "name": "RGN hand grenade"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate PMC operatives while using hand grenades"
-      }
-    ]
-  },
-  {
     "id": "6752f6d83038f7df520c83e8",
     "name": "A Helping Hand",
     "normalizedName": "a-helping-hand",
@@ -15004,69 +16012,6 @@
       },
       {
         "description": "Complete the task Shipping Delay - Part 1"
-      }
-    ]
-  },
-  {
-    "id": "66058cb22cee99303f1ba067",
-    "name": "Easy Money - Part 1 [PVP ZONE]",
-    "normalizedName": "easy-money-part-1-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Easy_Money_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/66058cb22cee99303f1ba067.webp",
-    "trader": {
-      "name": "Skier",
-      "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
-      "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
-    },
-    "map": {
-      "name": "Customs"
-    },
-    "experience": 4500,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "657315e270bb0b8dba00cc48",
-          "name": "Burning Rubber"
-        },
-        "status": [
-          "complete",
-          "failed",
-          "active"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Arena poster"
-          },
-          "count": 3
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 35000
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Plant the Bison vs Undertaker poster in the living quarters at the Scav base on Customs",
-        "items": [
-          {
-            "id": "675a0288c3102563bd01c9c3",
-            "name": "Arena poster"
-          }
-        ],
-        "count": 1
       }
     ]
   },
@@ -72215,1294 +73160,6 @@
     ]
   },
   {
-    "id": "675c15fbf7da9792a4059871",
-    "name": "Provide Viewership",
-    "normalizedName": "provide-viewership",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Provide_Viewership",
-    "taskImageLink": "https://assets.tarkov.dev/675c15fbf7da9792a4059871.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": {
-      "name": "Customs"
-    },
-    "experience": 32000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cb5ae4719735349b9e8",
-          "name": "Easy Money - Part 2 [PVP ZONE]"
-        },
-        "status": [
-          "active",
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "WI-FI Camera"
-          },
-          "count": 4
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 45
-        },
-        {
-          "item": {
-            "name": "Lone Star TX-15 DML 5.56x45 carbine Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "AR-15 5.56x45 HK 30 STANAG polymer 30-round magazine"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "5.56x45mm M855A1 ammo pack (50 pcs)"
-          },
-          "count": 3
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Install the first WI-FI Camera inside the industrial plant on Customs",
-        "items": [
-          {
-            "id": "5b4391a586f7745321235ab2",
-            "name": "WI-FI Camera"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Install the second WI-FI Camera inside the industrial plant on Customs",
-        "items": [
-          {
-            "id": "5b4391a586f7745321235ab2",
-            "name": "WI-FI Camera"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Install the third WI-FI Camera inside the industrial plant on Customs",
-        "items": [
-          {
-            "id": "5b4391a586f7745321235ab2",
-            "name": "WI-FI Camera"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Install the fourth WI-FI Camera inside the industrial plant on Customs",
-        "items": [
-          {
-            "id": "5b4391a586f7745321235ab2",
-            "name": "WI-FI Camera"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Eliminate any target inside the industrial plant on Customs"
-      }
-    ]
-  },
-  {
-    "id": "66058cb7c7f3584787181476",
-    "name": "Balancing - Part 1 [PVP ZONE]",
-    "normalizedName": "balancing-part-1-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/66058cb7c7f3584787181476.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 5100,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cb5ae4719735349b9e8",
-          "name": "Easy Money - Part 2 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 45
-        },
-        {
-          "item": {
-            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "5.56x45mm M856 ammo pack (50 pcs)"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "Steyr AUG 5.56x45 30-round magazine"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "Death Shadow lightweight armored mask"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate Scavs while using a Steyr AUG on any location"
-      }
-    ]
-  },
-  {
-    "id": "66058cbd9f59e625462acc8e",
-    "name": "Create a Distraction - Part 1 [PVP ZONE]",
-    "normalizedName": "create-a-distraction-part-1-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Create_a_Distraction_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/66058cbd9f59e625462acc8e.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": {
-      "name": "Ground Zero 21+"
-    },
-    "experience": 5000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cbb06ef1d50a60c1f46",
-          "name": "Surprise [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 28
-        },
-        {
-          "item": {
-            "name": "Desert Tech MDR 5.56x45 assault rifle ONE"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "AR-15 5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "5.56x45mm M856 ammo pack (100 pcs)"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero",
-        "items": [
-          {
-            "id": "60391b0fb847c71012789415",
-            "name": "TP-200 TNT brick"
-          }
-        ],
-        "count": 3
-      }
-    ]
-  },
-  {
-    "id": "66058cb9e8e4f17985230805",
-    "name": "Balancing - Part 2 [PVP ZONE]",
-    "normalizedName": "balancing-part-2-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/66058cb9e8e4f17985230805.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 7000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cb7c7f3584787181476",
-          "name": "Balancing - Part 1 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "PACA Soft Armor"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 45
-        },
-        {
-          "item": {
-            "name": "Death Shadow lightweight armored mask"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate PMC operatives while wearing a PACA Soft Armor on any location"
-      }
-    ]
-  },
-  {
-    "id": "66058cb5ae4719735349b9e8",
-    "name": "Easy Money - Part 2 [PVP ZONE]",
-    "normalizedName": "easy-money-part-2-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Easy_Money_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/66058cb5ae4719735349b9e8.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 4200,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cb22cee99303f1ba067",
-          "name": "Easy Money - Part 1 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 52
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Hand over the found in raid items from the Drinks category",
-        "items": [
-          {
-            "id": "5c0fa877d174af02a012e1cf",
-            "name": "Aquamari water bottle with filter"
-          },
-          {
-            "id": "575062b524597720a31c09a1",
-            "name": "Can of Ice Green tea"
-          },
-          {
-            "id": "57513f07245977207e26a311",
-            "name": "Pack of apple juice"
-          },
-          {
-            "id": "57513f9324597720a7128161",
-            "name": "Pack of Grand juice"
-          },
-          {
-            "id": "57513fcc24597720a31c09a6",
-            "name": "Pack of Vita juice"
-          },
-          {
-            "id": "5751435d24597720a27126d1",
-            "name": "Can of Max Energy energy drink"
-          },
-          {
-            "id": "575146b724597720a27126d5",
-            "name": "Pack of milk"
-          },
-          {
-            "id": "57514643245977207f2c2d09",
-            "name": "Can of TarCola soda"
-          },
-          {
-            "id": "5751496424597720a27126da",
-            "name": "Can of Hot Rod energy drink"
-          },
-          {
-            "id": "62a09f32621468534a797acb",
-            "name": "Bottle of Pevko Light beer"
-          },
-          {
-            "id": "5e8f3423fd7471236e6e3b64",
-            "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
-          },
-          {
-            "id": "60b0f93284c20f0feb453da7",
-            "name": "Can of RatCola soda"
-          },
-          {
-            "id": "60098b1705871270cd5352a1",
-            "name": "Emergency Water Ration"
-          },
-          {
-            "id": "5d403f9186f7743cac3f229b",
-            "name": "Bottle of Dan Jackiel whiskey"
-          },
-          {
-            "id": "5d1b376e86f774252519444e",
-            "name": "Bottle of Fierce Hatchling moonshine"
-          },
-          {
-            "id": "5d1b33a686f7742523398398",
-            "name": "Canister with purified water"
-          },
-          {
-            "id": "5d40407c86f774318526545a",
-            "name": "Bottle of Tarkovskaya vodka"
-          },
-          {
-            "id": "544fb62a4bdc2dfb738b4568",
-            "name": "Pack of Russian Army pineapple juice"
-          },
-          {
-            "id": "5448fee04bdc2dbc018b4567",
-            "name": "Bottle of water (0.6L)"
-          }
-        ],
-        "count": 5
-      },
-      {
-        "description": "Hand over the found in raid items from the Food category",
-        "items": [
-          {
-            "id": "57505f6224597709a92585a9",
-            "name": "Alyonka chocolate bar"
-          },
-          {
-            "id": "57347da92459774491567cf5",
-            "name": "Can of beef stew (Large)"
-          },
-          {
-            "id": "57347d3d245977448f7b7f61",
-            "name": "Rye croutons"
-          },
-          {
-            "id": "57347d7224597744596b4e72",
-            "name": "Can of beef stew (Small)"
-          },
-          {
-            "id": "5734773724597737fd047c14",
-            "name": "Can of condensed milk"
-          },
-          {
-            "id": "5751487e245977207e26a315",
-            "name": "Emelya rye croutons"
-          },
-          {
-            "id": "57347d9c245977448b40fa85",
-            "name": "Can of herring"
-          },
-          {
-            "id": "57347d5f245977448b40fa81",
-            "name": "Can of humpback salmon"
-          },
-          {
-            "id": "5673de654bdc2d180f8b456d",
-            "name": "Can of pacific saury"
-          },
-          {
-            "id": "5bc9b156d4351e00367fbce9",
-            "name": "Jar of DevilDog mayo"
-          },
-          {
-            "id": "590c5f0d86f77413997acfab",
-            "name": "MRE ration pack"
-          },
-          {
-            "id": "656df4fec921ad01000481a2",
-            "name": "Pack of instant noodles"
-          },
-          {
-            "id": "590c5d4b86f774784e1b9c45",
-            "name": "Iskra ration pack"
-          },
-          {
-            "id": "635a758bfefc88a93f021b8a",
-            "name": "Salty Dog beef sausage"
-          },
-          {
-            "id": "65815f0e647e3d7246384e14",
-            "name": "Pack of Tarker dried meat"
-          },
-          {
-            "id": "5bc9c29cd4351e003562b8a3",
-            "name": "Can of sprats"
-          },
-          {
-            "id": "59e3577886f774176a362503",
-            "name": "Pack of sugar"
-          },
-          {
-            "id": "57347d90245977448f7b7f65",
-            "name": "Pack of oat flakes"
-          },
-          {
-            "id": "57347d692459774491567cf1",
-            "name": "Can of green peas"
-          },
-          {
-            "id": "544fb6cc4bdc2d34748b456e",
-            "name": "Slickers chocolate bar"
-          },
-          {
-            "id": "57347d8724597744596b4e76",
-            "name": "Can of squash spread"
-          },
-          {
-            "id": "5448ff904bdc2d6f028b456e",
-            "name": "Army crackers"
-          }
-        ],
-        "count": 5
-      }
-    ]
-  },
-  {
-    "id": "66058cc72cee99303f1ba069",
-    "name": "To Great Heights! - Part 4 [PVP ZONE]",
-    "normalizedName": "to-great-heights-part-4-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_4",
-    "taskImageLink": "https://assets.tarkov.dev/66058cc72cee99303f1ba069.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 12000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cc5bb83da7ba474aba9",
-          "name": "To Great Heights! - Part 3 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 40
-        },
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 1000002
-        },
-        {
-          "item": {
-            "name": "Armband (ARENA)"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "HK MP7A1 4.6x30 submachine gun Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "HK MP7 4.6x30 30-round magazine"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "4.6x30mm JSP SX ammo pack (40 pcs)"
-          },
-          "count": 3
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Hand over Roubles from the EFT balance",
-        "items": [
-          {
-            "id": "5449016a4bdc2d6f028b456f",
-            "name": "Roubles"
-          }
-        ],
-        "count": 1000000
-      },
-      {
-        "description": "Win three out of six matches in TeamFight, BlastGang, or CheckPoint mode in Arena"
-      },
-      {
-        "description": "Failure Condition: Lose 4 matches"
-      }
-    ]
-  },
-  {
-    "id": "66058cbf2f19c31a5a1337ec",
-    "name": "Create a Distraction - Part 2 [PVP ZONE]",
-    "normalizedName": "create-a-distraction-part-2-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Create_a_Distraction_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/66058cbf2f19c31a5a1337ec.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": {
-      "name": "Streets of Tarkov"
-    },
-    "experience": 10000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cbd9f59e625462acc8e",
-          "name": "Create a Distraction - Part 1 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Degtyarev RPDN 7.62x39 machine gun Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "RPD 7.62x39 Buben 100-round box"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "7.62x39mm FMJ ammo pack (20 pcs)"
-          },
-          "count": 10
-        },
-        {
-          "item": {
-            "name": "Lega Medal"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate Kaban's or Kollontay's guards on Streets of Tarkov"
-      }
-    ]
-  },
-  {
-    "id": "66058ccf06ef1d50a60c1f48",
-    "name": "Between Two Fires [PVP ZONE]",
-    "normalizedName": "between-two-fires-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Between_Two_Fires",
-    "taskImageLink": "https://assets.tarkov.dev/66058ccf06ef1d50a60c1f48.webp",
-    "trader": {
-      "name": "Fence",
-      "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
-      "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp"
-    },
-    "map": {
-      "name": "Customs"
-    },
-    "experience": 18500,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058ccde8e4f17985230807",
-          "name": "Against the Conscience - Part 2 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 165000
-        },
-        {
-          "item": {
-            "name": "Secure container Theta"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Return to the old champion's hideout on Customs"
-      },
-      {
-        "description": "Locate and obtain the compromising information on Ref"
-      },
-      {
-        "description": "Hand over the found info"
-      }
-    ]
-  },
-  {
-    "id": "66058ccde8e4f17985230807",
-    "name": "Against the Conscience - Part 2 [PVP ZONE]",
-    "normalizedName": "against-the-conscience-part-2-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Against_the_Conscience_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/66058ccde8e4f17985230807.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 23000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058ccbc7f3584787181478",
-          "name": "Against the Conscience - Part 1 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 88
-        },
-        {
-          "item": {
-            "name": "SIG MCX-SPEAR 6.8x51 assault rifle Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "6.8x51mm SIG FMJ"
-          },
-          "count": 41
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate enemies in any game mode in Arena"
-      }
-    ]
-  },
-  {
-    "id": "66058cbb06ef1d50a60c1f46",
-    "name": "Surprise [PVP ZONE]",
-    "normalizedName": "surprise-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Surprise",
-    "taskImageLink": "https://assets.tarkov.dev/66058cbb06ef1d50a60c1f46.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 3600,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cb9e8e4f17985230805",
-          "name": "Balancing - Part 2 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 55
-        },
-        {
-          "item": {
-            "name": "Maska-1SCh bulletproof helmet (Killa Edition) Default"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Hand over the found in raid items: Class 4 or higher ballistic plates",
-        "items": [
-          {
-            "id": "656f664200d62bcd2e024077",
-            "name": "Korund-VM ballistic plates (Front)"
-          },
-          {
-            "id": "64afdb577bb3bfe8fe03fd1d",
-            "name": "ESBI level IV ballistic plate (Side)"
-          },
-          {
-            "id": "656efaf54772930db4031ff5",
-            "name": "Granit 4 ballistic plates (Back)"
-          },
-          {
-            "id": "656f611f94b480b8a500c0db",
-            "name": "Granit 4 ballistic plate (Front)"
-          },
-          {
-            "id": "654a4a964b446df1ad03f192",
-            "name": "Granit 4RS ballistic plates (Back)"
-          },
-          {
-            "id": "656f63c027aed95beb08f62c",
-            "name": "Granit 4RS ballistic plate (Front)"
-          },
-          {
-            "id": "65573fa5655447403702a816",
-            "name": "Granit Br4 ballistic plate"
-          },
-          {
-            "id": "656fafe3498d1b7e3e071da4",
-            "name": "KITECO SC-IV SA ballistic plate"
-          },
-          {
-            "id": "656fa61e94b480b8a500c0e8",
-            "name": "NESCO 4400-SA-MC ballistic plate"
-          },
-          {
-            "id": "64afc71497cf3a403c01ff38",
-            "name": "Granit Br5 ballistic plate"
-          },
-          {
-            "id": "64afdcb83efdfea28601d041",
-            "name": "ESAPI level IV ballistic plate"
-          },
-          {
-            "id": "656fad8c498d1b7e3e071da0",
-            "name": "Monoclete level III PE ballistic plate"
-          },
-          {
-            "id": "656fb0bd7c2d57afe200c0dc",
-            "name": "SPRTN Elaphros ballistic plate"
-          },
-          {
-            "id": "656fa25e94b480b8a500c0e0",
-            "name": "Kiba Arms Titan ballistic plate"
-          },
-          {
-            "id": "656fb21fa0dce000a2020f7c",
-            "name": "NewSphereTech level III ballistic plate"
-          },
-          {
-            "id": "656f9fa0498d1b7e3e071d98",
-            "name": "SPRTN Omega ballistic plate"
-          },
-          {
-            "id": "656fa0fb498d1b7e3e071d9c",
-            "name": "Global Armor’s Steel ballistic plate"
-          },
-          {
-            "id": "655746010177119f4a097ff7",
-            "name": "SAPI level III+ ballistic plate"
-          },
-          {
-            "id": "656fa53d94b480b8a500c0e4",
-            "name": "TallCom Guardian ballistic plate"
-          },
-          {
-            "id": "656faf0ca0dce000a2020f77",
-            "name": "GAC 4sss2 ballistic plate"
-          },
-          {
-            "id": "656fa99800d62bcd2e024088",
-            "name": "Cult Termite ballistic plate"
-          },
-          {
-            "id": "656fa8d700d62bcd2e024084",
-            "name": "Cult Locust ballistic plate"
-          },
-          {
-            "id": "656fa76500d62bcd2e024080",
-            "name": "Kiba Arms Steel ballistic plate"
-          },
-          {
-            "id": "656fae5f7c2d57afe200c0d7",
-            "name": "GAC 3s15m ballistic plate"
-          },
-          {
-            "id": "6557458f83942d705f0c4962",
-            "name": "SSAPI level III+ ballistic plate (Side)"
-          },
-          {
-            "id": "656f603f94b480b8a500c0d6",
-            "name": "6B33 ballistic plate (Front)"
-          },
-          {
-            "id": "657b22485f444d6dff0c6c2f",
-            "name": "6B23-2 ballistic plate (Back)"
-          },
-          {
-            "id": "64afd81707e2cf40e903a316",
-            "name": "Granit ballistic plate (Side)"
-          },
-          {
-            "id": "654a4f8bc721968a4404ef18",
-            "name": "Korund-VM ballistic plate (Side)"
-          },
-          {
-            "id": "657b2797c3dbcb01d60c35ea",
-            "name": "Korund-VM ballistic plate (Back)"
-          },
-          {
-            "id": "657b28d25f444d6dff0c6c77",
-            "name": "Korund-VM-K ballistic plate (Back)"
-          },
-          {
-            "id": "656f66b5c6baea13cd07e108",
-            "name": "Korund-VM-K ballistic plates (Front)"
-          }
-        ],
-        "count": 3
-      }
-    ]
-  },
-  {
-    "id": "66058cc9ae4719735349b9ea",
-    "name": "To Great Heights! - Part 5 [PVP ZONE]",
-    "normalizedName": "to-great-heights-part-5-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_5",
-    "taskImageLink": "https://assets.tarkov.dev/66058cc9ae4719735349b9ea.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 21000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cc72cee99303f1ba069",
-          "name": "To Great Heights! - Part 4 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 40
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Win two matches in a row in TeamFight, BlastGang, or CheckPoint mode in Arena"
-      }
-    ]
-  },
-  {
-    "id": "66058cd19f59e625462acc90",
-    "name": "Decisions, Decisions [PVP ZONE]",
-    "normalizedName": "decisions-decisions-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Decisions%2C_Decisions",
-    "taskImageLink": "https://assets.tarkov.dev/66058cd19f59e625462acc90.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 18500,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058ccf06ef1d50a60c1f48",
-          "name": "Between Two Fires [PVP ZONE]"
-        },
-        "status": [
-          "active"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 72
-        },
-        {
-          "item": {
-            "name": "Secure container Theta"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Locate and obtain the compromising information on Ref"
-      },
-      {
-        "description": "Hand over the found info"
-      }
-    ]
-  },
-  {
-    "id": "66058cc1da30b620a34e6e86",
-    "name": "To Great Heights! - Part 1 [PVP ZONE]",
-    "normalizedName": "to-great-heights-part-1-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/66058cc1da30b620a34e6e86.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 5600,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cb7c7f3584787181476",
-          "name": "Balancing - Part 1 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 75
-        },
-        {
-          "item": {
-            "name": "Lega Medal"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Vudu 1-6"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "M700 7.62x51 Magpul PMAG AC 5-round magazine"
-          },
-          "count": 2
-        },
-        {
-          "item": {
-            "name": "7.62x51mm TCW SP ammo pack (20 pcs)"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Win a match in CheckPoint or LastHero mode in Arena"
-      }
-    ]
-  },
-  {
-    "id": "66058cc208308761cf390993",
-    "name": "To Great Heights! - Part 2 [PVP ZONE]",
-    "normalizedName": "to-great-heights-part-2-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/66058cc208308761cf390993.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 6500,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cc1da30b620a34e6e86",
-          "name": "To Great Heights! - Part 1 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 52
-        },
-        {
-          "item": {
-            "name": "7.62x39mm PS gzh ammo pack (20 pcs)"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "CMMG Mk47 Mutant 7.62x39 assault rifle Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "AK 7.62x39 US Palm AK30 30-round magazine (Black)"
-          },
-          "count": 3
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Win a match in TeamFight, BlastGang, or CheckPoint mode in Arena"
-      }
-    ]
-  },
-  {
-    "id": "66058cc5bb83da7ba474aba9",
-    "name": "To Great Heights! - Part 3 [PVP ZONE]",
-    "normalizedName": "to-great-heights-part-3-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_3",
-    "taskImageLink": "https://assets.tarkov.dev/66058cc5bb83da7ba474aba9.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": null,
-    "experience": 11000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cc208308761cf390993",
-          "name": "To Great Heights! - Part 2 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "GP coin"
-          },
-          "count": 38
-        },
-        {
-          "item": {
-            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Saboteur"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "DVL-10 7.62x51 10-round magazine"
-          },
-          "count": 2
-        },
-        {
-          "item": {
-            "name": "7.62x51mm TCW SP ammo pack (20 pcs)"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Win a match while claiming at least 3rd place in TeamFight, BlastGang, or CheckPoint mode in Arena"
-      }
-    ]
-  },
-  {
     "id": "6740a15566e6a521aa051b15",
     "name": "Forge a Friendship",
     "normalizedName": "forge-a-friendship",
@@ -73875,102 +73532,6 @@
       },
       {
         "description": "Eliminate PMC operatives while completing the other objectives"
-      }
-    ]
-  },
-  {
-    "id": "66058ccbc7f3584787181478",
-    "name": "Against the Conscience - Part 1 [PVP ZONE]",
-    "normalizedName": "against-the-conscience-part-1-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Against_the_Conscience_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/66058ccbc7f3584787181478.webp",
-    "trader": {
-      "name": "Ref",
-      "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-      "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
-    },
-    "map": {
-      "name": "Customs"
-    },
-    "experience": 11700,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058cbd9f59e625462acc8e",
-          "name": "Create a Distraction - Part 1 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      },
-      {
-        "task": {
-          "id": "66058cc9ae4719735349b9ea",
-          "name": "To Great Heights! - Part 5 [PVP ZONE]"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 50000
-        },
-        {
-          "item": {
-            "name": "CQC Osprey MK4A plate carrier (Assault, MTP) Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "HK 416A5 5.56x45 assault rifle Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "AR-15 5.56x45 HK Steel Maritime STANAG 30-round magazine"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "5.56x45mm MK 318 Mod 0 (SOST) ammo pack (50 pcs)"
-          },
-          "count": 3
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Locate the old champion's room on Customs"
-      },
-      {
-        "description": "Find out what happened to the champion"
-      },
-      {
-        "description": "Survive and extract from the location"
-      },
-      {
-        "description": "Locate and obtain the key at the smugglers' base on Shoreline",
-        "items": [
-          {
-            "id": "664d4b0103ef2c61246afb56",
-            "name": "Dorm overseer key"
-          }
-        ],
-        "count": 1
       }
     ]
   },
@@ -74978,6 +74539,84 @@
       },
       {
         "description": "Hand over the found data"
+      }
+    ]
+  },
+  {
+    "id": "63a5cf262964a7488f5243ce",
+    "name": "Test Drive - Part 2",
+    "normalizedName": "test-drive-part-2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_2",
+    "taskImageLink": "https://assets.tarkov.dev/63a5cf262964a7488f5243ce.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Streets of Tarkov"
+    },
+    "experience": 28000,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "5c0bd94186f7747a727f09b2",
+          "name": "Test Drive - Part 1"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "SR-2M Veresk 9x21 submachine gun FSB"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 300000
+        },
+        {
+          "item": {
+            "name": "ASh-12 12.7x55 assault rifle Silenced"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "ASh-12 12.7x55 20-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "12.7x55mm PS12B (10 pcs)"
+          },
+          "count": 6
+        },
+        {
+          "item": {
+            "name": "Golden neck chain"
+          },
+          "count": 3
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate PMC operatives while using an SR-2M with a suppressor and KP-SR2 sight on Streets of Tarkov"
       }
     ]
   },
@@ -77247,6 +76886,78 @@
           }
         ],
         "count": 2
+      }
+    ]
+  },
+  {
+    "id": "64f5deac39e45b527a7c4232",
+    "name": "Test Drive - Part 3",
+    "normalizedName": "test-drive-part-3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_3",
+    "taskImageLink": "https://assets.tarkov.dev/64f5deac39e45b527a7c4232.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Lighthouse"
+    },
+    "experience": 35300,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "63a5cf262964a7488f5243ce",
+          "name": "Test Drive - Part 2"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Kalashnikov AK-12 5.45x39 assault rifle PS-320"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 400000
+        },
+        {
+          "item": {
+            "name": "RPK-16 5.45x39 light machine gun Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "AK-74 5.45x39 6L31 60-round magazine"
+          },
+          "count": 4
+        },
+        {
+          "item": {
+            "name": "5.45x39mm 7N40 ammo pack (30 pcs)"
+          },
+          "count": 8
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate PMC operatives while using an AK-12 with a suppressor and Valday PS-320 1/6x scope on Lighthouse"
       }
     ]
   },
@@ -79815,6 +79526,78 @@
     ]
   },
   {
+    "id": "6574e0dedc0d635f633a5805",
+    "name": "Test Drive - Part 4",
+    "normalizedName": "test-drive-part-4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_4",
+    "taskImageLink": "https://assets.tarkov.dev/6574e0dedc0d635f633a5805.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Shoreline"
+    },
+    "experience": 40000,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "64f5deac39e45b527a7c4232",
+          "name": "Test Drive - Part 3"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Degtyarev RPDN 7.62x39 machine gun 1P78-1"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 460000
+        },
+        {
+          "item": {
+            "name": "Tokarev AVT-40 7.62x54R automatic rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "7.62x54mm R SNB gzh ammo pack (20 pcs)"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "AVT-40 7.62x54R 15-round magazine"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate any target while using an RPDN machine gun with 1P78-1 scope on Shoreline"
+      }
+    ]
+  },
+  {
     "id": "5d25e4b786f77408251c4bfc",
     "name": "Fishing Place",
     "normalizedName": "fishing-place",
@@ -80370,70 +80153,6 @@
     "objectives": [
       {
         "description": "Survive and extract from Interchange"
-      }
-    ]
-  },
-  {
-    "id": "5c0bd94186f7747a727f09b2",
-    "name": "Test Drive - Part 1",
-    "normalizedName": "test-drive-part-1",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_1",
-    "taskImageLink": "https://assets.tarkov.dev/5c0bd94186f7747a727f09b2.webp",
-    "trader": {
-      "name": "Prapor",
-      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
-    },
-    "map": null,
-    "experience": 18200,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "5c0d190cd09282029f5390d8",
-          "name": "Grenadier"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Springfield Armory M1A 7.62x51 rifle Hybrid 46"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "VSS Vintorez 9x39 special sniper rifle Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "9x39mm PAB-9 gs ammo pack (20 pcs)"
-          },
-          "count": 6
-        },
-        {
-          "item": {
-            "name": "VSS/VAL 9x39 30-round magazine"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate PMC operatives from over 60 meters away while using an M1A rifle with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope"
       }
     ]
   },
@@ -81081,156 +80800,6 @@
     ]
   },
   {
-    "id": "63a5cf262964a7488f5243ce",
-    "name": "Test Drive - Part 2",
-    "normalizedName": "test-drive-part-2",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_2",
-    "taskImageLink": "https://assets.tarkov.dev/63a5cf262964a7488f5243ce.webp",
-    "trader": {
-      "name": "Prapor",
-      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
-    },
-    "map": {
-      "name": "Streets of Tarkov"
-    },
-    "experience": 28000,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "5c0bd94186f7747a727f09b2",
-          "name": "Test Drive - Part 1"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "SR-2M Veresk 9x21 submachine gun FSB"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 300000
-        },
-        {
-          "item": {
-            "name": "ASh-12 12.7x55 assault rifle Silenced"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "ASh-12 12.7x55 20-round magazine"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "12.7x55mm PS12B (10 pcs)"
-          },
-          "count": 6
-        },
-        {
-          "item": {
-            "name": "Golden neck chain"
-          },
-          "count": 3
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate PMC operatives while using an SR-2M with a suppressor and KP-SR2 sight on Streets of Tarkov"
-      }
-    ]
-  },
-  {
-    "id": "64f5deac39e45b527a7c4232",
-    "name": "Test Drive - Part 3",
-    "normalizedName": "test-drive-part-3",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_3",
-    "taskImageLink": "https://assets.tarkov.dev/64f5deac39e45b527a7c4232.webp",
-    "trader": {
-      "name": "Prapor",
-      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
-    },
-    "map": {
-      "name": "Lighthouse"
-    },
-    "experience": 35300,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "63a5cf262964a7488f5243ce",
-          "name": "Test Drive - Part 2"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Kalashnikov AK-12 5.45x39 assault rifle PS-320"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 400000
-        },
-        {
-          "item": {
-            "name": "RPK-16 5.45x39 light machine gun Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "AK-74 5.45x39 6L31 60-round magazine"
-          },
-          "count": 4
-        },
-        {
-          "item": {
-            "name": "5.45x39mm 7N40 ammo pack (30 pcs)"
-          },
-          "count": 8
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate PMC operatives while using an AK-12 with a suppressor and Valday PS-320 1/6x scope on Lighthouse"
-      }
-    ]
-  },
-  {
     "id": "66aa61663aa37705c5024277",
     "name": "Know Your Place!",
     "normalizedName": "know-your-place",
@@ -81652,6 +81221,129 @@
     ]
   },
   {
+    "id": "669fa3a40c828825de06d6a1",
+    "name": "Test Drive - Part 5",
+    "normalizedName": "test-drive-part-5",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_5",
+    "taskImageLink": "https://assets.tarkov.dev/669fa3a40c828825de06d6a1.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Factory"
+    },
+    "experience": 50000,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "6574e0dedc0d635f633a5805",
+          "name": "Test Drive - Part 4"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "IWI UZI PRO Pistol 9x19 submachine gun BOSS Xe"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 520000
+        },
+        {
+          "item": {
+            "name": "AS VAL 9x39 special assault rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "VSS/VAL 9x39 30-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "9x39mm BP ammo pack (20 pcs)"
+          },
+          "count": 6
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate any target while using an UZI PRO with 240mm barrel, SBR stock, and BOSS Xe reflex sight on Factory"
+      }
+    ]
+  },
+  {
+    "id": "67b45467814ab0ffa000c7e7",
+    "name": "The Art of Explosion",
+    "normalizedName": "the-art-of-explosion",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Art_of_Explosion",
+    "taskImageLink": "https://assets.tarkov.dev/67b45467814ab0ffa000c7e7.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": null,
+    "experience": 19200,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "5c0d190cd09282029f5390d8",
+          "name": "Grenadier"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 95300
+        },
+        {
+          "item": {
+            "name": "RShG-2 72.5mm rocket launcher Default"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate any target while using grenades or grenade launchers"
+      }
+    ]
+  },
+  {
     "id": "5d25e4ca86f77409dd5cdf2c",
     "name": "Hunting Trip",
     "normalizedName": "hunting-trip",
@@ -81846,57 +81538,6 @@
           }
         ],
         "count": 1
-      }
-    ]
-  },
-  {
-    "id": "67b45467814ab0ffa000c7e7",
-    "name": "The Art of Explosion",
-    "normalizedName": "the-art-of-explosion",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Art_of_Explosion",
-    "taskImageLink": "https://assets.tarkov.dev/67b45467814ab0ffa000c7e7.webp",
-    "trader": {
-      "name": "Prapor",
-      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
-    },
-    "map": null,
-    "experience": 19200,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "5c0d190cd09282029f5390d8",
-          "name": "Grenadier"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 95300
-        },
-        {
-          "item": {
-            "name": "RShG-2 72.5mm rocket launcher Default"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate any target while using grenades or grenade launchers"
       }
     ]
   },
@@ -84097,6 +83738,57 @@
     ]
   },
   {
+    "id": "67e993b1ac26bf29380a320b",
+    "name": "Surprise Gift [PVP ZONE]",
+    "normalizedName": "surprise-gift-pvp-zone",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Surprise_Gift",
+    "taskImageLink": "https://assets.tarkov.dev/67e993b1ac26bf29380a320b.webp",
+    "trader": {
+      "name": "Lightkeeper",
+      "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
+      "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
+    },
+    "map": null,
+    "experience": 25500,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "66058ccf06ef1d50a60c1f48",
+          "name": "Between Two Fires [PVP ZONE]"
+        },
+        "status": [
+          "active"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Dollars"
+          },
+          "count": 1000
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Return to the old champion's hideout on Customs"
+      },
+      {
+        "description": "Locate and obtain the compromising information on Ref"
+      },
+      {
+        "description": "Hand over the found info"
+      }
+    ]
+  },
+  {
     "id": "639135534b15ca31f76bc317",
     "name": "Your Car Needs a Service",
     "normalizedName": "your-car-needs-a-service",
@@ -84516,57 +84208,6 @@
     ]
   },
   {
-    "id": "67e993b1ac26bf29380a320b",
-    "name": "Surprise Gift [PVP ZONE]",
-    "normalizedName": "surprise-gift-pvp-zone",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Surprise_Gift",
-    "taskImageLink": "https://assets.tarkov.dev/67e993b1ac26bf29380a320b.webp",
-    "trader": {
-      "name": "Lightkeeper",
-      "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
-      "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
-    },
-    "map": null,
-    "experience": 25500,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "66058ccf06ef1d50a60c1f48",
-          "name": "Between Two Fires [PVP ZONE]"
-        },
-        "status": [
-          "active"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Dollars"
-          },
-          "count": 1000
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Return to the old champion's hideout on Customs"
-      },
-      {
-        "description": "Locate and obtain the compromising information on Ref"
-      },
-      {
-        "description": "Hand over the found info"
-      }
-    ]
-  },
-  {
     "id": "5c0bdb5286f774166e38eed4",
     "name": "Flint",
     "normalizedName": "flint",
@@ -84620,6 +84261,66 @@
     "objectives": [
       {
         "description": "Reach the required Stress Resistance skill level"
+      }
+    ]
+  },
+  {
+    "id": "675c1ff1a757ddd00404f0aa",
+    "name": "Test Drive - Part 6",
+    "normalizedName": "test-drive-part-6",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_6",
+    "taskImageLink": "https://assets.tarkov.dev/675c1ff1a757ddd00404f0aa.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Customs"
+    },
+    "experience": 65000,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "669fa3a40c828825de06d6a1",
+          "name": "Test Drive - Part 5"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Aklys Defense Velociraptor .300 Blackout assault rifle Default"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 65000
+        },
+        {
+          "item": {
+            "name": "BNTI Zhuk body armor (EMR) Default"
+          },
+          "count": 2
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate any target while using an Aklys Defense Velociraptor on Customs"
       }
     ]
   },
@@ -85746,6 +85447,148 @@
     ]
   },
   {
+    "id": "60e71c48c1bfa3050473b8e5",
+    "name": "Crisis",
+    "normalizedName": "crisis",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crisis",
+    "taskImageLink": "https://assets.tarkov.dev/60e71c48c1bfa3050473b8e5.webp",
+    "trader": {
+      "name": "Therapist",
+      "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": null,
+    "experience": 97000,
+    "kappaRequired": true,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "5c0d0d5086f774363760aef2",
+          "name": "Athlete"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Medicine case"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Find Portable defibrillators in raid",
+        "items": [
+          {
+            "id": "5c052e6986f7746b207bc3c9",
+            "name": "Portable defibrillator"
+          }
+        ],
+        "count": 3
+      },
+      {
+        "description": "Find Ophthalmoscopes in raid",
+        "items": [
+          {
+            "id": "5af0534a86f7743b6f354284",
+            "name": "Ophthalmoscope"
+          }
+        ],
+        "count": 3
+      },
+      {
+        "description": "Find LEDX Skin Transilluminators in raid",
+        "items": [
+          {
+            "id": "5c0530ee86f774697952d952",
+            "name": "LEDX Skin Transilluminator"
+          }
+        ],
+        "count": 2
+      },
+      {
+        "description": "Find Piles of meds in raid",
+        "items": [
+          {
+            "id": "5d1b3a5d86f774252167ba22",
+            "name": "Pile of meds"
+          }
+        ],
+        "count": 20
+      },
+      {
+        "description": "Find Bottles of OLOLO Multivitamins in raid",
+        "items": [
+          {
+            "id": "62a0a043cf4a99369e2624a5",
+            "name": "Bottle of OLOLO Multivitamins"
+          }
+        ],
+        "count": 10
+      },
+      {
+        "description": "Hand over the defibrillators",
+        "items": [
+          {
+            "id": "5c052e6986f7746b207bc3c9",
+            "name": "Portable defibrillator"
+          }
+        ],
+        "count": 3
+      },
+      {
+        "description": "Hand over the ophthalmoscopes",
+        "items": [
+          {
+            "id": "5af0534a86f7743b6f354284",
+            "name": "Ophthalmoscope"
+          }
+        ],
+        "count": 3
+      },
+      {
+        "description": "Hand over the LEDX",
+        "items": [
+          {
+            "id": "5c0530ee86f774697952d952",
+            "name": "LEDX Skin Transilluminator"
+          }
+        ],
+        "count": 2
+      },
+      {
+        "description": "Hand over the Piles of meds",
+        "items": [
+          {
+            "id": "5d1b3a5d86f774252167ba22",
+            "name": "Pile of meds"
+          }
+        ],
+        "count": 20
+      },
+      {
+        "description": "Hand over the multivitamins",
+        "items": [
+          {
+            "id": "62a0a043cf4a99369e2624a5",
+            "name": "Bottle of OLOLO Multivitamins"
+          }
+        ],
+        "count": 10
+      }
+    ]
+  },
+  {
     "id": "63987301e11ec11ff5504036",
     "name": "Gunsmith - Part 21",
     "normalizedName": "gunsmith-part-21",
@@ -86102,210 +85945,6 @@
       },
       {
         "description": "Survive and extract from Ground Zero with the \"Survived\" exit status"
-      }
-    ]
-  },
-  {
-    "id": "6574e0dedc0d635f633a5805",
-    "name": "Test Drive - Part 4",
-    "normalizedName": "test-drive-part-4",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_4",
-    "taskImageLink": "https://assets.tarkov.dev/6574e0dedc0d635f633a5805.webp",
-    "trader": {
-      "name": "Prapor",
-      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
-    },
-    "map": {
-      "name": "Shoreline"
-    },
-    "experience": 40000,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "64f5deac39e45b527a7c4232",
-          "name": "Test Drive - Part 3"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Degtyarev RPDN 7.62x39 machine gun 1P78-1"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 460000
-        },
-        {
-          "item": {
-            "name": "Tokarev AVT-40 7.62x54R automatic rifle Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "7.62x54mm R SNB gzh ammo pack (20 pcs)"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "AVT-40 7.62x54R 15-round magazine"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate any target while using an RPDN machine gun with 1P78-1 scope on Shoreline"
-      }
-    ]
-  },
-  {
-    "id": "669fa3a40c828825de06d6a1",
-    "name": "Test Drive - Part 5",
-    "normalizedName": "test-drive-part-5",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_5",
-    "taskImageLink": "https://assets.tarkov.dev/669fa3a40c828825de06d6a1.webp",
-    "trader": {
-      "name": "Prapor",
-      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
-    },
-    "map": {
-      "name": "Factory"
-    },
-    "experience": 50000,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "6574e0dedc0d635f633a5805",
-          "name": "Test Drive - Part 4"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "IWI UZI PRO Pistol 9x19 submachine gun BOSS Xe"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 520000
-        },
-        {
-          "item": {
-            "name": "AS VAL 9x39 special assault rifle Default"
-          },
-          "count": 1
-        },
-        {
-          "item": {
-            "name": "VSS/VAL 9x39 30-round magazine"
-          },
-          "count": 3
-        },
-        {
-          "item": {
-            "name": "9x39mm BP ammo pack (20 pcs)"
-          },
-          "count": 6
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate any target while using an UZI PRO with 240mm barrel, SBR stock, and BOSS Xe reflex sight on Factory"
-      }
-    ]
-  },
-  {
-    "id": "675c1ff1a757ddd00404f0aa",
-    "name": "Test Drive - Part 6",
-    "normalizedName": "test-drive-part-6",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_6",
-    "taskImageLink": "https://assets.tarkov.dev/675c1ff1a757ddd00404f0aa.webp",
-    "trader": {
-      "name": "Prapor",
-      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
-    },
-    "map": {
-      "name": "Customs"
-    },
-    "experience": 65000,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "669fa3a40c828825de06d6a1",
-          "name": "Test Drive - Part 5"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Aklys Defense Velociraptor .300 Blackout assault rifle Default"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Roubles"
-          },
-          "count": 65000
-        },
-        {
-          "item": {
-            "name": "BNTI Zhuk body armor (EMR) Default"
-          },
-          "count": 2
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate any target while using an Aklys Defense Velociraptor on Customs"
       }
     ]
   },
@@ -87292,199 +86931,6 @@
     ]
   },
   {
-    "id": "60e71d23c1bfa3050473b8e6",
-    "name": "Calibration",
-    "normalizedName": "calibration",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Calibration",
-    "taskImageLink": "https://assets.tarkov.dev/60e71d23c1bfa3050473b8e6.webp",
-    "trader": {
-      "name": "Mechanic",
-      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
-      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
-    },
-    "map": null,
-    "experience": 93000,
-    "kappaRequired": false,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "5f04886a3937dc337a6b8238",
-          "name": "Chemistry Closet"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Can of thermite"
-          },
-          "count": 5
-        },
-        {
-          "item": {
-            "name": "Armband (Kiba Arms)"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Eliminate PMC operatives from over 100 meters away"
-      }
-    ]
-  },
-  {
-    "id": "60e71c48c1bfa3050473b8e5",
-    "name": "Crisis",
-    "normalizedName": "crisis",
-    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crisis",
-    "taskImageLink": "https://assets.tarkov.dev/60e71c48c1bfa3050473b8e5.webp",
-    "trader": {
-      "name": "Therapist",
-      "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
-      "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
-    },
-    "map": null,
-    "experience": 97000,
-    "kappaRequired": true,
-    "lightkeeperRequired": false,
-    "taskRequirements": [
-      {
-        "task": {
-          "id": "5c0d0d5086f774363760aef2",
-          "name": "Athlete"
-        },
-        "status": [
-          "complete"
-        ]
-      }
-    ],
-    "startRewards": {
-      "items": []
-    },
-    "finishRewards": {
-      "items": [
-        {
-          "item": {
-            "name": "Medicine case"
-          },
-          "count": 1
-        }
-      ]
-    },
-    "objectives": [
-      {
-        "description": "Find Portable defibrillators in raid",
-        "items": [
-          {
-            "id": "5c052e6986f7746b207bc3c9",
-            "name": "Portable defibrillator"
-          }
-        ],
-        "count": 3
-      },
-      {
-        "description": "Find Ophthalmoscopes in raid",
-        "items": [
-          {
-            "id": "5af0534a86f7743b6f354284",
-            "name": "Ophthalmoscope"
-          }
-        ],
-        "count": 3
-      },
-      {
-        "description": "Find LEDX Skin Transilluminators in raid",
-        "items": [
-          {
-            "id": "5c0530ee86f774697952d952",
-            "name": "LEDX Skin Transilluminator"
-          }
-        ],
-        "count": 2
-      },
-      {
-        "description": "Find Piles of meds in raid",
-        "items": [
-          {
-            "id": "5d1b3a5d86f774252167ba22",
-            "name": "Pile of meds"
-          }
-        ],
-        "count": 20
-      },
-      {
-        "description": "Find Bottles of OLOLO Multivitamins in raid",
-        "items": [
-          {
-            "id": "62a0a043cf4a99369e2624a5",
-            "name": "Bottle of OLOLO Multivitamins"
-          }
-        ],
-        "count": 10
-      },
-      {
-        "description": "Hand over the defibrillators",
-        "items": [
-          {
-            "id": "5c052e6986f7746b207bc3c9",
-            "name": "Portable defibrillator"
-          }
-        ],
-        "count": 3
-      },
-      {
-        "description": "Hand over the ophthalmoscopes",
-        "items": [
-          {
-            "id": "5af0534a86f7743b6f354284",
-            "name": "Ophthalmoscope"
-          }
-        ],
-        "count": 3
-      },
-      {
-        "description": "Hand over the LEDX",
-        "items": [
-          {
-            "id": "5c0530ee86f774697952d952",
-            "name": "LEDX Skin Transilluminator"
-          }
-        ],
-        "count": 2
-      },
-      {
-        "description": "Hand over the Piles of meds",
-        "items": [
-          {
-            "id": "5d1b3a5d86f774252167ba22",
-            "name": "Pile of meds"
-          }
-        ],
-        "count": 20
-      },
-      {
-        "description": "Hand over the multivitamins",
-        "items": [
-          {
-            "id": "62a0a043cf4a99369e2624a5",
-            "name": "Bottle of OLOLO Multivitamins"
-          }
-        ],
-        "count": 10
-      }
-    ]
-  },
-  {
     "id": "5c51aac186f77432ea65c552",
     "name": "Collector",
     "normalizedName": "collector",
@@ -88096,6 +87542,24 @@
       },
       {
         "task": {
+          "id": "675c1ff1a757ddd00404f0aa",
+          "name": "Test Drive - Part 6"
+        },
+        "status": [
+          "complete"
+        ]
+      },
+      {
+        "task": {
+          "id": "60e71c48c1bfa3050473b8e5",
+          "name": "Crisis"
+        },
+        "status": [
+          "complete"
+        ]
+      },
+      {
+        "task": {
           "id": "5b47825886f77468074618d3",
           "name": "Gunsmith - Part 22"
         },
@@ -88123,26 +87587,8 @@
       },
       {
         "task": {
-          "id": "675c1ff1a757ddd00404f0aa",
-          "name": "Test Drive - Part 6"
-        },
-        "status": [
-          "complete"
-        ]
-      },
-      {
-        "task": {
           "id": "60e71bb4e456d449cd47ca75",
           "name": "Intimidator"
-        },
-        "status": [
-          "complete"
-        ]
-      },
-      {
-        "task": {
-          "id": "60e71c48c1bfa3050473b8e5",
-          "name": "Crisis"
         },
         "status": [
           "complete"
@@ -88558,6 +88004,57 @@
           }
         ],
         "count": 1
+      }
+    ]
+  },
+  {
+    "id": "60e71d23c1bfa3050473b8e6",
+    "name": "Calibration",
+    "normalizedName": "calibration",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Calibration",
+    "taskImageLink": "https://assets.tarkov.dev/60e71d23c1bfa3050473b8e6.webp",
+    "trader": {
+      "name": "Mechanic",
+      "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
+      "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    },
+    "map": null,
+    "experience": 93000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "5f04886a3937dc337a6b8238",
+          "name": "Chemistry Closet"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Can of thermite"
+          },
+          "count": 5
+        },
+        {
+          "item": {
+            "name": "Armband (Kiba Arms)"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate PMC operatives from over 100 meters away"
       }
     ]
   },
