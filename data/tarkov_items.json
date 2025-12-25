@@ -159,20 +159,6 @@
     "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
     "craftsFor": [
       {
-        "id": "67f4ebb7d0fb51b8c705e80e",
-        "station": {
-          "name": "Water Collector"
-        },
-        "requiredItems": [
-          {
-            "item": {
-              "name": "Bottle of water (0.6L)"
-            },
-            "count": 1
-          }
-        ]
-      },
-      {
         "id": "5dc1f4d9e078d303d91b44c7",
         "station": {
           "name": "Nutrition Unit"
@@ -187,6 +173,20 @@
           {
             "item": {
               "name": "Silicone tube"
+            },
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "67f4ebb7d0fb51b8c705e80e",
+        "station": {
+          "name": "Water Collector"
+        },
+        "requiredItems": [
+          {
+            "item": {
+              "name": "Bottle of water (0.6L)"
             },
             "count": 1
           }
@@ -67512,6 +67512,26 @@
     "gridImageLink": "https://assets.tarkov.dev/665730fa4de4820934746c48-grid-image.webp",
     "craftsFor": [
       {
+        "id": "67c9d54b017035dd060bff5e",
+        "station": {
+          "name": "Workbench"
+        },
+        "requiredItems": [
+          {
+            "item": {
+              "name": "Hand drill"
+            },
+            "count": 1
+          },
+          {
+            "item": {
+              "name": "Locked equipment crate (Rare)"
+            },
+            "count": 1
+          }
+        ]
+      },
+      {
         "id": "6666d899eb78191c502350b2",
         "station": {
           "name": "Workbench"
@@ -67532,26 +67552,6 @@
           {
             "item": {
               "name": "Pliers Elite"
-            },
-            "count": 1
-          },
-          {
-            "item": {
-              "name": "Locked equipment crate (Rare)"
-            },
-            "count": 1
-          }
-        ]
-      },
-      {
-        "id": "67c9d54b017035dd060bff5e",
-        "station": {
-          "name": "Workbench"
-        },
-        "requiredItems": [
-          {
-            "item": {
-              "name": "Hand drill"
             },
             "count": 1
           },
