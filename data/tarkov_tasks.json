@@ -6648,7 +6648,7 @@
     },
     "objectives": [
       {
-        "description": "Win a match while claiming at least 3rd place in TeamFight, BlastGang, or CheckPoint mode in Arena"
+        "description": "Win 2 matches while claiming at least 3rd place in TeamFight, BlastGang, or CheckPoint mode in Arena"
       }
     ],
     "trader": {
@@ -81482,7 +81482,7 @@
     "lightkeeperRequired": false,
     "objectives": [
       {
-        "description": "Win 2 matches while claiming at least 3rd place in TeamFight, BlastGang, or CheckPoint mode in Arena"
+        "description": "Eliminate any target while using an SR-2M with suppressor and KP-SR2 sight on Factory"
       }
     ],
     "trader": {
