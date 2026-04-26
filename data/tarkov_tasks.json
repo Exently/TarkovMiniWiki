@@ -305,7 +305,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Mosin 7.62x54R bolt-action rifle (Infantry)"
+            "name": "Mosin 7.62x54R bolt-action rifle (Infantry) Default"
           }
         },
         {
@@ -484,7 +484,7 @@
         {
           "count": 1,
           "item": {
-            "name": "PP-91 Kedr 9x18PM submachine gun"
+            "name": "PP-91 Kedr 9x18PM submachine gun Default"
           }
         },
         {
@@ -630,7 +630,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Molot Arms VPO-136 Vepr-KM 7.62x39 carbine"
+            "name": "Molot Arms VPO-136 Vepr-KM 7.62x39 carbine Default"
           }
         },
         {
@@ -709,7 +709,7 @@
         {
           "count": 1,
           "item": {
-            "name": "TOZ Simonov SKS 7.62x39 carbine"
+            "name": "TOZ Simonov SKS 7.62x39 carbine Default"
           }
         },
         {
@@ -1241,7 +1241,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Mosin 7.62x54R bolt-action rifle (Sniper)"
+            "name": "Mosin 7.62x54R bolt-action rifle (Sniper) ATACR 7-35"
           }
         },
         {
@@ -1438,7 +1438,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AKMSN 7.62x39 assault rifle"
+            "name": "Kalashnikov AKMSN 7.62x39 assault rifle Default"
           }
         }
       ]
@@ -1981,7 +1981,7 @@
         {
           "count": 1,
           "item": {
-            "name": "TOZ KS-23M 23x75mm pump-action shotgun"
+            "name": "TOZ KS-23M 23x75mm pump-action shotgun Default"
           }
         },
         {
@@ -2510,7 +2510,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle"
+            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle MRS"
           }
         },
         {
@@ -2655,7 +2655,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AKS-74UN 5.45x39 assault rifle"
+            "name": "Kalashnikov AKS-74UN 5.45x39 assault rifle Default"
           }
         },
         {
@@ -2812,7 +2812,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Saiga-9 9x19 carbine"
+            "name": "Saiga-9 9x19 carbine Default"
           }
         }
       ]
@@ -2931,7 +2931,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Saiga-12K ver.10 12ga semi-automatic shotgun"
+            "name": "Saiga-12K ver.10 12ga semi-automatic shotgun Default"
           }
         },
         {
@@ -2985,7 +2985,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AKS-74U 5.45x39 assault rifle"
+            "name": "Kalashnikov AKS-74U 5.45x39 assault rifle Default"
           }
         }
       ]
@@ -3358,7 +3358,7 @@
         {
           "count": 1,
           "item": {
-            "name": "PP-91-01 Kedr-B 9x18PM submachine gun"
+            "name": "PP-91-01 Kedr-B 9x18PM submachine gun Default"
           }
         },
         {
@@ -3548,7 +3548,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Molot Arms VPO-209 .366 TKM carbine"
+            "name": "Molot Arms VPO-209 .366 TKM carbine Default"
           }
         },
         {
@@ -3566,7 +3566,7 @@
         {
           "count": 1,
           "item": {
-            "name": "BNTI Zhuk body armor (Press)"
+            "name": "BNTI Zhuk body armor (Press) Default"
           }
         }
       ]
@@ -3753,7 +3753,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Molot Arms Simonov OP-SKS 7.62x39 carbine"
+            "name": "Molot Arms Simonov OP-SKS 7.62x39 carbine UAS SKS"
           }
         },
         {
@@ -3914,7 +3914,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Soyuz-TM STM-9 Gen.2 9x19 carbine"
+            "name": "Soyuz-TM STM-9 Gen.2 9x19 carbine STM9 MB"
           }
         },
         {
@@ -4007,7 +4007,7 @@
         {
           "count": 2,
           "item": {
-            "name": "ADAR 2-15 5.56x45 carbine"
+            "name": "ADAR 2-15 5.56x45 carbine Default"
           }
         },
         {
@@ -4108,7 +4108,7 @@
         {
           "count": 1,
           "item": {
-            "name": "RPK-16 5.45x39 light machine gun"
+            "name": "RPK-16 5.45x39 light machine gun Drum"
           }
         }
       ]
@@ -4422,7 +4422,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SR-2M Veresk 9x21 submachine gun"
+            "name": "SR-2M Veresk 9x21 submachine gun Default"
           }
         },
         {
@@ -4712,7 +4712,7 @@
         {
           "count": 1,
           "item": {
-            "name": "6B23-1 body armor (EMR)"
+            "name": "6B23-1 body armor (EMR) Default"
           }
         }
       ]
@@ -4776,7 +4776,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SV-98 7.62x54R bolt-action sniper rifle"
+            "name": "SV-98 7.62x54R bolt-action sniper rifle Default"
           }
         },
         {
@@ -5340,7 +5340,7 @@
         {
           "count": 1,
           "item": {
-            "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst)"
+            "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst) Default"
           }
         },
         {
@@ -5503,7 +5503,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Lone Star TX-15 DML 5.56x45 carbine"
+            "name": "Lone Star TX-15 DML 5.56x45 carbine Default"
           }
         },
         {
@@ -5557,7 +5557,7 @@
         {
           "count": 2,
           "item": {
-            "name": "Steyr AUG A1 5.56x45 assault rifle"
+            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
           }
         }
       ]
@@ -5573,7 +5573,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Steyr AUG A1 5.56x45 assault rifle"
+            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
           }
         },
         {
@@ -5651,7 +5651,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Desert Tech MDR 5.56x45 assault rifle"
+            "name": "Desert Tech MDR 5.56x45 assault rifle ONE"
           }
         },
         {
@@ -6015,7 +6015,7 @@
         {
           "count": 1,
           "item": {
-            "name": "HK MP7A1 4.6x30 submachine gun"
+            "name": "HK MP7A1 4.6x30 submachine gun Default"
           }
         },
         {
@@ -6074,7 +6074,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Degtyarev RPDN 7.62x39 machine gun"
+            "name": "Degtyarev RPDN 7.62x39 machine gun Default"
           }
         },
         {
@@ -6202,7 +6202,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SIG MCX-SPEAR 6.8x51 assault rifle"
+            "name": "SIG MCX-SPEAR 6.8x51 assault rifle Default"
           }
         },
         {
@@ -6396,7 +6396,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Maska-1SCh bulletproof helmet (Killa Edition)"
+            "name": "Maska-1SCh bulletproof helmet (Killa Edition) Default"
           }
         }
       ]
@@ -6552,7 +6552,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle"
+            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Vudu 1-6"
           }
         },
         {
@@ -6621,7 +6621,7 @@
         {
           "count": 1,
           "item": {
-            "name": "CMMG Mk47 Mutant 7.62x39 assault rifle"
+            "name": "CMMG Mk47 Mutant 7.62x39 assault rifle Default"
           }
         },
         {
@@ -6678,7 +6678,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle"
+            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Saboteur"
           }
         },
         {
@@ -6768,13 +6768,13 @@
         {
           "count": 1,
           "item": {
-            "name": "CQC Osprey MK4A plate carrier (Assault, MTP)"
+            "name": "CQC Osprey MK4A plate carrier (Assault, MTP) Default"
           }
         },
         {
           "count": 1,
           "item": {
-            "name": "HK 416A5 5.56x45 assault rifle"
+            "name": "HK 416A5 5.56x45 assault rifle Default"
           }
         },
         {
@@ -7707,7 +7707,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SIG MPX 9x19 submachine gun"
+            "name": "SIG MPX 9x19 submachine gun Silenced"
           }
         },
         {
@@ -7929,7 +7929,7 @@
         {
           "count": 1,
           "item": {
-            "name": "TDI KRISS Vector Gen.2 9x19 submachine gun"
+            "name": "TDI KRISS Vector Gen.2 9x19 submachine gun Default"
           }
         },
         {
@@ -8285,7 +8285,7 @@
         {
           "count": 2,
           "item": {
-            "name": "Colt M45A1 .45 ACP pistol"
+            "name": "Colt M45A1 .45 ACP pistol Default"
           }
         },
         {
@@ -8356,7 +8356,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Colt M4A1 5.56x45 assault rifle"
+            "name": "Colt M4A1 5.56x45 assault rifle KAC RIS"
           }
         },
         {
@@ -8418,7 +8418,7 @@
         {
           "count": 1,
           "item": {
-            "name": "HK MP7A1 4.6x30 submachine gun"
+            "name": "HK MP7A1 4.6x30 submachine gun Default"
           }
         }
       ]
@@ -8526,7 +8526,7 @@
         {
           "count": 1,
           "item": {
-            "name": "ASh-12 12.7x55 assault rifle"
+            "name": "ASh-12 12.7x55 assault rifle Default"
           }
         },
         {
@@ -8762,7 +8762,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Glock 18C 9x19 machine pistol"
+            "name": "Glock 18C 9x19 machine pistol Default"
           }
         },
         {
@@ -9404,7 +9404,7 @@
         {
           "count": 1,
           "item": {
-            "name": "TDI KRISS Vector Gen.2 .45 ACP submachine gun"
+            "name": "TDI KRISS Vector Gen.2 .45 ACP submachine gun Default"
           }
         },
         {
@@ -9912,7 +9912,7 @@
         {
           "count": 1,
           "item": {
-            "name": "FN SCAR-L 5.56x45 assault rifle (FDE)"
+            "name": "FN SCAR-L 5.56x45 assault rifle (FDE) Default"
           }
         },
         {
@@ -10434,7 +10434,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SV-98 7.62x54R bolt-action sniper rifle"
+            "name": "SV-98 7.62x54R bolt-action sniper rifle Default"
           }
         }
       ]
@@ -10658,7 +10658,7 @@
         {
           "count": 1,
           "item": {
-            "name": "HighCom Trooper TFO body armor (MultiCam)"
+            "name": "HighCom Trooper TFO body armor (MultiCam) Default"
           }
         }
       ]
@@ -10709,7 +10709,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle"
+            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Saboteur"
           }
         },
         {
@@ -10797,7 +10797,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Glock 17 9x19 pistol"
+            "name": "Glock 17 9x19 pistol Viper"
           }
         },
         {
@@ -10887,7 +10887,7 @@
         {
           "count": 1,
           "item": {
-            "name": "HK G28 7.62x51 marksman rifle"
+            "name": "HK G28 7.62x51 marksman rifle Default"
           }
         },
         {
@@ -11407,7 +11407,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AKS-74UB 5.45x39 assault rifle"
+            "name": "Kalashnikov AKS-74UB 5.45x39 assault rifle Default"
           }
         },
         {
@@ -11687,7 +11687,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Benelli M3 Super 90 12ga dual-mode shotgun"
+            "name": "Benelli M3 Super 90 12ga dual-mode shotgun Default"
           }
         },
         {
@@ -11796,7 +11796,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Steyr AUG A1 5.56x45 assault rifle"
+            "name": "Steyr AUG A1 5.56x45 assault rifle Default"
           }
         },
         {
@@ -12049,13 +12049,13 @@
         {
           "count": 1,
           "item": {
-            "name": "Beretta M9A3 9x19 pistol"
+            "name": "Beretta M9A3 9x19 pistol Default"
           }
         },
         {
           "count": 1,
           "item": {
-            "name": "Remington Model 870 12ga pump-action shotgun"
+            "name": "Remington Model 870 12ga pump-action shotgun Default"
           }
         },
         {
@@ -12472,7 +12472,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Magnum Research Desert Eagle Mk XIX .50 AE pistol"
+            "name": "Magnum Research Desert Eagle Mk XIX .50 AE pistol Default"
           }
         },
         {
@@ -12592,7 +12592,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Springfield Armory M1A 7.62x51 rifle"
+            "name": "Springfield Armory M1A 7.62x51 rifle Default"
           }
         },
         {
@@ -12740,7 +12740,7 @@
         {
           "count": 1,
           "item": {
-            "name": "FN SCAR-H 7.62x51 assault rifle (FDE)"
+            "name": "FN SCAR-H 7.62x51 assault rifle (FDE) Default"
           }
         },
         {
@@ -12829,7 +12829,7 @@
         {
           "count": 2,
           "item": {
-            "name": "ECLiPSE RBAV-AF plate carrier (Ranger Green)"
+            "name": "ECLiPSE RBAV-AF plate carrier (Ranger Green) Default"
           }
         }
       ]
@@ -13694,7 +13694,7 @@
         {
           "count": 1,
           "item": {
-            "name": "6B43 Zabralo-Sh body armor (EMR)"
+            "name": "6B43 Zabralo-Sh body armor (EMR) Default"
           }
         }
       ]
@@ -13931,7 +13931,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AK-103 7.62x39 assault rifle"
+            "name": "Kalashnikov AK-103 7.62x39 assault rifle Default"
           }
         },
         {
@@ -14239,7 +14239,7 @@
         {
           "count": 1,
           "item": {
-            "name": "BNTI Gzhel-K body armor"
+            "name": "BNTI Gzhel-K body armor Default"
           }
         },
         {
@@ -14853,7 +14853,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle"
+            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Urbana"
           }
         }
       ]
@@ -14869,7 +14869,7 @@
         {
           "count": 1,
           "item": {
-            "name": "IOTV Gen4 body armor (High Mobility Kit, MultiCam)"
+            "name": "IOTV Gen4 body armor (High Mobility Kit, MultiCam) Default"
           }
         }
       ]
@@ -15339,7 +15339,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Springfield Armory M1A 7.62x51 rifle"
+            "name": "Springfield Armory M1A 7.62x51 rifle Hybrid 46"
           }
         }
       ]
@@ -15349,7 +15349,7 @@
         {
           "count": 1,
           "item": {
-            "name": "VSS Vintorez 9x39 special sniper rifle"
+            "name": "VSS Vintorez 9x39 special sniper rifle Default"
           }
         },
         {
@@ -15414,7 +15414,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kel-Tec RFB 7.62x51 rifle"
+            "name": "Kel-Tec RFB 7.62x51 rifle Default"
           }
         },
         {
@@ -15480,7 +15480,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle"
+            "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle Default"
           }
         }
       ]
@@ -15556,7 +15556,7 @@
         {
           "count": 1,
           "item": {
-            "name": "PB 9x18PM silenced pistol"
+            "name": "PB 9x18PM silenced pistol Default"
           }
         }
       ]
@@ -15578,7 +15578,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AK-104 7.62x39 assault rifle"
+            "name": "Kalashnikov AK-104 7.62x39 assault rifle Default"
           }
         }
       ]
@@ -15640,7 +15640,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AK-12 5.45x39 assault rifle"
+            "name": "Kalashnikov AK-12 5.45x39 assault rifle Default"
           }
         }
       ]
@@ -15749,7 +15749,7 @@
         {
           "count": 1,
           "item": {
-            "name": "NPP KlASS Korund-VM body armor (Black)"
+            "name": "NPP KlASS Korund-VM body armor (Black) Default"
           }
         },
         {
@@ -15939,7 +15939,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle"
+            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Urbana"
           }
         }
       ]
@@ -16043,7 +16043,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle"
+            "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Urbana"
           }
         },
         {
@@ -16551,7 +16551,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SR-2M Veresk 9x21 submachine gun"
+            "name": "SR-2M Veresk 9x21 submachine gun Default"
           }
         },
         {
@@ -16622,7 +16622,7 @@
         {
           "count": 1,
           "item": {
-            "name": "HK MP7A1 4.6x30 submachine gun"
+            "name": "HK MP7A1 4.6x30 submachine gun Default"
           }
         },
         {
@@ -16799,7 +16799,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Eagle Industries MMAC plate carrier (Ranger Green)"
+            "name": "Eagle Industries MMAC plate carrier (Ranger Green) Default"
           }
         }
       ]
@@ -16875,7 +16875,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Colt M4A1 5.56x45 assault rifle"
+            "name": "Colt M4A1 5.56x45 assault rifle SOPMOD II Flash"
           }
         }
       ]
@@ -58780,7 +58780,7 @@
         {
           "count": 1,
           "item": {
-            "name": "AS VAL 9x39 special assault rifle"
+            "name": "AS VAL 9x39 special assault rifle Default"
           }
         },
         {
@@ -58916,7 +58916,7 @@
         {
           "count": 1,
           "item": {
-            "name": "IOTV Gen4 body armor (Assault Kit, MultiCam)"
+            "name": "IOTV Gen4 body armor (Assault Kit, MultiCam) Default"
           }
         }
       ]
@@ -59449,7 +59449,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Desert Tech MDR 5.56x45 assault rifle"
+            "name": "Desert Tech MDR 5.56x45 assault rifle Default"
           }
         },
         {
@@ -73246,7 +73246,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SIG MCX-SPEAR 6.8x51 assault rifle"
+            "name": "SIG MCX-SPEAR 6.8x51 assault rifle Default"
           }
         },
         {
@@ -73323,7 +73323,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AK-12 5.45x39 assault rifle"
+            "name": "Kalashnikov AK-12 5.45x39 assault rifle Default"
           }
         },
         {
@@ -73761,7 +73761,7 @@
         {
           "count": 1,
           "item": {
-            "name": "AS VAL 9x39 special assault rifle"
+            "name": "AS VAL 9x39 special assault rifle Default"
           }
         },
         {
@@ -74047,7 +74047,7 @@
         {
           "count": 1,
           "item": {
-            "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst)"
+            "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst) SD"
           }
         },
         {
@@ -74112,7 +74112,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SR-2M Veresk 9x21 submachine gun"
+            "name": "SR-2M Veresk 9x21 submachine gun Default"
           }
         },
         {
@@ -74177,7 +74177,7 @@
         {
           "count": 2,
           "item": {
-            "name": "Kalashnikov AK-103 7.62x39 assault rifle"
+            "name": "Kalashnikov AK-103 7.62x39 assault rifle Default"
           }
         },
         {
@@ -74248,7 +74248,7 @@
         {
           "count": 1,
           "item": {
-            "name": "BNTI Zhuk body armor (EMR)"
+            "name": "BNTI Zhuk body armor (EMR) Default"
           }
         }
       ]
@@ -74509,7 +74509,7 @@
         {
           "count": 1,
           "item": {
-            "name": "DS Arms SA58 7.62x51 assault rifle"
+            "name": "DS Arms SA58 7.62x51 assault rifle BEL"
           }
         }
       ]
@@ -74687,7 +74687,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Tokarev SVT-40 7.62x54R rifle"
+            "name": "Tokarev SVT-40 7.62x54R rifle Sniper"
           }
         },
         {
@@ -74743,7 +74743,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SR-2M Veresk 9x21 submachine gun"
+            "name": "SR-2M Veresk 9x21 submachine gun FSB"
           }
         }
       ]
@@ -74759,7 +74759,7 @@
         {
           "count": 1,
           "item": {
-            "name": "ASh-12 12.7x55 assault rifle"
+            "name": "ASh-12 12.7x55 assault rifle Silenced"
           }
         },
         {
@@ -75166,7 +75166,7 @@
         {
           "count": 2,
           "item": {
-            "name": "SAG AK-545 5.45x39 carbine"
+            "name": "SAG AK-545 5.45x39 carbine Default"
           }
         },
         {
@@ -75234,7 +75234,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SIG MCX .300 Blackout assault rifle"
+            "name": "SIG MCX .300 Blackout assault rifle Default"
           }
         },
         {
@@ -75305,7 +75305,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SR-2M Veresk 9x21 submachine gun"
+            "name": "SR-2M Veresk 9x21 submachine gun Default"
           }
         },
         {
@@ -75527,7 +75527,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle"
+            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Default"
           }
         }
       ]
@@ -75674,7 +75674,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Accuracy International AXMC .338 LM bolt-action sniper rifle"
+            "name": "Accuracy International AXMC .338 LM bolt-action sniper rifle Default"
           }
         }
       ]
@@ -75743,7 +75743,7 @@
         {
           "count": 4,
           "item": {
-            "name": "Desert Tech MDR 7.62x51 assault rifle"
+            "name": "Desert Tech MDR 7.62x51 assault rifle Default"
           }
         },
         {
@@ -76946,7 +76946,7 @@
         {
           "count": 1,
           "item": {
-            "name": "LBT-6094A Slick Plate Carrier (Black)"
+            "name": "LBT-6094A Slick Plate Carrier (Black) Default"
           }
         },
         {
@@ -77088,7 +77088,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kalashnikov AK-12 5.45x39 assault rifle"
+            "name": "Kalashnikov AK-12 5.45x39 assault rifle PS-320"
           }
         }
       ]
@@ -77104,7 +77104,7 @@
         {
           "count": 1,
           "item": {
-            "name": "RPK-16 5.45x39 light machine gun"
+            "name": "RPK-16 5.45x39 light machine gun Default"
           }
         },
         {
@@ -77411,7 +77411,7 @@
         {
           "count": 1,
           "item": {
-            "name": "FORT Redut-T5 body armor (Smog)"
+            "name": "FORT Redut-T5 body armor (Smog) Default"
           }
         }
       ]
@@ -77505,7 +77505,7 @@
         {
           "count": 1,
           "item": {
-            "name": "ANA Tactical M2 plate carrier (OD Green)"
+            "name": "ANA Tactical M2 plate carrier (OD Green) Default"
           }
         }
       ]
@@ -77816,7 +77816,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Ars Arma A18 Skanda plate carrier (MultiCam)"
+            "name": "Ars Arma A18 Skanda plate carrier (MultiCam) Default"
           }
         }
       ]
@@ -77899,7 +77899,7 @@
         {
           "count": 1,
           "item": {
-            "name": "NPP KlASS Korund-VM body armor (Black)"
+            "name": "NPP KlASS Korund-VM body armor (Black) Default"
           }
         }
       ]
@@ -78303,13 +78303,13 @@
         {
           "count": 1,
           "item": {
-            "name": "Colt M4A1 5.56x45 assault rifle"
+            "name": "Colt M4A1 5.56x45 assault rifle KAC RIS"
           }
         },
         {
           "count": 1,
           "item": {
-            "name": "6B43 Zabralo-Sh body armor (EMR)"
+            "name": "6B43 Zabralo-Sh body armor (EMR) Default"
           }
         },
         {
@@ -78331,7 +78331,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Springfield Armory M1A 7.62x51 rifle"
+            "name": "Springfield Armory M1A 7.62x51 rifle 2k18 NY"
           }
         },
         {
@@ -78520,7 +78520,7 @@
         {
           "count": 2,
           "item": {
-            "name": "Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine"
+            "name": "Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine SVD"
           }
         },
         {
@@ -78620,7 +78620,7 @@
         {
           "count": 1,
           "item": {
-            "name": "MP-43-1C 12ga double-barrel shotgun"
+            "name": "MP-43-1C 12ga double-barrel shotgun Short"
           }
         }
       ]
@@ -78825,7 +78825,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Tokarev TT-33 7.62x25 TT pistol (Golden)"
+            "name": "Tokarev TT-33 7.62x25 TT pistol (Golden) Default"
           }
         }
       ]
@@ -79724,7 +79724,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Degtyarev RPDN 7.62x39 machine gun"
+            "name": "Degtyarev RPDN 7.62x39 machine gun 1P78-1"
           }
         }
       ]
@@ -79740,7 +79740,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Tokarev AVT-40 7.62x54R automatic rifle"
+            "name": "Tokarev AVT-40 7.62x54R automatic rifle Default"
           }
         },
         {
@@ -79820,13 +79820,13 @@
         {
           "count": 1,
           "item": {
-            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle"
+            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle AAC SD"
           }
         },
         {
           "count": 1,
           "item": {
-            "name": "FORT Redut-M body armor"
+            "name": "FORT Redut-M body armor Default"
           }
         }
       ]
@@ -79883,7 +79883,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Magnum Research Desert Eagle L6 .50 AE pistol"
+            "name": "Magnum Research Desert Eagle L6 .50 AE pistol Default"
           }
         },
         {
@@ -79975,7 +79975,7 @@
         {
           "count": 1,
           "item": {
-            "name": "IOTV Gen4 body armor (Full Protection Kit, MultiCam)"
+            "name": "IOTV Gen4 body armor (Full Protection Kit, MultiCam) Default"
           }
         }
       ]
@@ -80515,7 +80515,7 @@
         {
           "count": 3,
           "item": {
-            "name": "TOZ KS-23M 23x75mm pump-action shotgun"
+            "name": "TOZ KS-23M 23x75mm pump-action shotgun Default"
           }
         }
       ]
@@ -80629,7 +80629,7 @@
         {
           "count": 1,
           "item": {
-            "name": "MP-155 12ga semi-automatic shotgun"
+            "name": "MP-155 12ga semi-automatic shotgun Ultima"
           }
         }
       ]
@@ -80717,7 +80717,7 @@
         {
           "count": 2,
           "item": {
-            "name": "HK 416A5 5.56x45 assault rifle"
+            "name": "HK 416A5 5.56x45 assault rifle Default"
           }
         },
         {
@@ -80926,7 +80926,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Colt M4A1 5.56x45 assault rifle"
+            "name": "Colt M4A1 5.56x45 assault rifle KAC RIS"
           }
         },
         {
@@ -80942,7 +80942,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle"
+            "name": "Remington Model 700 7.62x51 bolt-action sniper rifle AAC SD"
           }
         },
         {
@@ -81268,7 +81268,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Ars Arma CPC MOD.1 plate carrier (A-TACS FG)"
+            "name": "Ars Arma CPC MOD.1 plate carrier (A-TACS FG) Default"
           }
         }
       ]
@@ -81509,7 +81509,7 @@
         {
           "count": 1,
           "item": {
-            "name": "IWI UZI PRO Pistol 9x19 submachine gun"
+            "name": "IWI UZI PRO Pistol 9x19 submachine gun BOSS Xe"
           }
         }
       ]
@@ -81525,7 +81525,7 @@
         {
           "count": 1,
           "item": {
-            "name": "AS VAL 9x39 special assault rifle"
+            "name": "AS VAL 9x39 special assault rifle Default"
           }
         },
         {
@@ -81588,7 +81588,7 @@
         {
           "count": 1,
           "item": {
-            "name": "RShG-2 72.5mm rocket launcher"
+            "name": "RShG-2 72.5mm rocket launcher Default"
           }
         }
       ]
@@ -81786,7 +81786,7 @@
         {
           "count": 1,
           "item": {
-            "name": "FORT Redut-M body armor"
+            "name": "FORT Redut-M body armor Default"
           }
         }
       ]
@@ -81905,7 +81905,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Kel-Tec RFB 7.62x51 rifle"
+            "name": "Kel-Tec RFB 7.62x51 rifle Default"
           }
         }
       ]
@@ -82469,7 +82469,7 @@
         {
           "count": 1,
           "item": {
-            "name": "TDI KRISS Vector Gen.2 9x19 submachine gun"
+            "name": "TDI KRISS Vector Gen.2 9x19 submachine gun Default"
           }
         }
       ]
@@ -83786,7 +83786,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Rifle Dynamics RD-704 7.62x39 assault rifle"
+            "name": "Rifle Dynamics RD-704 7.62x39 assault rifle Default"
           }
         },
         {
@@ -83852,7 +83852,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Sako TRG M10 .338 LM bolt-action sniper rifle"
+            "name": "Sako TRG M10 .338 LM bolt-action sniper rifle PM II 1-8"
           }
         },
         {
@@ -84619,7 +84619,7 @@
         {
           "count": 1,
           "item": {
-            "name": "Aklys Defense Velociraptor .300 Blackout assault rifle"
+            "name": "Aklys Defense Velociraptor .300 Blackout assault rifle Default"
           }
         }
       ]
@@ -84635,7 +84635,7 @@
         {
           "count": 2,
           "item": {
-            "name": "BNTI Zhuk body armor (EMR)"
+            "name": "BNTI Zhuk body armor (EMR) Default"
           }
         }
       ]
@@ -85277,7 +85277,7 @@
         {
           "count": 3,
           "item": {
-            "name": "NPP KlASS Bagariy plate carrier (EMR)"
+            "name": "NPP KlASS Bagariy plate carrier (EMR) Default"
           }
         }
       ]
@@ -85414,7 +85414,7 @@
         {
           "count": 1,
           "item": {
-            "name": "MPS Auto Assault-12 Gen 1 12ga automatic shotgun"
+            "name": "MPS Auto Assault-12 Gen 1 12ga automatic shotgun Drum"
           }
         }
       ]
@@ -85551,7 +85551,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SWORD International Mk-18 .338 LM marksman rifle"
+            "name": "SWORD International Mk-18 .338 LM marksman rifle Default"
           }
         },
         {
@@ -86387,7 +86387,7 @@
         {
           "count": 1,
           "item": {
-            "name": "FORT Defender-2 body armor"
+            "name": "FORT Defender-2 body armor Default"
           }
         }
       ]
@@ -86462,7 +86462,7 @@
         {
           "count": 1,
           "item": {
-            "name": "6B43 Zabralo-Sh body armor (EMR)"
+            "name": "6B43 Zabralo-Sh body armor (EMR) Default"
           }
         }
       ]
@@ -86966,7 +86966,7 @@
         {
           "count": 1,
           "item": {
-            "name": "TheAKGuy AK-50 .50 BMG anti-materiel rifle"
+            "name": "TheAKGuy AK-50 .50 BMG anti-materiel rifle Default"
           }
         },
         {
@@ -88388,7 +88388,7 @@
         {
           "count": 1,
           "item": {
-            "name": "6B43 Zabralo-Sh body armor (EMR)"
+            "name": "6B43 Zabralo-Sh body armor (EMR) Default"
           }
         }
       ]
@@ -88805,7 +88805,7 @@
         {
           "count": 1,
           "item": {
-            "name": "SWORD International Mk-18 .338 LM marksman rifle"
+            "name": "SWORD International Mk-18 .338 LM marksman rifle Default"
           }
         }
       ]
@@ -89513,7 +89513,7 @@
         {
           "count": 1,
           "item": {
-            "name": "FN40GL Mk2 40mm grenade launcher"
+            "name": "FN40GL Mk2 40mm grenade launcher Default"
           }
         },
         {
