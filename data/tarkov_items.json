@@ -89,6 +89,9 @@
     "craftsFor": [
       {
         "id": "5d78f27d115f693ad750d2c6",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -102,10 +105,7 @@
               "name": "UZRGM grenade fuze"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -161,6 +161,9 @@
     "craftsFor": [
       {
         "id": "67f4ebb7d0fb51b8c705e80e",
+        "station": {
+          "name": "Water Collector"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -168,13 +171,13 @@
               "name": "Bottle of water (0.6L)"
             }
           }
-        ],
-        "station": {
-          "name": "Water Collector"
-        }
+        ]
       },
       {
         "id": "5dc1f4d9e078d303d91b44c7",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -188,10 +191,7 @@
               "name": "Silicone tube"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -423,6 +423,9 @@
     "craftsFor": [
       {
         "id": "5eda04a30699b81bb9142aa2",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -430,10 +433,7 @@
               "name": "Fleece fabric"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -493,6 +493,9 @@
     "craftsFor": [
       {
         "id": "5ed9fd73f6626f08ef0efec6",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -512,10 +515,7 @@
               "name": "Disposable syringe"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -538,6 +538,9 @@
     "craftsFor": [
       {
         "id": "5d8a1a7d7a3dfe597c2e459e",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -551,10 +554,7 @@
               "name": "Esmarch tourniquet"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -611,6 +611,9 @@
     "craftsFor": [
       {
         "id": "5dc1f7de6058e020335c9d88",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -624,10 +627,7 @@
               "name": "Army crackers"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -668,6 +668,9 @@
     "craftsFor": [
       {
         "id": "655b4489065b076eb02c4b45",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 180,
@@ -693,10 +696,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -1132,6 +1132,9 @@
     "craftsFor": [
       {
         "id": "5eda0247658fac5b8c3862a8",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 4,
@@ -1151,10 +1154,7 @@
               "name": "Flat screwdriver (Long)"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -1227,6 +1227,9 @@
     "craftsFor": [
       {
         "id": "63a3359eaf870e651d58e61a",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -1258,10 +1261,7 @@
               "name": "Tube of Poxeram cold welding"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -1855,6 +1855,9 @@
     "craftsFor": [
       {
         "id": "600aa209f64dfd63ec1293d6",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -1880,10 +1883,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -2442,6 +2442,9 @@
     "craftsFor": [
       {
         "id": "5ffcacbf24fa2e741e767234",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -2473,10 +2476,7 @@
               "name": "Toolset"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -2549,6 +2549,9 @@
     "craftsFor": [
       {
         "id": "603cf3094bb658618458e010",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -2568,10 +2571,7 @@
               "name": "Electronic components"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -2870,6 +2870,9 @@
     "craftsFor": [
       {
         "id": "655b33429db22d43ab42b704",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 180,
@@ -2889,10 +2892,7 @@
               "name": "Toolset"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -2987,6 +2987,9 @@
     "craftsFor": [
       {
         "id": "5d5c1f25d582a5479d4ec458",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 180,
@@ -3006,10 +3009,7 @@
               "name": "Nippers"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -3176,6 +3176,9 @@
     "craftsFor": [
       {
         "id": "655b6b641273611d2462ab78",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -3189,10 +3192,7 @@
               "name": "Insulating tape"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -3715,6 +3715,9 @@
     "craftsFor": [
       {
         "id": "5dea63e21ecdbf7668030f24",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -3728,10 +3731,7 @@
               "name": "Pipe grip wrench"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -3821,6 +3821,9 @@
     "craftsFor": [
       {
         "id": "5d8a1568df9fc649e81b8b1b",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -3834,10 +3837,7 @@
               "name": "42 Signature Blend English Tea"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -3876,6 +3876,9 @@
     "craftsFor": [
       {
         "id": "5d8a13564ac882218d2085b0",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -3889,10 +3892,7 @@
               "name": "Pack of milk"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -4118,6 +4118,9 @@
     "craftsFor": [
       {
         "id": "5eeca812c4c989140245ae0c",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -4161,10 +4164,7 @@
               "name": "Electronic components"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -4186,6 +4186,9 @@
     "craftsFor": [
       {
         "id": "600a9b10adfcb94fee6d3e06",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -4199,10 +4202,7 @@
               "name": "Power cord"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -4275,6 +4275,9 @@
     "craftsFor": [
       {
         "id": "5ede1e0b7690fa313b632e88",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -4294,10 +4297,7 @@
               "name": "Rye croutons"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -4370,6 +4370,9 @@
     "craftsFor": [
       {
         "id": "68f2094c00ca7e22d3081a08",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 4,
@@ -4383,10 +4386,7 @@
               "name": "Emelya rye croutons"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -4589,6 +4589,9 @@
     "craftsFor": [
       {
         "id": "5d558968f934db006d2d5b32",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -4596,10 +4599,7 @@
               "name": "Gunpowder \"Kite\""
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -4784,6 +4784,9 @@
     "craftsFor": [
       {
         "id": "655b505c32b0b1645e6f54c5",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 150,
@@ -4797,10 +4800,7 @@
               "name": "Bundle of wires"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -5754,6 +5754,9 @@
     "craftsFor": [
       {
         "id": "5f240f45f4a9420a8c328ee0",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -5779,10 +5782,7 @@
               "name": "BakeEzy cook book"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -5855,6 +5855,9 @@
     "craftsFor": [
       {
         "id": "5f241246232409155b66b809",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -5892,10 +5895,7 @@
               "name": "BakeEzy cook book"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -5918,6 +5918,9 @@
     "craftsFor": [
       {
         "id": "5ede07163c345121732a10e9",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -5931,10 +5934,7 @@
               "name": "Bottle of Tarkovskaya vodka"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -5975,6 +5975,9 @@
     "craftsFor": [
       {
         "id": "5d5c1f5ed582a543983ee82e",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -5982,10 +5985,7 @@
               "name": "Pile of meds"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -6008,6 +6008,9 @@
     "craftsFor": [
       {
         "id": "5ede0135f7db6021ee400dfe",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 3,
@@ -6027,10 +6030,7 @@
               "name": "Pile of meds"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -7836,6 +7836,9 @@
     "craftsFor": [
       {
         "id": "600a98d076fc4b1877509ead",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -7867,10 +7870,7 @@
               "name": "Screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -8079,6 +8079,9 @@
     "craftsFor": [
       {
         "id": "62a1123ac30cfa1d366aeb82",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -8092,10 +8095,7 @@
               "name": "Set of files \"Master\""
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -8288,6 +8288,9 @@
     "craftsFor": [
       {
         "id": "690c7882b6e7d092f006dda8",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -8301,10 +8304,7 @@
               "name": "Tube of Poxeram cold welding"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -8653,6 +8653,9 @@
     "craftsFor": [
       {
         "id": "655b4de41f2b6843ec751fd5",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 70,
@@ -8672,10 +8675,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -9386,7 +9386,7 @@
     "id": "58dffc5d86f77407c744a847",
     "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Urbana",
     "shortName": "DVL-10 Urbana",
-    "normalizedName": "lobaev-arms-dvl-10-762x51-bolt-action-sniper-rifle-urbana",
+    "normalizedName": "lobaev-arms-dvl-10-762x51-bolt-action-sniper-rifle-urbana-2",
     "description": null,
     "basePrice": 104263,
     "avg24hPrice": 87738,
@@ -9437,7 +9437,7 @@
     "id": "58dffd4586f77408a27629b2",
     "name": "SIG MPX 9x19 submachine gun Silenced",
     "shortName": "MPX Silenced",
-    "normalizedName": "sig-mpx-9x19-submachine-gun-silenced",
+    "normalizedName": "sig-mpx-9x19-submachine-gun-silenced-2",
     "description": null,
     "basePrice": 78246,
     "avg24hPrice": 71376,
@@ -9503,6 +9503,9 @@
     "craftsFor": [
       {
         "id": "5de95f1c9517b140195ab717",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -9516,10 +9519,7 @@
               "name": "Flat screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -9575,6 +9575,9 @@
     "craftsFor": [
       {
         "id": "6002e26ac6b84d04cc62045e",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -9588,10 +9591,7 @@
               "name": "Screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -9613,6 +9613,9 @@
     "craftsFor": [
       {
         "id": "5de951483c52683d810b4a10",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -9626,13 +9629,13 @@
               "name": "Flat screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       },
       {
         "id": "5ffcac4e1285295b7441ee01",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -9646,10 +9649,7 @@
               "name": "Screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -9671,6 +9671,9 @@
     "craftsFor": [
       {
         "id": "603cf23a420e7f487e175d7f",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -9696,10 +9699,7 @@
               "name": "Pliers"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -9755,6 +9755,9 @@
     "craftsFor": [
       {
         "id": "61c226d91b8c294cd411c881",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -9786,10 +9789,7 @@
               "name": "Pliers Elite"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -9862,6 +9862,9 @@
     "craftsFor": [
       {
         "id": "677d4db74ac9193862043ee9",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -9899,10 +9902,7 @@
               "name": "Ripstop fabric"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -9992,6 +9992,9 @@
     "craftsFor": [
       {
         "id": "67da000f1556838cf90d1716",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -10017,10 +10020,7 @@
               "name": "Magnet"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -10059,6 +10059,9 @@
     "craftsFor": [
       {
         "id": "5e1330dca0f0f8773c069c99",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -10072,10 +10075,7 @@
               "name": "Screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -10097,6 +10097,9 @@
     "craftsFor": [
       {
         "id": "5dd3c5487058311d4b267186",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 120,
@@ -10110,10 +10113,7 @@
               "name": "Pliers"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -10135,6 +10135,9 @@
     "craftsFor": [
       {
         "id": "5df8ffcbaab5f257bd7ff3a8",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -10148,10 +10151,7 @@
               "name": "Metal cutting scissors"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -10190,6 +10190,9 @@
     "craftsFor": [
       {
         "id": "5d8a13fc2d9612419804003c",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -10209,10 +10212,7 @@
               "name": "Can of squash spread"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -10234,6 +10234,9 @@
     "craftsFor": [
       {
         "id": "68f207d400ca7e22d3081a07",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -10253,10 +10256,7 @@
               "name": "Slickers chocolate bar"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -10296,6 +10296,9 @@
     "craftsFor": [
       {
         "id": "5df914a53ce0f648b833bb37",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -10315,10 +10318,7 @@
               "name": "SSD drive"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -10392,6 +10392,9 @@
     "craftsFor": [
       {
         "id": "5d78d8a03fe9fc21602e16be",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 4,
@@ -10411,10 +10414,7 @@
               "name": "Aluminum splint"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -10455,6 +10455,9 @@
     "craftsFor": [
       {
         "id": "5d5c21aed582a50066024610",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -10474,10 +10477,7 @@
               "name": "Esmarch tourniquet"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -10566,6 +10566,9 @@
     "craftsFor": [
       {
         "id": "6913722bd4c6de533e0c774a",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -10597,10 +10600,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -10620,6 +10620,9 @@
     "craftsFor": [
       {
         "id": "691371a2a911df6c2f0195f1",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -10651,10 +10654,7 @@
               "name": "Metal spare parts"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -11504,7 +11504,7 @@
     "id": "59411abb86f77478f702b5d2",
     "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst) SD",
     "shortName": "MP5 SD",
-    "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst-sd",
+    "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst-sd-2",
     "description": null,
     "basePrice": 73613,
     "avg24hPrice": 87000,
@@ -11521,7 +11521,7 @@
     "id": "59430b9b86f77403c27945fd",
     "name": "Kalashnikov AK-74N 5.45x39 assault rifle Magpul",
     "shortName": "AK-74N Magpul",
-    "normalizedName": "kalashnikov-ak-74n-545x39-assault-rifle-magpul",
+    "normalizedName": "kalashnikov-ak-74n-545x39-assault-rifle-magpul-2",
     "description": null,
     "basePrice": 145315,
     "avg24hPrice": null,
@@ -12467,6 +12467,9 @@
     "craftsFor": [
       {
         "id": "655b4a73975a7f3c734661a5",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -12498,10 +12501,7 @@
               "name": "Can of Hot Rod energy drink"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -12523,6 +12523,9 @@
     "craftsFor": [
       {
         "id": "5d8b8ddd322e8650762f6e3a",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -12542,10 +12545,7 @@
               "name": "Pack of sodium bicarbonate"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -12567,6 +12567,9 @@
     "craftsFor": [
       {
         "id": "5de10c50c607752a1f1262c7",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -12574,10 +12577,7 @@
               "name": "Alyonka chocolate bar"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -12599,6 +12599,9 @@
     "craftsFor": [
       {
         "id": "5df8fe0deddb880fd56f2d7d",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -12618,10 +12621,7 @@
               "name": "Silicone tube"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -12677,6 +12677,9 @@
     "craftsFor": [
       {
         "id": "5dcfe2582f9b3d566c7af977",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -12696,10 +12699,7 @@
               "name": "Insulating tape"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -12840,6 +12840,9 @@
     "craftsFor": [
       {
         "id": "63a2abbb31772a61500d5336",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -12853,10 +12856,7 @@
               "name": "Tube of Poxeram cold welding"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -12878,6 +12878,9 @@
     "craftsFor": [
       {
         "id": "5de950a845b5d67bad6e9ef7",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -12897,10 +12900,7 @@
               "name": "Insulating tape"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -13330,6 +13330,9 @@
     "craftsFor": [
       {
         "id": "5eda072cf6626f08ef0efed4",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -13343,10 +13346,7 @@
               "name": "Ripstop fabric"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -13370,6 +13370,9 @@
     "craftsFor": [
       {
         "id": "655b6c381fe356507267b2f6",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -13395,10 +13398,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -13611,6 +13611,9 @@
     "craftsFor": [
       {
         "id": "600a9955ba91d953182d69f0",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -13624,10 +13627,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -13635,7 +13635,7 @@
     "id": "59e8d2b386f77445830dd299",
     "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Saboteur",
     "shortName": "DVL-10 Saboteur",
-    "normalizedName": "lobaev-arms-dvl-10-762x51-bolt-action-sniper-rifle-saboteur",
+    "normalizedName": "lobaev-arms-dvl-10-762x51-bolt-action-sniper-rifle-saboteur-2",
     "description": null,
     "basePrice": 99960,
     "avg24hPrice": 98888,
@@ -14266,6 +14266,9 @@
     "craftsFor": [
       {
         "id": "5e37f15386f774299f112a2e",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -14279,10 +14282,7 @@
               "name": "Gunpowder \"Kite\""
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -15420,6 +15420,9 @@
     "craftsFor": [
       {
         "id": "63a2327c151bfb591645c104",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 4,
@@ -15463,10 +15466,7 @@
               "name": "Advanced Electronic Materials textbook"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -15541,6 +15541,9 @@
     "craftsFor": [
       {
         "id": "655b56eb32b0b1645e6f54c8",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -15548,10 +15551,7 @@
               "name": "Gunpowder \"Kite\""
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -15733,7 +15733,7 @@
     "id": "5a327f7286f7747668661419",
     "name": "Serdyukov SR-1MP Gyurza 9x21 pistol Tactical 1",
     "shortName": "SR-1MP Tactical 1",
-    "normalizedName": "serdyukov-sr-1mp-gyurza-9x21-pistol-tactical-1",
+    "normalizedName": "serdyukov-sr-1mp-gyurza-9x21-pistol-tactical-1-2",
     "description": null,
     "basePrice": 56939,
     "avg24hPrice": null,
@@ -15750,7 +15750,7 @@
     "id": "5a327f7c86f77475187e509a",
     "name": "Serdyukov SR-1MP Gyurza 9x21 pistol Tactical 2",
     "shortName": "SR-1MP Tactical 2",
-    "normalizedName": "serdyukov-sr-1mp-gyurza-9x21-pistol-tactical-2",
+    "normalizedName": "serdyukov-sr-1mp-gyurza-9x21-pistol-tactical-2-2",
     "description": null,
     "basePrice": 63000,
     "avg24hPrice": 40000,
@@ -15767,7 +15767,7 @@
     "id": "5a327f9086f77475187e50a9",
     "name": "Kalashnikov AKM 7.62x39 assault rifle 2k17 NY",
     "shortName": "AKM 2k17 NY",
-    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-2k17-ny",
+    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-2k17-ny-2",
     "description": null,
     "basePrice": 214685,
     "avg24hPrice": null,
@@ -15784,7 +15784,7 @@
     "id": "5a32808386f774764a3226d9",
     "name": "Colt M4A1 5.56x45 assault rifle 2k17 NY",
     "shortName": "M4A1 2k17 NY",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-2k17-ny",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-2k17-ny-2",
     "description": null,
     "basePrice": 350777,
     "avg24hPrice": null,
@@ -16355,7 +16355,7 @@
     "id": "5a3b898486f77467720a2f29",
     "name": "Wilcox Skull Lock head mount PVS-14",
     "shortName": "Skull Lock PVS-14",
-    "normalizedName": "wilcox-skull-lock-head-mount-pvs-14",
+    "normalizedName": "wilcox-skull-lock-head-mount-pvs-14-2",
     "description": null,
     "basePrice": 117680,
     "avg24hPrice": null,
@@ -16387,6 +16387,9 @@
     "craftsFor": [
       {
         "id": "655b50e7c023e22044165de5",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 180,
@@ -16406,10 +16409,7 @@
               "name": "Bundle of wires"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -16451,7 +16451,7 @@
     "id": "5a43a85186f7746c914b947a",
     "name": "Kalashnikov AKS-74UN 5.45x39 assault rifle Zenit",
     "shortName": "AKS-74UN Zenit",
-    "normalizedName": "kalashnikov-aks-74un-545x39-assault-rifle-zenit",
+    "normalizedName": "kalashnikov-aks-74un-545x39-assault-rifle-zenit-2",
     "description": null,
     "basePrice": 150870,
     "avg24hPrice": null,
@@ -16469,7 +16469,7 @@
     "id": "5a43a86d86f7746c9d7395e8",
     "name": "SIG P226R 9x19 pistol Tactical",
     "shortName": "P226R Tactical",
-    "normalizedName": "sig-p226r-9x19-pistol-tactical",
+    "normalizedName": "sig-p226r-9x19-pistol-tactical-2",
     "description": null,
     "basePrice": 77363,
     "avg24hPrice": null,
@@ -17703,7 +17703,7 @@
     "id": "5a88ad7b86f77479aa7226af",
     "name": "Glock 17 9x19 pistol Tac 3",
     "shortName": "Glock 17 Tac 3",
-    "normalizedName": "glock-17-9x19-pistol-tac-3",
+    "normalizedName": "glock-17-9x19-pistol-tac-3-2",
     "description": null,
     "basePrice": 47601,
     "avg24hPrice": null,
@@ -17720,7 +17720,7 @@
     "id": "5a88ae4a86f77457fd2c0dae",
     "name": "Glock 17 9x19 pistol Viper",
     "shortName": "Glock 17 Viper",
-    "normalizedName": "glock-17-9x19-pistol-viper",
+    "normalizedName": "glock-17-9x19-pistol-viper-2",
     "description": null,
     "basePrice": 61772,
     "avg24hPrice": 98000,
@@ -17737,7 +17737,7 @@
     "id": "5a88aed086f77476cd391963",
     "name": "Glock 17 9x19 pistol Fischer",
     "shortName": "Glock 17 Fischer",
-    "normalizedName": "glock-17-9x19-pistol-fischer",
+    "normalizedName": "glock-17-9x19-pistol-fischer-2",
     "description": null,
     "basePrice": 80705,
     "avg24hPrice": null,
@@ -17754,7 +17754,7 @@
     "id": "5a88af5086f77411a871682c",
     "name": "Glock 17 9x19 pistol Tac 2",
     "shortName": "Glock 17 Tac 2",
-    "normalizedName": "glock-17-9x19-pistol-tac-2",
+    "normalizedName": "glock-17-9x19-pistol-tac-2-2",
     "description": null,
     "basePrice": 79290,
     "avg24hPrice": 50000,
@@ -17771,7 +17771,7 @@
     "id": "5a88afdc86f7746de12fcc20",
     "name": "Glock 17 9x19 pistol Alpha Wolf",
     "shortName": "Glock 17 Alpha Wolf",
-    "normalizedName": "glock-17-9x19-pistol-alpha-wolf",
+    "normalizedName": "glock-17-9x19-pistol-alpha-wolf-2",
     "description": null,
     "basePrice": 30241,
     "avg24hPrice": null,
@@ -17788,7 +17788,7 @@
     "id": "5a88b0f686f77416370eca3e",
     "name": "Glock 17 9x19 pistol Hex",
     "shortName": "Glock 17 Hex",
-    "normalizedName": "glock-17-9x19-pistol-hex",
+    "normalizedName": "glock-17-9x19-pistol-hex-2",
     "description": null,
     "basePrice": 76418,
     "avg24hPrice": null,
@@ -17805,7 +17805,7 @@
     "id": "5a88b1f686f774159949926e",
     "name": "Glock 17 9x19 pistol Spartan",
     "shortName": "Glock 17 Spartan",
-    "normalizedName": "glock-17-9x19-pistol-spartan",
+    "normalizedName": "glock-17-9x19-pistol-spartan-2",
     "description": null,
     "basePrice": 46354,
     "avg24hPrice": 40000,
@@ -17822,7 +17822,7 @@
     "id": "5a8ae21486f774377b73cf5d",
     "name": "Kalashnikov AKM 7.62x39 assault rifle T-OPS",
     "shortName": "AKM T-OPS",
-    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-t-ops",
+    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-t-ops-2",
     "description": null,
     "basePrice": 548562,
     "avg24hPrice": null,
@@ -17840,7 +17840,7 @@
     "id": "5a8ae36686f774377d6ce226",
     "name": "Colt M4A1 5.56x45 assault rifle Space Trooper",
     "shortName": "M4A1 Space Trooper",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-space-trooper",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-space-trooper-2",
     "description": null,
     "basePrice": 556479,
     "avg24hPrice": null,
@@ -17858,7 +17858,7 @@
     "id": "5a8ae43686f774377b73cfb3",
     "name": "SIG MPX 9x19 submachine gun MQB",
     "shortName": "MPX MQB",
-    "normalizedName": "sig-mpx-9x19-submachine-gun-mqb",
+    "normalizedName": "sig-mpx-9x19-submachine-gun-mqb-2",
     "description": null,
     "basePrice": 171286,
     "avg24hPrice": 75000,
@@ -17875,7 +17875,7 @@
     "id": "5a8ae54786f7743b5e013ba0",
     "name": "MP-133 12ga pump-action shotgun Tactical",
     "shortName": "MP-133 Tactical",
-    "normalizedName": "mp-133-12ga-pump-action-shotgun-tactical",
+    "normalizedName": "mp-133-12ga-pump-action-shotgun-tactical-2",
     "description": null,
     "basePrice": 78674,
     "avg24hPrice": 92000,
@@ -17892,7 +17892,7 @@
     "id": "5a8ae65f86f774377a23ed55",
     "name": "PP-19-01 Vityaz 9x19 submachine gun Zenit",
     "shortName": "PP-19-01 Zenit",
-    "normalizedName": "pp-19-01-vityaz-9x19-submachine-gun-zenit",
+    "normalizedName": "pp-19-01-vityaz-9x19-submachine-gun-zenit-2",
     "description": null,
     "basePrice": 134428,
     "avg24hPrice": 60000,
@@ -17909,7 +17909,7 @@
     "id": "5a8ae73886f7747b2e6e1416",
     "name": "Colt M4A1 5.56x45 assault rifle SOPMOD II",
     "shortName": "M4A1 SOPMOD II",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-sopmod-ii",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-sopmod-ii-2",
     "description": null,
     "basePrice": 247076,
     "avg24hPrice": 512339,
@@ -18493,6 +18493,9 @@
     "craftsFor": [
       {
         "id": "603ce7c5fd70f047f93bee2a",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -18512,10 +18515,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -18944,6 +18944,9 @@
     "craftsFor": [
       {
         "id": "655b60774343a16d2e04766b",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -18975,10 +18978,7 @@
               "name": "Kiba Arms Titan ballistic plate"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -19802,6 +19802,9 @@
     "craftsFor": [
       {
         "id": "5d78dbfb65aebb016d20b6f3",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -19827,10 +19830,7 @@
               "name": "Toolset"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -20654,6 +20654,9 @@
     "craftsFor": [
       {
         "id": "600aa0d1090cb6338027028c",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -20667,10 +20670,7 @@
               "name": "Tube of Poxeram cold welding"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -20692,6 +20692,9 @@
     "craftsFor": [
       {
         "id": "629e1b3a0694b45420210cad",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -20705,10 +20708,7 @@
               "name": "Gunpowder \"Kite\""
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -20785,7 +20785,7 @@
     "id": "5af08bfd86f774223d4528e2",
     "name": "Springfield Armory M1A 7.62x51 rifle EBR",
     "shortName": "M1A EBR",
-    "normalizedName": "springfield-armory-m1a-762x51-rifle-ebr",
+    "normalizedName": "springfield-armory-m1a-762x51-rifle-ebr-2",
     "description": null,
     "basePrice": 89198,
     "avg24hPrice": 71111,
@@ -20802,7 +20802,7 @@
     "id": "5af08c4486f774223b094223",
     "name": "Springfield Armory M1A 7.62x51 rifle SASS",
     "shortName": "M1A SASS",
-    "normalizedName": "springfield-armory-m1a-762x51-rifle-sass",
+    "normalizedName": "springfield-armory-m1a-762x51-rifle-sass-2",
     "description": null,
     "basePrice": 110664,
     "avg24hPrice": 99969,
@@ -20819,7 +20819,7 @@
     "id": "5af08cc686f77424a61595f2",
     "name": "Colt M4A1 5.56x45 assault rifle SOPMOD I",
     "shortName": "M4A1 SOPMOD I",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-sopmod-i",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-sopmod-i-2",
     "description": null,
     "basePrice": 70298,
     "avg24hPrice": 120000,
@@ -20836,7 +20836,7 @@
     "id": "5af08cf886f774223c269184",
     "name": "Colt M4A1 5.56x45 assault rifle Carbine",
     "shortName": "M4A1 Carbine",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-carbine",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-carbine-2",
     "description": null,
     "basePrice": 64228,
     "avg24hPrice": 67981,
@@ -20853,7 +20853,7 @@
     "id": "5af08d1c86f774223a7aa1b4",
     "name": "Remington Model 870 12ga pump-action shotgun Breacher",
     "shortName": "M870 Breacher",
-    "normalizedName": "remington-model-870-12ga-pump-action-shotgun-breacher",
+    "normalizedName": "remington-model-870-12ga-pump-action-shotgun-breacher-2",
     "description": null,
     "basePrice": 96062,
     "avg24hPrice": 126666,
@@ -22246,6 +22246,9 @@
     "craftsFor": [
       {
         "id": "5ede01e062155304b6512067",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -22265,10 +22268,7 @@
               "name": "Medical tools"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -22414,6 +22414,9 @@
     "craftsFor": [
       {
         "id": "655b65fc1273611d2462ab77",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -22445,10 +22448,7 @@
               "name": "Aramid fiber fabric"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -22904,6 +22904,9 @@
     "craftsFor": [
       {
         "id": "5eeca9bad874f914d2536585",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 3,
@@ -22935,10 +22938,7 @@
               "name": "Metal cutting scissors"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -23220,7 +23220,7 @@
     "id": "5b83f22086f77464e15a1d5f",
     "name": "DS Arms SA58 7.62x51 assault rifle AUT",
     "shortName": "SA58 AUT",
-    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-aut",
+    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-aut-2",
     "description": null,
     "basePrice": 79143,
     "avg24hPrice": 65555,
@@ -23237,7 +23237,7 @@
     "id": "5b83f23a86f7746d3d190a73",
     "name": "DS Arms SA58 7.62x51 assault rifle BEL",
     "shortName": "SA58 BEL",
-    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-bel",
+    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-bel-2",
     "description": null,
     "basePrice": 92046,
     "avg24hPrice": 89999,
@@ -23254,7 +23254,7 @@
     "id": "5b83f29886f7746d956305a1",
     "name": "DS Arms SA58 7.62x51 assault rifle PBR",
     "shortName": "SA58 PBR",
-    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-pbr",
+    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-pbr-2",
     "description": null,
     "basePrice": 193250,
     "avg24hPrice": 166666,
@@ -23460,6 +23460,9 @@
     "craftsFor": [
       {
         "id": "63baedefe6ebc10fe0201083",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 120,
@@ -23491,10 +23494,7 @@
               "name": "Metal spare parts"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -23606,7 +23606,7 @@
     "id": "5ba3a078d4351e00334c96ca",
     "name": "Kalashnikov AKM 7.62x39 assault rifle (AKMB)",
     "shortName": "AKM (AKMB)",
-    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-akmb",
+    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-akmb-2",
     "description": null,
     "basePrice": 87118,
     "avg24hPrice": null,
@@ -23623,7 +23623,7 @@
     "id": "5ba3a14cd4351e003202017f",
     "name": "Kalashnikov AKMS 7.62x39 assault rifle (AKMSB 6P4M)",
     "shortName": "AKMS (AKMSB 6P4M)",
-    "normalizedName": "kalashnikov-akms-762x39-assault-rifle-akmsb-6p4m",
+    "normalizedName": "kalashnikov-akms-762x39-assault-rifle-akmsb-6p4m-2",
     "description": null,
     "basePrice": 86002,
     "avg24hPrice": null,
@@ -23640,7 +23640,7 @@
     "id": "5ba3a3dfd4351e0032020190",
     "name": "Kalashnikov AKM 7.62x39 assault rifle (AKMP)",
     "shortName": "AKM (AKMP)",
-    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-akmp",
+    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-akmp-2",
     "description": null,
     "basePrice": 40501,
     "avg24hPrice": null,
@@ -23657,7 +23657,7 @@
     "id": "5ba3a449d4351e0034778243",
     "name": "Kalashnikov AKMS 7.62x39 assault rifle (AKMSP)",
     "shortName": "AKMS (AKMSP)",
-    "normalizedName": "kalashnikov-akms-762x39-assault-rifle-akmsp",
+    "normalizedName": "kalashnikov-akms-762x39-assault-rifle-akmsp-2",
     "description": null,
     "basePrice": 39385,
     "avg24hPrice": null,
@@ -23674,7 +23674,7 @@
     "id": "5ba3a4d1d4351e4502010622",
     "name": "Kalashnikov AKMN 7.62x39 assault rifle (AKMN2 6P1N2)",
     "shortName": "AKMN (AKMN2 6P1N2)",
-    "normalizedName": "kalashnikov-akmn-762x39-assault-rifle-akmn2-6p1n2",
+    "normalizedName": "kalashnikov-akmn-762x39-assault-rifle-akmn2-6p1n2-2",
     "description": null,
     "basePrice": 58044,
     "avg24hPrice": null,
@@ -23691,7 +23691,7 @@
     "id": "5ba3a53dd4351e3bac12056e",
     "name": "Kalashnikov AKMSN 7.62x39 assault rifle (AKMSN2 6P4N2)",
     "shortName": "AKMSN (AKMSN2 6P4N2)",
-    "normalizedName": "kalashnikov-akmsn-762x39-assault-rifle-akmsn2-6p4n2",
+    "normalizedName": "kalashnikov-akmsn-762x39-assault-rifle-akmsn2-6p4n2-2",
     "description": null,
     "basePrice": 53538,
     "avg24hPrice": null,
@@ -24120,7 +24120,7 @@
     "id": "5bbf1c1c88a45017144d28c5",
     "name": "Kalashnikov AK-74M 5.45x39 assault rifle Zenitco",
     "shortName": "AK-74M Zenitco",
-    "normalizedName": "kalashnikov-ak-74m-545x39-assault-rifle-zenitco",
+    "normalizedName": "kalashnikov-ak-74m-545x39-assault-rifle-zenitco-2",
     "description": null,
     "basePrice": 93078,
     "avg24hPrice": null,
@@ -24137,7 +24137,7 @@
     "id": "5bbf1c5a88a45017bb03d7aa",
     "name": "Colt M4A1 5.56x45 assault rifle LVOA",
     "shortName": "M4A1 LVOA",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-lvoa",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-lvoa-2",
     "description": null,
     "basePrice": 142500,
     "avg24hPrice": null,
@@ -24460,7 +24460,7 @@
     "id": "5bd05f1186f774572f181678",
     "name": "HK MP7A1 4.6x30 submachine gun SEALS",
     "shortName": "MP7A1 SEALS",
-    "normalizedName": "hk-mp7a1-46x30-submachine-gun-seals",
+    "normalizedName": "hk-mp7a1-46x30-submachine-gun-seals-2",
     "description": null,
     "basePrice": 170928,
     "avg24hPrice": 240000,
@@ -25763,6 +25763,9 @@
     "craftsFor": [
       {
         "id": "5eeca8e327ccd70521107fdc",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -25794,10 +25797,7 @@
               "name": "Toolset"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -25836,6 +25836,9 @@
     "craftsFor": [
       {
         "id": "5ee4a093a297eb185236194f",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -25861,10 +25864,7 @@
               "name": "Secure Flash drive"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -25903,6 +25903,9 @@
     "craftsFor": [
       {
         "id": "5ed9ff023a68ec264e5233c2",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -25934,10 +25937,7 @@
               "name": "Electronic components"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -25959,6 +25959,9 @@
     "craftsFor": [
       {
         "id": "600abc08e4022c380a7260a8",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -26002,10 +26005,7 @@
               "name": "Silicon Optoelectronic Integrated Circuits textbook"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -26183,6 +26183,9 @@
     "craftsFor": [
       {
         "id": "5dd1126571e3fd3f634b1c8b",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -26190,10 +26193,7 @@
               "name": "Power cord"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -26215,6 +26215,9 @@
     "craftsFor": [
       {
         "id": "5dd11303b78bb413d5133f79",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -26228,10 +26231,7 @@
               "name": "Screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -26677,7 +26677,7 @@
     "id": "5c0c1dba86f7743e667da897",
     "name": "Remington Model 700 7.62x51 bolt-action sniper rifle AAC SD",
     "shortName": "M700 AAC SD",
-    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-aac-sd",
+    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-aac-sd-2",
     "description": null,
     "basePrice": 156843,
     "avg24hPrice": 80000,
@@ -26694,7 +26694,7 @@
     "id": "5c0c1dff86f7744dba7a2892",
     "name": "Mosin 7.62x54R bolt-action rifle (Infantry) Carbine",
     "shortName": "Mosin Infantry Carbine",
-    "normalizedName": "mosin-762x54r-bolt-action-rifle-infantry-carbine",
+    "normalizedName": "mosin-762x54r-bolt-action-rifle-infantry-carbine-2",
     "description": null,
     "basePrice": 22034,
     "avg24hPrice": 43531,
@@ -26728,7 +26728,7 @@
     "id": "5c0c1f2b86f77455912eaefc",
     "name": "Mosin 7.62x54R bolt-action rifle (Sniper) Carbine",
     "shortName": "Mosin Sniper Carbine",
-    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-carbine",
+    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-carbine-2",
     "description": null,
     "basePrice": 41070,
     "avg24hPrice": 62000,
@@ -26745,7 +26745,7 @@
     "id": "5c0c1fc586f77455912eaf08",
     "name": "Mosin 7.62x54R bolt-action rifle (Infantry) Obrez",
     "shortName": "Mosin Infantry Obrez",
-    "normalizedName": "mosin-762x54r-bolt-action-rifle-infantry-obrez",
+    "normalizedName": "mosin-762x54r-bolt-action-rifle-infantry-obrez-2",
     "description": null,
     "basePrice": 17170,
     "avg24hPrice": null,
@@ -26762,7 +26762,7 @@
     "id": "5c0c202e86f77448687e0368",
     "name": "Mosin 7.62x54R bolt-action rifle (Sniper) Obrez",
     "shortName": "Mosin Sniper Obrez",
-    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-obrez",
+    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-obrez-2",
     "description": null,
     "basePrice": 27447,
     "avg24hPrice": 50000,
@@ -26779,7 +26779,7 @@
     "id": "5c0c208886f7743e5335d279",
     "name": "Mosin 7.62x54R bolt-action rifle (Sniper) Obrez M",
     "shortName": "Mosin Sniper Obrez M",
-    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-obrez-m",
+    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-obrez-m-2",
     "description": null,
     "basePrice": 29862,
     "avg24hPrice": 67677,
@@ -27115,6 +27115,9 @@
     "craftsFor": [
       {
         "id": "5d8f614c9ea122564c316462",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -27134,10 +27137,7 @@
               "name": "Pile of meds"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -27161,6 +27161,9 @@
     "craftsFor": [
       {
         "id": "5e6cfc53a3e6886b9e6c39a8",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 7,
@@ -27186,10 +27189,7 @@
               "name": "Morphine injector"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -27213,6 +27213,9 @@
     "craftsFor": [
       {
         "id": "5ede0502879619077751d00a",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -27238,10 +27241,7 @@
               "name": "Bottle of OLOLO Multivitamins"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -27265,6 +27265,9 @@
     "craftsFor": [
       {
         "id": "68f1113b58cb1bc9000d2f8b",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -27290,10 +27293,7 @@
               "name": "Silicone tube"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -27317,6 +27317,9 @@
     "craftsFor": [
       {
         "id": "64b6b5c1c3abf20a9660daad",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -27342,10 +27345,7 @@
               "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -27404,6 +27404,9 @@
     "craftsFor": [
       {
         "id": "655b5ebc32b0b1645e6f54c9",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -27429,10 +27432,7 @@
               "name": "Aramid fiber fabric"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -27473,6 +27473,9 @@
     "craftsFor": [
       {
         "id": "655b5dc8065b076eb02c4b48",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -27492,10 +27495,7 @@
               "name": "Zhuk-3 ballistic plate (Front)"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -27687,7 +27687,7 @@
     "id": "5c0e93cb86f77432297fdfc8",
     "name": "Tokarev TT-33 7.62x25 TT pistol Brunner",
     "shortName": "TT Brunner",
-    "normalizedName": "tokarev-tt-33-762x25-tt-pistol-brunner",
+    "normalizedName": "tokarev-tt-33-762x25-tt-pistol-brunner-2",
     "description": null,
     "basePrice": 19901,
     "avg24hPrice": 9000,
@@ -27719,6 +27719,9 @@
     "craftsFor": [
       {
         "id": "5eda07acb6c564225571536c",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -27744,10 +27747,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -27769,6 +27769,9 @@
     "craftsFor": [
       {
         "id": "67f4ec521d41954d4f09a9c8",
+        "station": {
+          "name": "Water Collector"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -27782,13 +27785,13 @@
               "name": "Aquapeps water purification tablets"
             }
           }
-        ],
-        "station": {
-          "name": "Water Collector"
-        }
+        ]
       },
       {
         "id": "61c77c830f3639492721e99c",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -27814,10 +27817,7 @@
               "name": "Bottle of OLOLO Multivitamins"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -28000,7 +28000,7 @@
     "id": "5c123fe086f7742a60324263",
     "name": "Springfield Armory M1A 7.62x51 rifle 2k18 NY",
     "shortName": "M1A 2k18 NY",
-    "normalizedName": "springfield-armory-m1a-762x51-rifle-2k18-ny",
+    "normalizedName": "springfield-armory-m1a-762x51-rifle-2k18-ny-2",
     "description": null,
     "basePrice": 236913,
     "avg24hPrice": 225000,
@@ -28049,6 +28049,9 @@
     "craftsFor": [
       {
         "id": "5e58e0c286f7740ba7486ca3",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -28062,10 +28065,7 @@
               "name": "Printer paper"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -28175,6 +28175,9 @@
     "craftsFor": [
       {
         "id": "6012ea1a01328b2dec3c1a9d",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -28194,10 +28197,7 @@
               "name": "SurvL Survivor Lighter"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -28220,6 +28220,9 @@
     "craftsFor": [
       {
         "id": "5dceeaf100b3815535149f5a",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -28245,10 +28248,7 @@
               "name": "Metal cutting scissors"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -28270,6 +28270,9 @@
     "craftsFor": [
       {
         "id": "62a11415c30cfa1d366aeb83",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -28289,10 +28292,7 @@
               "name": "Salty Dog beef sausage"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -28314,6 +28314,9 @@
     "craftsFor": [
       {
         "id": "5d93b91286f77467310ca15d",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -28321,10 +28324,7 @@
               "name": "Printer paper"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -28724,6 +28724,9 @@
     "craftsFor": [
       {
         "id": "67da05c8078f1947650d7bb9",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -28761,10 +28764,7 @@
               "name": "Virtex programmable processor"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -28786,6 +28786,9 @@
     "craftsFor": [
       {
         "id": "67da04db9cbeb8d6f4011962",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -28829,10 +28832,7 @@
               "name": "Secure magnetic tape cassette"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -28905,6 +28905,9 @@
     "craftsFor": [
       {
         "id": "6002e55595c402039a2747f4",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 10,
@@ -28936,10 +28939,7 @@
               "name": "UHF RFID Reader"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -30641,6 +30641,9 @@
     "craftsFor": [
       {
         "id": "5eeca7724a8a9b668f0d89cd",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 150,
@@ -30660,10 +30663,7 @@
               "name": "Toolset"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -30685,6 +30685,9 @@
     "craftsFor": [
       {
         "id": "67da0223078f1947650d7bb7",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -30698,10 +30701,7 @@
               "name": "Intelligence folder"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -31623,6 +31623,9 @@
     "craftsFor": [
       {
         "id": "63bd4c3964d7e356983c4cf5",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 100,
@@ -31648,10 +31651,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -31674,6 +31674,9 @@
     "craftsFor": [
       {
         "id": "655b54e7065b076eb02c4b47",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -31693,10 +31696,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -32858,6 +32858,9 @@
     "craftsFor": [
       {
         "id": "619eb0eb56579138ec08fed8",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -32877,10 +32880,7 @@
               "name": "Aluminum splint"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -32904,6 +32904,9 @@
     "craftsFor": [
       {
         "id": "5ede0053879619077751cff1",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 3,
@@ -32929,10 +32932,7 @@
               "name": "CMS surgical kit"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -32971,6 +32971,9 @@
     "craftsFor": [
       {
         "id": "6002ed409f2c60461a2d0f5a",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -32996,10 +32999,7 @@
               "name": "Military COFDM Wireless Signal Transmitter"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -33106,6 +33106,9 @@
     "craftsFor": [
       {
         "id": "600a9fb7ba91d953182d6a1c",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -33137,10 +33140,7 @@
               "name": "Pliers Elite"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -33622,6 +33622,9 @@
     "craftsFor": [
       {
         "id": "5d93ba4486f77454bd61d2a9",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 3,
@@ -33653,10 +33656,7 @@
               "name": "Toolset"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -33678,6 +33678,9 @@
     "craftsFor": [
       {
         "id": "5de95c91225b0a76ca0ea0b7",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -33703,10 +33706,7 @@
               "name": "Capacitors"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -33728,6 +33728,9 @@
     "craftsFor": [
       {
         "id": "600a9a34189b226f40059743",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -33753,10 +33756,7 @@
               "name": "Tech manual"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -33778,6 +33778,9 @@
     "craftsFor": [
       {
         "id": "677d4fdb42cdfce74006f961",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -33803,10 +33806,7 @@
               "name": "Toolset"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -33828,6 +33828,9 @@
     "craftsFor": [
       {
         "id": "5df138986c38ba26da0b3a77",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 4,
@@ -33841,10 +33844,7 @@
               "name": "Screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -33883,6 +33883,9 @@
     "craftsFor": [
       {
         "id": "68f0e37d1ddd18a6290a7e68",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -33902,10 +33905,7 @@
               "name": "Metal spare parts"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -33927,6 +33927,9 @@
     "craftsFor": [
       {
         "id": "62a115db5c6bbf22c15ac19d",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -33940,10 +33943,7 @@
               "name": "Pliers"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -34000,6 +34000,9 @@
     "craftsFor": [
       {
         "id": "5d5589c1f934db045e6c5492",
+        "station": {
+          "name": "Water Collector"
+        },
         "requiredItems": [
           {
             "count": 0.66,
@@ -34007,10 +34010,7 @@
               "name": "Water filter"
             }
           }
-        ],
-        "station": {
-          "name": "Water Collector"
-        }
+        ]
       }
     ]
   },
@@ -34049,6 +34049,9 @@
     "craftsFor": [
       {
         "id": "5d8f5ee9de0799001d229ed2",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -34074,10 +34077,7 @@
               "name": "Bottle of water (0.6L)"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -34099,6 +34099,9 @@
     "craftsFor": [
       {
         "id": "5d5c1fd4d582a500650132f0",
+        "station": {
+          "name": "Booze Generator"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -34112,10 +34115,7 @@
               "name": "Canister with purified water"
             }
           }
-        ],
-        "station": {
-          "name": "Booze Generator"
-        }
+        ]
       }
     ]
   },
@@ -34137,6 +34137,9 @@
     "craftsFor": [
       {
         "id": "600ab813d19f85018a7489c4",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 10,
@@ -34162,10 +34165,7 @@
               "name": "Expeditionary fuel tank"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -34187,6 +34187,9 @@
     "craftsFor": [
       {
         "id": "68f0e32460d1d6ebba02de4a",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -34206,10 +34209,7 @@
               "name": "Metal spare parts"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -34248,6 +34248,9 @@
     "craftsFor": [
       {
         "id": "5e13301cc7049d4d9738e1a7",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -34267,10 +34270,7 @@
               "name": "Augmentin antibiotic pills"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -34292,6 +34292,9 @@
     "craftsFor": [
       {
         "id": "68f11230b10b42c44a0a5f8f",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -34323,10 +34326,7 @@
               "name": "Bottle of hydrogen peroxide"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -34349,6 +34349,9 @@
     "craftsFor": [
       {
         "id": "60048c82a7903e00382d9593",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -34392,10 +34395,7 @@
               "name": "Silicon Optoelectronic Integrated Circuits textbook"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -34451,6 +34451,9 @@
     "craftsFor": [
       {
         "id": "5de021b30f6d581e965bcde7",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -34464,13 +34467,13 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       },
       {
         "id": "615c3d800d3afc358a55405e",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -34484,10 +34487,7 @@
               "name": "Flat screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -34529,7 +34529,7 @@
     "id": "5d23404b86f7740d62079098",
     "name": "FN P90 5.7x28 submachine gun SBR",
     "shortName": "P90 SBR",
-    "normalizedName": "fn-p90-57x28-submachine-gun-sbr",
+    "normalizedName": "fn-p90-57x28-submachine-gun-sbr-2",
     "description": null,
     "basePrice": 50100,
     "avg24hPrice": 55000,
@@ -34546,7 +34546,7 @@
     "id": "5d2340e986f77461496241bc",
     "name": "FN P90 5.7x28 submachine gun CWDG",
     "shortName": "P90 CWDG",
-    "normalizedName": "fn-p90-57x28-submachine-gun-cwdg",
+    "normalizedName": "fn-p90-57x28-submachine-gun-cwdg-2",
     "description": null,
     "basePrice": 150100,
     "avg24hPrice": 95000,
@@ -34563,7 +34563,7 @@
     "id": "5d23424c86f7740d5e50ce65",
     "name": "FN P90 5.7x28 submachine gun SBRT",
     "shortName": "P90 SBRT",
-    "normalizedName": "fn-p90-57x28-submachine-gun-sbrt",
+    "normalizedName": "fn-p90-57x28-submachine-gun-sbrt-2",
     "description": null,
     "basePrice": 51313,
     "avg24hPrice": null,
@@ -35042,7 +35042,7 @@
     "id": "5d383e1a86f7742a1468ce63",
     "name": "Remington Model 700 7.62x51 bolt-action sniper rifle AICS",
     "shortName": "M700 AICS",
-    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-aics",
+    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-aics-2",
     "description": null,
     "basePrice": 70373,
     "avg24hPrice": 66666,
@@ -35059,7 +35059,7 @@
     "id": "5d383ee786f7742a15793860",
     "name": "Remington Model 700 7.62x51 bolt-action sniper rifle ARCH",
     "shortName": "M700 ARCH",
-    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-arch",
+    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-arch-2",
     "description": null,
     "basePrice": 65540,
     "avg24hPrice": 54000,
@@ -35076,7 +35076,7 @@
     "id": "5d383f5d86f7742a15793872",
     "name": "Remington Model 700 7.62x51 bolt-action sniper rifle PRO",
     "shortName": "M700 PRO",
-    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-pro",
+    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-pro-2",
     "description": null,
     "basePrice": 72960,
     "avg24hPrice": null,
@@ -35093,7 +35093,7 @@
     "id": "5d38517786f7742a1468cf6a",
     "name": "Remington Model 700 7.62x51 bolt-action sniper rifle MRS",
     "shortName": "M700 MRS",
-    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-mrs",
+    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-mrs-2",
     "description": null,
     "basePrice": 102614,
     "avg24hPrice": 188888,
@@ -35296,6 +35296,9 @@
     "craftsFor": [
       {
         "id": "600ab8e3e4022c380a726088",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -35327,10 +35330,7 @@
               "name": "Water filter"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -35352,6 +35352,9 @@
     "craftsFor": [
       {
         "id": "5dc1f634ee5f2440a9272dc7",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -35365,10 +35368,7 @@
               "name": "Bottle of water (0.6L)"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -35390,6 +35390,9 @@
     "craftsFor": [
       {
         "id": "5d8f5e1af3a8f83c8600afb2",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -35403,10 +35406,7 @@
               "name": "Bottle of Pevko Light beer"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -35809,6 +35809,9 @@
     "craftsFor": [
       {
         "id": "655b63ac9db22d43ab42b70a",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -35846,10 +35849,7 @@
               "name": "SPRTN Omega ballistic plate"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -35926,6 +35926,9 @@
     "craftsFor": [
       {
         "id": "655b68b4769de97e1d62d117",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -35957,10 +35960,7 @@
               "name": "Ripstop fabric"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -36250,6 +36250,9 @@
     "craftsFor": [
       {
         "id": "655b5af31273611d2462ab76",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 3,
@@ -36275,10 +36278,7 @@
               "name": "Hand drill"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -36319,6 +36319,9 @@
     "craftsFor": [
       {
         "id": "655b58a49db22d43ab42b709",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 60,
@@ -36344,10 +36347,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -36424,6 +36424,9 @@
     "craftsFor": [
       {
         "id": "655b598db71eeb7c4168c626",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 3,
@@ -36443,10 +36446,7 @@
               "name": "Fierce Blow sledgehammer"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -36594,6 +36594,9 @@
     "craftsFor": [
       {
         "id": "5de919ec1b25d85cf30ca39a",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -36613,10 +36616,7 @@
               "name": "Screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -36638,6 +36638,9 @@
     "craftsFor": [
       {
         "id": "5dd3c9c8449c0c31795b0f0b",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -36651,13 +36654,13 @@
               "name": "Gunpowder \"Eagle\""
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       },
       {
         "id": "5dd3c5a67da3785e63275437",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -36677,10 +36680,7 @@
               "name": "Ratchet wrench"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -37354,7 +37354,7 @@
     "id": "5dd7f8c524e5d7504a4e3077",
     "name": "Kalashnikov AK-74 5.45x39 assault rifle Plum",
     "shortName": "AK-74 Plum",
-    "normalizedName": "kalashnikov-ak-74-545x39-assault-rifle-plum",
+    "normalizedName": "kalashnikov-ak-74-545x39-assault-rifle-plum-2",
     "description": null,
     "basePrice": 32248,
     "avg24hPrice": null,
@@ -37371,7 +37371,7 @@
     "id": "5dd800bde492226366631317",
     "name": "Kalashnikov AK-104 7.62x39 assault rifle T-SAW",
     "shortName": "AK-104 T-SAW",
-    "normalizedName": "kalashnikov-ak-104-762x39-assault-rifle-t-saw",
+    "normalizedName": "kalashnikov-ak-104-762x39-assault-rifle-t-saw-2",
     "description": null,
     "basePrice": 313795,
     "avg24hPrice": null,
@@ -37389,7 +37389,7 @@
     "id": "5dd800eae49222636663133b",
     "name": "Colt M4A1 5.56x45 assault rifle SAI",
     "shortName": "M4A1 SAI",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-sai",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-sai-2",
     "description": null,
     "basePrice": 226548,
     "avg24hPrice": null,
@@ -37407,7 +37407,7 @@
     "id": "5dd8013ff4c3af18c507b10a",
     "name": "Lone Star TX-15 DML 5.56x45 carbine D-WARRIOR",
     "shortName": "TX-15 DML D-WARRIOR",
-    "normalizedName": "lone-star-tx-15-dml-556x45-carbine-d-warrior",
+    "normalizedName": "lone-star-tx-15-dml-556x45-carbine-d-warrior-2",
     "description": null,
     "basePrice": 241960,
     "avg24hPrice": 450000,
@@ -37424,7 +37424,7 @@
     "id": "5ddbbeac582ed30a6134e577",
     "name": "Saiga-12K ver.10 12ga semi-automatic shotgun NERFGUN",
     "shortName": "Saiga-12K NERFGUN",
-    "normalizedName": "saiga-12k-ver10-12ga-semi-automatic-shotgun-nerfgun",
+    "normalizedName": "saiga-12k-ver10-12ga-semi-automatic-shotgun-nerfgun-2",
     "description": null,
     "basePrice": 316067,
     "avg24hPrice": null,
@@ -38690,6 +38690,9 @@
     "craftsFor": [
       {
         "id": "655b4f57769de97e1d62d116",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 50,
@@ -38715,10 +38718,7 @@
               "name": "Gunpowder \"Eagle\""
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -38759,6 +38759,9 @@
     "craftsFor": [
       {
         "id": "655b4bbe4343a16d2e047668",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -38766,10 +38769,7 @@
               "name": "Gunpowder \"Kite\""
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -39017,6 +39017,9 @@
     "craftsFor": [
       {
         "id": "61dc03711bdcfa2f253c9b7c",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -39036,10 +39039,7 @@
               "name": "Portable Powerbank"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -39146,6 +39146,9 @@
     "craftsFor": [
       {
         "id": "6002e68bca41c53bee18813b",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -39171,10 +39174,7 @@
               "name": "Crickent lighter"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -39230,6 +39230,9 @@
     "craftsFor": [
       {
         "id": "600aa140090cb63380270290",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -39243,10 +39246,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -39268,6 +39268,9 @@
     "craftsFor": [
       {
         "id": "5ffcafd468c55773943fc71e",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -39281,10 +39284,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -39306,6 +39306,9 @@
     "craftsFor": [
       {
         "id": "5eecaa6327ccd70521107ff5",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -39319,10 +39322,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -39344,6 +39344,9 @@
     "craftsFor": [
       {
         "id": "5ffcaa60f3fdc212a91d552b",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -39357,10 +39360,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -39400,6 +39400,9 @@
     "craftsFor": [
       {
         "id": "5ffcab66fd851f4b000d61ef",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -39431,10 +39434,7 @@
               "name": "Metal cutting scissors"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -39457,6 +39457,9 @@
     "craftsFor": [
       {
         "id": "64b6aefe25251516d768542d",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -39476,10 +39479,7 @@
               "name": "TP-200 TNT brick"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -39502,6 +39502,9 @@
     "craftsFor": [
       {
         "id": "5e66408286f7747b2c2d7786",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -39521,10 +39524,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -39563,6 +39563,9 @@
     "craftsFor": [
       {
         "id": "6002e8fb41d38607bc4198ab",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -39594,10 +39597,7 @@
               "name": "Secure magnetic tape cassette"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -40196,6 +40196,9 @@
     "craftsFor": [
       {
         "id": "600ab99ce4022c380a726090",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -40209,10 +40212,7 @@
               "name": "Pile of meds"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -40375,6 +40375,9 @@
     "craftsFor": [
       {
         "id": "600a9bd0189b226f40059751",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -40412,10 +40415,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -40575,6 +40575,9 @@
     "craftsFor": [
       {
         "id": "5ffcadeff3fdc212a91d5539",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -40588,10 +40591,7 @@
               "name": "Emelya rye croutons"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -40983,7 +40983,7 @@
     "id": "5ebbfe23ba87a5065a00a563",
     "name": "Colt M4A1 5.56x45 assault rifle USASOC-I",
     "shortName": "M4A1 USASOC-I",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-usasoc-i",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-usasoc-i-2",
     "description": null,
     "basePrice": 205276,
     "avg24hPrice": null,
@@ -41000,7 +41000,7 @@
     "id": "5ebbff0841a637322117a5fb",
     "name": "Colt M4A1 5.56x45 assault rifle USASOC-II",
     "shortName": "M4A1 USASOC-II",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-usasoc-ii",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-usasoc-ii-2",
     "description": null,
     "basePrice": 205900,
     "avg24hPrice": null,
@@ -41090,6 +41090,9 @@
     "craftsFor": [
       {
         "id": "68f111a853aec9cbde0aa22f",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -41115,10 +41118,7 @@
               "name": "Silicone tube"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -41161,6 +41161,9 @@
     "craftsFor": [
       {
         "id": "6012ee7e44a0465ee67a58de",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -41186,10 +41189,7 @@
               "name": "Pile of meds"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -41646,6 +41646,9 @@
     "craftsFor": [
       {
         "id": "61c77d465a98404dee40a77c",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 150,
@@ -41683,10 +41686,7 @@
               "name": "Set of files \"Master\""
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -41815,6 +41815,9 @@
     "craftsFor": [
       {
         "id": "5f245f875b664e084523a4ce",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -41834,10 +41837,7 @@
               "name": "Pliers"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -42275,6 +42275,9 @@
     "craftsFor": [
       {
         "id": "655b6bc01f2b6843ec751fd7",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -42300,10 +42303,7 @@
               "name": "Ox bleach"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -42453,6 +42453,9 @@
     "craftsFor": [
       {
         "id": "655b6a50b71eeb7c4168c628",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -42490,10 +42493,7 @@
               "name": "Fierce Blow sledgehammer"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -42864,7 +42864,7 @@
     "id": "5f6770f839a13e712a1dff54",
     "name": "TOZ KS-23M 23x75mm pump-action shotgun Drozd",
     "shortName": "KS-23M Drozd",
-    "normalizedName": "toz-ks-23m-23x75mm-pump-action-shotgun-drozd",
+    "normalizedName": "toz-ks-23m-23x75mm-pump-action-shotgun-drozd-2",
     "description": null,
     "basePrice": 35302,
     "avg24hPrice": null,
@@ -43806,6 +43806,9 @@
     "craftsFor": [
       {
         "id": "6558d7894626375d6735670c",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 50,
@@ -43825,10 +43828,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -44113,6 +44113,9 @@
     "craftsFor": [
       {
         "id": "6002eec9cc73cd34ac64188a",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -44132,10 +44135,7 @@
               "name": "Pile of meds"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -44228,6 +44228,9 @@
     "craftsFor": [
       {
         "id": "655b4669b71eeb7c4168c625",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 90,
@@ -44247,10 +44250,7 @@
               "name": "Toolset"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -44447,6 +44447,9 @@
     "craftsFor": [
       {
         "id": "615c3d27966c85458e4c49cf",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -44466,10 +44469,7 @@
               "name": "CAT hemostatic tourniquet"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -44509,6 +44509,9 @@
     "craftsFor": [
       {
         "id": "67f4ec82690e0a541a021d3d",
+        "station": {
+          "name": "Water Collector"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -44522,13 +44525,13 @@
               "name": "Silicone tube"
             }
           }
-        ],
-        "station": {
-          "name": "Water Collector"
-        }
+        ]
       },
       {
         "id": "61c77cc6fcc1673f08540e9b",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -44548,10 +44551,7 @@
               "name": "Silicone tube"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -44591,6 +44591,9 @@
     "craftsFor": [
       {
         "id": "5d78d81757c9b8484a2bcb99",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -44610,10 +44613,7 @@
               "name": "Pliers Elite"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -45399,6 +45399,9 @@
     "craftsFor": [
       {
         "id": "62a11354b552772a0c4ba09e",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -45430,10 +45433,7 @@
               "name": "Metal cutting scissors"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -46604,7 +46604,7 @@
     "id": "60b7c2bd95047637182d90a4",
     "name": "MP-155 12ga semi-automatic shotgun Ultima",
     "shortName": "MP-155 Ultima",
-    "normalizedName": "mp-155-12ga-semi-automatic-shotgun-ultima",
+    "normalizedName": "mp-155-12ga-semi-automatic-shotgun-ultima-2",
     "description": null,
     "basePrice": 94749,
     "avg24hPrice": 100000,
@@ -48400,7 +48400,7 @@
     "id": "618aae5a4dc2d41d5c30264b",
     "name": "Kalashnikov AKS-74UN 5.45x39 assault rifle Recon",
     "shortName": "AKS-74UN Recon",
-    "normalizedName": "kalashnikov-aks-74un-545x39-assault-rifle-recon",
+    "normalizedName": "kalashnikov-aks-74un-545x39-assault-rifle-recon-2",
     "description": null,
     "basePrice": 70728,
     "avg24hPrice": null,
@@ -48417,7 +48417,7 @@
     "id": "618aaeb931ddad66c15eb7e9",
     "name": "AS VAL 9x39 special assault rifle Kobra",
     "shortName": "AS VAL Kobra",
-    "normalizedName": "as-val-9x39-special-assault-rifle-kobra",
+    "normalizedName": "as-val-9x39-special-assault-rifle-kobra-2",
     "description": null,
     "basePrice": 123193,
     "avg24hPrice": 124500,
@@ -48434,7 +48434,7 @@
     "id": "618aaf656bbeff39ad4acf0c",
     "name": "Colt M4A1 5.56x45 assault rifle Custom",
     "shortName": "M4A1 Custom",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-custom",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-custom-2",
     "description": null,
     "basePrice": 202992,
     "avg24hPrice": null,
@@ -48451,7 +48451,7 @@
     "id": "618aafe23c1dcf601e0327db",
     "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst) SD Spec",
     "shortName": "MP5 SD Spec",
-    "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst-sd-spec",
+    "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst-sd-spec-2",
     "description": null,
     "basePrice": 108622,
     "avg24hPrice": 82000,
@@ -48468,7 +48468,7 @@
     "id": "618ab00ef236914bab050ca0",
     "name": "FN P90 5.7x28 submachine gun DEVGRU",
     "shortName": "P90 DEVGRU",
-    "normalizedName": "fn-p90-57x28-submachine-gun-devgru",
+    "normalizedName": "fn-p90-57x28-submachine-gun-devgru-2",
     "description": null,
     "basePrice": 152500,
     "avg24hPrice": 500000,
@@ -48485,7 +48485,7 @@
     "id": "618ab04934aa2e47480fba2b",
     "name": "Kalashnikov AK-104 7.62x39 assault rifle RPKT mod.1",
     "shortName": "AK-104 RPKT mod.1",
-    "normalizedName": "kalashnikov-ak-104-762x39-assault-rifle-rpkt-mod1",
+    "normalizedName": "kalashnikov-ak-104-762x39-assault-rifle-rpkt-mod1-2",
     "description": null,
     "basePrice": 187755,
     "avg24hPrice": null,
@@ -48502,7 +48502,7 @@
     "id": "618ab08919394179c84fa57c",
     "name": "DS Arms SA58 7.62x51 assault rifle OSW",
     "shortName": "SA58 OSW",
-    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-osw",
+    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-osw-2",
     "description": null,
     "basePrice": 131304,
     "avg24hPrice": null,
@@ -48519,7 +48519,7 @@
     "id": "618ab0c66bbeff39ad4acf2e",
     "name": "PP-19-01 Vityaz 9x19 submachine gun FSB",
     "shortName": "PP-19-01 FSB",
-    "normalizedName": "pp-19-01-vityaz-9x19-submachine-gun-fsb",
+    "normalizedName": "pp-19-01-vityaz-9x19-submachine-gun-fsb-2",
     "description": null,
     "basePrice": 106398,
     "avg24hPrice": null,
@@ -48880,7 +48880,7 @@
     "id": "6193e108c1982475fa2a7f16",
     "name": "FN SCAR-L 5.56x45 assault rifle (FDE) CQC",
     "shortName": "Mk 16 CQC",
-    "normalizedName": "fn-scar-l-556x45-assault-rifle-fde-cqc",
+    "normalizedName": "fn-scar-l-556x45-assault-rifle-fde-cqc-2",
     "description": null,
     "basePrice": 94849,
     "avg24hPrice": 78000,
@@ -48897,7 +48897,7 @@
     "id": "6193e18de693542ea37d11b3",
     "name": "FN SCAR-L 5.56x45 assault rifle LB",
     "shortName": "Mk 16 LB",
-    "normalizedName": "fn-scar-l-556x45-assault-rifle-lb",
+    "normalizedName": "fn-scar-l-556x45-assault-rifle-lb-2",
     "description": null,
     "basePrice": 93200,
     "avg24hPrice": 54238,
@@ -48931,7 +48931,7 @@
     "id": "6193e380069d61205d490dc7",
     "name": "FN SCAR-H 7.62x51 assault rifle (FDE) CQC",
     "shortName": "Mk 17 CQC",
-    "normalizedName": "fn-scar-h-762x51-assault-rifle-fde-cqc",
+    "normalizedName": "fn-scar-h-762x51-assault-rifle-fde-cqc-2",
     "description": null,
     "basePrice": 122349,
     "avg24hPrice": null,
@@ -48949,7 +48949,7 @@
     "id": "6193e4a46bb904059c382295",
     "name": "FN SCAR-H 7.62x51 assault rifle LB",
     "shortName": "Mk 17 LB",
-    "normalizedName": "fn-scar-h-762x51-assault-rifle-lb",
+    "normalizedName": "fn-scar-h-762x51-assault-rifle-lb-2",
     "description": null,
     "basePrice": 120000,
     "avg24hPrice": null,
@@ -49002,7 +49002,7 @@
     "id": "6193e5f3aa34a3034236bdb3",
     "name": "HK G28 7.62x51 marksman rifle Patrol",
     "shortName": "G28 Patrol",
-    "normalizedName": "hk-g28-762x51-marksman-rifle-patrol",
+    "normalizedName": "hk-g28-762x51-marksman-rifle-patrol-2",
     "description": null,
     "basePrice": 163790,
     "avg24hPrice": 162222,
@@ -49341,6 +49341,9 @@
     "craftsFor": [
       {
         "id": "5dde60e0e2c8f57eb6465327",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 3,
@@ -49354,10 +49357,7 @@
               "name": "SurvL Survivor Lighter"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -49416,6 +49416,9 @@
     "craftsFor": [
       {
         "id": "655b457c9db22d43ab42b706",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 120,
@@ -49435,10 +49438,7 @@
               "name": "SurvL Survivor Lighter"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -49843,6 +49843,9 @@
     "craftsFor": [
       {
         "id": "619e45ea98398d3b104e8419",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -49880,10 +49883,7 @@
               "name": "Flat screwdriver (Long)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -49943,7 +49943,7 @@
     "id": "619d26ccc7791e3af27ae3cd",
     "name": "HK USP .45 ACP pistol Match",
     "shortName": "USP .45 Match",
-    "normalizedName": "hk-usp-45-acp-pistol-match",
+    "normalizedName": "hk-usp-45-acp-pistol-match-2",
     "description": null,
     "basePrice": 31750,
     "avg24hPrice": 17776,
@@ -49960,7 +49960,7 @@
     "id": "619d270836b5be1f3236f9c5",
     "name": "HK USP .45 ACP pistol Tactical",
     "shortName": "USP .45 Tactical",
-    "normalizedName": "hk-usp-45-acp-pistol-tactical",
+    "normalizedName": "hk-usp-45-acp-pistol-tactical-2",
     "description": null,
     "basePrice": 24750,
     "avg24hPrice": 18888,
@@ -49977,7 +49977,7 @@
     "id": "619d272b0f9e4513744e7699",
     "name": "HK USP .45 ACP pistol Elite",
     "shortName": "USP .45 Elite",
-    "normalizedName": "hk-usp-45-acp-pistol-elite",
+    "normalizedName": "hk-usp-45-acp-pistol-elite-2",
     "description": null,
     "basePrice": 30450,
     "avg24hPrice": 90000,
@@ -49994,7 +49994,7 @@
     "id": "619d276ca4712949ff3159b9",
     "name": "HK USP .45 ACP pistol Expert",
     "shortName": "USP .45 Expert",
-    "normalizedName": "hk-usp-45-acp-pistol-expert",
+    "normalizedName": "hk-usp-45-acp-pistol-expert-2",
     "description": null,
     "basePrice": 23450,
     "avg24hPrice": 20000,
@@ -50028,7 +50028,7 @@
     "id": "619e61e70459e93c12392ba7",
     "name": "FN SCAR-L 5.56x45 assault rifle (FDE) Contract Wars",
     "shortName": "Mk 16 Contract Wars",
-    "normalizedName": "fn-scar-l-556x45-assault-rifle-fde-contract-wars",
+    "normalizedName": "fn-scar-l-556x45-assault-rifle-fde-contract-wars-2",
     "description": null,
     "basePrice": 164754,
     "avg24hPrice": 169420,
@@ -50408,6 +50408,9 @@
     "craftsFor": [
       {
         "id": "655b5fd2975a7f3c734661a8",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -50439,10 +50442,7 @@
               "name": "NewSphereTech level III ballistic plate"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -50481,6 +50481,9 @@
     "craftsFor": [
       {
         "id": "67da01179cbeb8d6f4011961",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -50512,10 +50515,7 @@
               "name": "Printed circuit board"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -51594,7 +51594,7 @@
     "id": "624d7ae691f0160c7324c402",
     "name": "Chiappa Rhino 50DS .357 revolver Tactical",
     "shortName": "CR 50DS Tactical",
-    "normalizedName": "chiappa-rhino-50ds-357-revolver-tactical",
+    "normalizedName": "chiappa-rhino-50ds-357-revolver-tactical-2",
     "description": null,
     "basePrice": 31377,
     "avg24hPrice": 37999,
@@ -52500,7 +52500,7 @@
     "id": "62874ff7a4a8431af4739d25",
     "name": "Colt M45A1 .45 ACP pistol Mew-mew",
     "shortName": "M45A1 Mew-mew",
-    "normalizedName": "colt-m45a1-45-acp-pistol-mew-mew",
+    "normalizedName": "colt-m45a1-45-acp-pistol-mew-mew-2",
     "description": null,
     "basePrice": 21158,
     "avg24hPrice": 12999,
@@ -52517,7 +52517,7 @@
     "id": "628750420828252c7a28b944",
     "name": "Remington Model 870 12ga pump-action shotgun Hammer",
     "shortName": "M870 Hammer",
-    "normalizedName": "remington-model-870-12ga-pump-action-shotgun-hammer",
+    "normalizedName": "remington-model-870-12ga-pump-action-shotgun-hammer-2",
     "description": null,
     "basePrice": 52224,
     "avg24hPrice": 60000,
@@ -52534,7 +52534,7 @@
     "id": "62875070bbbd995f3c41b225",
     "name": "SIG MCX .300 Blackout assault rifle Neptune Spear",
     "shortName": "MCX Neptune Spear",
-    "normalizedName": "sig-mcx-300-blackout-assault-rifle-neptune-spear",
+    "normalizedName": "sig-mcx-300-blackout-assault-rifle-neptune-spear-2",
     "description": null,
     "basePrice": 203361,
     "avg24hPrice": 250000,
@@ -52551,7 +52551,7 @@
     "id": "62875103af0a053a6672c234",
     "name": "Colt M4A1 5.56x45 assault rifle Your-Ex",
     "shortName": "M4A1 Your-Ex",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-your-ex",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-your-ex-2",
     "description": null,
     "basePrice": 207789,
     "avg24hPrice": null,
@@ -52568,7 +52568,7 @@
     "id": "628751e6af0a053a6672c261",
     "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Mescalero",
     "shortName": "M700 Mescalero",
-    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-mescalero",
+    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-mescalero-2",
     "description": null,
     "basePrice": 237631,
     "avg24hPrice": null,
@@ -52585,7 +52585,7 @@
     "id": "62875256bbbd995f3c41b253",
     "name": "Remington R11 RSASS 7.62x51 marksman rifle Kiowa",
     "shortName": "RSASS Kiowa",
-    "normalizedName": "remington-r11-rsass-762x51-marksman-rifle-kiowa",
+    "normalizedName": "remington-r11-rsass-762x51-marksman-rifle-kiowa-2",
     "description": null,
     "basePrice": 244712,
     "avg24hPrice": 199000,
@@ -52602,7 +52602,7 @@
     "id": "628753bba4a8431af4739d3b",
     "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle Ba-cho",
     "shortName": "SR-25 Ba-cho",
-    "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-ba-cho",
+    "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-ba-cho-2",
     "description": null,
     "basePrice": 314469,
     "avg24hPrice": 200000,
@@ -52619,7 +52619,7 @@
     "id": "628753ee0c9eb3366b5218d4",
     "name": "Glock 18C 9x19 machine pistol Lizzie",
     "shortName": "Glock 18C Lizzie",
-    "normalizedName": "glock-18c-9x19-machine-pistol-lizzie",
+    "normalizedName": "glock-18c-9x19-machine-pistol-lizzie-2",
     "description": null,
     "basePrice": 43970,
     "avg24hPrice": 45000,
@@ -52636,7 +52636,7 @@
     "id": "628754510c9eb3366b5218f8",
     "name": "Glock 17 9x19 pistol Jackie",
     "shortName": "Glock 17 Jackie",
-    "normalizedName": "glock-17-9x19-pistol-jackie",
+    "normalizedName": "glock-17-9x19-pistol-jackie-2",
     "description": null,
     "basePrice": 67706,
     "avg24hPrice": 40000,
@@ -52653,7 +52653,7 @@
     "id": "6287549856af630b0f672cc4",
     "name": "Desert Tech MDR 7.62x51 assault rifle Killtube",
     "shortName": "MDR Killtube",
-    "normalizedName": "desert-tech-mdr-762x51-assault-rifle-killtube",
+    "normalizedName": "desert-tech-mdr-762x51-assault-rifle-killtube-2",
     "description": null,
     "basePrice": 225850,
     "avg24hPrice": null,
@@ -52671,7 +52671,7 @@
     "id": "628755c60c9eb3366b521908",
     "name": "CMMG Mk47 Mutant 7.62x39 assault rifle Mace",
     "shortName": "Mk47 Mace",
-    "normalizedName": "cmmg-mk47-mutant-762x39-assault-rifle-mace",
+    "normalizedName": "cmmg-mk47-mutant-762x39-assault-rifle-mace-2",
     "description": null,
     "basePrice": 191320,
     "avg24hPrice": 270000,
@@ -52688,7 +52688,7 @@
     "id": "628755f166bb7d4a3c32bc45",
     "name": "FN SCAR-H 7.62x51 assault rifle (FDE) Face",
     "shortName": "Mk 17 Face",
-    "normalizedName": "fn-scar-h-762x51-assault-rifle-fde-face",
+    "normalizedName": "fn-scar-h-762x51-assault-rifle-fde-face-3",
     "description": null,
     "basePrice": 188716,
     "avg24hPrice": null,
@@ -53089,6 +53089,9 @@
     "craftsFor": [
       {
         "id": "655b675e1f2b6843ec751fd6",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -53120,10 +53123,7 @@
               "name": "Sewing kit"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -53324,7 +53324,7 @@
     "id": "629766c15c9e3c392f7c2db0",
     "name": "SV-98 7.62x54R bolt-action sniper rifle OV",
     "shortName": "SV-98 OV",
-    "normalizedName": "sv-98-762x54r-bolt-action-sniper-rifle-ov",
+    "normalizedName": "sv-98-762x54r-bolt-action-sniper-rifle-ov-2",
     "description": null,
     "basePrice": 75302,
     "avg24hPrice": 80000,
@@ -53358,7 +53358,7 @@
     "id": "629774055c32d414f8797477",
     "name": "HK G36 5.56x45 assault rifle C",
     "shortName": "G36 C",
-    "normalizedName": "hk-g36-556x45-assault-rifle-c",
+    "normalizedName": "hk-g36-556x45-assault-rifle-c-2",
     "description": null,
     "basePrice": 57023,
     "avg24hPrice": 65555,
@@ -53375,7 +53375,7 @@
     "id": "6297743d005016781231ab76",
     "name": "HK G36 5.56x45 assault rifle E",
     "shortName": "G36 E",
-    "normalizedName": "hk-g36-556x45-assault-rifle-e",
+    "normalizedName": "hk-g36-556x45-assault-rifle-e-2",
     "description": null,
     "basePrice": 67930,
     "avg24hPrice": 60000,
@@ -53392,7 +53392,7 @@
     "id": "629774817d59e26b711f88be",
     "name": "HK G36 5.56x45 assault rifle E2",
     "shortName": "G36 E2",
-    "normalizedName": "hk-g36-556x45-assault-rifle-e2",
+    "normalizedName": "hk-g36-556x45-assault-rifle-e2-2",
     "description": null,
     "basePrice": 64350,
     "avg24hPrice": 69999,
@@ -53409,7 +53409,7 @@
     "id": "629774d35c32d414f8797486",
     "name": "HK G36 5.56x45 assault rifle K",
     "shortName": "G36 K",
-    "normalizedName": "hk-g36-556x45-assault-rifle-k",
+    "normalizedName": "hk-g36-556x45-assault-rifle-k-2",
     "description": null,
     "basePrice": 81950,
     "avg24hPrice": null,
@@ -53426,7 +53426,7 @@
     "id": "629775539f1b474e440c45c1",
     "name": "HK G36 5.56x45 assault rifle KV1",
     "shortName": "G36 KV1",
-    "normalizedName": "hk-g36-556x45-assault-rifle-kv1",
+    "normalizedName": "hk-g36-556x45-assault-rifle-kv1-2",
     "description": null,
     "basePrice": 75570,
     "avg24hPrice": null,
@@ -53443,7 +53443,7 @@
     "id": "6297757b2aecda1b350da2a3",
     "name": "HK G36 5.56x45 assault rifle KV2",
     "shortName": "G36 KV2",
-    "normalizedName": "hk-g36-556x45-assault-rifle-kv2",
+    "normalizedName": "hk-g36-556x45-assault-rifle-kv2-2",
     "description": null,
     "basePrice": 62750,
     "avg24hPrice": 69999,
@@ -53799,6 +53799,9 @@
     "craftsFor": [
       {
         "id": "62a11658650cc35fa94e009a",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 5,
@@ -53818,10 +53821,7 @@
               "name": "Canister with purified water"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -53894,6 +53894,9 @@
     "craftsFor": [
       {
         "id": "62a112fec1cce91d2c46a06e",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -53913,10 +53916,7 @@
               "name": "Diary"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -53938,6 +53938,9 @@
     "craftsFor": [
       {
         "id": "62a116282c5e0c325b62d5ec",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -53957,10 +53960,7 @@
               "name": "Topographic survey maps"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -54328,6 +54328,9 @@
     "craftsFor": [
       {
         "id": "6399c421d65735732c6ba765",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -54347,10 +54350,7 @@
               "name": "Electronic components"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -55157,6 +55157,9 @@
     "craftsFor": [
       {
         "id": "68f2073205d9d632d30e1e97",
+        "station": {
+          "name": "Nutrition Unit"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -55182,10 +55185,7 @@
               "name": "Geiger-Muller counter"
             }
           }
-        ],
-        "station": {
-          "name": "Nutrition Unit"
-        }
+        ]
       }
     ]
   },
@@ -55370,6 +55370,9 @@
     "craftsFor": [
       {
         "id": "68f110c61bc3ee7616092bde",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -55395,10 +55398,7 @@
               "name": "Bottle of saline solution"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -55441,6 +55441,9 @@
     "craftsFor": [
       {
         "id": "68f1105b53aec9cbde0aa22e",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -55472,10 +55475,7 @@
               "name": "Augmentin antibiotic pills"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -55843,6 +55843,9 @@
     "craftsFor": [
       {
         "id": "63a232f8ab6bb51044344bff",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -55868,10 +55871,7 @@
               "name": "Silicon Optoelectronic Integrated Circuits textbook"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -55929,6 +55929,9 @@
     "craftsFor": [
       {
         "id": "67da02e9078f1947650d7bb8",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -55960,10 +55963,7 @@
               "name": "Secure magnetic tape cassette"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -56230,7 +56230,7 @@
     "id": "639867ca90c8ca7156504f75",
     "name": "Steyr AUG A3 5.56x45 assault rifle CIV",
     "shortName": "AUG A3 CIV",
-    "normalizedName": "steyr-aug-a3-556x45-assault-rifle-civ",
+    "normalizedName": "steyr-aug-a3-556x45-assault-rifle-civ-2",
     "description": null,
     "basePrice": 92960,
     "avg24hPrice": null,
@@ -56247,7 +56247,7 @@
     "id": "6398681b9f81ff62557b8225",
     "name": "Steyr AUG A3 5.56x45 assault rifle CQB",
     "shortName": "AUG A3 CQB",
-    "normalizedName": "steyr-aug-a3-556x45-assault-rifle-cqb",
+    "normalizedName": "steyr-aug-a3-556x45-assault-rifle-cqb-2",
     "description": null,
     "basePrice": 144411,
     "avg24hPrice": null,
@@ -56315,7 +56315,7 @@
     "id": "63986a9ab483a550805be5ee",
     "name": "SR-2M Veresk 9x21 submachine gun FSB",
     "shortName": "SR-2M FSB",
-    "normalizedName": "sr-2m-veresk-9x21-submachine-gun-fsb",
+    "normalizedName": "sr-2m-veresk-9x21-submachine-gun-fsb-2",
     "description": null,
     "basePrice": 78670,
     "avg24hPrice": 42222,
@@ -56332,7 +56332,7 @@
     "id": "63986acda28b76105a33c09f",
     "name": "SR-2M Veresk 9x21 submachine gun TAC",
     "shortName": "SR-2M TAC",
-    "normalizedName": "sr-2m-veresk-9x21-submachine-gun-tac",
+    "normalizedName": "sr-2m-veresk-9x21-submachine-gun-tac-2",
     "description": null,
     "basePrice": 106238,
     "avg24hPrice": null,
@@ -56398,6 +56398,9 @@
     "craftsFor": [
       {
         "id": "63a571802116d261d2336cd1",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -56435,10 +56438,7 @@
               "name": "Pliers Elite"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -59878,6 +59878,9 @@
     "craftsFor": [
       {
         "id": "655b47d1769de97e1d62d115",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -59891,10 +59894,7 @@
               "name": "Awl"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -59971,6 +59971,9 @@
     "craftsFor": [
       {
         "id": "5ffcad24f3fdc212a91d5536",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -59990,10 +59993,7 @@
               "name": "Leatherman Multitool"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -60265,7 +60265,7 @@
     "id": "64c390af8427c75665190d1d",
     "name": "Tokarev SVT-40 7.62x54R rifle Sniper",
     "shortName": "SVT-40 Sniper",
-    "normalizedName": "tokarev-svt-40-762x54r-rifle-sniper",
+    "normalizedName": "tokarev-svt-40-762x54r-rifle-sniper-2",
     "description": null,
     "basePrice": 54502,
     "avg24hPrice": 48555,
@@ -60335,7 +60335,7 @@
     "id": "64cbe20d5aa0a53ad12f96c9",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-3",
     "description": null,
     "basePrice": 177387,
     "avg24hPrice": null,
@@ -60352,7 +60352,7 @@
     "id": "64ccaa66ad8a0956023901b6",
     "name": "Kalashnikov PKM 7.62x54R machine gun Zenit",
     "shortName": "PKM Zenit",
-    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-2",
+    "normalizedName": "kalashnikov-pkm-762x54r-machine-gun-zenit-3-2",
     "description": null,
     "basePrice": 176274,
     "avg24hPrice": null,
@@ -60556,7 +60556,7 @@
     "id": "64cf7b2d033b747d625b7666",
     "name": "Kalashnikov PKP 7.62x54R infantry machine gun Pecheneg",
     "shortName": "PKP Pecheneg",
-    "normalizedName": "kalashnikov-pkp-762x54r-infantry-machine-gun-pecheneg",
+    "normalizedName": "kalashnikov-pkp-762x54r-infantry-machine-gun-pecheneg-2",
     "description": null,
     "basePrice": 143428,
     "avg24hPrice": null,
@@ -60574,7 +60574,7 @@
     "id": "64cf7b7d8b48ea38c5030f65",
     "name": "Kalashnikov PKP 7.62x54R infantry machine gun Zenit",
     "shortName": "PKP Zenit",
-    "normalizedName": "kalashnikov-pkp-762x54r-infantry-machine-gun-zenit",
+    "normalizedName": "kalashnikov-pkp-762x54r-infantry-machine-gun-zenit-2",
     "description": null,
     "basePrice": 195874,
     "avg24hPrice": null,
@@ -62131,6 +62131,9 @@
     "craftsFor": [
       {
         "id": "657fc79cfd86b9d9680c4a24",
+        "station": {
+          "name": "Lavatory"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -62162,10 +62165,7 @@
               "name": "Electric drill"
             }
           }
-        ],
-        "station": {
-          "name": "Lavatory"
-        }
+        ]
       }
     ]
   },
@@ -65956,7 +65956,7 @@
     "id": "657eb1c4aebd1b6d254bf6d5",
     "name": "KBP 9A-91 9x39 compact assault rifle Tactical",
     "shortName": "9A-91 Tactical",
-    "normalizedName": "kbp-9a-91-9x39-compact-assault-rifle-tactical",
+    "normalizedName": "kbp-9a-91-9x39-compact-assault-rifle-tactical-2",
     "description": null,
     "basePrice": 80787,
     "avg24hPrice": 81111,
@@ -65990,7 +65990,7 @@
     "id": "657eb23b7ba4217c5e65b692",
     "name": "KBP VSK-94 9x39 rifle Tactical",
     "shortName": "VSK-94 Tactical",
-    "normalizedName": "kbp-vsk-94-9x39-rifle-tactical",
+    "normalizedName": "kbp-vsk-94-9x39-rifle-tactical-2",
     "description": null,
     "basePrice": 44113,
     "avg24hPrice": 40000,
@@ -66024,7 +66024,7 @@
     "id": "657eb2b246a703073a5b91e8",
     "name": "Degtyarev RPD 7.62x39 machine gun Short",
     "shortName": "RPD Short",
-    "normalizedName": "degtyarev-rpd-762x39-machine-gun-short",
+    "normalizedName": "degtyarev-rpd-762x39-machine-gun-short-2",
     "description": null,
     "basePrice": 59808,
     "avg24hPrice": 88888,
@@ -66077,7 +66077,7 @@
     "id": "657eb391aebd1b6d254bf6e2",
     "name": "SIG MCX-SPEAR 6.8x51 assault rifle CQB",
     "shortName": "SPEAR 6.8 CQB",
-    "normalizedName": "sig-mcx-spear-68x51-assault-rifle-cqb",
+    "normalizedName": "sig-mcx-spear-68x51-assault-rifle-cqb-2",
     "description": null,
     "basePrice": 112059,
     "avg24hPrice": null,
@@ -66095,7 +66095,7 @@
     "id": "657eb3ef7ba4217c5e65b6a5",
     "name": "TOZ Simonov SKS 7.62x39 carbine Tactical",
     "shortName": "SKS Tactical",
-    "normalizedName": "toz-simonov-sks-762x39-carbine-tactical",
+    "normalizedName": "toz-simonov-sks-762x39-carbine-tactical-2",
     "description": null,
     "basePrice": 149818,
     "avg24hPrice": null,
@@ -66112,7 +66112,7 @@
     "id": "657eb42546a703073a5b91f1",
     "name": "Molot Arms Simonov OP-SKS 7.62x39 carbine Sniper",
     "shortName": "OP-SKS Sniper",
-    "normalizedName": "molot-arms-simonov-op-sks-762x39-carbine-sniper",
+    "normalizedName": "molot-arms-simonov-op-sks-762x39-carbine-sniper-2",
     "description": null,
     "basePrice": 59771,
     "avg24hPrice": null,
@@ -66129,7 +66129,7 @@
     "id": "657eb44126f0eb0718056218",
     "name": "Molot Arms Simonov OP-SKS 7.62x39 carbine Tactical",
     "shortName": "OP-SKS Tactical",
-    "normalizedName": "molot-arms-simonov-op-sks-762x39-carbine-tactical",
+    "normalizedName": "molot-arms-simonov-op-sks-762x39-carbine-tactical-2",
     "description": null,
     "basePrice": 70310,
     "avg24hPrice": null,
@@ -67421,6 +67421,9 @@
     "craftsFor": [
       {
         "id": "66509e8c9398c9c9e10a31bb",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67446,13 +67449,13 @@
               "name": "Bottle of saline solution"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       },
       {
         "id": "6671d4fef3bee343f5000703",
+        "station": {
+          "name": "Medstation"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67478,10 +67481,7 @@
               "name": "Bottle of saline solution"
             }
           }
-        ],
-        "station": {
-          "name": "Medstation"
-        }
+        ]
       }
     ]
   },
@@ -67679,6 +67679,9 @@
     "craftsFor": [
       {
         "id": "6666d899eb78191c502350b2",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67704,13 +67707,13 @@
               "name": "Locked equipment crate (Rare)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       },
       {
         "id": "67c9d54b017035dd060bff5e",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67724,10 +67727,7 @@
               "name": "Locked equipment crate (Rare)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -67749,6 +67749,9 @@
     "craftsFor": [
       {
         "id": "66575197464c4b4ba4671004",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67774,13 +67777,13 @@
               "name": "Locked weapon crate (Rare)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       },
       {
         "id": "67c9d5035be7fc94c806dee9",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67794,10 +67797,7 @@
               "name": "Locked weapon crate (Rare)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -67819,6 +67819,9 @@
     "craftsFor": [
       {
         "id": "6666d829a8298779fc40e537",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67844,13 +67847,13 @@
               "name": "Locked supply crate (Rare)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       },
       {
         "id": "67c9d4b251ce173bff01eec7",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67864,10 +67867,7 @@
               "name": "Locked supply crate (Rare)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -67889,6 +67889,9 @@
     "craftsFor": [
       {
         "id": "67c9d447b53b0fcf1d0bb0ab",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67902,13 +67905,13 @@
               "name": "Locked valuables crate (Rare)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       },
       {
         "id": "6666d7ea0b734650a91d0a42",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -67934,10 +67937,7 @@
               "name": "Locked valuables crate (Rare)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -70076,7 +70076,7 @@
     "id": "66b0e484c84cc7141324fd6c",
     "name": "Colt M4A1 5.56x45 assault rifle T.O 2K24",
     "shortName": "M4A1 T.O 2K24",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-to-2k24",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-to-2k24-2",
     "description": null,
     "basePrice": 313960,
     "avg24hPrice": null,
@@ -70093,7 +70093,7 @@
     "id": "66b0e6002fafeb5db478f1f3",
     "name": "Desert Tech MDR 7.62x51 assault rifle T.O 2K24",
     "shortName": "MDR T.O 2K24",
-    "normalizedName": "desert-tech-mdr-762x51-assault-rifle-to-2k24",
+    "normalizedName": "desert-tech-mdr-762x51-assault-rifle-to-2k24-2",
     "description": null,
     "basePrice": 276297,
     "avg24hPrice": null,
@@ -70111,7 +70111,7 @@
     "id": "66b0e7f8c5987b623d6e2e81",
     "name": "SIG MCX .300 Blackout assault rifle T.O 2K24",
     "shortName": "MCX T.O 2K24",
-    "normalizedName": "sig-mcx-300-blackout-assault-rifle-to-2k24",
+    "normalizedName": "sig-mcx-300-blackout-assault-rifle-to-2k24-2",
     "description": null,
     "basePrice": 233747,
     "avg24hPrice": null,
@@ -71610,7 +71610,7 @@
     "id": "671a425a7d49aea42c029b56",
     "name": "MPS Auto Assault-12 Gen 2 12ga automatic shotgun TerraGroup Labs",
     "shortName": "AA-12 Gen 2 TerraGroup Labs",
-    "normalizedName": "mps-auto-assault-12-gen-2-12ga-automatic-shotgun-terragroup-labs",
+    "normalizedName": "mps-auto-assault-12-gen-2-12ga-automatic-shotgun-terragroup-labs-2",
     "description": null,
     "basePrice": 102700,
     "avg24hPrice": null,
@@ -71627,7 +71627,7 @@
     "id": "671a4d3d6d315b526708f110",
     "name": "MPS Auto Assault-12 Gen 2 12ga automatic shotgun",
     "shortName": "AA-12 Gen 2",
-    "normalizedName": "mps-auto-assault-12-gen-2-12ga-automatic-shotgun",
+    "normalizedName": "mps-auto-assault-12-gen-2-12ga-automatic-shotgun-2",
     "description": null,
     "basePrice": 80726,
     "avg24hPrice": null,
@@ -71644,7 +71644,7 @@
     "id": "671b88b14e3838e4370ff5b8",
     "name": "FN SCAR-H 7.62x51 assault rifle (FDE) Face",
     "shortName": "Mk 17 Face",
-    "normalizedName": "fn-scar-h-762x51-assault-rifle-fde-face-2",
+    "normalizedName": "fn-scar-h-762x51-assault-rifle-fde-face-3-2",
     "description": null,
     "basePrice": 216211,
     "avg24hPrice": null,
@@ -71662,7 +71662,7 @@
     "id": "671b88c4d14a58a85b09d845",
     "name": "FN SCAR-H 7.62x51 assault rifle (FDE) Face",
     "shortName": "Mk 17 Face",
-    "normalizedName": "fn-scar-h-762x51-assault-rifle-fde-face-2",
+    "normalizedName": "fn-scar-h-762x51-assault-rifle-fde-face-3-2",
     "description": null,
     "basePrice": 224570,
     "avg24hPrice": null,
@@ -74318,7 +74318,7 @@
     "id": "6762bf5bf34fb59c3d0b8247",
     "name": "PP-19-01 Vityaz 9x19 submachine gun Kiba",
     "shortName": "PP-19-01 Kiba",
-    "normalizedName": "pp-19-01-vityaz-9x19-submachine-gun-kiba",
+    "normalizedName": "pp-19-01-vityaz-9x19-submachine-gun-kiba-2",
     "description": null,
     "basePrice": 129674,
     "avg24hPrice": null,
@@ -74335,7 +74335,7 @@
     "id": "676385710ec76052ee01610b",
     "name": "SIG MPX 9x19 submachine gun Gen.2 PDW",
     "shortName": "MPX Gen.2 PDW",
-    "normalizedName": "sig-mpx-9x19-submachine-gun-gen2-pdw",
+    "normalizedName": "sig-mpx-9x19-submachine-gun-gen2-pdw-2",
     "description": null,
     "basePrice": 45503,
     "avg24hPrice": null,
@@ -74543,6 +74543,9 @@
     "craftsFor": [
       {
         "id": "5dceb6964a98801ba2075d27",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 2,
@@ -74568,10 +74571,7 @@
               "name": "7.62x51mm M80"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -76525,6 +76525,9 @@
     "craftsFor": [
       {
         "id": "67bc980c3c4c5942cb0ac53f",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -76538,10 +76541,7 @@
               "name": "Kruglov's RFID keycard"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -76600,6 +76600,9 @@
     "craftsFor": [
       {
         "id": "67bdfb12884b40ea9d08b5c9",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -76619,10 +76622,7 @@
               "name": "Activated Kruglov's RFID keycard"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -76663,6 +76663,9 @@
     "craftsFor": [
       {
         "id": "67c86b2828d3adac2e09a16e",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -76682,10 +76685,7 @@
               "name": "Blank RFID keycard"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -77313,6 +77313,9 @@
     "craftsFor": [
       {
         "id": "67caf5c5bfe0242ab1032966",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -77326,10 +77329,7 @@
               "name": "Locked equipment crate (BattlePass 0)"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -77352,6 +77352,9 @@
     "craftsFor": [
       {
         "id": "6839a4b18b47de9b76007028",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -77395,10 +77398,7 @@
               "name": "Insulating tape"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -78854,6 +78854,9 @@
     "craftsFor": [
       {
         "id": "686c17583cf79421d70b007e",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -78861,10 +78864,7 @@
               "name": "Military thumb drive"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -80355,6 +80355,9 @@
     "craftsFor": [
       {
         "id": "690a89f3f986495a06051d5b",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -80374,10 +80377,7 @@
               "name": "PC CPU"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -83108,6 +83108,9 @@
     "craftsFor": [
       {
         "id": "68ef997d16e4ed785f0fc18e",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -83127,10 +83130,7 @@
               "name": "TerraGroup \"Blue Folders\" materials"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -83824,6 +83824,9 @@
     "craftsFor": [
       {
         "id": "68fe55248312b42f5f02129a",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -83843,10 +83846,7 @@
               "name": "VPX Flash Storage Module"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -84817,7 +84817,7 @@
     "id": "68d6697620029562570c586c",
     "name": "Colt M16A1 5.56x45 assault rifle M16A1E1",
     "shortName": "M16A1 M16A1E1",
-    "normalizedName": "colt-m16a1-556x45-assault-rifle-m16a1e1",
+    "normalizedName": "colt-m16a1-556x45-assault-rifle-m16a1e1-2",
     "description": null,
     "basePrice": 77979,
     "avg24hPrice": 75056,
@@ -84851,7 +84851,7 @@
     "id": "68d66a305275b8087c0ac98a",
     "name": "Colt M16A1 5.56x45 assault rifle M727",
     "shortName": "M16A1 M727",
-    "normalizedName": "colt-m16a1-556x45-assault-rifle-m727",
+    "normalizedName": "colt-m16a1-556x45-assault-rifle-m727-2",
     "description": null,
     "basePrice": 65210,
     "avg24hPrice": 65000,
@@ -84868,7 +84868,7 @@
     "id": "68d66b7d388f5569b203ad1c",
     "name": "Colt M16A1 5.56x45 assault rifle M723",
     "shortName": "M16A1 M723",
-    "normalizedName": "colt-m16a1-556x45-assault-rifle-m723",
+    "normalizedName": "colt-m16a1-556x45-assault-rifle-m723-2",
     "description": null,
     "basePrice": 61411,
     "avg24hPrice": 65000,
@@ -84885,7 +84885,7 @@
     "id": "68d66bb05275b8087c0ac99c",
     "name": "Colt M16A1 5.56x45 assault rifle Mk.12 mod.0",
     "shortName": "M16A1 Mk.12 mod.0",
-    "normalizedName": "colt-m16a1-556x45-assault-rifle-mk12-mod0",
+    "normalizedName": "colt-m16a1-556x45-assault-rifle-mk12-mod0-2",
     "description": null,
     "basePrice": 221595,
     "avg24hPrice": null,
@@ -84902,7 +84902,7 @@
     "id": "68d66bde41d2c7cb5c0de8e9",
     "name": "Colt M16A1 5.56x45 assault rifle Mk.12 mod.1",
     "shortName": "M16A1 Mk.12 mod.1",
-    "normalizedName": "colt-m16a1-556x45-assault-rifle-mk12-mod1",
+    "normalizedName": "colt-m16a1-556x45-assault-rifle-mk12-mod1-2",
     "description": null,
     "basePrice": 212819,
     "avg24hPrice": null,
@@ -85043,7 +85043,7 @@
     "id": "68d69b3463cb18251102640c",
     "name": "AS VAL MOD.4 9x39 special assault rifle Mod.4 Future Soldier",
     "shortName": "AS VAL MOD.4 Mod.4 Future Soldier",
-    "normalizedName": "as-val-mod4-9x39-special-assault-rifle-mod4-future-soldier",
+    "normalizedName": "as-val-mod4-9x39-special-assault-rifle-mod4-future-soldier-2",
     "description": null,
     "basePrice": 273049,
     "avg24hPrice": null,
@@ -85364,6 +85364,9 @@
     "craftsFor": [
       {
         "id": "67bc88ec4e7dbc3aa2024321",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -85377,10 +85380,7 @@
               "name": "Armored case"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -85490,6 +85490,9 @@
     "craftsFor": [
       {
         "id": "68ef997a4fc35ae00505dcf2",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -85509,10 +85512,7 @@
               "name": "TerraGroup \"Blue Folders\" materials"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -85535,6 +85535,9 @@
     "craftsFor": [
       {
         "id": "68ef997596921a3bf70d6196",
+        "station": {
+          "name": "Intelligence Center"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -85554,10 +85557,7 @@
               "name": "TerraGroup \"Blue Folders\" materials"
             }
           }
-        ],
-        "station": {
-          "name": "Intelligence Center"
-        }
+        ]
       }
     ]
   },
@@ -85880,7 +85880,7 @@
     "id": "68ec0c1e4a10ddacb2069398",
     "name": "TKPD 9.3x64 carbine Assault",
     "shortName": "TKPD Assault",
-    "normalizedName": "tkpd-93x64-carbine-assault",
+    "normalizedName": "tkpd-93x64-carbine-assault-2",
     "description": null,
     "basePrice": 154576,
     "avg24hPrice": null,
@@ -85898,7 +85898,7 @@
     "id": "68eca99a7329df50fc0b7542",
     "name": "TKPD 9.3x64 carbine Sniper",
     "shortName": "TKPD Sniper",
-    "normalizedName": "tkpd-93x64-carbine-sniper",
+    "normalizedName": "tkpd-93x64-carbine-sniper-2",
     "description": null,
     "basePrice": 147576,
     "avg24hPrice": null,
@@ -86690,6 +86690,9 @@
     "craftsFor": [
       {
         "id": "68f68abd75ecb35e20030e85",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -86703,10 +86706,7 @@
               "name": "NKVD Finka knife"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -87812,6 +87812,9 @@
     "craftsFor": [
       {
         "id": "690c784a8c5857a8e80c9970",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -87831,10 +87834,7 @@
               "name": "Insulating tape"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -88560,6 +88560,9 @@
     "craftsFor": [
       {
         "id": "6941307f73dcf473e50be4b7",
+        "station": {
+          "name": "Workbench"
+        },
         "requiredItems": [
           {
             "count": 1,
@@ -88573,10 +88576,7 @@
               "name": "Flat screwdriver"
             }
           }
-        ],
-        "station": {
-          "name": "Workbench"
-        }
+        ]
       }
     ]
   },
@@ -90645,7 +90645,7 @@
     "id": "707265736574000000000000",
     "name": "TheAKGuy AK-50 .50 BMG anti-materiel rifle Default",
     "shortName": "AK-50 Default",
-    "normalizedName": "theakguy-ak-50-50-bmg-anti-materiel-rifle-default",
+    "normalizedName": "theakguy-ak-50-50-bmg-anti-materiel-rifle-default-2",
     "description": null,
     "basePrice": 229667,
     "avg24hPrice": null,
@@ -90663,7 +90663,7 @@
     "id": "707265736574000000000001",
     "name": "SVDS 7.62x54R sniper rifle FLIR RS-32",
     "shortName": "SVDS FLIR RS-32",
-    "normalizedName": "svds-762x54r-sniper-rifle-flir-rs-32",
+    "normalizedName": "svds-762x54r-sniper-rifle-flir-rs-32-2",
     "description": null,
     "basePrice": 410133,
     "avg24hPrice": null,
@@ -90681,7 +90681,7 @@
     "id": "707265736574000000000007",
     "name": "Kel-Tec RFB 7.62x51 rifle HHS-1",
     "shortName": "RFB HHS-1",
-    "normalizedName": "kel-tec-rfb-762x51-rifle-hhs-1-2",
+    "normalizedName": "kel-tec-rfb-762x51-rifle-hhs-1",
     "description": null,
     "basePrice": 188562,
     "avg24hPrice": null,
@@ -90698,7 +90698,7 @@
     "id": "70726573657400000000000c",
     "name": "RSh-12 12.7x55 revolver TAC30",
     "shortName": "RSh-12 TAC30",
-    "normalizedName": "rsh-12-127x55-revolver-tac30",
+    "normalizedName": "rsh-12-127x55-revolver-tac30-2",
     "description": null,
     "basePrice": 73897,
     "avg24hPrice": null,
@@ -90715,7 +90715,7 @@
     "id": "70726573657400000000000f",
     "name": "Soyuz-TM STM-9 Gen.2 9x19 carbine STM9 MB",
     "shortName": "STM-9 STM9 MB",
-    "normalizedName": "soyuz-tm-stm-9-gen2-9x19-carbine-stm9-mb",
+    "normalizedName": "soyuz-tm-stm-9-gen2-9x19-carbine-stm9-mb-2",
     "description": null,
     "basePrice": 50456,
     "avg24hPrice": null,
@@ -90732,7 +90732,7 @@
     "id": "707265736574000000000010",
     "name": "TKPD 9.3x64 carbine XPS3-2",
     "shortName": "TKPD XPS3-2",
-    "normalizedName": "tkpd-93x64-carbine-xps3-2",
+    "normalizedName": "tkpd-93x64-carbine-xps3-2-2",
     "description": null,
     "basePrice": 250519,
     "avg24hPrice": null,
@@ -90750,7 +90750,7 @@
     "id": "707265736574000000000012",
     "name": "Custom Guns NL545 (DI) 5.45x39 assault rifle Pilad 4x32",
     "shortName": "NL545 DI Pilad 4x32",
-    "normalizedName": "custom-guns-nl545-di-545x39-assault-rifle-pilad-4x32",
+    "normalizedName": "custom-guns-nl545-di-545x39-assault-rifle-pilad-4x32-2",
     "description": null,
     "basePrice": 175782,
     "avg24hPrice": null,
@@ -90767,7 +90767,7 @@
     "id": "707265736574000000000013",
     "name": "Custom Guns NL545 (GP) 5.45x39 assault rifle Vudu 1-6",
     "shortName": "NL545 GP Vudu 1-6",
-    "normalizedName": "custom-guns-nl545-gp-545x39-assault-rifle-vudu-1-6",
+    "normalizedName": "custom-guns-nl545-gp-545x39-assault-rifle-vudu-1-6-2",
     "description": null,
     "basePrice": 275442,
     "avg24hPrice": null,
@@ -90784,7 +90784,7 @@
     "id": "707265736574000000000036",
     "name": "RPK-16 5.45x39 light machine gun Drum",
     "shortName": "RPK-16 Drum",
-    "normalizedName": "rpk-16-545x39-light-machine-gun-drum",
+    "normalizedName": "rpk-16-545x39-light-machine-gun-drum-2",
     "description": null,
     "basePrice": 99581,
     "avg24hPrice": null,
@@ -90801,7 +90801,7 @@
     "id": "707265736574000000000037",
     "name": "Desert Tech MDR 5.56x45 assault rifle ONE",
     "shortName": "MDR ONE",
-    "normalizedName": "desert-tech-mdr-556x45-assault-rifle-one",
+    "normalizedName": "desert-tech-mdr-556x45-assault-rifle-one-2",
     "description": null,
     "basePrice": 181658,
     "avg24hPrice": null,
@@ -90818,7 +90818,7 @@
     "id": "707265736574000000000038",
     "name": "SR-3M 9x39 compact assault rifle FF3",
     "shortName": "SR-3M FF3",
-    "normalizedName": "sr-3m-9x39-compact-assault-rifle-ff3",
+    "normalizedName": "sr-3m-9x39-compact-assault-rifle-ff3-2",
     "description": null,
     "basePrice": 120475,
     "avg24hPrice": null,
@@ -90836,7 +90836,7 @@
     "id": "70726573657400000000003d",
     "name": "IWI UZI 9x19 submachine gun SD",
     "shortName": "UZI SD",
-    "normalizedName": "iwi-uzi-9x19-submachine-gun-sd",
+    "normalizedName": "iwi-uzi-9x19-submachine-gun-sd-2",
     "description": null,
     "basePrice": 80830,
     "avg24hPrice": null,
@@ -90853,7 +90853,7 @@
     "id": "70726573657400000000003e",
     "name": "Tasmanian Tiger Plate Carrier MKIII (Coyote Brown) Default",
     "shortName": "TT MKIII Default",
-    "normalizedName": "tasmanian-tiger-plate-carrier-mkiii-coyote-brown-default",
+    "normalizedName": "tasmanian-tiger-plate-carrier-mkiii-coyote-brown-default-2",
     "description": null,
     "basePrice": 95769,
     "avg24hPrice": null,
@@ -90871,7 +90871,7 @@
     "id": "70726573657400000000003f",
     "name": "VSS Vintorez 9x39 special sniper rifle PSO-1M2-1",
     "shortName": "VSS Vintorez PSO-1M2-1",
-    "normalizedName": "vss-vintorez-9x39-special-sniper-rifle-pso-1m2-1",
+    "normalizedName": "vss-vintorez-9x39-special-sniper-rifle-pso-1m2-1-2",
     "description": null,
     "basePrice": 117932,
     "avg24hPrice": null,
@@ -90889,7 +90889,7 @@
     "id": "707265736574000000000040",
     "name": "Molot Arms Simonov OP-SKS 7.62x39 carbine UAS SKS",
     "shortName": "OP-SKS UAS SKS",
-    "normalizedName": "molot-arms-simonov-op-sks-762x39-carbine-uas-sks",
+    "normalizedName": "molot-arms-simonov-op-sks-762x39-carbine-uas-sks-2",
     "description": null,
     "basePrice": 76292,
     "avg24hPrice": null,
@@ -90906,7 +90906,7 @@
     "id": "707265736574000000000041",
     "name": "IWI UZI PRO Pistol 9x19 submachine gun EXPS3-0",
     "shortName": "UZI PRO Pistol EXPS3-0",
-    "normalizedName": "iwi-uzi-pro-pistol-9x19-submachine-gun-exps3-0",
+    "normalizedName": "iwi-uzi-pro-pistol-9x19-submachine-gun-exps3-0-2",
     "description": null,
     "basePrice": 102260,
     "avg24hPrice": null,
@@ -90923,7 +90923,7 @@
     "id": "707265736574000000000044",
     "name": "Degtyarev RPDN 7.62x39 machine gun 1P78-1",
     "shortName": "RPDN 1P78-1",
-    "normalizedName": "degtyarev-rpdn-762x39-machine-gun-1p78-1",
+    "normalizedName": "degtyarev-rpdn-762x39-machine-gun-1p78-1-2",
     "description": null,
     "basePrice": 92536,
     "avg24hPrice": null,
@@ -90941,7 +90941,7 @@
     "id": "707265736574000000000045",
     "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Vudu 1-6",
     "shortName": "M700 Vudu 1-6",
-    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-vudu-1-6",
+    "normalizedName": "remington-model-700-762x51-bolt-action-sniper-rifle-vudu-1-6-2",
     "description": null,
     "basePrice": 203181,
     "avg24hPrice": null,
@@ -90958,7 +90958,7 @@
     "id": "707265736574000000000047",
     "name": "MP-43-1C 12ga double-barrel shotgun Short",
     "shortName": "MP-43-1C Short",
-    "normalizedName": "mp-43-1c-12ga-double-barrel-shotgun-short",
+    "normalizedName": "mp-43-1c-12ga-double-barrel-shotgun-short-2",
     "description": null,
     "basePrice": 9800,
     "avg24hPrice": null,
@@ -90975,7 +90975,7 @@
     "id": "707265736574000000000048",
     "name": "IWI UZI PRO Pistol 9x19 submachine gun BOSS Xe",
     "shortName": "UZI PRO Pistol BOSS Xe",
-    "normalizedName": "iwi-uzi-pro-pistol-9x19-submachine-gun-boss-xe",
+    "normalizedName": "iwi-uzi-pro-pistol-9x19-submachine-gun-boss-xe-2",
     "description": null,
     "basePrice": 83442,
     "avg24hPrice": null,
@@ -90992,7 +90992,7 @@
     "id": "70726573657400000000004b",
     "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Until Dawn",
     "shortName": "DVL-10 Until Dawn",
-    "normalizedName": "lobaev-arms-dvl-10-762x51-bolt-action-sniper-rifle-until-dawn",
+    "normalizedName": "lobaev-arms-dvl-10-762x51-bolt-action-sniper-rifle-until-dawn-2",
     "description": null,
     "basePrice": 195749,
     "avg24hPrice": null,
@@ -91010,7 +91010,7 @@
     "id": "70726573657400000000004c",
     "name": "Benelli M3 Super 90 12ga dual-mode shotgun Until Dawn",
     "shortName": "M3 Super 90 Until Dawn",
-    "normalizedName": "benelli-m3-super-90-12ga-dual-mode-shotgun-until-dawn",
+    "normalizedName": "benelli-m3-super-90-12ga-dual-mode-shotgun-until-dawn-2",
     "description": null,
     "basePrice": 115410,
     "avg24hPrice": null,
@@ -91027,7 +91027,7 @@
     "id": "707265736574000000000051",
     "name": "MPS Auto Assault-12 Gen 1 12ga automatic shotgun Drum",
     "shortName": "AA-12 Gen 1 Drum",
-    "normalizedName": "mps-auto-assault-12-gen-1-12ga-automatic-shotgun-drum",
+    "normalizedName": "mps-auto-assault-12-gen-1-12ga-automatic-shotgun-drum-2",
     "description": null,
     "basePrice": 81745,
     "avg24hPrice": null,
@@ -91044,7 +91044,7 @@
     "id": "707265736574000000000053",
     "name": "Saiga-12K 12ga automatic shotgun CompM4",
     "shortName": "Saiga-12K FA CompM4",
-    "normalizedName": "saiga-12k-12ga-automatic-shotgun-compm4",
+    "normalizedName": "saiga-12k-12ga-automatic-shotgun-compm4-2",
     "description": null,
     "basePrice": 177497,
     "avg24hPrice": null,
@@ -91061,7 +91061,7 @@
     "id": "707265736574000000000054",
     "name": "Saiga-12K 12ga automatic shotgun XPS3-0",
     "shortName": "Saiga-12K FA XPS3-0",
-    "normalizedName": "saiga-12k-12ga-automatic-shotgun-xps3-0",
+    "normalizedName": "saiga-12k-12ga-automatic-shotgun-xps3-0-2",
     "description": null,
     "basePrice": 193963,
     "avg24hPrice": null,
@@ -91078,7 +91078,7 @@
     "id": "707265736574000000000055",
     "name": "Saiga-12K 12ga automatic shotgun UH-1",
     "shortName": "Saiga-12K FA UH-1",
-    "normalizedName": "saiga-12k-12ga-automatic-shotgun-uh-1",
+    "normalizedName": "saiga-12k-12ga-automatic-shotgun-uh-1-2",
     "description": null,
     "basePrice": 203773,
     "avg24hPrice": null,
@@ -91095,7 +91095,7 @@
     "id": "707265736574000000000056",
     "name": "SIG MPX 9x19 submachine gun Illusion 9",
     "shortName": "MPX Illusion 9",
-    "normalizedName": "sig-mpx-9x19-submachine-gun-illusion-9",
+    "normalizedName": "sig-mpx-9x19-submachine-gun-illusion-9-2",
     "description": null,
     "basePrice": 93010,
     "avg24hPrice": null,
@@ -91112,7 +91112,7 @@
     "id": "707265736574000000000057",
     "name": "SIG MCX-SPEAR 6.8x51 assault rifle HHS-1 Tan",
     "shortName": "SPEAR 6.8 HHS-1 Tan",
-    "normalizedName": "sig-mcx-spear-68x51-assault-rifle-hhs-1-tan",
+    "normalizedName": "sig-mcx-spear-68x51-assault-rifle-hhs-1-tan-2",
     "description": null,
     "basePrice": 215671,
     "avg24hPrice": null,
@@ -91130,7 +91130,7 @@
     "id": "707265736574000000000058",
     "name": "SWORD International Mk-18 .338 LM marksman rifle Thor PSR",
     "shortName": "Mk-18 Mjölnir Thor PSR",
-    "normalizedName": "sword-international-mk-18-338-lm-marksman-rifle-thor-psr",
+    "normalizedName": "sword-international-mk-18-338-lm-marksman-rifle-thor-psr-2",
     "description": null,
     "basePrice": 432919,
     "avg24hPrice": null,
@@ -91147,7 +91147,7 @@
     "id": "707265736574000000000059",
     "name": "CMMG Mk47 Mutant 7.62x39 assault rifle EXPS3-0",
     "shortName": "Mk47 EXPS3-0",
-    "normalizedName": "cmmg-mk47-mutant-762x39-assault-rifle-exps3-0",
+    "normalizedName": "cmmg-mk47-mutant-762x39-assault-rifle-exps3-0-2",
     "description": null,
     "basePrice": 248993,
     "avg24hPrice": null,
@@ -91164,7 +91164,7 @@
     "id": "70726573657400000000005a",
     "name": "Remington R11 RSASS 7.62x51 marksman rifle TANGO6T",
     "shortName": "RSASS TANGO6T",
-    "normalizedName": "remington-r11-rsass-762x51-marksman-rifle-tango6t",
+    "normalizedName": "remington-r11-rsass-762x51-marksman-rifle-tango6t-2",
     "description": null,
     "basePrice": 356924,
     "avg24hPrice": null,
@@ -91181,7 +91181,7 @@
     "id": "70726573657400000000005b",
     "name": "FN SCAR-H 7.62x51 assault rifle UH-1",
     "shortName": "Mk 17 UH-1",
-    "normalizedName": "fn-scar-h-762x51-assault-rifle-uh-1",
+    "normalizedName": "fn-scar-h-762x51-assault-rifle-uh-1-2",
     "description": null,
     "basePrice": 221626,
     "avg24hPrice": null,
@@ -91199,7 +91199,7 @@
     "id": "70726573657400000000005c",
     "name": "Desert Tech MDR 7.62x51 assault rifle HCO",
     "shortName": "MDR HCO",
-    "normalizedName": "desert-tech-mdr-762x51-assault-rifle-hco",
+    "normalizedName": "desert-tech-mdr-762x51-assault-rifle-hco-2",
     "description": null,
     "basePrice": 256608,
     "avg24hPrice": null,
@@ -91217,7 +91217,7 @@
     "id": "70726573657400000000005d",
     "name": "SIG MCX .300 Blackout assault rifle T-1",
     "shortName": "MCX T-1",
-    "normalizedName": "sig-mcx-300-blackout-assault-rifle-t-1",
+    "normalizedName": "sig-mcx-300-blackout-assault-rifle-t-1-2",
     "description": null,
     "basePrice": 197302,
     "avg24hPrice": null,
@@ -91234,7 +91234,7 @@
     "id": "70726573657400000000005e",
     "name": "Rifle Dynamics RD-704 7.62x39 assault rifle T-1",
     "shortName": "RD-704 T-1",
-    "normalizedName": "rifle-dynamics-rd-704-762x39-assault-rifle-t-1",
+    "normalizedName": "rifle-dynamics-rd-704-762x39-assault-rifle-t-1-2",
     "description": null,
     "basePrice": 210655,
     "avg24hPrice": null,
@@ -91251,7 +91251,7 @@
     "id": "70726573657400000000005f",
     "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle TAC30",
     "shortName": "SR-25 TAC30",
-    "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-tac30",
+    "normalizedName": "knights-armament-company-sr-25-762x51-marksman-rifle-tac30-2",
     "description": null,
     "basePrice": 233410,
     "avg24hPrice": null,
@@ -91268,7 +91268,7 @@
     "id": "707265736574000000000060",
     "name": "Kalashnikov AK-74N 5.45x39 assault rifle PS-320",
     "shortName": "AK-74N PS-320",
-    "normalizedName": "kalashnikov-ak-74n-545x39-assault-rifle-ps-320",
+    "normalizedName": "kalashnikov-ak-74n-545x39-assault-rifle-ps-320-2",
     "description": null,
     "basePrice": 280877,
     "avg24hPrice": null,
@@ -91285,7 +91285,7 @@
     "id": "707265736574000000000061",
     "name": "DS Arms SA58 7.62x51 assault rifle XPS3-0",
     "shortName": "SA58 XPS3-0",
-    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-xps3-0",
+    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-xps3-0-2",
     "description": null,
     "basePrice": 236231,
     "avg24hPrice": null,
@@ -91302,7 +91302,7 @@
     "id": "707265736574000000000062",
     "name": "HK MP7A2 4.6x30 submachine gun T-1",
     "shortName": "MP7A2 T-1",
-    "normalizedName": "hk-mp7a2-46x30-submachine-gun-t-1",
+    "normalizedName": "hk-mp7a2-46x30-submachine-gun-t-1-2",
     "description": null,
     "basePrice": 186226,
     "avg24hPrice": null,
@@ -91319,7 +91319,7 @@
     "id": "707265736574000000000063",
     "name": "Kalashnikov AK-105 5.45x39 assault rifle HHS-1",
     "shortName": "AK-105 HHS-1",
-    "normalizedName": "kalashnikov-ak-105-545x39-assault-rifle-hhs-1",
+    "normalizedName": "kalashnikov-ak-105-545x39-assault-rifle-hhs-1-2",
     "description": null,
     "basePrice": 176841,
     "avg24hPrice": null,
@@ -91336,7 +91336,7 @@
     "id": "707265736574000000000064",
     "name": "AS VAL 9x39 special assault rifle BOSS Xe",
     "shortName": "AS VAL BOSS Xe",
-    "normalizedName": "as-val-9x39-special-assault-rifle-boss-xe",
+    "normalizedName": "as-val-9x39-special-assault-rifle-boss-xe-2",
     "description": null,
     "basePrice": 210600,
     "avg24hPrice": null,
@@ -91353,7 +91353,7 @@
     "id": "707265736574000000000065",
     "name": "B&T MP9-N 9x19 submachine gun ACRO P-1",
     "shortName": "MP9-N ACRO P-1",
-    "normalizedName": "bt-mp9-n-9x19-submachine-gun-acro-p-1",
+    "normalizedName": "bt-mp9-n-9x19-submachine-gun-acro-p-1-2",
     "description": null,
     "basePrice": 110954,
     "avg24hPrice": null,
@@ -91370,7 +91370,7 @@
     "id": "707265736574000000000066",
     "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst) XPS3-0",
     "shortName": "MP5 XPS3-0",
-    "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst-xps3-0",
+    "normalizedName": "hk-mp5-9x19-submachine-gun-navy-3-round-burst-xps3-0-2",
     "description": null,
     "basePrice": 134904,
     "avg24hPrice": null,
@@ -91387,7 +91387,7 @@
     "id": "707265736574000000000067",
     "name": "Colt M4A1 5.56x45 assault rifle XPS3-0",
     "shortName": "M4A1 XPS3-0",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-xps3-0",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-xps3-0-2",
     "description": null,
     "basePrice": 347032,
     "avg24hPrice": null,
@@ -91404,7 +91404,7 @@
     "id": "707265736574000000000068",
     "name": "Colt M4A1 5.56x45 assault rifle EXPS3-0",
     "shortName": "M4A1 EXPS3-0",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-exps3-0",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-exps3-0-2",
     "description": null,
     "basePrice": 235445,
     "avg24hPrice": null,
@@ -91422,7 +91422,7 @@
     "id": "707265736574000000000069",
     "name": "SIG MPX 9x19 submachine gun ROMEO8T",
     "shortName": "MPX ROMEO8T",
-    "normalizedName": "sig-mpx-9x19-submachine-gun-romeo8t",
+    "normalizedName": "sig-mpx-9x19-submachine-gun-romeo8t-2",
     "description": null,
     "basePrice": 138828,
     "avg24hPrice": null,
@@ -91439,7 +91439,7 @@
     "id": "70726573657400000000006a",
     "name": "Kalashnikov AKM 7.62x39 assault rifle TA01NSN",
     "shortName": "AKM TA01NSN",
-    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-ta01nsn",
+    "normalizedName": "kalashnikov-akm-762x39-assault-rifle-ta01nsn-2",
     "description": null,
     "basePrice": 156362,
     "avg24hPrice": null,
@@ -91456,7 +91456,7 @@
     "id": "70726573657400000000006b",
     "name": "Kalashnikov AK-12 5.45x39 assault rifle GP-25",
     "shortName": "AK-12 GP-25",
-    "normalizedName": "kalashnikov-ak-12-545x39-assault-rifle-gp-25",
+    "normalizedName": "kalashnikov-ak-12-545x39-assault-rifle-gp-25-2",
     "description": null,
     "basePrice": 152042,
     "avg24hPrice": null,
@@ -91474,7 +91474,7 @@
     "id": "70726573657400000000006c",
     "name": "Molot Arms Simonov OP-SKS 7.62x39 carbine TA11D",
     "shortName": "OP-SKS TA11D",
-    "normalizedName": "molot-arms-simonov-op-sks-762x39-carbine-ta11d",
+    "normalizedName": "molot-arms-simonov-op-sks-762x39-carbine-ta11d-2",
     "description": null,
     "basePrice": 183640,
     "avg24hPrice": null,
@@ -91491,7 +91491,7 @@
     "id": "70726573657400000000006d",
     "name": "Sako TRG M10 .338 LM bolt-action sniper rifle PM II 1-8",
     "shortName": "TRG M10 PM II 1-8",
-    "normalizedName": "sako-trg-m10-338-lm-bolt-action-sniper-rifle-pm-ii-1-8",
+    "normalizedName": "sako-trg-m10-338-lm-bolt-action-sniper-rifle-pm-ii-1-8-2",
     "description": null,
     "basePrice": 263664,
     "avg24hPrice": null,
@@ -91509,7 +91509,7 @@
     "id": "ak12sd000000000000000001",
     "name": "Kalashnikov AK-12 5.45x39 assault rifle Silenced",
     "shortName": "AK-12 Silenced",
-    "normalizedName": "kalashnikov-ak-12-545x39-assault-rifle-silenced",
+    "normalizedName": "kalashnikov-ak-12-545x39-assault-rifle-silenced-2",
     "description": null,
     "basePrice": 171945,
     "avg24hPrice": null,
@@ -91526,7 +91526,7 @@
     "id": "ak12valday00000000000001",
     "name": "Kalashnikov AK-12 5.45x39 assault rifle PS-320",
     "shortName": "AK-12 PS-320",
-    "normalizedName": "kalashnikov-ak-12-545x39-assault-rifle-ps-320",
+    "normalizedName": "kalashnikov-ak-12-545x39-assault-rifle-ps-320-2",
     "description": null,
     "basePrice": 167004,
     "avg24hPrice": null,
@@ -91543,7 +91543,7 @@
     "id": "aks74uwaffle000000000001",
     "name": "Kalashnikov AKS-74U 5.45x39 assault rifle Waffle",
     "shortName": "AKS-74U Waffle",
-    "normalizedName": "kalashnikov-aks-74u-545x39-assault-rifle-waffle",
+    "normalizedName": "kalashnikov-aks-74u-545x39-assault-rifle-waffle-2",
     "description": null,
     "basePrice": 241218,
     "avg24hPrice": null,
@@ -91560,7 +91560,7 @@
     "id": "altynfaceshield000000001",
     "name": "Altyn bulletproof helmet (Olive Drab) Face shield",
     "shortName": "Altyn Face shield",
-    "normalizedName": "altyn-bulletproof-helmet-olive-drab-face-shield",
+    "normalizedName": "altyn-bulletproof-helmet-olive-drab-face-shield-2",
     "description": null,
     "basePrice": 75763,
     "avg24hPrice": null,
@@ -91578,7 +91578,7 @@
     "id": "ash12silenced00000000001",
     "name": "ASh-12 12.7x55 assault rifle Silenced",
     "shortName": "ASh-12 Silenced",
-    "normalizedName": "ash-12-127x55-assault-rifle-silenced",
+    "normalizedName": "ash-12-127x55-assault-rifle-silenced-2",
     "description": null,
     "basePrice": 141344,
     "avg24hPrice": null,
@@ -91595,7 +91595,7 @@
     "id": "ash12tac0000000000000001",
     "name": "ASh-12 12.7x55 assault rifle TAC",
     "shortName": "ASh-12 TAC",
-    "normalizedName": "ash-12-127x55-assault-rifle-tac",
+    "normalizedName": "ash-12-127x55-assault-rifle-tac-2",
     "description": null,
     "basePrice": 189041,
     "avg24hPrice": null,
@@ -91612,7 +91612,7 @@
     "id": "coltm4a1echo100000000001",
     "name": "Colt M4A1 5.56x45 assault rifle ECHO1",
     "shortName": "M4A1 ECHO1",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-echo1",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-echo1-2",
     "description": null,
     "basePrice": 340619,
     "avg24hPrice": null,
@@ -91630,7 +91630,7 @@
     "id": "coltm4a1reapir0000000001",
     "name": "Colt M4A1 5.56x45 assault rifle REAP-IR",
     "shortName": "M4A1 REAP-IR",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-reap-ir",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-reap-ir-2",
     "description": null,
     "basePrice": 574432,
     "avg24hPrice": null,
@@ -91666,7 +91666,7 @@
     "id": "dtmdr556hhs1tan000000001",
     "name": "Desert Tech MDR 5.56x45 assault rifle HHS-1 Tan",
     "shortName": "MDR HHS-1 Tan",
-    "normalizedName": "desert-tech-mdr-556x45-assault-rifle-hhs-1-tan",
+    "normalizedName": "desert-tech-mdr-556x45-assault-rifle-hhs-1-tan-2",
     "description": null,
     "basePrice": 250574,
     "avg24hPrice": null,
@@ -91683,7 +91683,7 @@
     "id": "fnfivesevenfdeironsight0",
     "name": "FN Five-seveN MK2 5.7x28 pistol (FDE) Ironsight",
     "shortName": "FN 5-7 FDE Ironsight",
-    "normalizedName": "fn-five-seven-mk2-57x28-pistol-fde-ironsight",
+    "normalizedName": "fn-five-seven-mk2-57x28-pistol-fde-ironsight-2",
     "description": null,
     "basePrice": 27788,
     "avg24hPrice": null,
@@ -91700,7 +91700,7 @@
     "id": "fnscarhflir0000000000001",
     "name": "FN SCAR-H 7.62x51 assault rifle FLIR RS-32",
     "shortName": "Mk 17 FLIR RS-32",
-    "normalizedName": "fn-scar-h-762x51-assault-rifle-flir-rs-32",
+    "normalizedName": "fn-scar-h-762x51-assault-rifle-flir-rs-32-2",
     "description": null,
     "basePrice": 342907,
     "avg24hPrice": null,
@@ -91718,7 +91718,7 @@
     "id": "glock17ps900000000000001",
     "name": "Glock 17 9x19 pistol PS9",
     "shortName": "Glock 17 PS9",
-    "normalizedName": "glock-17-9x19-pistol-ps9",
+    "normalizedName": "glock-17-9x19-pistol-ps9-2",
     "description": null,
     "basePrice": 62390,
     "avg24hPrice": null,
@@ -91735,7 +91735,7 @@
     "id": "m1ahybrid46archangel0001",
     "name": "Springfield Armory M1A 7.62x51 rifle Hybrid 46",
     "shortName": "M1A Hybrid 46",
-    "normalizedName": "springfield-armory-m1a-762x51-rifle-hybrid-46",
+    "normalizedName": "springfield-armory-m1a-762x51-rifle-hybrid-46-2",
     "description": null,
     "basePrice": 281948,
     "avg24hPrice": null,
@@ -91753,7 +91753,7 @@
     "id": "m4a1kacrisii000000000001",
     "name": "Colt M4A1 5.56x45 assault rifle KAC RIS",
     "shortName": "M4A1 KAC RIS",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-kac-ris",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-kac-ris-2",
     "description": null,
     "basePrice": 70938,
     "avg24hPrice": null,
@@ -91770,7 +91770,7 @@
     "id": "m4a1sopmodiiflash0000001",
     "name": "Colt M4A1 5.56x45 assault rifle SOPMOD II Flash",
     "shortName": "M4A1 SOPMOD II Flash",
-    "normalizedName": "colt-m4a1-556x45-assault-rifle-sopmod-ii-flash",
+    "normalizedName": "colt-m4a1-556x45-assault-rifle-sopmod-ii-flash-2",
     "description": null,
     "basePrice": 256999,
     "avg24hPrice": null,
@@ -91787,7 +91787,7 @@
     "id": "mosinscopedbarter0000001",
     "name": "Mosin 7.62x54R bolt-action rifle (Sniper) PU 3.5x",
     "shortName": "Mosin Sniper PU 3.5x",
-    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-pu-35x",
+    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-pu-35x-2",
     "description": null,
     "basePrice": 40511,
     "avg24hPrice": null,
@@ -91804,7 +91804,7 @@
     "id": "mosinsniperatacr00000001",
     "name": "Mosin 7.62x54R bolt-action rifle (Sniper) ATACR 7-35",
     "shortName": "Mosin Sniper ATACR 7-35",
-    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-atacr-7-35",
+    "normalizedName": "mosin-762x54r-bolt-action-rifle-sniper-atacr-7-35-2",
     "description": null,
     "basePrice": 188956,
     "avg24hPrice": null,
@@ -91821,7 +91821,7 @@
     "id": "opscorefastmtfsrac000001",
     "name": "Ops-Core FAST MT Super High Cut helmet (Black) RAC",
     "shortName": "FAST MT RAC",
-    "normalizedName": "ops-core-fast-mt-super-high-cut-helmet-black-rac",
+    "normalizedName": "ops-core-fast-mt-super-high-cut-helmet-black-rac-2",
     "description": null,
     "basePrice": 108651,
     "avg24hPrice": null,
@@ -91839,7 +91839,7 @@
     "id": "rpdnokp70000000000000001",
     "name": "Degtyarev RPDN 7.62x39 machine gun OKP-7 DT",
     "shortName": "RPDN OKP-7 DT",
-    "normalizedName": "degtyarev-rpdn-762x39-machine-gun-okp-7-dt",
+    "normalizedName": "degtyarev-rpdn-762x39-machine-gun-okp-7-dt-2",
     "description": null,
     "basePrice": 75089,
     "avg24hPrice": null,
@@ -91857,7 +91857,7 @@
     "id": "rpk166l26000000000000001",
     "name": "RPK-16 5.45x39 light machine gun 6L26",
     "shortName": "RPK-16 6L26",
-    "normalizedName": "rpk-16-545x39-light-machine-gun-6l26",
+    "normalizedName": "rpk-16-545x39-light-machine-gun-6l26-2",
     "description": null,
     "basePrice": 72846,
     "avg24hPrice": null,
@@ -91874,7 +91874,7 @@
     "id": "sa58spr00000000000000001",
     "name": "DS Arms SA58 7.62x51 assault rifle SPR",
     "shortName": "SA58 SPR",
-    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-spr",
+    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-spr-2",
     "description": null,
     "basePrice": 138303,
     "avg24hPrice": null,
@@ -91891,7 +91891,7 @@
     "id": "sa58xfal0000000000000001",
     "name": "DS Arms SA58 7.62x51 assault rifle X-FAL",
     "shortName": "SA58 X-FAL",
-    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-x-fal",
+    "normalizedName": "ds-arms-sa58-762x51-assault-rifle-x-fal-2",
     "description": null,
     "basePrice": 155990,
     "avg24hPrice": null,
@@ -91908,7 +91908,7 @@
     "id": "saiga12ktype340000000001",
     "name": "Saiga-12K ver.10 12ga semi-automatic shotgun Type-340",
     "shortName": "Saiga-12K Type-340",
-    "normalizedName": "saiga-12k-ver10-12ga-semi-automatic-shotgun-type-340",
+    "normalizedName": "saiga-12k-ver10-12ga-semi-automatic-shotgun-type-340-2",
     "description": null,
     "basePrice": 164260,
     "avg24hPrice": null,
@@ -91925,7 +91925,7 @@
     "id": "vepruntersvd000000000001",
     "name": "Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine SVD",
     "shortName": "VPO-101 Vepr-Hunter SVD",
-    "normalizedName": "molot-arms-vpo-101-vepr-hunter-762x51-carbine-svd",
+    "normalizedName": "molot-arms-vpo-101-vepr-hunter-762x51-carbine-svd-2",
     "description": null,
     "basePrice": 102358,
     "avg24hPrice": null,
