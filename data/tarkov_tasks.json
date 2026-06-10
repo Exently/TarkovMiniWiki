@@ -88089,16 +88089,6 @@
     },
     "objectives": [
       {
-        "description": "Hand over the found in raid item: Old firesteel",
-        "items": [
-          {
-            "id": "5bc9c377d4351e3bac12251b",
-            "name": "Old firesteel"
-          }
-        ],
-        "count": 1
-      },
-      {
         "description": "Hand over the found in raid item: Antique axe",
         "items": [
           {
@@ -88124,16 +88114,6 @@
           {
             "id": "5bc9b355d4351e6d1509862a",
             "name": "#FireKlean gun lube"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Hand over the found in raid item: Golden rooster figurine",
-        "items": [
-          {
-            "id": "5bc9bc53d4351e00367fbcee",
-            "name": "Golden rooster figurine"
           }
         ],
         "count": 1
@@ -88169,41 +88149,11 @@
         "count": 1
       },
       {
-        "description": "Hand over the found in raid item: Jar of DevilDog mayo",
-        "items": [
-          {
-            "id": "5bc9b156d4351e00367fbce9",
-            "name": "Jar of DevilDog mayo"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Hand over the found in raid item: Can of sprats",
-        "items": [
-          {
-            "id": "5bc9c29cd4351e003562b8a3",
-            "name": "Can of sprats"
-          }
-        ],
-        "count": 1
-      },
-      {
         "description": "Hand over the found in raid item: Fake mustache",
         "items": [
           {
             "id": "5bd073a586f7747e6f135799",
             "name": "Fake mustache"
-          }
-        ],
-        "count": 1
-      },
-      {
-        "description": "Hand over the found in raid item: Kotton beanie",
-        "items": [
-          {
-            "id": "5bd073c986f7747f627e796c",
-            "name": "Kotton beanie"
           }
         ],
         "count": 1
@@ -88514,6 +88464,36 @@
           {
             "id": "6937f02dfd6488bb27024839",
             "name": "Domontovich ushanka hat"
+          }
+        ],
+        "count": 1
+      },
+      {
+        "description": "Hand over the found in raid item: Dunduk floppy disk",
+        "items": [
+          {
+            "id": "69f9d60b5de6674f08060f2a",
+            "name": "Dunduk floppy disk"
+          }
+        ],
+        "count": 1
+      },
+      {
+        "description": "Hand over the found in raid item: DesmondPilak CD",
+        "items": [
+          {
+            "id": "69f9d547b98cc4120608692a",
+            "name": "DesmondPilak CD"
+          }
+        ],
+        "count": 1
+      },
+      {
+        "description": "Hand over the found in raid item: SheefGG piggy bank",
+        "items": [
+          {
+            "id": "69f9d319c906cd16da03b374",
+            "name": "SheefGG piggy bank"
           }
         ],
         "count": 1
@@ -91136,6 +91116,463 @@
           }
         ],
         "count": 1000000
+      }
+    ]
+  },
+  {
+    "id": "69ce204c8702b378f9091e4b",
+    "name": "War Never Changes",
+    "normalizedName": "war-never-changes",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/War_Never_Changes",
+    "taskImageLink": "https://assets.tarkov.dev/69ce204c8702b378f9091e4b.webp",
+    "trader": {
+      "name": "Therapist",
+      "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Icebreaker"
+    },
+    "experience": 27000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Trimadol stimulant injector"
+          },
+          "count": 5
+        },
+        {
+          "item": {
+            "name": "Surv12 field surgical kit"
+          },
+          "count": 2
+        },
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 250000
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Find the item in raid: Nooby Shield potassium iodide tablets",
+        "items": [
+          {
+            "id": "69bb43df99f3fda8f1072483",
+            "name": "Nooby Shield potassium iodide tablets"
+          }
+        ],
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "69ce21e990144e437802b1e0",
+    "name": "Fresh Stock",
+    "normalizedName": "fresh-stock",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Fresh_Stock",
+    "taskImageLink": "https://assets.tarkov.dev/69ce21e990144e437802b1e0.webp",
+    "trader": {
+      "name": "Ragman",
+      "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+      "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    },
+    "map": {
+      "name": "Icebreaker"
+    },
+    "experience": 25000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 300000
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Find the item in raid: Black Division plate carrier",
+        "items": [
+          {
+            "id": "689479cb47e5acd1e10be986",
+            "name": "Ferro Concepts FCPC V5 Plate Carrier (Black Division)"
+          }
+        ],
+        "count": 5
+      },
+      {
+        "description": "Find the item in raid: Black Division plate carrier",
+        "items": [
+          {
+            "id": "689479eb30cc5ba7be00f5ff",
+            "name": "Spiritus Systems LV-119 Plate Carrier (Black Division V2)"
+          }
+        ],
+        "count": 5
+      },
+      {
+        "description": "Find the item in raid: Black Division plate carrier",
+        "items": [
+          {
+            "id": "69e2441a18cb3157560855ec",
+            "name": "Spiritus Systems LV-119 Plate Carrier (MultiCam Black)"
+          }
+        ],
+        "count": 5
+      },
+      {
+        "description": "Find the item in raid: Black Division plate carrier",
+        "items": [
+          {
+            "id": "68947a4be4bf255d1b0ca746",
+            "name": "First Spear Siege-R Optimized M.A.S.S. Plate Carrier (Black Division)"
+          }
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "69ce1cfb298a6529b30d712b",
+    "name": "A Wedge Between Us",
+    "normalizedName": "a-wedge-between-us",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/A_Wedge_Between_Us",
+    "taskImageLink": "https://assets.tarkov.dev/69ce1cfb298a6529b30d712b.webp",
+    "trader": {
+      "name": "Jaeger",
+      "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
+      "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    },
+    "map": {
+      "name": "Icebreaker"
+    },
+    "experience": 52000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Accuracy International AXMC .338 LM bolt-action sniper rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": ".338 Lapua Magnum FMJ ammo pack (20 pcs)"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "AI AXMC .338 LM 10-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 450000
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Locate and neutralize The Wedge's squad"
+      },
+      {
+        "description": "Claim a trophy from The Wedge",
+        "items": [
+          {
+            "id": "69e2441a18cb3157560855ec",
+            "name": "Spiritus Systems LV-119 Plate Carrier (MultiCam Black)"
+          }
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ce213a298a6529b30d7134",
+    "name": "Biochemistry",
+    "normalizedName": "biochemistry",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Biochemistry",
+    "taskImageLink": "https://assets.tarkov.dev/69ce213a298a6529b30d7134.webp",
+    "trader": {
+      "name": "Therapist",
+      "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    },
+    "map": {
+      "name": "Icebreaker"
+    },
+    "experience": 32000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "69ce204c8702b378f9091e4b",
+          "name": "War Never Changes"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 360000
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Find the item in raid: Aceso Xpress semi-automatic biochemical analyzer",
+        "items": [
+          {
+            "id": "69bb435ff609db77390b0e25",
+            "name": "Aceso Xpress semi-automatic biochemical analyzer"
+          }
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "69c26c07683c9831020018c7",
+    "name": "Stick to It",
+    "normalizedName": "stick-to-it",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stick_to_It",
+    "taskImageLink": "https://assets.tarkov.dev/69c26c07683c9831020018c7.webp",
+    "trader": {
+      "name": "BTR Driver",
+      "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
+      "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    },
+    "map": null,
+    "experience": 25000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Water filter"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 100000
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Eliminate Rogues"
+      }
+    ]
+  },
+  {
+    "id": "69c27158e350f01390049e77",
+    "name": "Saving Private Roman",
+    "normalizedName": "saving-private-roman",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Saving_Private_Roman",
+    "taskImageLink": "https://assets.tarkov.dev/69c27158e350f01390049e77.webp",
+    "trader": {
+      "name": "BTR Driver",
+      "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
+      "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    },
+    "map": null,
+    "experience": 42000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "69c26c07683c9831020018c7",
+          "name": "Stick to It"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": []
+    },
+    "objectives": [
+      {
+        "description": "Mark the transit to Lighthouse with an MS2000 Marker on Woods"
+      },
+      {
+        "description": "Use the transit from Woods to Lighthouse"
+      },
+      {
+        "description": "Mark the transit to Woods with an MS2000 Marker on Lighthouse"
+      }
+    ]
+  },
+  {
+    "id": "69c277f3ea6da9c23e07f8d2",
+    "name": "A Bitter Victory",
+    "normalizedName": "a-bitter-victory",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/A_Bitter_Victory",
+    "taskImageLink": "https://assets.tarkov.dev/69c277f3ea6da9c23e07f8d2.webp",
+    "trader": {
+      "name": "BTR Driver",
+      "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
+      "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    },
+    "map": null,
+    "experience": 30000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "69c27158e350f01390049e77",
+          "name": "Saving Private Roman"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": []
+    },
+    "objectives": [
+      {
+        "description": "Hand over the item: Bottle of Fierce Hatchling moonshine",
+        "items": [
+          {
+            "id": "5d1b376e86f774252519444e",
+            "name": "Bottle of Fierce Hatchling moonshine"
+          }
+        ],
+        "count": 2
+      },
+      {
+        "description": "Hand over the item: Rye croutons",
+        "items": [
+          {
+            "id": "57347d3d245977448f7b7f61",
+            "name": "Rye croutons"
+          }
+        ],
+        "count": 4
+      },
+      {
+        "description": "Hand over the item: Rye croutons",
+        "items": [
+          {
+            "id": "5751487e245977207e26a315",
+            "name": "Emelya rye croutons"
+          }
+        ],
+        "count": 4
+      },
+      {
+        "description": "Hand over the item: Bottle of Tarkovskaya vodka",
+        "items": [
+          {
+            "id": "5d40407c86f774318526545a",
+            "name": "Bottle of Tarkovskaya vodka"
+          }
+        ],
+        "count": 4
+      },
+      {
+        "description": "Hand over the item: Salty Dog beef sausage",
+        "items": [
+          {
+            "id": "635a758bfefc88a93f021b8a",
+            "name": "Salty Dog beef sausage"
+          }
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "69c2a2d004de49c8f0055a3d",
+    "name": "Hangover",
+    "normalizedName": "hangover",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hangover",
+    "taskImageLink": "https://assets.tarkov.dev/69c2a2d004de49c8f0055a3d.webp",
+    "trader": {
+      "name": "BTR Driver",
+      "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
+      "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    },
+    "map": null,
+    "experience": 60000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "69c277f3ea6da9c23e07f8d2",
+          "name": "A Bitter Victory"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": []
+    },
+    "objectives": [
+      {
+        "description": "Return to the BTR Driver and ask about the negotiations with the smugglers"
       }
     ]
   }
