@@ -91120,6 +91120,50 @@
     ]
   },
   {
+    "id": "69ce1de03e15cd80bd06f6c9",
+    "name": "Oil Change",
+    "normalizedName": "oil-change",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Oil_Change",
+    "taskImageLink": "https://assets.tarkov.dev/69ce1de03e15cd80bd06f6c9.webp",
+    "trader": {
+      "name": "Prapor",
+      "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+      "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    },
+    "map": {
+      "name": "Icebreaker"
+    },
+    "experience": 32000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Roubles"
+          },
+          "count": 330000
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Find the item in raid: AMG-10 hydraulic fluid",
+        "items": [
+          {
+            "id": "699f09de81a6c812900a77b7",
+            "name": "AMG-10 hydraulic fluid"
+          }
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
     "id": "69ce204c8702b378f9091e4b",
     "name": "War Never Changes",
     "normalizedName": "war-never-changes",
@@ -91365,6 +91409,144 @@
           }
         ],
         "count": 3
+      }
+    ]
+  },
+  {
+    "id": "69ce1f84ebbdbf36a200627c",
+    "name": "Peaceful Atom",
+    "normalizedName": "peaceful-atom",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Peaceful_Atom",
+    "taskImageLink": "https://assets.tarkov.dev/69ce1f84ebbdbf36a200627c.webp",
+    "trader": {
+      "name": "Peacekeeper",
+      "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
+      "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Icebreaker"
+    },
+    "experience": 24000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "69ce1de03e15cd80bd06f6c9",
+          "name": "Oil Change"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": []
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "HK G28 7.62x51 marksman rifle Default"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "name": "7.62x51mm M80A1 ammo pack (20 pcs)"
+          },
+          "count": 5
+        },
+        {
+          "item": {
+            "name": "HK417/G28 7.62x51 20-round magazine"
+          },
+          "count": 3
+        },
+        {
+          "item": {
+            "name": "Dollars"
+          },
+          "count": 3600
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Locate and obtain the nuclear power unit control log on Icebreaker"
+      },
+      {
+        "description": "Hand over the found item"
+      }
+    ]
+  },
+  {
+    "id": "69e5583240c3e6c8ba0edbd5",
+    "name": "Wiring the Vessel",
+    "normalizedName": "wiring-the-vessel",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wiring_the_Vessel",
+    "taskImageLink": "https://assets.tarkov.dev/69e5583240c3e6c8ba0edbd5.webp",
+    "trader": {
+      "name": "Peacekeeper",
+      "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
+      "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    },
+    "map": {
+      "name": "Icebreaker"
+    },
+    "experience": 30000,
+    "kappaRequired": false,
+    "lightkeeperRequired": false,
+    "taskRequirements": [
+      {
+        "task": {
+          "id": "69ce1f84ebbdbf36a200627c",
+          "name": "Peaceful Atom"
+        },
+        "status": [
+          "complete"
+        ]
+      }
+    ],
+    "startRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Local network hacking device"
+          },
+          "count": 1
+        }
+      ]
+    },
+    "finishRewards": {
+      "items": [
+        {
+          "item": {
+            "name": "Dollars"
+          },
+          "count": 5400
+        }
+      ]
+    },
+    "objectives": [
+      {
+        "description": "Repair the equipment in the automation room leading to the engine room on Icebreaker"
+      },
+      {
+        "description": "Repair the equipment in the automation room under the engine room on Icebreaker"
+      },
+      {
+        "description": "Repair the equipment in the automation room near the storage room on Icebreaker"
+      },
+      {
+        "description": "Install the hacking device in the central control station room on Icebreaker",
+        "items": [
+          {
+            "id": "590c2e1186f77425357b6124",
+            "name": "Toolset"
+          }
+        ],
+        "count": 1
       }
     ]
   },
